@@ -20,7 +20,7 @@ repository: "mohsenmonji/mohsenmonji.github.io"
 # Site Author - The following control what appears as part of the author content on the sidebar.
 author:
   # Biographic information
-  avatar: "profile.png" # Replace with your profile picture file
+  avatar: "images/profile.png" # Replace with your profile picture file
   name: "Mohsen Monji"
   pronouns: "he/him"
   bio: "PhD Candidate specializing in Sociology and Social Determinants of Health."
