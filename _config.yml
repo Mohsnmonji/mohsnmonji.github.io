@@ -12,7 +12,7 @@ locale: "en-US"
 title: "Mohsen Monji"
 title_separator: "-"
 name: "Mohsen Monji"
-description: &description "PhD Candidate in Sociology at Concordia University"
+description: "PhD Candidate in Sociology and Population Mental Health Researcher."
 url: https://mohsenmonji.com # Update with your custom domain
 baseurl: "" # Leave empty for personal GitHub Pages site
 repository: "mohsenmonji/mohsenmonji.github.io"
