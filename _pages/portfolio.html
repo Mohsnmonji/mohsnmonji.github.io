@@ -7,8 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-Here are some of the projects I've worked on using R:
+<h1>Projects</h1>
+<p>Below are some of the research and data visualization projects I have worked on using R and other tools:</p>
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <div class="project-item">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.excerpt }}</p>
+    {{ post.content | markdownify }}
+    {% if post.permalink %}
+      <p><a href="{{ post.permalink }}" target="_blank">Read More</a></p>
+    {% endif %}
+  </div>
+  <hr>
 {% endfor %}
