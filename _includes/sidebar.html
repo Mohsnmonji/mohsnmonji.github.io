@@ -3,6 +3,7 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
     {% if page.author_profile or layout.author_profile %}
+      <img src="{{ '/images/profile.PNG' | prepend: base_path }}" alt="Profile Image">
       {% include author-profile.html %}
     {% endif %}
     {% if page.sidebar %}
@@ -13,7 +14,7 @@
           {% else %}
             {{ s.image | prepend: base_path }}
           {% endif %}"
-          alt="{% if s.image_alt %}{{ s.image_alt }}{% else %}Profile Image{% endif %}">
+          alt="{% if s.image_alt %}{{ s.image_alt }}{% else %}Sidebar Image{% endif %}">
         {% endif %}
         {% if s.title %}
           <h3>{{ s.title }}</h3>
