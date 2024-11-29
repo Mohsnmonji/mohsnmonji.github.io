@@ -97,13 +97,16 @@ redirect_from:
 
  
 ---
-### **Professional Qualifications**
-- Experienced in **quantitative data collection and analysis** (e.g., survey creation and analysis).    
-- Experienced in **statistical data analysis software**: R, SPSS.  
-- Experienced in **data visualization and analysis** using `ggplot2`, R Markdown, and Quarto for creating reproducible reports and presentations.  
-- Experienced in **version control and collaboration** using Git and GitHub.  
-- Experienced in **LaTeX** for mathematical writing.  
+
+### **Professional Qualifications**  
+- Experienced in **quantitative data collection and analysis** (e.g., survey creation and analysis)  
+- Proficient in **statistical data analysis software** using `R` and `SPSS`  
+- Skilled in **data visualization and reproducible research** using `ggplot2`, `R Markdown`, and `Quarto`  
+- Proficient in **version control and collaboration** using `Git` and `GitHub`  
+- Experienced in **mathematical writing and document preparation** using `LaTeX`  
+
 ---
+
 ### **Membership**
 - Canadian Sociological Association  
 - American Sociological Association  
