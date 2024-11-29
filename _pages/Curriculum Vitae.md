@@ -28,7 +28,7 @@ redirect_from:
 
 ### Research Interests
 - Sociology of Health
-- Social Inequalities
+- Social Determinants of Mental Health
 - Quantitative Research Methods
 - Social Statistics
 - Computational Sociology
@@ -95,8 +95,15 @@ redirect_from:
 - *Panelist*: *Normative Principles for Gender Equity in Artificial Intelligence* (Aug 2023).  
   [Workshop details](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2023/08/22/affecting-machines.html).
 
+ 
 ---
-
+### **Professional Qualifications**
+- Experienced in **quantitative data collection and analysis** (e.g., survey creation and analysis).    
+- Experienced in **statistical data analysis software**: R, SPSS.  
+- Experienced in **data visualization and analysis** using `ggplot2`, R Markdown, and Quarto for creating reproducible reports and presentations.  
+- Experienced in **version control and collaboration** using Git and GitHub.  
+- Experienced in **LaTeX** for mathematical writing.  
+---
 ### **Membership**
 - Canadian Sociological Association  
 - American Sociological Association  
@@ -110,25 +117,19 @@ redirect_from:
 - Canadian Social Prescribing Student Collective  
 
 ---
-### **Certificates**
-- **Gender-Based Analysis Plus**, issued by Government of Canada, 2024.  
-- **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024.  
-- **Health Inequality Monitoring Foundations: Data Sources**, issued by World Health Organization, 2023.  
-- **Health Inequality Monitoring Foundations: Health Data Disaggregation**, issued by World Health Organization, 2023.  
-- **Inequality Analysis using R: Disaggregated Data from Surveys**, issued by World Health Organization, 2023.  
-- **Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)**, issued by the Government of Canada, 2024.  
----
-### **Professional Qualifications**
-- Experienced in **quantitative data collection and analysis** (e.g., survey creation and analysis).    
-- Experienced in **statistical data analysis software**: R, SPSS.  
-- Experienced in **data visualization and analysis** using `ggplot2`, R Markdown, and Quarto for creating reproducible reports and presentations.  
-- Experienced in **version control and collaboration** using Git and GitHub.  
-- Experienced in **LaTeX** for mathematical writing.  
+
+### **Certificates**  
+- **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
+- **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024  
+- **Health Inequality Monitoring Foundations: Data Sources**, issued by World Health Organization, 2023  
+- **Health Inequality Monitoring Foundations: Health Data Disaggregation**, issued by World Health Organization, 2023  
+- **Inequality Analysis using R: Disaggregated Data from Surveys**, issued by World Health Organization, 2023  
+- **Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)**, issued by Government of Canada, 2024  
+
 ---
 
-### **Language Proficiency**
-- Fluent in **English** and **Persian**.  
-- Working proficiency in **French**.  
-
+### **Language Proficiency**  
+- Fluent in **English** and **Persian**  
+- Working proficiency in **French**  
 
 ---
