@@ -58,7 +58,7 @@ redirect_from:
 - **Lecturer**, Social Statistics, Concordia University (Winter 2025).  
 - **Teaching Assistant**, Statistics II, Concordia University (Winter 2024, Fall 2023).
 - **Teaching Assistant**, Statistics I, Concordia University (FAll 2024).
-- **Teaching Assistant**,Quantitative Research Methods for Practitioners, Concordia University(Winter 2022).
+- **Teaching Assistant**, Quantitative Research Methods for Practitioners, Concordia University(Winter 2022).
 - **Teaching Assistant**, Research Methods, Concordia University (Winter 2022).  
 - **Tutorial Leader**, Classical Social Theory, Concordia University (Winter 2025, Fall 2024, Winter 2023, Fall 2022, Winter 2022, Fall 2021).  
 - **Tutor**, Social Statistics and Quantitative Research Methods (2016-2020).  
