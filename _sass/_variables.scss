@@ -52,7 +52,7 @@ $sidebar-link-max-width     : 250px;
 
 
 
-/*
+/* ==========================================================================
    Colors
    ========================================================================== */
 
@@ -62,21 +62,21 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #000; 
-$text-color                 : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #000; /* Dark background for body */
+$background-color           : #000; /* General background color */
+$text-color                 : #fff; /* Light text for dark background */
+$code-background-color      : #222; /* Darker code block background */
+$code-background-color-dark : #333; /* Slightly lighter dark code block background */
+$text-color                 : #fff; /* Override to ensure consistent text color */
+$border-color               : #444; /* Subtle borders for a dark theme */
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : #00b894; /* Bright accent color */
+$success-color              : #62c462; /* Green for success */
+$warning-color              : #f89406; /* Orange for warnings */
+$danger-color               : #ee5f5b; /* Red for danger */
+$info-color                 : #3498db; /* Blue for informational links */
 
-/* brands */
+/* Brand Colors */
 $behance-color              : #1769FF;
 $bluesky-color              : #1184fe;
 $dribbble-color             : #ea4c89;
@@ -102,13 +102,12 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
-
-/* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+/* Links */
+$link-color                 : #00b894; /* Matches primary accent color */
+$link-color-hover           : mix(#fff, $link-color, 40%);
+$link-color-visited         : mix(#fff, $link-color, 20%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : mix(#fff, $primary-color, 40%);
 
 
 /*
