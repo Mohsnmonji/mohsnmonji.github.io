@@ -9,13 +9,11 @@ author_profile: true
 
 <p>Here are some of the research and data visualization projects I have worked on using R and other tools:</p>
 
+<ul>
 {% for post in site.portfolio %}
-  <div class="project-item">
-    <h2>{{ post.title }}</h2> <!-- Added back to display project titles -->
-    {{ post.content | markdownify }}
-    {% if post.paperurl %}
-      <p><a href="{{ post.paperurl }}" target="_blank">GitHub Repository</a></p>
-    {% endif %}
-  </div>
-  <hr>
+  <li>
+    <strong>{{ post.title }}</strong>: 
+    <a href="{{ post.permalink }}" target="_blank">View Project</a>
+  </li>
 {% endfor %}
+</ul>
