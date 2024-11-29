@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
@@ -32,5 +32,14 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+## External Publications
+### Normative Principles for Gender Equity in Artificial Intelligence
+- **Affecting Machines** (2023)  
+  Developed normative principles for gender equity in AI.  
+  [Read more](https://affectingmachines.net/).
 
+### Responsible Tech Guide
+- **All Tech is Human** (2023)  
+  Contributed to the Responsible AI Guide section for the 2023 Responsible Tech Guide.  
+  [Read more](https://alltechishuman.org/responsible-tech-guide)
 
