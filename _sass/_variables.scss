@@ -56,58 +56,42 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
+$gray                       : #7a8288; /* Default gray (used for subtle elements) */
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #000; /* Dark background for body */
-$background-color           : #000; /* General background color */
-$text-color                 : #fff; /* Light text for dark background */
-$code-background-color      : #222; /* Darker code block background */
-$code-background-color-dark : #333; /* Slightly lighter dark code block background */
-$text-color                 : #fff; /* Override to ensure consistent text color */
-$border-color               : #444; /* Subtle borders for a dark theme */
+$body-color                 : #000; /* Set body background to black */
+$background-color           : #000; /* Main background remains black */
+$text-color                 : #fff; /* Text color set to white */
+$code-background-color      : #111; /* Slightly lighter than the body for code blocks */
+$code-background-color-dark : #222; /* Darker code background for contrast */
+$border-color               : #444; /* Subtle borders for a clean design */
 
-$primary-color              : #00b894; /* Bright accent color */
-$success-color              : #62c462; /* Green for success */
-$warning-color              : #f89406; /* Orange for warnings */
-$danger-color               : #ee5f5b; /* Red for danger */
-$info-color                 : #3498db; /* Blue for informational links */
-
-/* Brand Colors */
-$behance-color              : #1769FF;
-$bluesky-color              : #1184fe;
-$dribbble-color             : #ea4c89;
-$facebook-color             : #3b5998;
-$flickr-color               : #ff0084;
-$foursquare-color           : #0072b1;
-$github-color               : #171516;
-$google-plus-color          : #dd4b39;
-$instagram-color            : #517fa4;
-$kaggle-color               : #20c0ff;
-$lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
-$mastodon-color             : #6364ff;
-$orcid-color                : #a6ce39;
-$pinterest-color            : #cb2027;
-$rss-color                  : #fa9b39;
-$soundcloud-color           : #ff3300;
-$stackoverflow-color        : #fe7a15;
-$tumblr-color               : #32506d;
-$twitter-color              : #55acee;
-$vimeo-color                : #1ab7ea;
-$vine-color                 : #00bf8f;
-$youtube-color              : #bb0000;
-$xing-color                 : #006567;
+$primary-color              : #fff; /* Primary elements (e.g., headers) set to white */
+$success-color              : #fff; /* Success elements also white for uniformity */
+$warning-color              : #fff; /* Warnings set to white (not emphasized) */
+$danger-color               : #fff; /* Danger elements (like errors) set to white */
+$info-color                 : #fff; /* Informational links are white */
 
 /* Links */
-$link-color                 : #00b894; /* Matches primary accent color */
-$link-color-hover           : mix(#fff, $link-color, 40%);
-$link-color-visited         : mix(#fff, $link-color, 20%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#fff, $primary-color, 40%);
+$link-color                 : #fff; /* Links are plain white */
+$link-color-hover           : mix(#000, $link-color, 50%); /* Hover links have subtle gray tone */
+$link-color-visited         : #fff; /* Visited links remain white for simplicity */
+$masthead-link-color        : #fff; /* Header links are white */
+$masthead-link-color-hover  : mix(#000, $masthead-link-color, 50%); /* Header links hover to gray */
+
+/* Brand Colors (Optional if you want to override) */
+$github-color               : #fff;
+$linkedin-color             : #fff;
+$twitter-color              : #fff;
+$vimeo-color                : #fff;
+
+/* Borders and Shadows */
+$border-radius              : 0; /* No rounded corners for a sharp black-and-white look */
+$box-shadow                 : none; /* No shadows for a clean flat design */
+
 
 
 /*
