@@ -30,28 +30,21 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-3;
+  font-size: 1.8rem; // Smaller than $type-size-3
 }
 
 h2 {
-  font-size: $type-size-4;
+  font-size: 1.5rem; // Smaller than $type-size-4
 }
 
 h3 {
-  font-size: $type-size-5;
+  font-size: 1.2rem; // Smaller than $type-size-5
 }
 
-h4 {
-  font-size: $type-size-6;
+h4, h5, h6 {
+  font-size: 1rem; // Uniform size for smaller headings
 }
 
-h5 {
-  font-size: $type-size-6;
-}
-
-h6 {
-  font-size: $type-size-6;
-}
 
 small, .small {
   font-size: $type-size-6;
