@@ -9,56 +9,125 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Mohsen Monji
+**Department of Sociology & Anthropology, Concordia University**
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Education
+- **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
+  Concordia University (2020-Present)  
+    
+- **M.A. in Anthropology**  
+  University of Tehran, Iran (2018)  
+- **B.S. in Industrial Engineering**  
+  Isfahan University of Technology, Iran (2015)  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Research Interests
+- Sociology of Health
+- Social Inequalities
+- Quantitative Research Methods
+- Social Statistics
+- Computational Sociology
+
+---
+
+### Professional and Research Experience
+- **Doctoral Researcher**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
+  *Using Statistics Canada data to explore disparities in mental health in Canada.*
+- **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
+  *Exploring disparities in mental health in Canada as part of my Ph.D. dissertation.*
+- **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
+  *One-year training fellowship in population analytics.*
+- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2021-Present)  
+  *Research assistant in two SSHRC and FRQSC projects on colonialism, criminalization, and Indigenous communities.*  
+- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2021-2022)
+  *Research assistant in a project on employment. underemployment, and the mental health of immigrants in Canada.*
+- **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
+  *o	Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute. ![Affecting Machines]([https://github.com/user-attachments/assets/15105956-ebed-4cf5-aef6-d3153eb95878](https://affectingmachines.net/normative-principles/))  
+- **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023)  
+  *Contributed to the writing of the 2023 Responsible Tech Guide.*
+  *Guide available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
+
+---
+
+### Teaching Experience
+- **Lecturer**, Social Statistics, Concordia University (Winter 2025).  
+- **Teaching Assistant**, Statistics II, Concordia University (Winter 2024, Fall 2023).
+- **Teaching Assistant**, Statistics I, Concordia University (FAll 2024).
+- **Teaching Assistant**,Quantitative Research Methods for Practitioners, Concordia University(Winter 2022).
+- **Teaching Assistant**, Research Methods, Concordia University (Winter 2022).  
+- **Tutorial Leader**, Classical Social Theory, Concordia University (Winter 2025, Fall 2024, Winter 2023, Fall 2022, Winter 2022, Fall 2021).  
+- **Tutor**, Social Statistics and Quantitative Research Methods (2016-2020).  
+
+---
+
+### Conference Presentations
+- *Monji, Mohsen* (2024). *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada.*  
+  **Conference of Computational Social Science**, Utrecht, The Netherlands (Absent due to visa delays).  
+- *Monji, Mohsen* (2024). *Towards Mental Health Equity through Community Building: Exploring Social Prescribing in Canada.*  
+  **Canada's Social Prescribing Conference**, Toronto, Canada.
+
+---
+
+### **Awards and Honors**
+- **Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship**, Ph.D., 2024.  
+- **Fonds de recherche du Québec (FRQSC) Doctoral Scholarship**, 2024-2026.  
+  - *Ranked first in Sociology and Demography.*  
+- **Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellowship**, 2024-2025.  
+  - *First Concordia student to be awarded the CAnD3 fellowship by McGill University.*  
+- **Dialogue McGill’s Graduate Research Scholarship**, 2023-2024.  
+  - *Awarded by McGill University, funded by Health Canada, for research on “Language Barriers as a Social Determinant of Mental Health among English-Speaking Post-Secondary Students in Quebec: A Literature Review and Policy Analysis.”*  
+- **Concordia University Conference Travel Award**, 2024.  
+- **Concordia Merit Scholarship**, Department of Sociology and Anthropology, Concordia University, 2023.  
+- **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
+- **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.  
+- **Ranked 4th** in the Iranian University Entrance Exam for M.A. degrees in Social Sciences (*4th in Demography, 5th in Anthropology*).  
+- **Ranked 294th** in the Iranian University Entrance Exam for B.S. degrees in Engineering.  
+---
+
+### Workshops
+- *Panelist*: *Normative Principles for Gender Equity in Artificial Intelligence* (Aug 2023).  
+  [Workshop details](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2023/08/22/affecting-machines.html).
+
+---
+
+### **Membership**
+- Canadian Sociological Association  
+- American Sociological Association  
+- Canadian Population Society  
+- Canadian Public Health Association  
+- American Statistical Association  
+- The Health Equity Network  
+- Women’s Health Research Cluster  
+- The Quebec Population Health Research Network  
+- Social Data Science Hub  
+- Canadian Social Prescribing Student Collective  
+
+---
+
+### **Certificates**
+- **Gender-Based Analysis Plus**, issued by Government of Canada, 2024.  
+- **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024.  
+- **Health Inequality Monitoring Foundations: Data Sources**, issued by World Health Organization, 2023.  
+- **Health Inequality Monitoring Foundations: Health Data Disaggregation**, issued by World Health Organization, 2023.  
+- **Inequality Analysis using R: Disaggregated Data from Surveys**, issued by World Health Organization, 2023.  
+- **Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)**, issued by the Government of Canada, 2024.  
+
+---
+
+### **Professional Qualifications**
+- Experienced in **quantitative data collection and analysis** (e.g., survey creation and analysis).  
+- Experienced in **qualitative data collection and analysis** (e.g., community research, interviews, focus groups, ethnography).  
+- Proficient in **statistical data analysis software**: R, SPSS.  
+
+---
+
+### **Language Proficiency**
+- Fluent in **English** and **Persian**.  
+- Working proficiency in **French**.  
+
+
+---
