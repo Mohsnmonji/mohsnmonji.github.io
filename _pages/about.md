@@ -1,7 +1,4 @@
-
-
 ---
-
 permalink: /
 title: "Mohsen Monji"
 author_profile: true
