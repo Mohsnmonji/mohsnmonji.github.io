@@ -5,18 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-<p>Here is a list of my talks and conference presentations:</p>
-
 <ul>
 {% for post in site.talks reversed %}
   <li>
-    <strong>
-      {% if post.external_url %}
-        <a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a>
-      {% else %}
-        {{ post.title }}
-      {% endif %}
-    </strong>
+    <strong>{{ post.title }}</strong><br>
+    {% if post.external_url %}
+      See: <a href="{{ post.external_url }}" target="_blank">{{ post.external_url }}</a>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
