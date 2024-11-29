@@ -8,18 +8,11 @@ redirect_from:
 ---
 
 ### About Me
-I am a PhD Candidate in Sociology at Concordia University conducting research on the social determinants of mental health and disparities in mental health outcomes, particularly psychological distress, anxiety, and depression. I use statistical and machine learning modeling to analyze such disparities and recommend evidence-based policies for better mental health outcomes. 
+I am a PhD Candidate in Sociology at Concordia University and a CAnD3 Doctoral Fellow at McGill University conducting research on the social determinants of mental health and disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth. In my PhD, I use statistical and machine learning modeling to analyze such disparities and recommend evidence-based policies for better mental health outcomes at the population level. My doctoral research has been supported by funding from Concordia University, Fonds de recherche du Québec – Société et Culture (FRQSC) and Le Centre interuniversitaire québécois de statistiques sociales (CIQSS).
 
-### Research Interests
-- **Population Mental Health**: Population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression.
-- **Social Determinants of Health**: Associations between factors such as food security, income, and community belonging with psychological distress, anxiety, and depression.
-- **Youth Mental Health**: Mental health disparities among youth, with a focus on social determinants.
-- **Quantitative Methodology**: Survey design, statistical and machine learning modeling.
+I teach sociology of health, quantitative research methods, and applied social statistics. In my courses, I integrate experiential learning to connect students with real-world applications of quantitative methods and statistical modeling. My goal is to provide students with the skills they need to understand, interpret, and analyze social data and use statistical knowledge to make a difference and contribute to a more functional and just society.
+![image](https://github.com/user-attachments/assets/e909f69f-2ac7-4a5b-9e20-5ba305beb6f9)
 
-### Explore My Work
-- **Publications**: Academic papers, articles, and conference presentations.
-- **Teaching**: Courses I teach.
-- **Projects**: Ongoing and completed projects.
 
 ### Connect with Me
 If you're interested in my research, teaching, or potential collaborations, feel free to reach out!  
