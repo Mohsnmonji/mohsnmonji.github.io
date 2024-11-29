@@ -8,7 +8,7 @@
     <div class="author-profile">
       <!-- Display Profile Image -->
       {% if site.author.avatar %}
-        <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}'s Profile Picture">
+        <img src="{{ site.author.avatar | prepend: base_path }}" alt="{{ site.author.name }}'s Profile Picture">
       {% endif %}
       
       <!-- Display Author Name -->
