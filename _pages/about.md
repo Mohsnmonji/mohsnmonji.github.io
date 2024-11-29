@@ -10,7 +10,6 @@ redirect_from:
   - /about.html
 ---
 
-
 ### About Me
 I am a **PhD Candidate in Sociology** at Concordia University and a **CAnD3 Doctoral Fellow** at McGill University, conducting research on the social determinants of mental health and disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth. In my PhD, I use **statistical and machine learning modeling** to analyze such disparities and recommend evidence-based policies for better mental health outcomes at the population level. My doctoral research has been supported by funding from Concordia University, **Fonds de recherche du Québec – Société et Culture (FRQSC)**, and **Le Centre interuniversitaire québécois de statistiques sociales (CIQSS)**.
 
@@ -23,5 +22,3 @@ If you're interested in my research, teaching, or potential collaborations, feel
 You can contact me at [mohsen.monji@concordia.ca](mailto:mohsen.monji@concordia.ca).
 
 ---
-
-
