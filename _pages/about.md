@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Mohsen Monji - PhD Candidate in Sociology & Population Mental Health Researcher"
+title: "Mohsen Monji - PhD Candidate in Sociology
+& Population Mental Health Researcher"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,9 +9,10 @@ redirect_from:
 ---
 
 
+
 About Me
 ======
-I am a PhD Candidate in Sociology at Concordia University researching the social determinants of mental health and disparities in mental health outcomes, particularly psychological distress, anxiety, and depression in Canada. In my PhD, I  use statistical and machine learning modeling to analyze such disparities and recommend evidence-based policies for better mental health outcomes. 
+I am a PhD Candidate in Sociology at Concordia University researching the social determinants of mental health and disparities in mental health outcomes, particularly psychological distress, anxiety, and depression. In my PhD, I  use statistical and machine learning modeling to analyze such disparities and recommend evidence-based policies for better mental health outcomes. 
 
 Research Interests
 ======
