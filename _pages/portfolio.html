@@ -13,10 +13,12 @@ author_profile: true
 {% for post in site.portfolio %}
   <div class="project-item">
     <h2>{{ post.title }}</h2>
-    <p>{{ post.excerpt }}</p>
     {{ post.content | markdownify }}
-    {% if post.permalink %}
-      <p><a href="{{ post.permalink }}" target="_blank">Read More</a></p>
+    {% if post.paperurl %}
+      <p><a href="{{ post.paperurl }}" target="_blank">GitHub Repository</a></p>
+    {% endif %}
+    {% if post.screenshot %}
+      <img src="{{ post.screenshot }}" alt="Screenshot of {{ post.title }}" style="max-width: 100%; height: auto; margin: 10px 0;">
     {% endif %}
   </div>
   <hr>
