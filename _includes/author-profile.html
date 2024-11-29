@@ -7,41 +7,45 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-
-  <!-- Display the profile picture -->
+  <!-- Avatar Section -->
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-      <img src="{{ author.avatar }}" alt="Profile Picture of {{ author.name }}">
-    {% else %}
-      <img src="{{ site.baseurl }}/{{ author.avatar }}" alt="Profile Picture of {{ author.name }}">
-    {% endif %}
+    <img src="{{ site.baseurl }}/{{ author.avatar }}" alt="{{ author.name }}" />
   </div>
 
-  <!-- Display the author's details -->
+  <!-- Author Content -->
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
+    {% if author.pronouns %}
+      <p class="author__pronouns">{{ author.pronouns }}</p>
+    {% endif %}
     {% if author.bio %}
       <p class="author__bio">{{ author.bio }}</p>
     {% endif %}
+    {% if author.location %}
+      <p class="author__location"><i class="fa-solid fa-location-dot"></i> {{ author.location }}</p>
+    {% endif %}
+    {% if author.employer %}
+      <p class="author__employer"><i class="fas fa-fw fa-building-columns"></i> {{ author.employer }}</p>
+    {% endif %}
   </div>
 
-  <!-- Display links to additional author information -->
+  <!-- Social & Academic Links -->
   <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li><i class="fa-solid fa-location-dot icon-pad-right"></i>{{ author.location }}</li>
-      {% endif %}
-      {% if author.employer %}
-        <li><i class="fas fa-fw fa-building-columns icon-pad-right"></i>{{ author.employer }}</li>
-      {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right"></i>Email</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a></li>
       {% endif %}
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right"></i>LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right"></i>GitHub</a></li>
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github"></i> GitHub</a></li>
+      {% endif %}
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar"></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.researchgate %}
+        <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate"></i> ResearchGate</a></li>
       {% endif %}
     </ul>
   </div>
