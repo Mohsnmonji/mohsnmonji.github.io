@@ -7,12 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>Projects</h1>
 <p>Here are some of the research and data visualization projects I have worked on using R and other tools:</p>
 
 {% for post in site.portfolio %}
   <div class="project-item">
-    <h2>{{ post.title }}</h2>
     {{ post.content | markdownify }}
     {% if post.paperurl %}
       <p><a href="{{ post.paperurl }}" target="_blank">GitHub Repository</a></p>
