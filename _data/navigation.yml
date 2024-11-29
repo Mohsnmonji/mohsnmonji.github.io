@@ -11,8 +11,8 @@ main:
     url: /teaching/    
   - title: "My Publications"
     url: /publications/
-  - title: "Research Projects"
-    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
   - title: "Talks & Presentations"
     url: /talks/    
   - title: "Blog"
