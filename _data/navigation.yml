@@ -7,7 +7,7 @@
 main:
   - title: "Curriculum Vitae"
     url: /curriculum/
-  - title: "Teaching Experience"
+  - title: "Teaching"
     url: /teaching/    
   - title: "Publications"
     url: /publications/
