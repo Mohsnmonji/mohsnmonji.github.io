@@ -42,10 +42,10 @@ redirect_from:
   *Exploring disparities in mental health in Canada as part of my Ph.D. dissertation.*
 - **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
   *One-year training fellowship in population analytics.*
-- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2021-Present)  
-  *Research assistant in two SSHRC and FRQSC projects on colonialism, criminalization, and Indigenous communities.*  
-- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2021-2022)
-  *Research assistant in a project on employment. underemployment, and the mental health of immigrants in Canada.*
+- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)  
+  *Research assistant to Professor Matthew Unger in two SSHRC and FRQSC projects on colonialism, criminalization, and Indigenous communities.*  
+- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)
+  *Research assistant to Professor Marie-Pier Joly in a project on employment. underemployment, and the mental health of immigrants in Canada.*
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
   *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute. Conducted research on Gender Equity in AI, leading to the development of a set of normative principles for gender equity in AI.*  
   *Publication available at: [Normative Principles for Gender Equity in AI](https://affectingmachines.net/)*
@@ -110,7 +110,6 @@ redirect_from:
 - Canadian Social Prescribing Student Collective  
 
 ---
-
 ### **Certificates**
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024.  
 - **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024.  
@@ -118,14 +117,13 @@ redirect_from:
 - **Health Inequality Monitoring Foundations: Health Data Disaggregation**, issued by World Health Organization, 2023.  
 - **Inequality Analysis using R: Disaggregated Data from Surveys**, issued by World Health Organization, 2023.  
 - **Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)**, issued by the Government of Canada, 2024.  
-
 ---
-
 ### **Professional Qualifications**
-- Experienced in **quantitative data collection and analysis** (e.g., survey creation and analysis).  
-- Experienced in **qualitative data collection and analysis** (e.g., community research, interviews, focus groups, ethnography).  
-- Proficient in **statistical data analysis software**: R, SPSS.  
-
+- Experienced in **quantitative data collection and analysis** (e.g., survey creation and analysis).    
+- Experienced in **statistical data analysis software**: R, SPSS.  
+- Experienced in **data visualization and analysis** using `ggplot2`, R Markdown, and Quarto for creating reproducible reports and presentations.  
+- Experienced in **version control and collaboration** using Git and GitHub.  
+- Experienced in **LaTeX** for mathematical writing.  
 ---
 
 ### **Language Proficiency**
