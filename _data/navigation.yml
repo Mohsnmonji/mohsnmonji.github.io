@@ -5,9 +5,8 @@
 # prevent it from being included in the site.
 
 main:
- main:
-  - title: "Curriculum Vitae"
-    url: /cv/
+- title: "Curriculum Vitae"
+    url: /curriculum/
   - title: "Teaching Experience"
     url: /teaching/    
   - title: "My Publications"
