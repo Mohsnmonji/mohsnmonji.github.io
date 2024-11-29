@@ -22,23 +22,16 @@ author:
   # Biographic information
   avatar: "images/profile.png" # Replace with your profile picture file
   name: "Mohsen Monji"
-  pronouns: "he/him"
-  bio: "PhD Candidate specializing in Sociology and Social Determinants of Health."
+  bio: "PhD Candidate in Sociology &  Population Mental Health Researcher."
   location: "Montreal, Canada"
   employer: "Concordia University"
   email: "mohsen.monji@concordia.ca"
 
   # Academic websites
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid: "https://orcid.org/0000-0001-2345-6789" # Replace with your ORCID URL
-  pubmed: # Add your PubMed link if applicable
-
+ 
   # Social media
-  linkedin: "https://www.linkedin.com/in/mohsen-monji-0a3a37269/"
-  twitter: "mohsenmonji" # Twitter handle without @
-  github: "mohsenmonji"
-  mastodon: "https://mastodon.social/@mohsenmonji"
-  youtube: # Add your YouTube channel if applicable
+  LinkedIn: "https://www.linkedin.com/in/mohsen-monji-0a3a37269/"
+  github: "https://github.com/Mohsnmonji"
 
 # Publication Categories
 publication_category:
