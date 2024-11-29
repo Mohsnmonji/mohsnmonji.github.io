@@ -10,9 +10,10 @@ author_profile: true
   <li>
     <strong>{{ post.title }}</strong><br>
     {% if post.external_url %}
-      See: <a href="{{ post.external_url }}" target="_blank">{{ post.external_url }}</a>
+      <a href="{{ post.external_url }}" target="_blank">Link</a>
     {% endif %}
   </li>
 {% endfor %}
 </ul>
+
 
