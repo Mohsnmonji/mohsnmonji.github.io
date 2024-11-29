@@ -1,1 +1,8 @@
+<div class="author__avatar">
+  <img src="{{ site.baseurl }}/{{ site.author.avatar }}" alt="{{ site.author.name }}" />
+</div>
+<div class="author__content">
+  <h2 class="author__name">{{ site.author.name }}</h2>
+  <p class="author__bio">{{ site.author.bio }}</p>
+</div>
 
