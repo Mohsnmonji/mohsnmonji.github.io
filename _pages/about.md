@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Mohsen Monji - PhD Candidate in Sociology
-& Population Mental Health Researcher"
+title: "Mohsen Monji"
 author_profile: true
 redirect_from: 
   - /about/
