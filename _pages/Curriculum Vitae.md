@@ -11,7 +11,8 @@ redirect_from:
 
 
 ### Mohsen Monji
-**Department of Sociology & Anthropology, Concordia University**
+**Department of Sociology & Anthropology,**
+**Concordia University**
 
 ---
 
