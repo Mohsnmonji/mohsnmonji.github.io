@@ -1,12 +1,14 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-permalink: /cv/
+permalink: /curriculum/
 author_profile: true
 redirect_from:
   - /resume
+  - /cv/
 ---
 {% include base_path %}
+
 
 ### Mohsen Monji
 **Department of Sociology & Anthropology, Concordia University**
