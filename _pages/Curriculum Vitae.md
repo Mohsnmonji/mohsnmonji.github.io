@@ -47,7 +47,7 @@ redirect_from:
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2021-2022)
   *Research assistant in a project on employment. underemployment, and the mental health of immigrants in Canada.*
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
-  *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute. Conducted research on Diversity, Equity, and Inclusion in AI, leading to the development of normative principles for gender equity in AI.*  
+  *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute. Conducted research on Gender Equity in AI, leading to the development of a set of normative principles for gender equity in AI.*  
   *Publication available at: [Normative Principles for Gender Equity in AI](https://affectingmachines.net/)*
 - **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023)  
   *Contributed to the writing of the 2023 Responsible Tech Guide.*
