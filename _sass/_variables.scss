@@ -56,41 +56,31 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288; /* Default gray (used for subtle elements) */
+$gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #000; /* Set body background to black */
-$background-color           : #000; /* Main background remains black */
-$text-color                 : #fff; /* Text color set to white */
-$code-background-color      : #111; /* Slightly lighter than the body for code blocks */
-$code-background-color-dark : #222; /* Darker code background for contrast */
-$border-color               : #444; /* Subtle borders for a clean design */
+$body-color                 : #fff;
+$background-color           : #fff;
+$text-color                 : $dark-gray;
+$code-background-color      : #fafafa;
+$code-background-color-dark : $light-gray;
+$border-color               : $lighter-gray;
 
-$primary-color              : #fff; /* Primary elements (e.g., headers) set to white */
-$success-color              : #fff; /* Success elements also white for uniformity */
-$warning-color              : #fff; /* Warnings set to white (not emphasized) */
-$danger-color               : #fff; /* Danger elements (like errors) set to white */
-$info-color                 : #fff; /* Informational links are white */
+$primary-color              : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
 
 /* Links */
-$link-color                 : #fff; /* Links are plain white */
-$link-color-hover           : mix(#000, $link-color, 50%); /* Hover links have subtle gray tone */
-$link-color-visited         : #fff; /* Visited links remain white for simplicity */
-$masthead-link-color        : #fff; /* Header links are white */
-$masthead-link-color-hover  : mix(#000, $masthead-link-color, 50%); /* Header links hover to gray */
-
-/* Brand Colors (Optional if you want to override) */
-$github-color               : #fff;
-$linkedin-color             : #fff;
-$twitter-color              : #fff;
-$vimeo-color                : #fff;
-
-/* Borders and Shadows */
-$border-radius              : 0; /* No rounded corners for a sharp black-and-white look */
-$box-shadow                 : none; /* No shadows for a clean flat design */
+$link-color                 : $info-color;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
+$masthead-link-color        : $primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
 
