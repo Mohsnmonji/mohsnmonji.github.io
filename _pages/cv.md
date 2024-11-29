@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Mohsen Monji
+### Mohsen Monji
 **Department of Sociology & Anthropology, Concordia University**
 
 ---
@@ -46,7 +46,8 @@ redirect_from:
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2021-2022)
   *Research assistant in a project on employment. underemployment, and the mental health of immigrants in Canada.*
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
-  *o	Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute. ![Affecting Machines]([https://github.com/user-attachments/assets/15105956-ebed-4cf5-aef6-d3153eb95878](https://affectingmachines.net/normative-principles/))  
+  *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute. Conducted research on Diversity, Equity, and Inclusion in AI, leading to the development of normative principles for gender equity in AI.*  
+  *Publication available at: [Normative Principles for Gender Equity in AI](https://affectingmachines.net/)*
 - **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023)  
   *Contributed to the writing of the 2023 Responsible Tech Guide.*
   *Guide available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
