@@ -19,10 +19,10 @@
 {% endif %}
 
 <title>
-  {% if page.permalink == "/" %}
-    {{ page.title | default: site.title }}
+  {% if page.seo_title %}
+    {{ page.seo_title }}
   {% else %}
-    {{ page.title | default: site.title }} {{ site.title_separator }} {{ site.title }}
+    {{ page.title | default: site.title }}
   {% endif %}
 </title>
 
