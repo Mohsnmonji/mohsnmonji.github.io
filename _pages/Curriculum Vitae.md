@@ -98,9 +98,9 @@ redirect_from:
 ### **Professional Qualifications**  
 - Experienced in **quantitative data collection and analysis** (e.g., survey creation and analysis)  
 - Proficient in **statistical data analysis** using `R` and `SPSS`  
-- Skilled in **data visualization and reproducible research** using `ggplot2`, `R Markdown`, and `Quarto`  
+- Skilled in **data visualization** using `R` 
 - Proficient in **version control and collaboration** using `Git` and `GitHub`  
-- Experienced in **mathematical writing and document preparation** using `LaTeX`  
+- Experienced in **mathematical writing and online document preparation** using `LaTeX` , R Markdown`, and `Quarto` 
 
 ---
 
