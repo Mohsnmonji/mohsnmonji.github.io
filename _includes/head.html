@@ -1,21 +1,48 @@
 {% include base_path %}
 
+<!-- Character Encoding -->
 <meta charset="utf-8">
 
-{% include seo.html %}
+<!-- Title and Description -->
+<title>Mohsen Monji</title>
+<meta name="description" content="Mohsen Monji - Sociologist and Population Mental Health Researcher specializing in social inequalities, mental health disparities, and computational sociology.">
+<meta name="author" content="Mohsen Monji">
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<!-- Canonical URL -->
+{% if page.url %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace: "/index.html", "" }}">
+{% endif %}
 
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
+<!-- Viewport for Mobile Responsiveness -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<!-- Robots Meta Tag -->
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph Metadata -->
+<meta property="og:title" content="Mohsen Monji">
+<meta property="og:description" content="Sociologist and Population Mental Health Researcher focusing on health equity and social inequalities.">
+<meta property="og:url" content="{{ site.url }}">
+<meta property="og:image" content="{{ site.url }}/assets/images/profile.PNG">
+<meta property="og:site_name" content="Mohsen Monji">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card Metadata -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Mohsen Monji">
+<meta name="twitter:description" content="Sociologist and Population Mental Health Researcher focusing on health equity and social inequalities.">
+<meta name="twitter:image" content="{{ site.url }}/assets/images/profile.PNG">
+
+<!-- Favicon -->
+<link rel="icon" href="{{ base_path }}/favicon.ico" type="image/x-icon">
+
+<!-- Stylesheet -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<!-- JavaScript for Better Browser Support -->
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
-
+<!-- ClearType for Windows -->
 <meta http-equiv="cleartype" content="on">
