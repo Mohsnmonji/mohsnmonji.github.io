@@ -21,8 +21,8 @@ repository: "mohsenmonji/mohsenmonji.github.io"
 author:
   # Biographic information
   avatar: "images/profile.PNG" # Replace with your profile picture file
-  name: "Mohsen Monji"
-  bio: "PhD Candidate in Sociology &  Population Mental Health Researcher."
+  name: 
+  bio:
   location: "Montreal, Canada"
   employer: "Concordia University"
   email: "mohsen.monji@concordia.ca"
