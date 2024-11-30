@@ -100,7 +100,7 @@ redirect_from:
 - Proficient in **statistical data analysis** using `R` and `SPSS`  
 - Skilled in **data visualization** using `R` 
 - Proficient in **version control and collaboration** using `Git` and `GitHub`  
-- Experienced in **mathematical writing and online document preparation** using `LaTeX` , R Markdown`, and `Quarto` 
+- Experienced in **mathematical writing and online document preparation** using `LaTeX` , `R Markdown` , `Quarto` , `Bookdown`
 
 ---
 
