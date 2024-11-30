@@ -66,7 +66,7 @@ redirect_from:
 ### Conference Presentations
 - *Monji, Mohsen* (2024). *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada.*  
   **Conference of Computational Social Science**, Utrecht, The Netherlands (Absent due to visa delays).  
-- *Monji, Mohsen* (2024). *Towards Mental Health Equity through Community Building: Exploring Social Prescribing in Canada.*  
+- *Monji, Mohsen* (2024). *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinants of Mental Health in Canada.*  
   **Canada's Social Prescribing Conference**, Toronto, Canada.
 
 ---
