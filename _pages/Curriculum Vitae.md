@@ -34,7 +34,7 @@ redirect_from:
 
 ### Professional and Research Experience
 - **Doctoral Researcher**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
-  *Using Statistics Canada data to analyze disparities in mental health in Canada.*
+  *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
 - **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
   *Studying disparities in mental health in Canada as part of my Ph.D. dissertation.*
 - **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
