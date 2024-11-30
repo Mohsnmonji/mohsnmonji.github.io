@@ -96,11 +96,11 @@ redirect_from:
 ---
 
 ### **Professional Qualifications**  
-- Experienced in **quantitative data collection and analysis** (e.g., survey creation and analysis)  
-- Proficient in **statistical data analysis** using `R` and `SPSS`  
-- Skilled in **data visualization** using `R` 
-- Proficient in **version control and collaboration** using `Git` and `GitHub`  
-- Experienced in **mathematical writing and online document preparation** using `LaTeX` , `R Markdown` , `Quarto` , `Bookdown`
+- Experienced in **Quantitative Data collection and Analysis** (e.g., survey creation and analysis)  
+- Proficient in **Statistical Data Analysis** using `R` and `SPSS`  
+- Skilled in **Data Visualization** using `R` 
+- Proficient in **Version Control and Collaboration** using `Git` and `GitHub`  
+- Experienced in **Mathematical Writing and Online Course Preparation** using `LaTeX` , `R Markdown` , `Quarto` , `Bookdown`
 
 ---
 
