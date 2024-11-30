@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: About Me
+seo_title: Mohsen Monji
+description: Sociologist and Population Mental Health Researcher.
 author_profile: true
 redirect_from: 
   - /about/
