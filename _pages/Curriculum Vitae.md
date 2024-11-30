@@ -10,10 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-### Mohsen Monji
-**Department of Sociology & Anthropology,**
-**Concordia University**
-
 ---
 
 ### Education
