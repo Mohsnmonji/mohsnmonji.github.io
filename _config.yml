@@ -9,11 +9,11 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Mohsen Monji | Sociologist & Population Mental Health Researcher"
+title: "Mohsen Monji"
 title_separator: "-"
 name: ""
-description: "PhD Candidate in Sociology and Population Mental Health Researcher."
-url: https://mohsenmonji.com # Update with your custom domain
+description: "Sociologist & Population Mental Health Researcher"
+url: https://www.mohsenmonji.com # Update with your custom domain
 baseurl: "" # Leave empty for personal GitHub Pages site
 repository: "mohsenmonji/mohsenmonji.github.io"
 
