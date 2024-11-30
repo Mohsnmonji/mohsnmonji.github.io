@@ -166,4 +166,4 @@ compress_html:
     envs: development
 # Sitemap settings
 sitemap:
-  url: "https://mohsenmonji.com/sitemap.xml"
+  url: "https://www.mohsenmonji.com"
