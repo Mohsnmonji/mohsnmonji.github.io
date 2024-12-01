@@ -27,7 +27,7 @@ redirect_from:
 - Sociology of Health
 - Social Determinants of Mental Health
 - Quantitative Research Methods
-- Social Statistics
+- Applied Social Statistics
 - Computational Sociology
 
 ---
