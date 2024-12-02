@@ -29,7 +29,6 @@ redirect_from:
 - Quantitative Research Methods
 - Survey Statistics and Methodology
 - Applied Social Statistics
-- Computational Sociology
 
 ---
 
