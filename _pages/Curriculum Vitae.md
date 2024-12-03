@@ -27,7 +27,7 @@ redirect_from:
 - Sociology of Health
 - Social Determinants of Health
 - Quantitative Research Methods
-- Survey Statistics and Methodology
+- Survey Methodology
 - Applied Social Statistics
 - Computational Sociology
 
