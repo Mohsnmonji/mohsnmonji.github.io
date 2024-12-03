@@ -29,6 +29,7 @@ redirect_from:
 - Quantitative Research Methods
 - Survey Statistics and Methodology
 - Applied Social Statistics
+- Computational Sociology
 
 ---
 
@@ -97,7 +98,7 @@ redirect_from:
 
 ### **Professional Qualifications**  
 - Experienced in **Quantitative Data collection and Analysis** (e.g., survey creation and analysis)  
-- Proficient in **Statistical Data Analysis** using `R` and `SPSS`  
+- Proficient in **Statistical Data Analysis** using `R`
 - Skilled in **Data Visualization** using `R` 
 - Proficient in **Version Control and Collaboration** using `Git` and `GitHub`  
 - Experienced in **Mathematical Writing and Online Course Preparation** using `LaTeX` , `R Markdown` , `Quarto` , `Bookdown`
