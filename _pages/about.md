@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-I am a **PhD Candidate in Sociology** at Concordia University and a **CAnD3 Doctoral Fellow** at McGill University, conducting research on the ways in which social determinants of mental health- such as poverty, food insecurity, discrimination, access to housing, and job insecurity- lead to disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. My doctoral research has been supported by funding from **Concordia University**, **Fonds de recherche du Québec – Société et Culture (FRQSC)**, and the **Quebec Interuniversity Center for Social Statistics(QICSS)**.
+I am a **PhD Candidate in Sociology** at Concordia University and a **CAnD3 Doctoral Fellow** at McGill University, conducting research on the associations between social determinants of mental health- such as poverty, food insecurity, discrimination, access to housing, and job insecurity- and mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. My doctoral research has been supported by funding from **Concordia University**, **Fonds de recherche du Québec – Société et Culture (FRQSC)**, and the **Quebec Interuniversity Center for Social Statistics(QICSS)**.
 
 My **methodological interests** include quantitative research methods, survey methodology, applied social statistics, and machine learning, with a focus on official surveys with complex sampling designs.
 
