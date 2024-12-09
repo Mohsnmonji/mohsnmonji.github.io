@@ -47,6 +47,10 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate"></i> ResearchGate</a></li>
       {% endif %}
+      {% if author.bluesky %}
+  <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-bluesky"></i> BlueSky</a></li>
+{% endif %}
+
     </ul>
   </div>
 </div>
