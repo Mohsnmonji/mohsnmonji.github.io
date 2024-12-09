@@ -11,3 +11,6 @@
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
+{% if site.author.bluesky %}
+  <a href="https://bsky.app/profile/{{ site.author.bluesky }}" target="_blank">BlueSky</a>
+{% endif %}
