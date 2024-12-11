@@ -34,7 +34,7 @@ redirect_from:
 ---
 
 ### Professional and Research Experience
-- **Doctoral Researcher**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
+- **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
   *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
 - **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
   *Studying disparities in mental health outcomes among youth in Canada as part of my Ph.D. dissertation.*
