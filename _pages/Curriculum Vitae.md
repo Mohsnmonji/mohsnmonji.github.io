@@ -71,9 +71,8 @@ redirect_from:
 - **TEACHING ASSISTANT**, Department of Applied Human Sciences, Concordia University  
   AHSC 380, Quantitative Research Methods for Practitioners, Winter 2022  
 
-- **Tutor**, Tehran, Iran, 2016-2020.
-   Social Statistics and Quantitative Research Methods 
-
+- **TUTOR**, Tehran, Iran, 2016-2020  
+  Social Statistics and Quantitative Research Methods
 ---
 
 ### Conference Presentations
