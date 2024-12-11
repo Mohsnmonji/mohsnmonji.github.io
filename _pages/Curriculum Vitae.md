@@ -54,13 +54,25 @@ redirect_from:
 ---
 
 ### Teaching Experience
-- **Lecturer**, Social Statistics, Concordia University (Winter 2025).  
-- **Teaching Assistant**, Statistics II, Concordia University (Winter 2024, Fall 2023).
-- **Teaching Assistant**, Statistics I, Concordia University (Fall 2024).
-- **Teaching Assistant**, Quantitative Research Methods for Practitioners, Concordia University(Winter 2022).
-- **Teaching Assistant**, Research Methods, Concordia University (Winter 2022).  
-- **Tutorial Leader**, Classical Social Theory, Concordia University (2024).  
-- **Tutor**, Social Statistics and Quantitative Research Methods (2016-2020).  
+
+- **LECTURER**, Department of Sociology and Anthropology, Concordia University  
+  SOCI 212, Statistics I, Winter 2025  
+
+- **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia University  
+  SOCI 212-B, Statistics I, Fall 2024  
+  SOCI 213-B, Statistics II, Winter 2024  
+  SOCI 213-CC, Statistics II, Winter 2024  
+  SOCI 213-AA, Statistics II, Fall 2023  
+  SOCI 310, Research Methods, Winter 2022  
+  SOCI 300, Classical Social Theory, Winter 2025, Fall 2024  
+  SOCI 300, Classical Social Theory, Winter 2023, Fall 2022  
+  SOCI 300, Classical Social Theory, Winter 2022, Fall 2021  
+
+- **TEACHING ASSISTANT**, Department of Applied Human Sciences, Concordia University  
+  AHSC 380, Quantitative Research Methods for Practitioners, Winter 2022  
+
+- **Tutor**, Tehran, Iran, 2016-2020. 
+  Social Statistics and Quantitative Research Methods 
 
 ---
 
