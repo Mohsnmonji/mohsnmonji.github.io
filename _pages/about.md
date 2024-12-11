@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-I am a **PhD Candidate in Sociology** at Concordia University and a **CAnD3 Doctoral Fellow** at McGill University, conducting research on the social determinants of mental health and population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. My doctoral research has been supported by funding from **Concordia University**, **Fonds de recherche du Québec – Société et Culture (FRQSC)**, the **Quebec Interuniversity Center for Social Statistics(QICSS)**, and **the Canadian Research Data Center Network(CRDCN)**.
+I am a **PhD Candidate in Sociology** at Concordia University and a **CAnD3 Doctoral Fellow** at McGill University, and a **CRDCN Emerging Scholar** conducting research on the social determinants of mental health and population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. My doctoral research has been supported by funding from **Concordia University**, **Fonds de recherche du Québec – Société et Culture (FRQSC)**, the **Quebec Interuniversity Center for Social Statistics(QICSS)**, and **the Canadian Research Data Center Network(CRDCN)**.
 
 My **methodological interests** include quantitative research methods, survey methodology, applied social statistics, and machine learning, with a focus on official surveys with complex sampling designs.
 
