@@ -73,7 +73,7 @@ redirect_from:
 
 - **TUTOR**, Tehran, Iran, 2016-2020  
   Social Statistics and Quantitative Research Methods
----
+
 
 ### Conference Presentations
 - *Monji, Mohsen* (2024). *Machine Learning Approaches for the Social Determinants of Mental Health in Canada: Findings from the Canadian Community Health Survey(2017-18).*  
