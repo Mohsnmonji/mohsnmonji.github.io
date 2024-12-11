@@ -24,8 +24,8 @@ redirect_from:
 ---
 
 ### Research Interests
-- Sociology of Health
 - Social Determinants of Health
+- Youth Mental Health
 - Quantitative Research Methods
 - Survey Methodology
 - Applied Social Statistics
