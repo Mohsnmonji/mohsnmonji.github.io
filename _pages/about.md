@@ -14,7 +14,7 @@ I am a **PhD Candidate in Sociology** at Concordia University and a **CAnD3 Doct
 
 My **methodological interests** include quantitative research methods, survey methodology, applied social statistics, and machine learning, with a focus on official surveys with complex sampling designs.
 
-I teach **Sociology of Health**, **Quantitative Research Methods**, and **Applied Social Statistics**. In my courses, I integrate **experiential learning** to connect students with real-world applications of quantitative methods and statistical modeling. My goal is to provide students with the skills they need to understand, interpret, and analyze social data, and to use statistical knowledge to make a difference and contribute to a more functional and just society.
+I teach **Sociology of Health**, **Quantitative Research Methods**, **Survey Methodology**, and **Applied Social Statistics**. In my courses, I integrate **experiential learning** to connect students with real-world applications of quantitative methods and statistical modeling. My goal is to provide students with the skills they need to understand, interpret, and analyze social data, and to use statistical knowledge to make a difference and contribute to a more functional and just society.
 
 ---
 
