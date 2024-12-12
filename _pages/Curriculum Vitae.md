@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-### Education
+### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
   Concordia University (2020-Present)  
     
@@ -23,7 +23,7 @@ redirect_from:
 
 ---
 
-### Research Interests
+### RESEARCH INTERESTS
 - Social Determinants of Health
 - Youth Mental Health
 - Quantitative Research Methods
@@ -33,7 +33,7 @@ redirect_from:
 
 ---
 
-### Professional and Research Experience
+### PROFESSIONAL AND RESEARCH EXPERIENCE
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
   *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
 - **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
