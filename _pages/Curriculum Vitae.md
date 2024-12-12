@@ -103,10 +103,8 @@ redirect_from:
 ---
 
 ### Talks
-- *Panelist*: *Normative Principles for Gender Equity in Artificial Intelligence* (Aug 2023).  
-  [Workshop details](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2023/08/22/affecting-machines.html).
-
- 
+- **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
+  Panelist in a workshop discussing and presenting the Normative Principles for Gender Equity in AI. See the recorded workshop at: [Affecting Machines](https://www.concordia.ca/cuevents/offices/provost/fourth-space/programming/2023/08/22/affecting-machines.html).
 ---
 
 ### **Professional Qualifications**  
