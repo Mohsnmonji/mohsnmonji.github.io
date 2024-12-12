@@ -82,6 +82,7 @@ redirect_from:
 
 - **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
   *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*
+
 ---
 
 ### **FELLOWSHIPS, SCHOLARSHIPS, AWARDS, AND HONORS**
