@@ -96,7 +96,7 @@ redirect_from:
 - **Dialogue McGill’s Graduate Research Scholarship**, 2023-2024.  
   - *Awarded by McGill University, funded by Health Canada, for research on “Language Barriers as a Social Determinant of Mental Health among English-Speaking Post-Secondary Students in Quebec: A Literature Review and Policy Analysis.”*  
 - **Concordia University Conference Travel Award**, 2024.  
-- **Concordia Merit Scholarship**, Department of Sociology and Anthropology, Concordia University, 2023.  
+- **Concordia University Merit Scholarship**, Department of Sociology and Anthropology, Concordia University, 2023.  
 - **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.  
 - **Ranked 4th** in the Iranian University Entrance Exam for M.A. degrees in Social Sciences (*4th in Demography, 5th in Anthropology*).
