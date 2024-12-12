@@ -86,7 +86,7 @@ redirect_from:
 
 ### **Awards and Honors**
 - **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
-  - *Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
+  - Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
 - **Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship**, Ph.D., 2024.  
 - **Fonds de recherche du Québec (FRQSC) Doctoral Scholarship**, 2024-2026.  
   - *Ranked first in Sociology and Demography.*  
