@@ -53,7 +53,7 @@ redirect_from:
 
 ---
 
-### Teaching Experience
+### TEACHING EXPERIENCE
 
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
   SOCI 212, Statistics I, Winter 2025  
@@ -75,7 +75,7 @@ redirect_from:
   Social Statistics and Quantitative Research Methods
 
 ---
-### Conference Presentations
+### CONFERENCE PRESENTATION
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
   *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa delays).
@@ -84,7 +84,7 @@ redirect_from:
   *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*
 ---
 
-### **Fellowships, Scholarships, Awards, and Honors**
+### **FELLOWSHIPS, SCHOLARSHIPS, AWARDS, AND HONORS**
 - **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
   - Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
 - **Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship**, Ph.D., 2024.  
@@ -103,13 +103,13 @@ redirect_from:
 
 ---
 
-### Talks
+### TALKS
 
 - **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
   Panelist in a workshop discussing and presenting the Normative Principles for Gender Equity in AI. See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
 ---
 
-### **Professional Qualifications**  
+### **PROFESSIONAL QUALIFICATIONS**  
 - Experienced in **Quantitative Data collection and Analysis** (e.g., survey creation and analysis)  
 - Proficient in **Statistical Data Analysis** using `R`
 - Skilled in **Data Visualization** using `R` 
@@ -118,7 +118,7 @@ redirect_from:
 
 ---
 
-### **Membership**
+### **ACADEMIC MEMBERSHIPS**
 - Canadian Sociological Association  
 - American Sociological Association  
 - Canadian Population Society  
@@ -132,7 +132,7 @@ redirect_from:
 
 ---
 
-### **Certificates**  
+### **CERTIFICATES**  
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
 - **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024  
 - **Health Inequality Monitoring Foundations: Data Sources**, issued by World Health Organization, 2023  
@@ -142,7 +142,7 @@ redirect_from:
 
 ---
 
-### **Language Proficiency**  
+### **LANGUAGES**  
 - Fluent in **English** and **Persian**  
 - Working proficiency in **French**  
 
