@@ -10,12 +10,11 @@ redirect_from:
 ---
 
 
-I am a **PhD Candidate in Sociology** at [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), a **CAnD3 Doctoral Fellow** at [McGill University](https://www.mcgill.ca/cand3/our-people/fellows-2024-25), and a **CRDCN Emerging Scholar** at the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca) conducting research on the social determinants of mental health and population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. My doctoral research has been supported by funding from **[Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html)**, **[Fonds de recherche du Québec – Société et Culture (FRQSC)](https://www.frq.gouv.qc.ca)**, the **[Quebec Interuniversity Center for Social Statistics (QICSS)](https://www.ciqss.org)**, and **[the Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca)**.
+I am a **PhD Candidate in Sociology** at [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), a **CAnD3 Doctoral Fellow** at [McGill University](https://www.mcgill.ca/cand3/our-people/fellows-2024-25), and a **CRDCN Emerging Scholar** at the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca) conducting research on the social determinants of mental health and population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. My doctoral research has been supported by funding from [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), [Fonds de recherche du Québec – Société et Culture (FRQSC)](https://www.frq.gouv.qc.ca), the [Quebec Interuniversity Center for Social Statistics (QICSS)](https://www.ciqss.org), and the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca).
 
 My **methodological interests** include quantitative research methods, survey methodology, applied social statistics, and machine learning, with a focus on official surveys with complex sampling designs.
 
 I teach **Sociology of Health**, **Quantitative Research Methods**, **Survey Methodology**, and **Applied Social Statistics**. In my courses, I integrate **experiential learning** to connect students with real-world applications of quantitative methods and statistical modeling. My goal is to provide students with the skills they need to understand, interpret, and analyze social data, and to use statistical knowledge to make a difference and contribute to a more functional and just society.
-
 ---
 
 
