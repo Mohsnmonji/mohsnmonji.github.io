@@ -84,7 +84,7 @@ redirect_from:
   *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*
 ---
 
-### **Fellowships, Scholarships,Awards, and Honors**
+### **Fellowships,Scholarships, Awards, and Honors**
 - **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
   - Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
 - **Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship**, Ph.D., 2024.  
