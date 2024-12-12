@@ -102,6 +102,7 @@ redirect_from:
 - **Ranked 4th** in the Iranian University Entrance Exam for M.A. degrees in Social Sciences (*4th in Demography, 5th in Anthropology*).
 - **Ranked 294th** in the Iranian University Entrance Exam for B.S. degrees in Engineering.  
 
+
 ---
 
 ### TALKS
