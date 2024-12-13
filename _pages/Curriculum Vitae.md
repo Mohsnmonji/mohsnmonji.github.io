@@ -115,9 +115,9 @@ redirect_from:
 
 ### **PROFESSIONAL QUALIFICATIONS**  
 - Experienced in **Quantitative Data collection and Analysis** (e.g., survey creation and analysis)  
-- Proficient in **Statistical Data Analysis** using `R`
-- Skilled in **Data Visualization** using `R` 
-- Proficient in **Version Control and Collaboration** using `Git` and `GitHub`  
+- Experienced in **Statistical Data Analysis** using `R`
+- Experienced in **Data Visualization** using `R` 
+- Experienced in **Version Control and Collaboration** using `Git` and `GitHub`  
 - Experienced in **Mathematical Writing and Online Course Preparation** using `LaTeX` , `R Markdown` , `Quarto` , `Bookdown`
 
 ---
