@@ -119,8 +119,9 @@ redirect_from:
 - Experienced in **Machine Learning** with `R` and `Python` - `Support vector machines`, `decision trees`, `k-nearest neighbors`, `random forest`, and `neural networks`  
 - Experienced in **Data Visualization** with `R` and `Python`: `ggplot2`, `matplotlib`, `seaborn`, `plotly`, and `gganimate` for creating static and interactive visualizations 
 - Experienced in **Version Control and Collaboration** with `Git` and `GitHub`  
-- Experienced in **Mathematical Writing and Online Course Preparation** with `LaTeX`, `R Markdown`, `Quarto`, and `Bookdown`  
-- **Programming Languages** : `R`, `Python`
+- Experienced in **Mathematical Writing and Online Course Preparation** with `LaTeX`, `R Markdown`, `Quarto`, and `Bookdown`
+- **Programming Languages**: `R`, `Python`
+
 ---
 
 ### **ACADEMIC MEMBERSHIPS**
