@@ -115,12 +115,12 @@ redirect_from:
 
 ### **PROFESSIONAL QUALIFICATIONS**  
 - Experienced in **Survey Creation, Data Collection, and Survey Data Analysis**  
-- Experienced in **Advanced Statistical Data Analysis** with ‘R’ and ‘Python’ - ‘multiple imputation’, **Mixed-effects models**, **latent class analysis**, **logistic regression**  
-- Experienced in **Machine Learning** with ‘R’ and ‘Python’ - ‘Support vector machines’, ‘decision trees’, ‘k-nearest neighbors’, ‘random forest’, and ‘neural networks’  
-- Experienced in **Data Visualization** with ‘R’ and ‘Python’  
-- Experienced in **Version Control and Collaboration** with ‘Git’ and ‘GitHub’  
-- Experienced in **Mathematical Writing and Online Course Preparation** with ‘LaTeX’, ‘R Markdown’, ‘Quarto’, and ‘Bookdown’  
-- **Programming Languages** - ‘R’, ‘Python’, ‘LaTeX’, ‘pandas’, ‘matplotlib’  
+- Experienced in **Advanced Statistical Data Analysis** with `R` and `Python` - `multiple imputation`, **Mixed-effects models**, **latent class analysis**, **logistic regression**  
+- Experienced in **Machine Learning** with `R` and `Python` - `Support vector machines`, `decision trees`, `k-nearest neighbors`, `random forest`, and `neural networks`  
+- Experienced in **Data Visualization** with `R` and `Python`  
+- Experienced in **Version Control and Collaboration** with `Git` and `GitHub`  
+- Experienced in **Mathematical Writing and Online Course Preparation** with `LaTeX`, `R Markdown`, `Quarto`, and `Bookdown`  
+- **Programming Languages** - `R`, `Python`, `LaTeX`, `pandas`, `matplotlib`  
 ---
 
 ### **ACADEMIC MEMBERSHIPS**
