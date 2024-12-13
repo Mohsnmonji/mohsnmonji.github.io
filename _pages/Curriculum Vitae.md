@@ -115,7 +115,7 @@ redirect_from:
 
 ### **PROFESSIONAL QUALIFICATIONS**  
 - Experienced in **Survey Creation, Data Collection, and Survey Data Analysis**  
-- Experienced in **Advanced Statistical Data Analysis** with `R` and `Python` - `multiple imputation`, `Mixed-effects models`, `latent class analysis`, `logistic and ordianl regression`  
+- Experienced in **Advanced Statistical Modeling and Data Analysis** with `R` and `Python` - `multiple imputation`, `Mixed-effects models`, `latent class analysis`, `logistic and ordianl regression`  
 - Experienced in **Machine Learning** with `R` and `Python` - `Support vector machines`, `decision trees`, `k-nearest neighbors`, `random forest`, and `neural networks`  
 - Experienced in **Data Visualization** with `R` and `Python`  
 - Experienced in **Version Control and Collaboration** with `Git` and `GitHub`  
