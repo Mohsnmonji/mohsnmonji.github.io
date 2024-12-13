@@ -115,7 +115,7 @@ redirect_from:
 
 ### **SKILLS & PROGRAMMING LANGUAGES**  
 - Experienced in **Survey Creation, Data Collection, and Data Analysis**  
-- Experienced in **Advanced Statistical Modeling and Data Analysis** with `R` and `Python` - `multiple imputations`, `mixed-effects models`, `latent class analysis`, `multilevel analysis of individual heterogeneity and discriminatory accuracy (I-MAIHDA)`, `logistic and ordinal regression`  
+- Experienced in **Advanced Statistical Modeling and Data Analysis** with `R` and `Python` - `multiple imputations`, `mixed-effects models`, `latent class analysis`, `intersectional multilevel analysis of individual heterogeneity and discriminatory accuracy (I-MAIHDA)`, `logistic and ordinal regression`  
 - Experienced in **Machine Learning** with `R` and `Python` - `Support vector machines`, `decision trees`, `k-nearest neighbors`, `random forest`, and `neural networks`  
 - Experienced in **Data Visualization** with `R` and `Python`: `ggplot2`, `matplotlib`, `seaborn`, `plotly`, and `gganimate` for creating static and interactive visualizations 
 - Experienced in **Version Control and Collaboration** with `Git` and `GitHub`  
