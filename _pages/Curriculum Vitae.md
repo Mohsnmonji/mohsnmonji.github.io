@@ -113,7 +113,7 @@ redirect_from:
 
 ---
 
-### **PROFESSIONAL QUALIFICATIONS**  
+### **Skills and Programming Languages**  
 - Experienced in **Survey Creation, Data Collection, and Survey Data Analysis**  
 - Experienced in **Advanced Statistical Modeling and Data Analysis** with `R` and `Python` - `multiple imputation`, `mixed-effects models`, `latent class analysis`, `logistic and ordianl regression`  
 - Experienced in **Machine Learning** with `R` and `Python` - `Support vector machines`, `decision trees`, `k-nearest neighbors`, `random forest`, and `neural networks`  
