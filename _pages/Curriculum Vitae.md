@@ -120,7 +120,7 @@ redirect_from:
 - Experienced in **Data Visualization** with `R` and `Python`: `ggplot2`, `matplotlib`, `seaborn`, `plotly`, and `gganimate` for creating static and interactive visualizations 
 - Experienced in **Version Control and Collaboration** with `Git` and `GitHub`  
 - Experienced in **Mathematical Writing and Online Course Preparation** with `LaTeX`, `R Markdown`, `Quarto`, and `Bookdown`  
-- **Programming Languages** - `R`, `Python`, `LaTeX`, `pandas`, `matplotlib`  
+- **Programming Languages** - `R`, `Python`
 ---
 
 ### **ACADEMIC MEMBERSHIPS**
