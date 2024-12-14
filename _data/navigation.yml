@@ -5,16 +5,15 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Curriculum Vitae"
+  - title: "CURRICULUM VITAE"
     url: /curriculum/
-  - title: "Teaching"
+  - title: "TEACHING"
     url: /teaching/    
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
-  - title: "Projects"
+  - title: "PROJECTS"
     url: /projects/
-  - title: "Talks & Presentations"
+  - title: "TALKS & PRESENTATIONS"
     url: /talks/    
-  - title: "Blog"
+  - title: "BLOG"
     url: /year-archive/
-can we change the titles here?
