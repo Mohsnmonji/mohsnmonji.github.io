@@ -123,7 +123,9 @@ redirect_from:
 - Experienced in **Reproducible Research Practices**: `R Projects`, `renv` & `GitHub`  
 - Experienced in **Statistical and Survey Software**: `SPSS` `Qualtrics` and `REDCap`, `Google Forms`
 - Proficient in  **Visualization Software**: `Tableau` 
-- **Programming Languages**: Advanced proficiency in `R` and `Python`.  
+- **Programming Languages**: Advanced proficiency in `R` and `Python`.
+- Experienced in **Collaboration Tools**:  `Notion`, `Google Workspace`, and other cloud-based collaboration tools for project management and document sharing.
+- `Excel`, `Word`, and `PowerPoint`
 
 ---
 
