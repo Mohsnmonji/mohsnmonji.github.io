@@ -121,7 +121,7 @@ redirect_from:
 - Experienced in **Version Control and Collaboration** with `Git` and `GitHub` for managing code and collaborating on data science projects with reproducible workflows.  
 - Experienced in **Mathematical Writing** with `LaTeX`, `R Markdown`, `Quarto`, and `Bookdown`: Creating academic manuscripts, technical reports, and online course materials with professional formatting and reproducibility.  
 - Experienced in **Reproducible Research Practices**: `R Projects`, `renv` & `GitHub`  
-- Experienced in **Statistical and Survey Software**: `SPSS` `Qualtrics` and `REDCap`, `Google Forms`
+- Experienced in **Statistical and Survey Software**: `SPSS` `Qualtrics`, `Google Forms`
 - Proficient in  **Visualization Software**: `Tableau` 
 - **Programming Languages**: `R` and `Python`.
 - Experienced in **Collaboration Tools**: `Google Workspace`, `Microsoft 365`, `Notion`
