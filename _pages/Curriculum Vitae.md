@@ -114,7 +114,7 @@ redirect_from:
 ---
 
 ### **SKILLS & PROGRAMMING LANGUAGES**  
-- Experienced in **Survey Design and Data Analysis**: `survey creation`, `complex survey data analysis`, `sampling bias`, `weighting` (including `bootstrapping` for `variance estimation and confidence intervals`), and `nonresponse bias` for complex national surveys.  
+- Experienced in **Survey Design and Data Analysis**: `survey creation`, `complex survey data analysis`, `sampling & nonresponse bias`, `weighting` including `bootstrapping` for `variance estimation` and `confidence intervals`,   
 - Experienced in **Advanced Statistical Modeling and Data Analysis** with `R` and `Python`:`multiple imputations`, `bootstrapping`, `mixed-effects models`, `latent class analysis`, `I-MAIHDA`, `logistic regression`, `ordinal regression`, and `mediation and moderation analysis`.  
 - Experienced in **Machine Learning** with `R` and `Python`: `supervised and unsupervised learning` including `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`, and `ensemble methods` for predictive modeling and classification tasks.  
 - Experienced in **Data Visualization** with `R` and `Python`: Tools include `ggplot2`, `matplotlib`, `seaborn`, `plotly`, `gganimate`, and `shiny dashboards` for creating static and interactive visualizations.  
