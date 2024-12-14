@@ -12,4 +12,6 @@ external_url: "https://www.concordia.ca/cuevents/offices/provost/fourth-space/pr
 Panelist in a workshop discussing gender equity in Artificial Intelligence and presenting the **Normative Principles for Gender Equity in AI**.
 
 ### Watch the Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8aWb-GaUFUI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8aWb-GaUFUI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
