@@ -121,7 +121,7 @@ redirect_from:
 - Experienced in **Version Control and Collaboration** with `Git` and `GitHub`: Skilled in managing code and collaborating on data science projects with reproducible workflows.  
 - Experienced in **Mathematical Writing** with `LaTeX`, `R Markdown`, `Quarto`, and `Bookdown`: Creating academic manuscripts, technical reports, and online course materials with professional formatting and reproducibility.  
 - Experienced in **Reproducible Research Practices**: `R Projects`, `renv` & `GitHub`  
-- Experienced in **Statistical and Survey Software**: Proficient in `SPSS` and survey platforms such as `Qualtrics` and `REDCap`, along with productivity tools like `Google Workspace` and `Notion`.  
+- Experienced in **Statistical and Survey Software**: `SPSS` `Qualtrics` and `REDCap`, `Google Forms` 
 - **Programming Languages**: Advanced proficiency in `R` and `Python`.  
 
 ---
