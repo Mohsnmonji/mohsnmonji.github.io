@@ -1,3 +1,4 @@
+no just make these capslock:
 # The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
@@ -5,15 +6,15 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "CURRICULUM VITAE"
+  - title: "Curriculum Vitae"
     url: /curriculum/
-  - title: "TEACHING"
+  - title: "Teaching"
     url: /teaching/    
-  - title: "PUBLICATIONS"
+  - title: "Publications"
     url: /publications/
-  - title: "PROJECTS"
+  - title: "Projects"
     url: /projects/
-  - title: "TALKS & PRESENTATIONS"
+  - title: "Talks & Presentations"
     url: /talks/    
-  - title: "BLOG"
+  - title: "Blog"
     url: /year-archive/
