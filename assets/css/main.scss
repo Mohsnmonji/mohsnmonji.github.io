@@ -10,14 +10,24 @@
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Merriweather:wght@400;700&display=swap');
+
+/* Media query mixins */
+@import "vendor/breakpoint/breakpoint";
+
+/* Core variables and mixins */
 @import "variables";
 @import "mixins";
+
+/* Grid system */
 @import "vendor/susy/susy";
 
+/* Base styles */
 @import "reset";
 @import "base";
 
+/* Utilities and components */
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -28,14 +38,17 @@
 @import "footer";
 @import "syntax";
 
+/* Forms and page layouts */
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
 
+/* Vendor-specific styles */
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
+
+/* Print styles */
 @import "print";
