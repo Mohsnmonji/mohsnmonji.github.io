@@ -124,8 +124,8 @@ redirect_from:
 - Experienced in **Statistical and Survey Software**: `SPSS`, `Qualtrics`, `Google Forms`.  
 - Proficient in **Visualization Software**: `Tableau`.  
 - **Programming Languages**: `R` and `Python`.  
-- Experienced in **Collaboration Tools**: `Google Workspace`, `Microsoft 365`, `Notion`.  
-- Proficient in **Microsoft Tools**: `Excel`, `Word`, and `PowerPoint`.  
+- Proficient in `Google Workspace`, `Microsoft 365`, `Notion`.  
+- Proficient in `Excel`, `Word`, and `PowerPoint`.  
 
 ---
 
