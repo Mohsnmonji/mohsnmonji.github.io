@@ -114,13 +114,13 @@ redirect_from:
 ---
 
 ### **SKILLS & PROGRAMMING LANGUAGES**  
-- Experienced in **Survey Design and Data Analysis**: `survey creation`, `complex survey data analysis`, addressing `sampling bias`, `weighting`, and `nonresponse bias` for complex national surveys.  
-- Experienced in **Advanced Statistical Modeling and Data Analysis** with `R` and `Python`: Techniques include `multiple imputations`, `mixed-effects models`, `latent class analysis`, `I-MAIHDA`, `logistic regression`, `ordinal regression`, and `mediation and moderation analysis`.  
-- Experienced in **Machine Learning** with `R` and `Python`: Proficient in supervised and unsupervised learning techniques, including `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`, and `ensemble methods` for predictive modeling and classification tasks.  
+- Experienced in **Survey Design and Data Analysis**: `survey creation`, `complex survey data analysis`, `sampling bias`, `weighting`, and `nonresponse bias` for complex national surveys.  
+- Experienced in **Advanced Statistical Modeling and Data Analysis** with `R` and `Python`:`multiple imputations`, `mixed-effects models`, `latent class analysis`, `I-MAIHDA`, `logistic regression`, `ordinal regression`, and `mediation and moderation analysis`.  
+- Experienced in **Machine Learning** with `R` and `Python`: `supervised and unsupervised learning` including `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`, and `ensemble methods` for predictive modeling and classification tasks.  
 - Experienced in **Data Visualization** with `R` and `Python`: Tools include `ggplot2`, `matplotlib`, `seaborn`, `plotly`, `gganimate`, and `shiny dashboards` for creating static and interactive visualizations.  
 - Experienced in **Version Control and Collaboration** with `Git` and `GitHub`: Skilled in managing code and collaborating on data science projects with reproducible workflows.  
 - Experienced in **Mathematical Writing** with `LaTeX`, `R Markdown`, `Quarto`, and `Bookdown`: Creating academic manuscripts, technical reports, and online course materials with professional formatting and reproducibility.  
-- Experienced in **Reproducible Research Practices**: Tools include `R Projects`, `renv` for dependency management, and `GitHub Actions` for automated workflows.  
+- Experienced in **Reproducible Research Practices**: `R Projects`, `renv` & `GitHub`  
 - Experienced in **Statistical and Survey Software**: Proficient in `SPSS` and survey platforms such as `Qualtrics` and `REDCap`, along with productivity tools like `Google Workspace` and `Notion`.  
 - **Programming Languages**: Advanced proficiency in `R` and `Python`.  
 
