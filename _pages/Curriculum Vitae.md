@@ -99,8 +99,7 @@ redirect_from:
 - **Concordia University Merit Scholarship**, Department of Sociology and Anthropology, Concordia University, 2023.  
 - **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.  
-- **Ranked 4th** in the Iranian University Entrance Exam for M.A. degrees in Social Sciences (*4th in Demography, 5th in Anthropology*).
-- **Ranked 294th** in the Iranian University Entrance Exam for B.S. degrees in Engineering.  
+
 
 
 ---
