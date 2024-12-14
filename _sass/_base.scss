@@ -14,6 +14,13 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  text-align: justify; /* Ensure justification */
+}
+
+p {
+  margin-bottom: 1.3em;
+  text-align: justify; /* Ensure paragraph justification */
+}
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
