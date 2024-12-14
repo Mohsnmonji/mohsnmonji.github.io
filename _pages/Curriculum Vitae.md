@@ -124,7 +124,7 @@ redirect_from:
 - Experienced in **Statistical and Survey Software**: `SPSS` `Qualtrics` and `REDCap`, `Google Forms`
 - Proficient in  **Visualization Software**: `Tableau` 
 - **Programming Languages**: Advanced proficiency in `R` and `Python`.
-- Experienced in **Collaboration Tools**:  `Notion`, `Google Workspace`, and other cloud-based collaboration tools for project management and document sharing.
+- Experienced in **Collaboration Tools**: `Google Workspace`, `Microsoft 365`, `Notion`
 - `Excel`, `Word`, and `PowerPoint`
 
 ---
