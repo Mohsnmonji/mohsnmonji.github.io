@@ -116,10 +116,10 @@ redirect_from:
 
 - Experienced in **Survey Design & Data Analysis**: `survey creation`, `complex survey data analysis`, `sampling & nonresponse bias`, `weighting` & `bootstrapping`.  
 - Experienced in **Advanced Statistical Modeling and Data Analysis** with `R` and `Python`: `multiple imputations`, `bootstrapping`, `mixed-effects models`, `latent class analysis`, `I-MAIHDA`, `logistic regression`, `ordinal regression`, and `mediation and moderation analysis`.  
-- Experienced in **Machine Learning** with `R` and `Python`: `supervised and unsupervised learning` including `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`, and `ensemble methods`.  
-- Experienced in **Data Visualization** with `R` and `Python`: `ggplot2`, `matplotlib`, `seaborn`, `plotly`, `gganimate`, and `shiny dashboards` for creating static and interactive visualizations.  
-- Experienced in **Version Control and Collaboration** with `Git` and `GitHub` for managing code and collaborating on data science projects with reproducible workflows.  
-- Experienced in **Mathematical Writing** with `LaTeX`, `R Markdown`, `Quarto`, and `Bookdown`: Creating academic manuscripts, technical reports, and online course materials with professional formatting and reproducibility.  
+- Experienced in **Machine Learning** with `R` and `Python`: `supervised and unsupervised learning` : `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`, `ensemble methods`.  
+- Experienced in **Data Visualization** with `R` and `Python`: `ggplot2`, `matplotlib`, `seaborn`, `plotly`, `gganimate`, & `shiny dashboards` for creating static and interactive visualizations.  
+- Experienced in **Version Control and Collaboration** with `Git` and `GitHub` for managing code & collaborating on data science projects with reproducible workflows.  
+- Experienced in **Mathematical Writing** with `LaTeX`, `R Markdown`, `Quarto`, `Bookdown` for Creating academic manuscripts, technical reports, and online course materials with professional formatting and reproducibility.  
 - Experienced in **Reproducible Research Practices**: `R Projects`, `renv` & `GitHub`  
 - Experienced in **Statistical and Survey Software**: `SPSS`, `Qualtrics`, `Google Forms`.  
 - Proficient in **Visualization Software**: `Tableau`.  
