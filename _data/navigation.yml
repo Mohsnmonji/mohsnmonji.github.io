@@ -7,14 +7,14 @@
 main:
   - title: "CV"
     url: /curriculum/
-  - title: "Talks & Presentations"
-    url: /talks/
   - title: "Teaching"
     url: /teaching/    
-  - title: "Projects"
-    url: /projects/
   - title: "Publications"
     url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Talks & Presentations"
+    url: /talks/    
   - title: "Blog"
     url: /year-archive/
-
+can we change the titles here?
