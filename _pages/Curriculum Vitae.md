@@ -101,6 +101,7 @@ redirect_from:
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
 - **Ranked 4<sup>th</sup>** in the Iranian University Entrance Exam for M.A. Degrees in Social Sciences, (**<code><span style="color: grey; font-weight: bold;">4<sup>th</sup></span></code> in Demography**, **<code><span style="color: grey; font-weight: bold;">5<sup>th</sup></span></code> in Anthropology**) 2015.
 - **Ranked 294<sup>th</sup>** in the Iranian University Entrance Exam for B.S. Degrees in Engineering, 2008.
+
 ---
 
 ### TALKS
