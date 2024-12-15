@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 <style>
-  hr {
-    border: 2px solid black;
+  h3 {
+    border-bottom: 2px solid black;
     font-weight: bold;
+    padding-bottom: 10px; /* Space between text and the line */
   }
 </style>
-
 
 ### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
