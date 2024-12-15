@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-```{css}
+
 hr {
   border: 2px solid black;
   font-weight: bold;
