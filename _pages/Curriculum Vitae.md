@@ -46,7 +46,7 @@ redirect_from:
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)  
   *Research assistant to Professor Matthew Unger in two SSHRC and FRQSC projects on law, criminalization, and Indigenous communities in Canada.*  
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)
-  *Research assistant to Professor Marie-Pier Joly in a project on employment. underemployment, and the mental health of immigrants in Canada.*
+   *Research assistant to Professor Marie-Pier Joly in a project on employment. underemployment, and the mental health of immigrants in Canada.*
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
   *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute. Conducted research on Gender Equity in AI, leading to the development of a set of normative principles for gender equity in AI.*  
   *Available at: [Normative Principles for Gender Equity in AI](https://affectingmachines.net/)*
