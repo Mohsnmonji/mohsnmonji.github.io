@@ -10,12 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-hr {
-  border: 2px solid black;
-  font-weight: bold;
-}
-
-
 ### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
   Concordia University (2020-Present)  
