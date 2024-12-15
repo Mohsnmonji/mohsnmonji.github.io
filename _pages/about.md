@@ -21,4 +21,3 @@ In addition to my research, I teach **Sociology of Health**, **Quantitative Rese
 If you're interested in my research, teaching, or potential collaborations, feel free to reach out!  
 You can contact me at [mohsen.monji@concordia.ca](mailto:mohsen.monji@concordia.ca).
 
----
