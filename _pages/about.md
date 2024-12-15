@@ -17,7 +17,7 @@ My **methodological interests** include quantitative research methods, survey me
 As a university lecturer, I teach **Sociology of Health**, **Quantitative Research Methods**, **Survey Methodology**, and **Applied Social Statistics**. In my courses, I integrate **experiential learning** to connect students with real-world applications of quantitative methods and statistical modeling. My goal is to provide students with the skills they need to understand, interpret, and analyze social data, and to use statistical knowledge to make a difference and contribute to a more functional and just society.
 
 
-### <i class="fas fa-envelope"></i> Connect with Me
+### Connect with Me
 Feel free to reach out if you're interested in my research, teaching, or potential collaborations!  
 You can contact me at [mohsen.monji@concordia.ca](mailto:mohsen.monji@concordia.ca).
 
