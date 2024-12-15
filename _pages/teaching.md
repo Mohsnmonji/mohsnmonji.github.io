@@ -4,6 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+<style>
+  h2 {
+    border-bottom: 2px solid black;
+    font-weight: bold;
+    padding-bottom: 10px; /* Space between text and the line */
+  }
+</style>
 
 ## TEACHING PHILOSOPHY
 
