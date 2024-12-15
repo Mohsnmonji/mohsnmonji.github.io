@@ -44,7 +44,7 @@ redirect_from:
 - **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
   *One-year training fellowship in population analytics.*
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)  
-  *Research assistant to Professor Matthew Unger in two SSHRC and FRQSC projects on colonialism, criminalization, and Indigenous communities.*  
+  *Research assistant to Professor Matthew Unger in two SSHRC and FRQSC projects on law, criminalization, and Indigenous communities in Canada.*  
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)
   *Research assistant to Professor Marie-Pier Joly in a project on employment. underemployment, and the mental health of immigrants in Canada.*
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
