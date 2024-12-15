@@ -11,10 +11,6 @@ redirect_from:
 
 
 
-  **---**
-
-
-
 ### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
   Concordia University (2020-Present)  
