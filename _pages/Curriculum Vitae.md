@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-<div style="font-weight: bold;">
-  ---
-</div>
+
+  **---**
+
 
 
 ### EDUCATION
