@@ -9,6 +9,13 @@ redirect_from:
 ---
 {% include base_path %}
 
+<style>
+  hr {
+    border: 2px solid black;
+    font-weight: bold;
+  }
+</style>
+
 
 ### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
