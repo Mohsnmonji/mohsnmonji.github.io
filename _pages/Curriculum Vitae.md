@@ -26,7 +26,6 @@ redirect_from:
 - **B.S. in Industrial Engineering**  
   Isfahan University of Technology, Iran (2015)  
 
----
 
 ### RESEARCH INTERESTS
 - Social Determinants of Health
@@ -36,7 +35,7 @@ redirect_from:
 - Applied Social Statistics
 - Computational Sociology
 
----
+
 
 ### PROFESSIONAL AND RESEARCH EXPERIENCE
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
@@ -56,7 +55,7 @@ redirect_from:
   *Contributed to the writing of the 2023 Responsible Tech Guide.*
   *Available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
 
----
+
 
 ### TEACHING EXPERIENCE
 
@@ -79,7 +78,7 @@ redirect_from:
 - **TUTOR**, Tehran, Iran, 2016-2020  
   - Social Statistics and Quantitative Research Methods
 
----
+
 ### CONFERENCE PRESENTATION
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
@@ -88,7 +87,7 @@ redirect_from:
 - **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
   *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*
 
----
+
 
 ### **FELLOWSHIPS, SCHOLARSHIPS, AWARDS, AND HONORS**
 - **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
@@ -107,14 +106,14 @@ redirect_from:
 - **Ranked 4<sup>th</sup>** in the Iranian University Entrance Exam for M.A. Degrees in Social Sciences, (**4<sup>th</sup>** in **Demography**, **5<sup>th</sup>** in **Anthropology**), 2015.
 - **Ranked 294<sup>th</sup>** in the Iranian University Entrance Exam for B.S. Degrees in Engineering, 2008.
 
----
+
 
 ### TALKS
 
 - **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
   Panelist in a workshop discussing and presenting the Normative Principles for Gender Equity in AI. See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
 
----
+
 
 ### **SKILLS & PROGRAMMING LANGUAGES**  
 
@@ -131,7 +130,7 @@ redirect_from:
 - Proficient in `Google Workspace`, `Microsoft 365`, `Notion`.  
 - Proficient in `Excel`, `Word`, `PowerPoint`.  
 
----
+
 
 ### **ACADEMIC MEMBERSHIPS**
 - Canadian Sociological Association  
@@ -145,7 +144,7 @@ redirect_from:
 - Social Data Science Hub  
 - Canadian Social Prescribing Student Collective  
 
----
+
 
 ### **CERTIFICATES**  
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
@@ -155,10 +154,10 @@ redirect_from:
 - **Inequality Analysis using R: Disaggregated Data from Surveys**, issued by World Health Organization, 2023  
 - **Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)**, issued by Government of Canada, 2024  
 
----
+
 
 ### **LANGUAGES**  
 - Fluent in **English** and **Persian**  
 - Working proficiency in **French**  
 
----
+
