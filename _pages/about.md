@@ -14,10 +14,10 @@ I am a **PhD Candidate in Sociology** at [Concordia University](https://www.conc
 
 My **methodological interests** include quantitative research methods, survey methodology, applied social statistics, and machine learning, with a focus on official surveys with complex sampling designs.
 
-In addition to my research, I teach **Sociology of Health**, **Quantitative Research Methods**, **Survey Methodology**, and **Applied Social Statistics**. In my courses, I integrate **experiential learning** to connect students with real-world applications of quantitative methods and statistical modeling. My goal is to provide students with the skills they need to understand, interpret, and analyze social data, and to use statistical knowledge to make a difference and contribute to a more functional and just society.
+As a university lecturer, I teach **Sociology of Health**, **Quantitative Research Methods**, **Survey Methodology**, and **Applied Social Statistics**. In my courses, I integrate **experiential learning** to connect students with real-world applications of quantitative methods and statistical modeling. My goal is to provide students with the skills they need to understand, interpret, and analyze social data, and to use statistical knowledge to make a difference and contribute to a more functional and just society.
 
 
 ### Connect with Me
-If you're interested in my research, teaching, or potential collaborations, feel free to reach out!  
+Feel free to reach out if you're interested in my research, teaching, or potential collaborations!  
 You can contact me at [mohsen.monji@concordia.ca](mailto:mohsen.monji@concordia.ca).
 
