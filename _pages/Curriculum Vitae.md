@@ -126,13 +126,9 @@ redirect_from:
 ### **ACADEMIC MEMBERSHIPS**
 - Canadian Sociological Association  
 - American Sociological Association  
-- Canadian Population Society  
 - Canadian Public Health Association  
+- Canadian Population Society  
 - American Statistical Association  
-- The Health Equity Network  
-- Women’s Health Research Cluster  
-- The Quebec Population Health Research Network  
-
 
 
 ### **CERTIFICATES**  
