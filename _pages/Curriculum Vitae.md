@@ -136,8 +136,6 @@ redirect_from:
 
 
 ### **CERTIFICATES**  
-- **The PopAging DataViz Workshop**, issued by the Consortium on Analytics for Data-Driven Decision-Making (CAnD3), 2024  
-- **R Programming Summer Camp: Introduction to Data Science in R and Documenting in Quarto**, issued by McGill University, 2024  
 - **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
 - **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024  
