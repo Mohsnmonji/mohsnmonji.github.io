@@ -20,6 +20,9 @@ redirect_from:
 ### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
   Concordia University (2020-Present)  
+  - **Co-supervisors:** Matthew Unger, Mari-Pier Joly (Concordia University)  
+  - **Committee Member:** Alexis Dennis (McGill University)  
+  - **Research Focus:** Explor the social determinants of young adults’ mental health in Canada using national survey data.   
     
 - **M.A. in Anthropology**  
   University of Tehran, Iran (2018)  
