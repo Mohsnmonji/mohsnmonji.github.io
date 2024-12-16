@@ -132,8 +132,6 @@ redirect_from:
 - The Health Equity Network  
 - Women’s Health Research Cluster  
 - The Quebec Population Health Research Network  
-- Social Data Science Hub  
-- Canadian Social Prescribing Student Collective  
 
 
 
