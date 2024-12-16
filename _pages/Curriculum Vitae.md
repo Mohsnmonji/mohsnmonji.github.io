@@ -94,7 +94,7 @@ redirect_from:
   Panelist in a workshop discussing and presenting the Normative Principles for Gender Equity in AI. See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
 
 
-### **FELLOWSHIPS, SCHOLARSHIPS, AWARDS, AND HONORS**
+### **FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS**
 - **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
   - Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
 - **Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship**, Ph.D., 2024.  
