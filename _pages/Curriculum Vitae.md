@@ -32,6 +32,7 @@ redirect_from:
 
 
 ### RESEARCH INTERESTS
+- Sociology of Health
 - Social Determinants of Health
 - Youth Mental Health
 - Quantitative Research Methods
