@@ -143,6 +143,6 @@ redirect_from:
 
 ### **LANGUAGES**  
 - Fluent in **English** and **Persian**  
-- Working proficiency in **French**  
+ 
 
 
