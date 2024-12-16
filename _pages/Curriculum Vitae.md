@@ -104,7 +104,7 @@ redirect_from:
 - **Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellowship**, 2024-2025.  
   - *First Concordia student to be awarded the CAnD3 fellowship by McGill University.*  
 - **Dialogue McGill’s Graduate Research Scholarship**, 2023-2024.  
-  - *Awarded by McGill University, funded by Health Canada, for research on “Language Barriers as a Social Determinant of Mental Health among English-Speaking Post-Secondary Students in Quebec: A Literature Review and Policy Analysis.”*  
+  - *Awarded by Dialogue McGill, funded by Health Canada, for research on “Language Barriers as a Social Determinant of Mental Health among English-Speaking Post-Secondary Students in Quebec: A Literature Review and Policy Analysis.”*  
 - **Concordia University Conference Travel Award**, 2024.  
 - **Concordia University Merit Scholarship**, Department of Sociology and Anthropology, Concordia University, 2023.  
 - **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
