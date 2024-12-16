@@ -108,8 +108,8 @@ redirect_from:
 
 ### **SKILLS & PROGRAMMING LANGUAGES**  
 
-- Experienced in **Survey Design & Data Analysis**: `survey creation`, `complex survey data analysis`, `sampling & nonresponse bias`, `weighting` & `bootstrapping`.  
-- Experienced in **Advanced Statistical Modeling & Data Analysis** with `R` & `Python`: `multiple imputations`, `bootstrapping`, `mixed-effects models`, `latent class analysis`, `I-MAIHDA`, `logistic regression`, `ordinal regression`, `mediation and moderation analysis`.  
+- Experienced in **Survey Data Analysis**:`complex survey data analysis`, `sampling & nonresponse bias`, `weighting` & `bootstrapping`.  
+- Experienced in **Statistical Modeling & Data Analysis** with `R` & `Python`: `multiple imputations`, `bootstrapping`, `mixed-effects models`, `latent class analysis`, `I-MAIHDA`, `logistic regression`, `ordinal regression`, `mediation and moderation analysis`.  
 - Experienced in **Machine Learning** with `R` & `Python`: `supervised and unsupervised learning` : `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`, `ensemble methods`.  
 - Experienced in **Data Visualization** with `R` & `Python`: `ggplot2`, `matplotlib`, `seaborn`, `plotly`, `gganimate`, & `shiny dashboards` for creating static & interactive visualizations.  
 - Experienced in **Version Control and Collaboration** with `Git` and `GitHub` for managing code & collaborating on data science projects with reproducible workflows.  
