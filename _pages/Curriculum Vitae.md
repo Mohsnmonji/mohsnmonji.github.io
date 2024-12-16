@@ -22,10 +22,11 @@ redirect_from:
   Concordia University (2020-Present)  
   - **Co-supervisors:** Matthew Unger, Mari-Pier Joly (Concordia University)  
   - **Committee Member:** Alexis Dennis (McGill University)  
-  - **Research Focus:** Exploring the social determinants of young adults’ mental health in Canada using national survey data.   
-    
+  - **Thesis Title:** *Quantitative Intersectional Approaches to Mental Health Disparities: A Study of Young Adults in Canada*  
+
 - **M.A. in Anthropology**  
   University of Tehran, Iran (2018)  
+
 - **B.S. in Industrial Engineering**  
   Isfahan University of Technology, Iran (2015)  
 
