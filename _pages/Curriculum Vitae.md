@@ -136,6 +136,7 @@ redirect_from:
 
 
 ### **CERTIFICATES**  
+- **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
 - **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024  
 - **Health Inequality Monitoring Foundations: Data Sources**, issued by World Health Organization, 2023  
