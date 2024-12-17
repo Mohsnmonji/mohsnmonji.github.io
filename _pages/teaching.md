@@ -16,7 +16,7 @@ author_profile: true
 
 I teach **Sociology of Health**, **Social Inequalities**, **Quantitative Research Methods**, **Survey Methodology**, **Applied Social Statistics**, and **Technology and Society**, with an emphasis on connecting course material to real-world applications. I approach teaching as an enjoyable experience where students feel encouraged to learn and develop their skills.
 
-In my courses, I incorporate **experiential learning** to provide students with more opportunities to work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes. I believe this hands-on approach not only helps students build technical expertise but also gives them a chance to see the impact their learning can have in the world.
+In my courses, I incorporate **experiential learning** to provide students with more opportunities to work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes. I believe this hands-on approach not only helps students build technical expertise but also gives them a chance to see the impact their work can have in creating a more functional, just, and healthier society.
 
 I value slow and thoughtful learning and want students to engage with the concepts and methods they are exposed to.
 
