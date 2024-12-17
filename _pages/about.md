@@ -14,7 +14,6 @@ I am a **PhD Candidate in Sociology** at [Concordia University](https://www.conc
 
 My doctoral research has been supported by funding from [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), [Fonds de recherche du Québec – Société et Culture (FRQSC)](https://www.frq.gouv.qc.ca), the [Quebec Interuniversity Center for Social Statistics (QICSS)](https://www.ciqss.org), and the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca).  
 
-Another strand of my research explores the relationship between technology and society, particularly how technological innovation drives social change and can lead to social good and/or social harm. My methodological interests include quantitative research methods, survey methodology, applied social statistics, and machine learning, with a focus on official surveys with complex sampling designs.  
 
 As a university lecturer, I teach Social Inequalities, Sociology of Health, Quantitative Research Methods, Survey Methodology, Applied Social Statistics, and Technology and Society.  
 
