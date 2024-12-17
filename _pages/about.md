@@ -16,7 +16,7 @@ Another strand of my research explores the **relationship between technology and
 
 My doctoral research has been supported by funding from [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), [Fonds de recherche du Québec – Société et Culture (FRQSC)](https://www.frq.gouv.qc.ca), the [Quebec Interuniversity Center for Social Statistics (QICSS)](https://www.ciqss.org), and the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca).
 
-As a university lecturer, I teach **Social Inequalities**, **Sociology of Health**, **Quantitative Research Methods**, **Survey Methodology**, **Applied Social Statistics**, and ** Technology and Society**. In my courses, I integrate **experiential learning** to connect students with real-world applications of quantitative methods and statistical modeling. My goal is to provide students with the skills they need to understand, interpret, and analyze social data, and to use statistical knowledge to make a difference and contribute to a more functional and just society.
+As a university lecturer, I teach **Social Inequalities**, **Sociology of Health**, **Quantitative Research Methods**, **Survey Methodology**, **Applied Social Statistics**, and **Technology and Society**. In my courses, I integrate **experiential learning** to connect students with real-world applications of quantitative methods and statistical modeling. My goal is to provide students with the skills they need to understand, interpret, and analyze social data, and to use statistical knowledge to make a difference and contribute to a more functional and just society.
 
 
 ### Connect with Me
