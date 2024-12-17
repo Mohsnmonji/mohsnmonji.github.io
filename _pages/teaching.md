@@ -20,7 +20,7 @@ In my courses, I incorporate **experiential learning** to provide students with 
 
 I value slow and thoughtful learning and want students to engage with the concepts and methods they are exposed to.
 
-### Courses I Teach  
+## COURSES I TEACH  
 
 * *Sociology of Health*  
 * *Social Inequalities*  
