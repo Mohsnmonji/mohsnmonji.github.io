@@ -15,7 +15,7 @@ I am a **PhD Candidate in Sociology** at [Concordia University](https://www.conc
 My doctoral research has been supported by funding from [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), [Fonds de recherche du Québec – Société et Culture (FRQSC)](https://www.frq.gouv.qc.ca), the [Quebec Interuniversity Center for Social Statistics (QICSS)](https://www.ciqss.org), and the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca).  
 
 
-As a university lecturer, I teach courses in Sociology of Health, Social Inequalities, Quantitative Research Methods, Survey Methodology, Applied Social Statistics, and Technology and Society.  
+As a university lecturer, I teach courses in Sociology of Health, Quantitative Research Methods, Survey Methodology, and Applied Social Statistics.  
 
 ### Connect with Me
 
