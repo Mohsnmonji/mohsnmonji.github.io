@@ -21,10 +21,10 @@ I value slow and thoughtful learning and want students to engage with the concep
 ## COURSES I TEACH  
 
 * *Sociology of Health*  
-* *Social Inequalities*  
 * *Quantitative Research Methods*  
 * *Survey Methodology*  
 * *Applied Social Statistics*  
+* *Social Inequalities*  
 * *Technology and Society*  
 
 
