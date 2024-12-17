@@ -31,7 +31,7 @@ redirect_from:
   Isfahan University of Technology, Iran (2015)  
 
 ### RESEARCH INTERESTS  
-*Sociology of Health*, *Social Determinants of Health*, *Quantitative Research Methods*, *Survey Methodology*, *Applied Social Statistics*, *Computational Sociology*, *Social Inequalities*,*Technology and Society*
+*Sociology of Health*, *Social Determinants of Health*, *Quantitative Research Methods*, *Survey Methodology*, *Applied Social Statistics*, *Computational Sociology*, *Social Inequalities*, *Technology and Society*
 
 ### PROFESSIONAL AND RESEARCH EXPERIENCE
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
