@@ -16,7 +16,7 @@ My doctoral research has been supported by funding from [Concordia University](h
 
 My **methodological interests** include **quantitative research methods**, **survey methodology**, **applied social statistics**, and **machine learning**, with a focus on official surveys with complex sampling designs.  
 
-I teach courses in **Social Inequalities**, **Sociology of Health**, **Quantitative Research Methods**, **Survey Methodology**, **Applied Social Statistics**, and **Technology and Society**.  
+I also teach courses in **Social Inequalities**, **Sociology of Health**, **Quantitative Research Methods**, **Survey Methodology**, **Applied Social Statistics**, and **Technology and Society**.  
 
 ### Connect with Me
 
