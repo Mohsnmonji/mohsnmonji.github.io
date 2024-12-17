@@ -20,7 +20,15 @@ In my courses, I incorporate **experiential learning** to provide students with 
 
 I value slow and thoughtful learning and want students to engage with the concepts and methods they are exposed to.
 
-I teach **Sociology of Health**, **Social Inequalities**, **Quantitative Research Methods**, **Survey Methodology**, **Applied Social Statistics**, and **Technology and Society**, with an emphasis on connecting course material to real-world applications.
+### Courses I Teach  
+
+* *Sociology of Health*  
+* *Social Inequalities*  
+* *Quantitative Research Methods*  
+* *Survey Methodology*  
+* *Applied Social Statistics*  
+* *Technology and Society*  
+
 
 ## TEACHING EXPERIENCE
 
