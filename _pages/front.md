@@ -16,7 +16,7 @@ hide_avatar: true
 
   <!-- Subtitle -->
   <p style="font-style: italic; font-size: 18px; margin-top: 5px;">
-    PhD Candidate in Sociology, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
+    PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
   </p>
   
   <!-- Social Media Links -->
