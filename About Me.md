@@ -1,5 +1,5 @@
 ---
-permalink: /bio/
+permalink: /About Me/
 title: About Me
 seo_title: About Me - Mohsen Monji
 description: Sociologist and Population Mental Health Researcher - Detailed Bio
