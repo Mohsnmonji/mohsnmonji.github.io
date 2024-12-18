@@ -25,7 +25,7 @@ I value slow and thoughtful learning and want students to engage with the concep
 * *Survey Methodology*  
 * *Applied Social Statistics*  
 * *Social Inequalities*  
-* *Technology and Society*  
+* *Society and Technology*  
 
 
 ## TEACHING EXPERIENCE
