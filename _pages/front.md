@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 seo_title: "Home"
 description: "Sociologist and Population Mental Health Researcher"
 author_profile: true
