@@ -9,7 +9,7 @@ hide_avatar: true
 
 <div style="text-align: center; margin-top: 50px;">
   <!-- Profile Image -->
-  <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 200px; height: auto; border-radius: 50%; margin-bottom: 20px;">
+  <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px;">
   
   <!-- Name -->
   <h1>MOHSEN MONJI</h1>
@@ -26,7 +26,15 @@ hide_avatar: true
       <i class="fas fa-cloud" style="font-size: 24px; margin-right: 5px;"></i> Bluesky
     </a>
   </p>
+
+  <!-- Email -->
+  <p style="margin-top: 10px;">
+    <a href="mailto:{{ site.email }}" style="color: black; text-decoration: none; font-size: 18px;">
+      <i class="fas fa-envelope" style="font-size: 24px; margin-right: 5px;"></i> mohsen.monji@concordia.ca
+    </a>
+  </p>
 </div>
+
 
 
 
