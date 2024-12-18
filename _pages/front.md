@@ -7,7 +7,6 @@ author_profile: false
 hide_avatar: true
 ---
 
-{% if page.permalink == "/" %}
   <div style="text-align: center; margin-top: 20px;">
     {% if site.linkedin %}
       <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank" style="margin: 0 10px;">
