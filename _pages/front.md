@@ -16,14 +16,14 @@ hide_avatar: true
   
   <!-- Social Media Links -->
   <p style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}" target="_blank" style="margin: 0 10px;">
-      <i class="fab fa-linkedin" style="font-size: 24px;"></i>
+    <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+      <i class="fab fa-linkedin" style="font-size: 24px; margin-right: 5px;"></i> LinkedIn
     </a>
-    <a href="https://github.com/{{ site.social.github }}" target="_blank" style="margin: 0 10px;">
-      <i class="fab fa-github" style="font-size: 24px;"></i>
+    <a href="https://github.com/{{ site.social.github }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+      <i class="fab fa-github" style="font-size: 24px; margin-right: 5px;"></i> GitHub
     </a>
-    <a href="https://{{ site.social.bluesky }}" target="_blank" style="margin: 0 10px;">
-      <i class="fas fa-cloud" style="font-size: 24px;"></i>
+    <a href="https://{{ site.social.bluesky }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+      <i class="fas fa-cloud" style="font-size: 24px; margin-right: 5px;"></i> Bluesky
     </a>
   </p>
 </div>
