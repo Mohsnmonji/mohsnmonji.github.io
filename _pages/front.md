@@ -22,7 +22,7 @@ hide_avatar: true
     <a href="https://github.com/{{ site.social.github }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
       <i class="fab fa-github" style="font-size: 24px; margin-right: 5px;"></i> GitHub
     </a>
-    <a href="https://bsky.app/profile/{{ site.social.bluesky }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+    <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
       <i class="fas fa-cloud" style="font-size: 24px; margin-right: 5px;"></i> Bluesky
     </a>
   </p>
@@ -34,6 +34,7 @@ hide_avatar: true
     </a>
   </p>
 </div>
+
 
 
 
