@@ -44,5 +44,5 @@ I approach teaching as an enjoyable experience where students feel encouraged to
 - **TEACHING ASSISTANT**, Department of Applied Human Sciences, Concordia University  
   - AHSC 380, Quantitative Research Methods for Practitioners, Winter 2022
 
-- **TUTOR**, Tehran, Iran, 2016-2020  
+- **TUTOR**, self-employed, Tehran, Iran, 2016-2020  
   - Social Statistics and Quantitative Research Methods
