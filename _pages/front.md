@@ -4,7 +4,7 @@ title: ""
 seo_title: "Home"
 description: "Sociologist and Population Mental Health Researcher"
 author_profile: true
-
+hide_avatar: true
 ---
 
 <div style="text-align: center; margin-top: 50px;">
