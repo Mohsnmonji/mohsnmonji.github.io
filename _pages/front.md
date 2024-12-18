@@ -15,23 +15,23 @@ hide_avatar: true
   <h1>MOHSEN MONJI</h1>
 
   <!-- Subtitle -->
-  <p style="font-style: italic; font-size: 14px; margin-top: 5px;">
+  <p style="font-style: italic; font-size: 16px; margin-top: 5px;">
     PhD Candidate in Sociology, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
   </p>
   
   <!-- Social Media Links -->
   <p style="margin-top: 20px;">
     <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fas fa-envelope" style="font-size: 24px; margin-right: 5px;"></i> Email
+      <i class="fas fa-envelope" style="font-size: 16px; margin-right: 5px;"></i> Email
     </a>
     <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fab fa-github" style="font-size: 24px; margin-right: 5px;"></i> GitHub
+      <i class="fab fa-github" style="font-size: 16px; margin-right: 5px;"></i> GitHub
     </a>
     <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fab fa-linkedin" style="font-size: 24px; margin-right: 5px;"></i> LinkedIn
+      <i class="fab fa-linkedin" style="font-size: 16px; margin-right: 5px;"></i> LinkedIn
     </a>
     <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fas fa-cloud" style="font-size: 24px; margin-right: 5px;"></i> Bluesky
+      <i class="fas fa-cloud" style="font-size: 16px; margin-right: 5px;"></i> Bluesky
     </a>
   </p>
 </div>
