@@ -69,10 +69,10 @@ redirect_from:
   SOCI 300, Classical Social Theory, Winter 2022, Fall 2021  
 
 - **TEACHING ASSISTANT**, Department of Applied Human Sciences, Concordia University  
-  - AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022
+  AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022
 
 - **TUTOR**, Self-Employed, Tehran, Iran, 2016-2020  
-  - Social Statistics and Quantitative Research Methods
+  Social Statistics and Quantitative Research Methods
 
 ### CONFERENCE PRESENTATION
 
