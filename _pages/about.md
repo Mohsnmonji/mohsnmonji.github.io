@@ -2,25 +2,13 @@
 permalink: /
 title: About Me
 seo_title: Mohsen Monji
-description: Sociologist and Population Mental Health Researcher.
+description: Sociologist and Population Mental Health Researcher
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
+# Mohsen Monji  
+### Sociologist and Population Mental Health Researcher  
 
-I am a **PhD Candidate in Sociology** at [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), a **CAnD3 Doctoral Fellow** at [McGill University](https://www.mcgill.ca/cand3/our-people/fellows-2024-25), and a **CRDCN Emerging Scholar** at the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca), conducting research on the social determinants of mental health and population-level disparities in mental health outcomes, particularly **psychological distress**, **anxiety**, and **depression** among **youth** and **young adults** in Canada. I use **statistical modeling** and **machine learning** to analyze such disparities and recommend evidence-based policies to improve mental health outcomes at the population level.
+I conduct research on the **social determinants of mental health** and disparities among youth and young adults in Canada, with a focus on **psychological distress**, **anxiety**, and **depression**.
 
-Methodologically, I am interested in **quantitative research methods**, **survey methodology**, **applied social statistics**, and **machine learning**, with a focus on official surveys with complex sampling design.
-
-My doctoral research has been supported by funding from [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), [Fonds de recherche du Québec – Société et Culture (FRQSC)](https://www.frq.gouv.qc.ca), the [Quebec Interuniversity Center for Social Statistics (QICSS)](https://www.ciqss.org), and the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca).  
-
-
-As a university lecturer, I teach courses in Sociology of Health, Quantitative Research Methods, Survey Methodology, and Applied Social Statistics.  
-
-### Connect with Me
-
-Feel free to reach out if you're interested in my research, teaching, or potential collaborations!  
-You can contact me at [mohsen.monji@concordia.ca](mailto:mohsen.monji@concordia.ca).
-
+[**READ MORE →**](/bio/)
