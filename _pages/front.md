@@ -9,7 +9,7 @@ hide_avatar: true
 
 <div style="text-align: center; margin-top: 50px;">
   <!-- Profile Image -->
-  <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px;">
+  <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px;">
   
   <!-- Name -->
   <h1>MOHSEN MONJI</h1>
