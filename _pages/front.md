@@ -16,9 +16,9 @@ hide_avatar: true
   
   <!-- Social Media Links -->
   <p style="margin-top: 20px;">
-    <a href="mailto:{{ site.email }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fas fa-envelope" style="font-size: 24px; margin-right: 5px;"></i> Email
-    </a>
+  <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+    <i class="fas fa-envelope" style="font-size: 24px; margin-right: 5px;"></i> Email
+  </a>
     <a href="https://github.com/{{ site.social.github }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
       <i class="fab fa-github" style="font-size: 24px; margin-right: 5px;"></i> GitHub
     </a>
