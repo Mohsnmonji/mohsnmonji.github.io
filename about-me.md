@@ -20,4 +20,4 @@ As a university lecturer, I teach courses in **Sociology of Health**, **Quantita
 
 Feel free to reach out if you're interested in my research, teaching, or potential collaborations!  
 You can contact me at [mohsen.monji@concordia.ca](mailto:mohsen.monji@concordia.ca).
-Improvements Made:
+
