@@ -3,7 +3,7 @@ permalink: /
 title: ""
 seo_title: "Home"
 description: "Sociologist and Population Mental Health Researcher"
-author_profile: true
+author_profile: false
 hide_avatar: true
 ---
 
