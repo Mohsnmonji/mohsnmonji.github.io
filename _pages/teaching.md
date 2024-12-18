@@ -18,12 +18,13 @@ I approach teaching as an enjoyable experience where students feel encouraged to
 
 ## COURSES I TEACH  
 
-* *Sociology of Health*  
 * *Quantitative Research Methods*  
 * *Survey Methodology*  
 * *Applied Social Statistics*  
+* *Critical Data Studies**
+* *Society and Technology*
 * *Social Inequalities*  
-* *Society and Technology*  
+* *Sociology of Health*
 
 
 ## TEACHING EXPERIENCE
