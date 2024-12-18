@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="text-align: center; margin-top: 50px;">
   <h1>MOHSEN MONJI</h1>
-  <h2>PhD Candidate in Sociology & Lecturer</h2>
+  
 </div>
 
 
