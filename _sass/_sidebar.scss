@@ -182,18 +182,29 @@
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  display: block; /* Ensure visibility on all screen sizes */
+  position: relative; /* Adjust positioning for better responsiveness */
+  margin-top: 10px; /* Add spacing for separation */
+  padding: 0; /* Remove unnecessary padding for cleaner design */
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
-  cursor: default;
+  border: none; /* Remove border for mobile simplicity */
+  border-radius: 0; /* Simplify the layout for mobile */
+  background: transparent; /* Match the site background */
+  z-index: 1; /* Ensure it appears above other elements */
+  box-shadow: none; /* Remove shadows for a flat design */
+  cursor: pointer; /* Indicate it's interactive */
+
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    position: absolute; /* Restore original positioning for larger screens */
+    right: 0;
+    margin-top: 15px;
+    padding: 10px;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(#000, 0.25);
+  }
+}
 
   @include breakpoint($large) {
     display: block;
