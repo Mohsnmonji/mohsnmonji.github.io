@@ -21,7 +21,7 @@ I approach teaching as an enjoyable experience where students feel encouraged to
 * *Quantitative Research Methods*  
 * *Survey Methodology*  
 * *Applied Social Statistics*  
-* *Critical Data Studies**
+* *Critical Data Studies*
 * *Society and Technology*
 * *Social Inequalities*  
 * *Sociology of Health*
