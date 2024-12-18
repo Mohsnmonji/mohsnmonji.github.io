@@ -7,26 +7,26 @@ author_profile: false
 hide_avatar: true
 ---
 
-<div style="text-align: center; margin-top: 50px;">
-  <!-- Profile Image -->
-  <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px;">
-  
-  <!-- Name -->
-  <h1>MOHSEN MONJI</h1>
-  
-  <!-- Social Media Links -->
-  <p style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fab fa-linkedin" style="font-size: 24px; margin-right: 5px;"></i> LinkedIn
-    </a>
-    <a href="https://github.com/{{ site.social.github }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fab fa-github" style="font-size: 24px; margin-right: 5px;"></i> GitHub
-    </a>
-    <a href="https://{{ site.social.bluesky }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fas fa-cloud" style="font-size: 24px; margin-right: 5px;"></i> Bluesky
-    </a>
-  </p>
-</div>
+{% if page.permalink == "/" %}
+  <div style="text-align: center; margin-top: 20px;">
+    {% if site.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank" style="margin: 0 10px;">
+        <i class="fab fa-linkedin" style="font-size: 24px;"></i>
+      </a>
+    {% endif %}
+    {% if site.github %}
+      <a href="https://github.com/{{ site.github }}" target="_blank" style="margin: 0 10px;">
+        <i class="fab fa-github" style="font-size: 24px;"></i>
+      </a>
+    {% endif %}
+    {% if site.bluesky %}
+      <a href="https://{{ site.bluesky }}" target="_blank" style="margin: 0 10px;">
+        <i class="fas fa-cloud" style="font-size: 24px;"></i>
+      </a>
+    {% endif %}
+  </div>
+{% endif %}
+
 
 
 
