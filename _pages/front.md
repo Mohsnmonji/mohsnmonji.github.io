@@ -16,13 +16,13 @@ hide_avatar: true
   
   <!-- Social Media Links -->
   <p style="margin-top: 20px;">
-  <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-    <i class="fas fa-envelope" style="font-size: 24px; margin-right: 5px;"></i> Email
-  </a>
-    <a href="https://github.com/{{ site.social.github }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+      <i class="fas fa-envelope" style="font-size: 24px; margin-right: 5px;"></i> Email
+    </a>
+    <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
       <i class="fab fa-github" style="font-size: 24px; margin-right: 5px;"></i> GitHub
     </a>
-    <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+    <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
       <i class="fab fa-linkedin" style="font-size: 24px; margin-right: 5px;"></i> LinkedIn
     </a>
     <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
@@ -30,6 +30,7 @@ hide_avatar: true
     </a>
   </p>
 </div>
+
 
 
 
