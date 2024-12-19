@@ -28,7 +28,7 @@ I approach teaching as an enjoyable experience where students feel encouraged to
 * *Sociology of Health*
 
 
-### TEACHING EXPERIENCE
+## TEACHING EXPERIENCE
 
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
   - SOCI 212, Statistics I, Winter 2025  
