@@ -52,4 +52,4 @@ I approach teaching as an enjoyable experience where students feel encouraged to
   - AHSC 380, Quantitative Research Methods for Practitioners, Winter 2022
 
 - **TUTOR**, self-employed, Tehran, Iran, 2016-2020  
-  - Social Statistics and Quantitative Research Methods
+  - Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
