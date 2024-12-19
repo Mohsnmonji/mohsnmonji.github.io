@@ -39,10 +39,10 @@ I approach teaching as an enjoyable experience where students feel encouraged to
 
 \- Provided office hours, led tutorials, and conducted lab sessions to support student learning.
   
-  - SOCI 212-B, Statistics I, Fall 2024  
-  - SOCI 213-B, Statistics II, Winter 2024  
-  - SOCI 213-CC, Statistics II, Winter 2024  
-  - SOCI 213-AA, Statistics II, Fall 2023  
+  - SOCI 212\-B, Statistics I, Fall 2024
+  - SOCI 213\-B, Statistics II, Winter 2024
+  - SOCI 213\-CC, Statistics II, Winter 2024
+  - SOCI 213\-AA, Statistics II, Fall 2023 
   - SOCI 310, Research Methods, Winter 2022  
   - SOCI 300, Classical Social Theory, Winter 2025, Fall 2024  
   - SOCI 300, Classical Social Theory, Winter 2023, Fall 2022  
