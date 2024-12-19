@@ -78,7 +78,7 @@ redirect_from:
 
 - **TUTOR**, Self-Employed, Tehran, Iran, 2016-2020  
   
-- Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
+   - Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
 
 ### CONFERENCE PRESENTATION
 
