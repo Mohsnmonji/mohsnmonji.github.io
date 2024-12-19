@@ -33,7 +33,7 @@ I approach teaching as an enjoyable experience where students feel encouraged to
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
   - SOCI 212, Statistics I, Winter 2025  
 
-    Designed a course titled “Statistics for Social Good” by incorporating experiential learning to provide students with more opportunities to work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes. I believe this hands-on approach not only helps students build technical expertise but also gives them a chance to see the impact their work can have in creating a more just and functional society.
+    Designed a course titled “Statistics for Social Good” by incorporating experiential learning to provide students with more opportunities to work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes.
 
 - **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia University  
   Teaching Assistant and tutorial leader for several courses in  quantitative research methods, statistics, and sociological theory. Duties included providing office hours, leading tutorials, and conducting lab sessions to support student learning:  
