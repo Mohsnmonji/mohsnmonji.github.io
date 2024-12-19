@@ -19,8 +19,7 @@ redirect_from:
 
 ### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
-  Concordia University (2020-Present)  
-  - **Thesis Title:** *Quantitative Intersectional Approaches to Mental Health Disparities: A Study of Young Adults in Canada*  
+  Concordia University (2020-Present)   
   - **Co-supervisors:** Matthew Unger, Marie-Pier Joly (Concordia University)  
   - **Committee Member:** Alexis Dennis (McGill University)  
 
