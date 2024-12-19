@@ -63,7 +63,7 @@ redirect_from:
 
     Teaching Assistant and tutorial leader for several courses in quantitative research methods, statistics, and sociological theory. Duties included providing office hours, leading tutorials, and conducting lab sessions to support student learning:  
   
-- SOCI 212-B, Statistics I, Fall 2024  
+  - SOCI 212-B, Statistics I, Fall 2024  
   - SOCI 213-B, Statistics II, Winter 2024  
   - SOCI 213-CC, Statistics II, Winter 2024  
   - SOCI 213-AA, Statistics II, Fall 2023  
