@@ -56,7 +56,7 @@ redirect_from:
 
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
   - SOCI 212, Statistics I, Winter 2025  
-    Designed a course titled “Statistics for Social Good” by incorporating experiential learning to provide students with more opportunities to work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes to see the impact their work can have in the world.
+    Designed a course titled “Statistics for Social Good” by incorporating experiential learning to provide students with more opportunities to work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes and see the impact their work can have in creating a more just and functional society.
 
 - **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia University  
   Teaching Assistant and tutorial leader for several quantitative research methods and statistics courses in the Department of Sociology and Anthropology and the Department of Applied Human Sciences at Concordia University. Duties included providing office hours, leading tutorials, and conducting lab sessions to support student learning:  
