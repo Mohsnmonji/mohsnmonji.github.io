@@ -6,11 +6,11 @@ description: "Sociologist and Population Mental Health Researcher - Detailed Bio
 author_profile: true
 ---
 
-I am a **PhD Candidate in Sociology** at [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), a **CAnD3 Doctoral Fellow** at [McGill University](https://www.mcgill.ca/cand3/our-people/fellows-2024-25), and a **CRDCN Emerging Scholar** at the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca). My doctoral research is focused on the **social determinants of mental health** and population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. I use statistical modeling and machine learning to analyze such disparities and recommend evidence-based policies to improve mental health outcomes at the population level.
+I am a **PhD Candidate in Sociology** at [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), a **CAnD3 Doctoral Fellow** at [McGill University](https://www.mcgill.ca/cand3/our-people/fellows-2024-25), and a **CRDCN Emerging Scholar** at the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca). My doctoral research is focused on the **social determinants of mental health** and population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. 
+
+As a quantitative researcher with interests in survey methodology, applied statistics, and machine learning, I work with multiple official Canadian national surveys with complex sampling designs to analyze disparities in mental health outcomes in Canada. My goal is to recommend evidence-based policies to improve the mental health of youth and young adults.
 
 Another strand of my research focuses on **critical data studies** and the **social implications of technology**, particularly how datafication and technological developments, including Artificial Intelligence (AI), impact society, drive social change, and contribute to social good, or reinforce social inequalities.⁣
-
-Methodologically, I am interested in quantitative research methods, survey methodology, applied social statistics, and machine learning, with a focus on official surveys with complex sampling designs.
 
 My doctoral research has been supported by funding from [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), [Fonds de recherche du Québec – Société et Culture (FRQSC)](https://www.frq.gouv.qc.ca), the [Quebec Interuniversity Center for Social Statistics (QICSS)](https://www.ciqss.org), and the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca).  
 
