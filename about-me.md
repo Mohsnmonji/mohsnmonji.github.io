@@ -8,7 +8,7 @@ author_profile: true
 
 I am a **PhD Candidate in Sociology** at [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), a **CAnD3 Doctoral Fellow** at [McGill University](https://www.mcgill.ca/cand3/our-people/fellows-2024-25), and a **CRDCN Emerging Scholar** at the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca). My doctoral research is focused on the **social determinants of mental health** and population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. 
 
-As a quantitative researcher with interests in survey methodology, applied statistics, and machine learning, I work with multiple official Canadian national surveys with complex sampling designs to analyze disparities in mental health outcomes in Canada. My goal is to recommend evidence-based policies to improve the mental health of youth and young adults.
+As a quantitative researcher with interests in survey methodology, applied statistics, and machine learning, I work with multiple official Canadian national surveys with complex sampling designs to analyze disparities in mental health outcomes in Canada. My goal is to recommend evidence-based policies to improve the mental health of youth and young adults at the population level.
 
 Another strand of my research focuses on **critical data studies** and the **social implications of technology**, particularly how datafication and technological developments, including Artificial Intelligence (AI), impact society, drive social change, contribute to social good, or reinforce social inequalities.⁣
 
