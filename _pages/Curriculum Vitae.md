@@ -1,22 +1,9 @@
 ---
-layout: archive
-title: "Curriculum Vitae"
+layout: none
 permalink: /curriculum/
-author_profile: true
-redirect_from:
-  - /resume
-  - /cv/
+redirect_to: /_pages/MohsenMonji_CV.pdf
 ---
-{% include base_path %}
 
-<style>
-  h3 {
-    border-bottom: 2px solid black;
-    font-weight: bold;
-    padding-bottom: 10px; /* Space between text and the line */
-  }
-</style>
-[**Download**](/_pages/MohsenMonji_CV.pdf)
 ### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
   Concordia University (2020-Present)   
