@@ -2,11 +2,12 @@
 layout: none
 permalink: /curriculum/
 ---
+<!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://www.mohsenmonji.com/assets/MohsenMonji_CV.pdf" />
+    <meta http-equiv="refresh" content="0; url=https://www.mohsenmonji.com/assets/MohsenMonji_CV.pdf">
+    <title>Redirecting...</title>
   </head>
   <body>
-    <p>If you are not redirected automatically, <a href="https://www.mohsenmonji.com/assets/MohsenMonji_CV.pdf">click here</a>.</p>
   </body>
 </html>
