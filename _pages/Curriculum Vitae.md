@@ -130,7 +130,8 @@ redirect_from:
 - American Sociological Association  
 - Canadian Public Health Association  
 - Canadian Population Society  
-- American Statistical Association  
+- American Statistical Association
+- American College Health Association  
 
 
 ### **CERTIFICATES**  
