@@ -16,7 +16,7 @@ redirect_from:
     padding-bottom: 10px; /* Space between text and the line */
   }
 </style>
-
+[**Download the PDF here**](/_pages/MohsenMonji_CV.pdf)
 ### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
   Concordia University (2020-Present)   
