@@ -7,10 +7,8 @@ redirect_from:
   - /resume
   - /cv/
 ---
-{% include base_path %}
-
 <style>
-  h3 {
+  h2 {
     border-bottom: 2px solid black;
     font-weight: bold;
     padding-bottom: 10px; /* Space between text and the line */
