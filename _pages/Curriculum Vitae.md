@@ -5,10 +5,18 @@ permalink: /curriculum/
 <!DOCTYPE html>
 <html>
   <head>
-    <script>
-      window.location.replace("https://www.mohsenmonji.com/MohsenMonji_CV.pdf");
-    </script>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://www.mohsenmonji.com/MohsenMonji_CV.pdf">
+    <title>Redirecting...</title>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        display: none;
+      }
+    </style>
   </head>
   <body>
   </body>
 </html>
+
