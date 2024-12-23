@@ -8,7 +8,7 @@ redirect_from:
   - /cv/
 ---
 <style>
-  h2 {
+  h3 {
     border-bottom: 2px solid black;
     font-weight: bold;
     padding-bottom: 10px; /* Space between text and the line */
