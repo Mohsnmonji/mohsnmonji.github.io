@@ -5,8 +5,9 @@ permalink: /curriculum/
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://www.mohsenmonji.com/assets/MohsenMonji_CV.pdf">
+    <title>Curriculum Vitae</title>
   </head>
   <body>
+    <embed src="/assets/MohsenMonji_CV.pdf" width="100%" height="100%" type="application/pdf">
   </body>
 </html>
