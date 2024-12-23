@@ -7,6 +7,8 @@ redirect_from:
   - /resume
   - /cv/
 ---
+{% include base_path %}
+
 <style>
   h3 {
     border-bottom: 2px solid black;
@@ -14,7 +16,6 @@ redirect_from:
     padding-bottom: 10px; /* Space between text and the line */
   }
 </style>
-
 
 ### EDUCATION
 - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
