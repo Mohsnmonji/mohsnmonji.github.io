@@ -18,5 +18,5 @@ redirect_from:
   }
 </style>
 
-## Critical Data Studies
+Stay tuned for updates.
 
