@@ -1,13 +1,18 @@
 ---
+layout: archive
 title: "Society and Technology"
 permalink: /society-and-technology/
-seo_title: "Society and Technology - Mohsen Monji"
-description: "Exploring the intersection of society and technology."
 author_profile: true
+redirect_from:
+  - /society-tech/
+  - /technology/
 ---
+{% include base_path %}
 
-## Society and Technology
-
-
-
-Stay tuned for  updates.
+<style>
+  h3 {
+    border-bottom: 2px solid black;
+    font-weight: bold;
+    padding-bottom: 10px; /* Space between text and the line */
+  }
+</style>
