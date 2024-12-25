@@ -19,4 +19,5 @@ main:
     url: /talks/    
   - title: "Blog"
     url: /year-archive/
-
+  - title: "Society and Technology"
+    url: /society-and-technology/
