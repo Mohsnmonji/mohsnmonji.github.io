@@ -108,22 +108,33 @@ redirect_from:
 - **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
 
-### **SKILLS & PROGRAMMING LANGUAGES**  
+### **SKILLS**  
 
-- Experienced in **Survey Data Analysis**:`complex survey data analysis`, `sampling & nonresponse bias`, `weighting` & `bootstrapping`.  
-- Experienced in **Statistical Modeling & Data Analysis** with `R` & `Python`: `multiple imputations`, `bootstrapping`, `mixed-effects models`, `latent class analysis`, `I-MAIHDA`, `logistic regression`, `ordinal regression`, `mediation and moderation analysis`.  
-- Experienced in **Machine Learning** with `R` & `Python`: `supervised and unsupervised learning` : `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`, `ensemble methods`.  
-- Experienced in **Data Visualization** with `R` & `Python`: `ggplot2`, `matplotlib`, `seaborn`, `plotly`, `gganimate`, & `shiny dashboards` for creating static & interactive visualizations.  
-- Experienced in **Version Control and Collaboration** with `Git` and `GitHub` for managing code & collaborating on data science projects with reproducible workflows.  
-- Experienced in **Mathematical Writing** with `LaTeX`, `R Markdown`, `Quarto`, `Bookdown` for Creating academic manuscripts, technical reports, and online course materials with professional formatting and reproducibility.  
-- Experienced in **Reproducible Research Practices**: `R Projects`, `renv` & `GitHub`  
-- Experienced in **Statistical & Survey Software**: `SPSS`, `Qualtrics`, `Google Forms`.  
-- Proficient in **Visualization Software**: `Tableau`.  
-- **Programming Languages**: `R`, `Python`.  
-- Proficient in `Google Workspace`, `Microsoft 365`, `Notion`.  
-- Proficient in `Excel`, `Word`, `PowerPoint`.  
+- **Survey Data Analysis**:  
+  `complex survey data analysis`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
+- **Statistical Modeling**:  
+  `mixed-effects models`, `logistic regression`, `ordinal regression`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`, `multiple imputations`.  
+- **Machine Learning**:  
+  `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`.  
+- **Data Visualization**:  
+ Static and interactive visualizations with  `ggplot2`, `Plotly`, and `shiny dashboards`.  
+- **Mathematical Writing**:  
+  `LaTeX`, `R Markdown`, `Quarto`, `Bookdown`.  
+- **Reproducible Research**:  
+  `R Projects`, `renv`.  
+- **Office Tools**:  
+  `Google Workspace`, `Microsoft 365`, `Notion`, `Excel`, `Word`, `PowerPoint`.  
 
+### **PROGRAMMING LANGUAGES & TOOLS**  
 
+- ![R](https://img.shields.io/badge/-R-blue?logo=R&logoColor=white) **R**  
+- ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white) **Python**  
+- ![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX**  
+- ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) **Git**  
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) **GitHub**  
+- ![SPSS](https://img.shields.io/badge/-SPSS-lightblue) **SPSS**  
+- ![Qualtrics](https://img.shields.io/badge/-Qualtrics-purple) **Qualtrics**  
+- ![Google Forms](https://img.shields.io/badge/-Google%20Forms-green?logo=google&logoColor=white) **Google Forms**  
 
 ### **ACADEMIC MEMBERSHIPS**
 - Canadian Sociological Association  
