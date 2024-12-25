@@ -17,7 +17,7 @@ author_profile: true
 I approach teaching as an enjoyable experience where students feel encouraged to learn and develop their skills. In my courses, I incorporate **experiential learning** to provide students with more opportunities to work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes. I believe this hands-on approach not only helps students build technical expertise but also gives them a chance to see the impact their work can have in creating a more functional, just, and healthier society. I value slow and thoughtful learning and want students to engage with the concepts and methods they are exposed to.
 
 ## COURSES I TEACH  
-* *Applied Sociology*
+* *Sociological Theory*
 * *Sociology of Health*
 * *Applied Social Statistics*  
 * *Quantitative Research Methods*  
