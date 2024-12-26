@@ -109,9 +109,6 @@ redirect_from:
 - **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
 
-<div style="margin-left: 20px;">
-  
-<div style="margin-left: 20px;">
 
  ### **SKILLS**  
 
@@ -127,12 +124,10 @@ redirect_from:
   LaTeX, R Markdown, Quarto, Bookdown.  
 - **Reproducible Research**:  
   R Projects, renv.  
-- **Other Tools**:  
-  Google Workspace, Google Forms, Microsoft 365, Notion, Excel, Word, PowerPoint.  
 
 
 <h3>PROGRAMMING LANGUAGES & SOFTWARE</h3>
-<div style="display: flex; flex-wrap: nowrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white" alt="LaTeX">
@@ -143,8 +138,14 @@ redirect_from:
   <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-SPSS-lightblue" alt="SPSS">
   <img src="https://img.shields.io/badge/-Qualtrics-purple" alt="Qualtrics">
+  <img src="https://img.shields.io/badge/-Google%20Workspace-blue?logo=googleworkspace&logoColor=white" alt="Google Workspace">
+  <img src="https://img.shields.io/badge/-Google%20Forms-green?logo=googleforms&logoColor=white" alt="Google Forms">
+  <img src="https://img.shields.io/badge/-Microsoft%20365-blue?logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/-Word-blue?logo=microsoftword&logoColor=white" alt="Word">
+  <img src="https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
 </div>
-
 
 
 
