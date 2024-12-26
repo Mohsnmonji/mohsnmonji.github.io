@@ -17,9 +17,4 @@ main:
     url: /projects/
   - title: "Talks & Presentations"
     url: /talks/    
-  - title: "Blog"
-    url: /year-archive/
-  - title: "Society and Technology"
-    url: /society-and-technology/
-  - title: "Critical Data Studies"
-    url: /critical-data-studies/
+ 
