@@ -109,8 +109,8 @@ redirect_from:
 - **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
 
-
- ### **SKILLS**  
+  
+ ### SKILLS  
 
 - **Survey Data Analysis**:  
   `multiple imputations`, `complex surveys`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
