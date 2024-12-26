@@ -15,6 +15,28 @@ author_profile: true
     margin-right: 10px;
     color: #007bff;
   }
+
+  .expertise, .contact {
+    margin-top: 30px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    line-height: 1.8;
+  }
+
+  .expertise ul, .contact p {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #333;
+  }
+
+  .expertise ul li {
+    list-style: none;
+    margin-bottom: 5px;
+  }
+
+  .email {
+    font-weight: bold;
+  }
 </style>
 
 <div class="about-section">
@@ -46,5 +68,23 @@ author_profile: true
     <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, 
     <strong>Survey Methodology</strong>, and <strong>Critical Data Studies</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more 
     <strong>functional</strong>, <strong>just</strong>, and <strong>healthier society</strong>.
+  </p>
+</div>
+
+<div class="expertise">
+  𝐀𝐫𝐞𝐚𝐬 𝐨𝐟 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
+  <ul>
+    <li><i class="fas fa-heartbeat icon"></i> Social Determinants of Health</li>
+    <li><i class="fas fa-users icon"></i> Population Mental Health</li>
+    <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
+    <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
+    <li><i class="fas fa-laptop-code icon"></i> Computational Sociology</li>
+  </ul>
+</div>
+
+<div class="contact">
+  <i class="fas fa-envelope icon"></i> 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
+  <p>
+    Feel free to reach out if you’re interested in my research, teaching, or potential collaborations! You can contact me at <span class="email">𝐦𝐨𝐡𝐬𝐞𝐧.𝐦𝐨𝐧𝐣𝐢@𝐜𝐨𝐧𝐜𝐨𝐫𝐝𝐢𝐚.𝐜𝐚</span>.
   </p>
 </div>
