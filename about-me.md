@@ -72,19 +72,4 @@ author_profile: true
 </div>
 
 <div class="expertise">
-  𝐀𝐫𝐞𝐚𝐬 𝐨𝐟 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
-  <ul>
-    <li><i class="fas fa-heartbeat icon"></i> Social Determinants of Health</li>
-    <li><i class="fas fa-users icon"></i> Population Mental Health</li>
-    <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
-    <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-laptop-code icon"></i> Computational Sociology</li>
-  </ul>
-</div>
-
-<div class="contact">
-  <i class="fas fa-envelope icon"></i> 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
-  <p>
-    Feel free to reach out if you’re interested in my research, teaching, or potential collaborations! You can contact me at <span class="email">𝐦𝐨𝐡𝐬𝐞𝐧.𝐦𝐨𝐧𝐣𝐢@𝐜𝐨𝐧𝐜𝐨𝐫𝐝𝐢𝐚.𝐜𝐚</span>.
-  </p>
-</div>
+  𝐀𝐫𝐞𝐚𝐬 𝐨𝐟 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬
