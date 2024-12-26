@@ -125,6 +125,7 @@ redirect_from:
 - **Reproducible Research**:  
   `R Projects`, `renv`.  
 
+
 <h3>PROGRAMMING LANGUAGES & SOFTWARE</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" alt="R">
