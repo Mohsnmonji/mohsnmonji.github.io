@@ -19,7 +19,7 @@ redirect_from:
 
 ### Download My CV
 
- [Download my CV ](/_pages/MohsenMonji_CV.pdf).
+ [Download my CV ](/_pages/MohsenMonji_CV.pdf)
 
 
 
