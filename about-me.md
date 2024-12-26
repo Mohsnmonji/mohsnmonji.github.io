@@ -16,22 +16,37 @@ author_profile: true
     color: #007bff;
   }
 
-  .expertise, .contact {
-    margin-top: 30px;
-    font-size: 1.1rem;
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .card h3 {
+    font-size: 1.2rem;
     font-weight: bold;
-    line-height: 1.8;
-  }
-
-  .expertise ul, .contact p {
-    margin: 10px 0;
-    font-size: 1rem;
     color: #333;
+    margin-bottom: 15px;
   }
 
-  .expertise ul li {
+  .card ul {
     list-style: none;
-    margin-bottom: 5px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .card ul li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #555;
+  }
+
+  .card p {
+    font-size: 1rem;
+    color: #555;
   }
 
   .email {
@@ -71,5 +86,21 @@ author_profile: true
   </p>
 </div>
 
-<div class="expertise">
-  𝐀𝐫𝐞𝐚𝐬 𝐨𝐟 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬
+<div class="card">
+  <h3><i class="fas fa-lightbulb icon"></i> Areas of Expertise</h3>
+  <ul>
+    <li><i class="fas fa-heartbeat icon"></i> Social Determinants of Health</li>
+    <li><i class="fas fa-users icon"></i> Population Mental Health</li>
+    <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
+    <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
+    <li><i class="fas fa-laptop-code icon"></i> Computational Sociology</li>
+    <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h3><i class="fas fa-envelope icon"></i> Contact</h3>
+  <p>
+    Feel free to reach out if you’re interested in my research, teaching, or potential collaborations! You can contact me at <span class="email">𝐦𝐨𝐡𝐬𝐞𝐧.𝐦𝐨𝐧𝐣𝐢@𝐜𝐨𝐧𝐜𝐨𝐫𝐝𝐢𝐚.𝐜𝐚</span>.
+  </p>
+</div>
