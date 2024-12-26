@@ -113,14 +113,17 @@ redirect_from:
   
 <div style="margin-left: 20px;">
 
-  <h3>SKILLS</h3>
+  ### **SKILLS**  
 
-  <ul>
-    <li><strong>Survey Data Analysis:</strong> multiple imputations, complex surveys, sampling, nonresponse bias, weighting, bootstrapping.</li>
-    <li><strong>Statistical Modeling:</strong> OLS, logistic, & ordinal regression, mixed-effects models, mediation and moderation analysis, latent class analysis, I-MAIHDA.</li>
-    <li><strong>Machine Learning:</strong> support vector machines, decision trees, k-nearest neighbors, random forests, neural networks.</li>
-    <li><strong>Data Visualization:</strong> Static and interactive visualizations with ggplot2, Plotly, and shiny dashboards.</li>
-  </ul>
+- **Survey Data Analysis**:  
+  `multiple imputations`, `complex surveys`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
+- **Statistical Modeling**:  
+  `OLS, logistic, & ordinal regression`, `mixed-effects models`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`.  
+- **Machine Learning**:  
+  `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`.  
+- **Data Visualization**:  
+  Static and interactive visualizations with `ggplot2`, `Plotly`, and `shiny dashboards`.  
+
 
   <h4 style="margin-left: 0;">Mathematical Writing</h4>
   <div style="display: flex; gap: 10px; align-items: center;">
