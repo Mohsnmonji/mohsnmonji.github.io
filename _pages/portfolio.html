@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Projects"
@@ -7,39 +8,18 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="projects-intro">
-  <p>Explore the projects I have worked on with R, Python, and other tools.</p>
+<div style="margin-bottom: 40px;">
+  <p style="text-align: center; font-size: 1.2rem; color: #555;">Explore the projects I have worked on with R, Python, and other tools.</p>
 </div>
 
-<div class="projects-list">
-  {% for post in site.portfolio %}
-    <div class="project-item">
-      <h2>{{ post.title }}</h2>
-      <div class="project-content">
-        {{ post.content | markdownify }}
-      </div>
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" class="project-link" target="_blank">GitHub Repository</a>
-      {% endif %}
+{% for post in site.portfolio %}
+  <div class="project-item" style="margin-bottom: 40px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s, box-shadow 0.3s;">
+    <h2 style="font-size: 1.8rem; color: #0056b3; margin-bottom: 10px;">{{ post.title }}</h2>
+    <div style="font-size: 1rem; color: #333; margin-bottom: 20px;">
+      {{ post.content | markdownify }}
     </div>
-  {% endfor %}
-</div>
-
-<!-- Lazy Loading Script -->
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const lazyImages = document.querySelectorAll('img.lazy');
-    const observer = new IntersectionObserver((entries, observer) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          const img = entry.target;
-          img.src = img.dataset.src;
-          img.classList.remove('lazy');
-          observer.unobserve(img);
-        }
-      });
-    });
-
-    lazyImages.forEach(img => observer.observe(img));
-  });
-</script>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 15px; border-radius: 5px; font-size: 1rem; transition: background-color 0.3s;">GitHub Repository</a>
+    {% endif %}
+  </div>
+{% endfor %}
