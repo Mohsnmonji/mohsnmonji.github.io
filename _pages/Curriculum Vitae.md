@@ -80,8 +80,8 @@ redirect_from:
   
    - Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
 
-### <i class="fas fa-microphone"></i> CONFERENCE PRESENTATIONS
- 
+### <i class="fas fa-presentation"></i> CONFERENCE PRESENTATIONS
+
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
   *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa delays).
 
