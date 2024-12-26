@@ -9,16 +9,23 @@ hide_avatar: true
 
 <div style="text-align: center; margin-top: 50px;">
   <!-- Profile Image -->
-  <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border: 2px solid #007BFF;">
+  <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   
   <!-- Name -->
   <h1 style="color: #333; margin-bottom: 5px;">MOHSEN MONJI</h1>
 
-  <!-- Subtitle -->
-  <p style="font-style: italic; font-size: 18px; color: #555;">
-    PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
+  <!-- Description -->
+  <p style="font-size: 16px; max-width: 600px; margin: 0 auto; color: #333;">
+    I am a <strong>PhD Candidate in Sociology</strong> at <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
+    a <strong>CAnD3 Doctoral Fellow</strong> at <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
+    and a <strong>CRDCN Emerging Scholar</strong> at the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
+    My doctoral research is focused on the <strong>social determinants of mental health</strong> and population-level disparities in mental health outcomes, 
+    particularly <strong>psychological distress</strong>, <strong>anxiety</strong>, and <strong>depression</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada. 
   </p>
   
+  <!-- Learn More Button -->
+  <a href="/about-me/" style="display: inline-block; margin-top: 20px; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Learn More About Me</a>
+
   <!-- Social Media Links -->
   <p style="margin-top: 20px;">
     <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
@@ -34,13 +41,6 @@ hide_avatar: true
       <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#17a2b8'" onmouseout="this.style.color='black'"></i> Bluesky
     </a>
   </p>
-</div>
-
-<div style="margin-top: 40px;">
-  <p style="font-size: 16px; max-width: 600px; margin: 0 auto; color: #333;">
-    I am a **PhD Candidate in Sociology** at [Concordia University](https://www.concordia.ca/artsci/sociology-anthropology.html), a **CAnD3 Doctoral Fellow** at [McGill University](https://www.mcgill.ca/cand3/our-people/fellows-2024-25), and a **CRDCN Emerging Scholar** at the [Canadian Research Data Centre Network (CRDCN)](https://crdcn.ca). My doctoral research is focused on the **social determinants of mental health** and population-level disparities in mental health outcomes, particularly **psychological distress**, **anxiety**, and **depression** among **youth** and **young adults** in Canada. [Read more about me →](/about-me/)
-  </p>
-  <a href="/curriculum/" style="display: inline-block; margin-top: 20px; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Learn More</a>
 </div>
 
 <footer style="margin-top: 50px; text-align: center; padding: 20px; background: #f0f4f8;">
