@@ -127,8 +127,6 @@ redirect_from:
 
 ### **PROGRAMMING LANGUAGES & Software**  
 
-### **PROGRAMMING LANGUAGES & TOOLS**  
-
 ![R](https://img.shields.io/badge/-R-blue?logo=R&logoColor=white) **R**  
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white) **Python**  
 ![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX**  
