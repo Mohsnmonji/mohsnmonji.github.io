@@ -87,7 +87,7 @@ author_profile: true
 </div>
 
 <div class="card">
-  <h3><i class="fas fa-lightbulb icon"></i> Areas of Expertise</h3>
+  <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
   <ul>
     <li><i class="fas fa-heartbeat icon"></i> Social Determinants of Health</li>
     <li><i class="fas fa-users icon"></i> Population Mental Health</li>
