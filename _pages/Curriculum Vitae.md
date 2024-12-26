@@ -111,9 +111,9 @@ redirect_from:
 ### **SKILLS**  
 
 - **Survey Data Analysis**:  
-  `complex surveys`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
+  `multiple imputations`, `complex surveys`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
 - **Statistical Modeling**:  
-  `mixed-effects models`, `logistic regression`, `ordinal regression`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`, `multiple imputations`.  
+  `OLS, logistic, & ordinal regression`, `mixed-effects models`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`.
 - **Machine Learning**:  
   `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`.  
 - **Data Visualization**:  
