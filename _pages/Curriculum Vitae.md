@@ -124,17 +124,17 @@ redirect_from:
 
 
 ### <i class="fas fa-chart-bar"></i> SKILLS
-- **Survey Data Analysis**:  
+- **Survey Data Analysis**
    `complex surveys`,`multiple imputations`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
-- **Statistical Modeling**:  
+- **Statistical Modeling**
   `OLS`, `logistic`, & `ordinal regression`, `mixed-effects models`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`.  
-- **Machine Learning**:  
+- **Machine Learning**
   `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`.  
-- **Data Visualization**:  
+- **Data Visualization**
   Static and interactive visualizations with `ggplot2`, `Plotly`, and `shiny dashboards`.  
-- **Mathematical Writing**:  
+- **Mathematical Writing**
   `LaTeX`, `R Markdown`, `Quarto`, `Bookdown`.  
-- **Reproducible Research**:  
+- **Reproducible Research**
   `R Projects`, `renv`.  
 
 
