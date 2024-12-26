@@ -17,7 +17,7 @@ redirect_from:
   }
 </style>
 
-### <i class="fas fa-graduation-cap" style="color: blue;"></i> EDUCATION
+### <i class="fas fa-graduation-cap"></i> EDUCATION
 
   - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
   Concordia University (2020-Present)   
@@ -81,7 +81,7 @@ redirect_from:
   
    - Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
 
-### <i class="fas fa-presentation"></i> CONFERENCE PRESENTATIONS
+### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
   *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa delays).
