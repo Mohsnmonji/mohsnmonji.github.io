@@ -15,11 +15,6 @@ author_profile: true
     margin-right: 10px;
     color: #007bff;
   }
-
-  .highlight {
-    font-weight: bold;
-    color: #0056b3;
-  }
 </style>
 
 <div class="about-section">
@@ -30,7 +25,7 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. My doctoral research is focused on the 
-    <span class="highlight">social determinants of mental health</span> and population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. I use statistical modeling and machine learning to analyze such disparities and recommend data-driven and evidence-based policies to improve the mental health of youth and young adults at the population level.
+    <strong>social determinants of mental health</strong> and population-level disparities in mental health outcomes, particularly psychological distress, anxiety, and depression among youth and young adults in Canada. I use statistical modeling and machine learning to analyze such disparities and recommend data-driven and evidence-based policies to improve the mental health of youth and young adults at the population level.
   </p>
 
   <p>
@@ -50,7 +45,6 @@ author_profile: true
     As a university lecturer, I teach courses in <strong>Sociology of Health</strong>, 
     <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, 
     <strong>Survey Methodology</strong>, and <strong>Critical Data Studies</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more 
-    <span class="highlight">functional</span>, <span class="highlight">just</span>, and <span class="highlight">healthier society</span>.
+    <strong>functional</strong>, <strong>just</strong>, and <strong>healthier society</strong>.
   </p>
 </div>
-
