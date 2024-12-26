@@ -7,15 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-
-
-{% for post in site.portfolio %}
-  <div class="project-item">
-    <h2>{{ post.title }}</h2> <!-- Added back to display project titles -->
-    {{ post.content | markdownify }}
-    {% if post.paperurl %}
-      <p><a href="{{ post.paperurl }}" target="_blank">GitHub Repository</a></p>
-    {% endif %}
-  </div>
-  <hr>
-{% endfor %}
+<div class="projects-grid">
+  {% for post in site.portfolio %}
+    <div class="project-item">
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }}" style="max-width:100%; border-radius:8px; margin-bottom:15px;">
+      {% endif %}
+      <h2><a href="{{ post.url }}" style="text-decoration:none; color:#0056b3;">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url }}" class="btn">View Project</a>
+    </div>
+  {% endfor %}
+</div>
