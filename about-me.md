@@ -10,8 +10,6 @@ author_profile: true
   .about-section {
     margin-bottom: 40px;
   }
-</style>
-
 
   .about-content {
     line-height: 1.8;
