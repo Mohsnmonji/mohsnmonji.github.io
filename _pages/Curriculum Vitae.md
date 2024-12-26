@@ -17,6 +17,11 @@ redirect_from:
   }
 </style>
 
+### Download My CV
+
+You can [download my CV here](../pages/MohsenMonji_cv.pdf).
+
+
 ### <i class="fas fa-graduation-cap"></i> EDUCATION
 
   - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
