@@ -80,8 +80,8 @@ redirect_from:
   
    - Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
 
-### <i class="fas fa-podium"></i> CONFERENCE PRESENTATION 
-
+### <i class="fas fa-microphone"></i> CONFERENCE PRESENTATIONS
+ 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
   *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa delays).
 
@@ -161,7 +161,8 @@ redirect_from:
 
 
 
-### <i class="fas fa-certificate"></i> CERTIFICATES 
+### <i class="fas fa-award"></i> CERTIFICATES
+
 
 - **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
