@@ -4,12 +4,13 @@
 <meta charset="utf-8">
 
 <!-- Title and Description -->
-<title>{% if page.title %}{{ page.title }} | Mohsen Monji{% else %}Mohsen Monji | PhD Candidate in Sociology & Lecturer{% endif %}</title>
-<meta name="description" content="{{ page.description | default: site.description }}">
+
+<title>Mohsen Monji | PhD Candidate in Sociology & Lecturer</title>
+<meta name="description" content="Sociologist and Population Mental Health Researcher.">
 <meta name="author" content="Mohsen Monji">
 
 <!-- Canonical URL -->
-<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="canonical" href="https://www.mohsenmonji.com/">
 
 <!-- Viewport for Mobile Responsiveness -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,11 +19,11 @@
 <meta name="robots" content="index, follow">
 
 <!-- Open Graph Metadata for All Platforms -->
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}Mohsen Monji{% endif %}">
-<meta property="og:description" content="{{ page.description | default: site.description }}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:image" content="{{ page.image | default: site.default_image }}">
-<meta property="og:image:secure_url" content="{{ page.image | default: site.default_image }}">
+<meta property="og:title" content="Mohsen Monji">
+<meta property="og:description" content="Sociologist and Population Mental Health Researcher.">
+<meta property="og:url" content="https://www.mohsenmonji.com">
+<meta property="og:image" content="https://www.mohsenmonji.com/images/profile.PNG">
+<meta property="og:image:secure_url" content="https://www.mohsenmonji.com/images/profile.PNG">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="627">
@@ -32,24 +33,35 @@
 
 <!-- Twitter Card Metadata -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}Mohsen Monji{% endif %}">
-<meta name="twitter:description" content="{{ page.description | default: site.description }}">
-<meta name="twitter:image" content="{{ page.image | default: site.default_image }}">
+<meta name="twitter:title" content="Mohsen Monji">
+<meta name="twitter:description" content="Sociologist and Population Mental Health Researcher.">
+<meta name="twitter:image" content="https://www.mohsenmonji.com/images/profile.PNG">
 <meta name="twitter:image:alt" content="Profile picture of Mohsen Monji">
 
 <!-- Structured Data for Rich Snippets -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "{% if page.title %}{{ page.title }}{% else %}Mohsen Monji{% endif %}",
-  "description": "{{ page.description | default: site.description }}",
-  "url": "{{ page.url | absolute_url }}",
-  "image": "{{ page.image | default: site.default_image }}",
-  "author": {
-    "@type": "Person",
-    "name": "Mohsen Monji"
-  }
+  "@type": "Person",
+  "name": "Mohsen Monji",
+  "description": "Sociologist and Population Mental Health Researcher.",
+  "image": "https://www.mohsenmonji.com/images/profile.PNG",
+  "url": "https://www.mohsenmonji.com",
+  "jobTitle": "PhD Candidate in Sociology and Lecturer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Concordia University"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Montreal",
+    "addressCountry": "Canada"
+  },
+  "sameAs": [
+    "https://github.com/Mohsnmonji",
+    "https://www.linkedin.com/in/mohsen-monji-0a3a37269",
+    "https://bsky.app/profile/mohsenmonji.bsky.social"
+  ]
 }
 </script>
 
