@@ -27,10 +27,10 @@ author_profile: true
     text-decoration: underline;
   }
 
-  .about-section h2 {
-    font-size: 1.8rem;
+  .about-section h3 {
+    font-size: 1.5rem;
     color: black;
-    margin-top: 40px;
+    margin-top: 30px;
     margin-bottom: 15px;
   }
 
@@ -79,9 +79,9 @@ author_profile: true
   </div>
 
   <div class="about-content">
-    <h2>Research Interests</h2>
+    <h3>Research Interests</h3>
     <ul>
-      <li><i class="fas fa-users icon"></i> Sociology of Health</li>
+     <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
       <li><i class="fas fa-database icon"></i> Quantitative Research Methods</li>
       <li><i class="fas fa-chart-line icon"></i> Survey Methodology</li>
       <li><i class="fas fa-table icon"></i> Social Statistics</li>
@@ -91,7 +91,7 @@ author_profile: true
   </div>
 
   <div class="about-content">
-    <h2>Teaching</h2>
+    <h3>Teaching</h3>
     <p>
       As a university lecturer, I teach courses in <strong>Sociology of Health</strong>, 
       <strong>Quantitative Research Methods</strong>, <strong>Survey Methodology</strong>, 
@@ -100,6 +100,9 @@ author_profile: true
       <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more 
       <span class="highlight">functional</span>, <span class="highlight">just</span>, and <span class="highlight">healthier society</span>.
     </p>
+  </div>
+</div>
+
   </div>
 </div>
 
