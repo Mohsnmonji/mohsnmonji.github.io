@@ -34,7 +34,7 @@ redirect_from:
   Isfahan University of Technology, Iran (2015)  
 
 ### <i class="fas fa-lightbulb"></i> RESEARCH INTERESTS
-*Sociology of Health*, *Quantitative Research Methods*, *Survey Methodology*, *Applied Social Statistics*, *Computational Sociology*, *Critical Data Studies*
+*Sociology of Health*, *Quantitative Research Methods*, *Survey Methodology*, *Social Statistics*, *Computational Sociology*, *Critical Data Studies*
 ### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
   *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
