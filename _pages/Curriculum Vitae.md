@@ -109,9 +109,9 @@ redirect_from:
 - **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
 
- ### SKILLS  
+### **SKILLS** 
 - **Survey Data Analysis**:  
-  `multiple imputations`, `complex surveys`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
+   `complex surveys`,`multiple imputations`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
 - **Statistical Modeling**:  
   `OLS`, `logistic`, & `ordinal regression`, `mixed-effects models`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`.  
 - **Machine Learning**:  
