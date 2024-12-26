@@ -93,7 +93,6 @@ redirect_from:
   Panelist in a workshop discussing and presenting the Normative Principles for Gender Equity in AI. See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
 
 
-
 ### **FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS**
 - **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
   - Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
@@ -108,6 +107,18 @@ redirect_from:
 - **Concordia University Merit Scholarship**, Department of Sociology and Anthropology, Concordia University, 2023.  
 - **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
+
+
+### **ACADEMIC MEMBERSHIPS**
+
+- [Canadian Sociological Association](https://www.csa-scs.ca)  
+- [American Sociological Association](https://www.asanet.org)  
+- [Canadian Public Health Association](https://www.cpha.ca)  
+- [Canadian Population Society](https://www.canpopsoc.ca)  
+- [American Statistical Association](https://www.amstat.org)  
+- [American College Health Association](https://www.acha.org)  
+
+
 
 ### **SKILLS** 
 - **Survey Data Analysis**:  
@@ -146,15 +157,6 @@ redirect_from:
 </div>
 
 
-
-### **ACADEMIC MEMBERSHIPS**
-
-- [Canadian Sociological Association](https://www.csa-scs.ca)  
-- [American Sociological Association](https://www.asanet.org)  
-- [Canadian Public Health Association](https://www.cpha.ca)  
-- [Canadian Population Society](https://www.canpopsoc.ca)  
-- [American Statistical Association](https://www.amstat.org)  
-- [American College Health Association](https://www.acha.org)  
 
 
 
