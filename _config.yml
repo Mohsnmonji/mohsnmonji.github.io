@@ -140,6 +140,8 @@ defaults:
       author_profile: true
       comments: true
       share: true
+      paginate: 4
+      paginate_path: "/projects/page:num/"
 
 # Sass/SCSS
 sass:
