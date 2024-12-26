@@ -9,8 +9,9 @@ author_profile: true
 <style>
   .about-section {
     margin-bottom: 40px;
-    font-family: 'Arial', sans-serif;
   }
+</style>
+
 
   .about-content {
     line-height: 1.8;
@@ -100,9 +101,6 @@ author_profile: true
       <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more 
       <span class="highlight">functional</span>, <span class="highlight">just</span>, and <span class="highlight">healthier society</span>.
     </p>
-  </div>
-</div>
-
   </div>
 </div>
 
