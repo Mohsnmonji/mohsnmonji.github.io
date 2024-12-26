@@ -119,22 +119,30 @@ redirect_from:
   `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`.  
 - **Data Visualization**:  
  Static and interactive visualizations with  `ggplot2`, `Plotly`, and `shiny dashboards`.  
-- **Mathematical Writing**:  
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX**,  
-  ![R Markdown](https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white) **R Markdown**,  
-  ![Quarto](https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white) **Quarto**,  
-  ![Bookdown](https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white) **Bookdown**.  
-- **Reproducible Research**:  
-  ![R Projects](https://img.shields.io/badge/-R%20Projects-blue?logo=R&logoColor=white) **R Projects**,  
-  ![renv](https://img.shields.io/badge/-renv-orange?logo=R&logoColor=white) **renv**.  
-- **Other Tools**:  
-  ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-blue?logo=googleworkspace&logoColor=white) **Google Workspace**,  
-  ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue?logo=microsoftoffice&logoColor=white) **Microsoft 365**,  
-  ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white) **Notion**,  
-  ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white) **Excel**,  
-  ![Word](https://img.shields.io/badge/-Word-blue?logo=microsoftword&logoColor=white) **Word**,  
-  ![PowerPoint](https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&logoColor=white) **PowerPoint**.  
- 
+<h4>Mathematical Writing</h4>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white" alt="R Markdown">
+  <img src="https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white" alt="Quarto">
+  <img src="https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white" alt="Bookdown">
+</div>
+
+<h4>Reproducible Research</h4>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/-R%20Projects-blue?logo=R&logoColor=white" alt="R Projects">
+  <img src="https://img.shields.io/badge/-renv-orange?logo=R&logoColor=white" alt="renv">
+</div>
+
+<h4>Other Tools</h4>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/-Google%20Workspace-blue?logo=googleworkspace&logoColor=white" alt="Google Workspace">
+  <img src="https://img.shields.io/badge/-Microsoft%20365-blue?logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/-Word-blue?logo=microsoftword&logoColor=white" alt="Word">
+  <img src="https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+</div>
+
 
 <h3>PROGRAMMING LANGUAGES & SOFTWARE</h3>
 <div style="display: flex; flex-wrap: nowrap; gap: 10px;">
