@@ -111,7 +111,7 @@ redirect_from:
 ### **SKILLS**  
 
 - **Survey Data Analysis**:  
-  `complex survey data analysis`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
+  `complex surveys`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
 - **Statistical Modeling**:  
   `mixed-effects models`, `logistic regression`, `ordinal regression`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`, `multiple imputations`.  
 - **Machine Learning**:  
@@ -122,8 +122,8 @@ redirect_from:
   `LaTeX`, `R Markdown`, `Quarto`, `Bookdown`.  
 - **Reproducible Research**:  
   `R Projects`, `renv`.  
-- **Office Tools**:  
-  `Google Workspace`, `Microsoft 365`, `Notion`, `Excel`, `Word`, `PowerPoint`.  
+- **Other Tools**:  
+  `Google Workspace`, `Google Forms`, `Microsoft 365`, `Notion`, `Excel`, `Word`, `PowerPoint`.  
 
 ### **PROGRAMMING LANGUAGES & Software**  
 
@@ -133,8 +133,7 @@ redirect_from:
 - ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) **Git**  
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) **GitHub**  
 - ![SPSS](https://img.shields.io/badge/-SPSS-lightblue) **SPSS**  
-- ![Qualtrics](https://img.shields.io/badge/-Qualtrics-purple) **Qualtrics**  
-- ![Google Forms](https://img.shields.io/badge/-Google%20Forms-green?logo=google&logoColor=white) **Google Forms**  
+- ![Qualtrics](https://img.shields.io/badge/-Qualtrics-purple) **Qualtrics**   
 
 ### **ACADEMIC MEMBERSHIPS**
 - Canadian Sociological Association  
