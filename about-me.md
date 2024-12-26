@@ -58,7 +58,6 @@ author_profile: true
 
 <div class="about-section">
   <div class="about-card">
-    <h3>Introduction</h3>
     <p>
       I am a <strong>PhD Candidate in Sociology</strong> at 
       <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
@@ -71,10 +70,6 @@ author_profile: true
     <p>
       I use statistical modeling and machine learning to analyze such disparities and recommend data-driven and evidence-based policies to improve the mental health of youth and young adults at the population level.
     </p>
-  </div>
-
-  <div class="about-card">
-    <h3>Research Support</h3>
     <p>
       My doctoral research has been supported by funding from 
       <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
@@ -110,4 +105,5 @@ author_profile: true
     </p>
   </div>
 </div>
+
 
