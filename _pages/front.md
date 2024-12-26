@@ -47,5 +47,6 @@ hide_avatar: true
 </div>
 
 <footer style="margin-top: 50px; text-align: center; padding: 20px; background: #f0f4f8;">
-  <p style="font-size: 14px; color: #666;">© 2024 Mohsen Monji | <a href="/curriculum/" style="color: #007BFF; text-decoration: none;">View CV</a></p>
+  <p style="font-size: 14px; color: #666;">© 2024 Mohsen Monji</p>
 </footer>
+
