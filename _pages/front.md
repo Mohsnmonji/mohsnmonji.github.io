@@ -15,7 +15,7 @@ hide_avatar: true
   <h1 style="color: #333; margin-bottom: 5px;">MOHSEN MONJI</h1>
 
   <!-- Description -->
-  <p style="font-size: 16px; max-width: 600px; margin: 0 auto; color: #333;">
+  <p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
     I am a <strong>PhD Candidate in Sociology</strong> at <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
     a <strong>CAnD3 Doctoral Fellow</strong> at <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
@@ -23,8 +23,11 @@ hide_avatar: true
     particularly <strong>psychological distress</strong>, <strong>anxiety</strong>, and <strong>depression</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada. 
   </p>
   
-  <!-- Learn More Button -->
-  <a href="/about-me/" style="display: inline-block; margin-top: 20px; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Learn More About Me</a>
+  <!-- Buttons -->
+  <div style="margin-top: 20px;">
+    <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 10px;">Learn More About Me</a><br>
+    <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View CV</a>
+  </div>
 
   <!-- Social Media Links -->
   <p style="margin-top: 20px;">
