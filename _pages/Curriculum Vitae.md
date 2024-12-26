@@ -114,11 +114,12 @@ redirect_from:
 - **Survey Data Analysis**:  
   `multiple imputations`, `complex surveys`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
 - **Statistical Modeling**:  
-  `OLS, logistic, & ordinal regression`, `mixed-effects models`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`.
+  `OLS, logistic, & ordinal regression`, `mixed-effects models`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`.  
 - **Machine Learning**:  
   `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`.  
 - **Data Visualization**:  
- Static and interactive visualizations with  `ggplot2`, `Plotly`, and `shiny dashboards`.  
+  Static and interactive visualizations with `ggplot2`, `Plotly`, and `shiny dashboards`.  
+
 <h4>Mathematical Writing</h4>
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white" alt="LaTeX">
