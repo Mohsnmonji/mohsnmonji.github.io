@@ -12,7 +12,7 @@ My doctoral research has been supported by funding from [Concordia University](h
 
 Methodologically, I am interested in quantitative research methods, survey methodology, applied social statistics, and machine learning, with a focus on official large-scale surveys with complex sampling designs.
 
-As a university lecturer, I teach courses in **Sociological Theory**, **Sociology of Mental Health**, **Applied Social Statistics**, **Quantitative Research Methods**, **Survey Methodology**, and **Critical Data Studies**, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate **experiential learning** to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more **functional**, **just**, and **healthier society**.
+As a university lecturer, I teach courses in **Sociology of  Health**, **Social Statistics**, **Quantitative Research Methods**, **Survey Methodology**, and **Critical Data Studies**, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate **experiential learning** to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more **functional**, **just**, and **healthier society**.
 
 ---
 
