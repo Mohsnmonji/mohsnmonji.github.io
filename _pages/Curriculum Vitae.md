@@ -113,17 +113,22 @@ redirect_from:
   
 <div style="margin-left: 20px;">
 
-  ### **SKILLS**  
+ ### **SKILLS**  
 
 - **Survey Data Analysis**:  
-  `multiple imputations`, `complex surveys`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
+  multiple imputations, complex surveys, sampling, nonresponse bias, weighting, bootstrapping.  
 - **Statistical Modeling**:  
-  `OLS, logistic, & ordinal regression`, `mixed-effects models`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`.  
+  OLS, logistic, & ordinal regression, mixed-effects models, mediation and moderation analysis, latent class analysis, I-MAIHDA.
 - **Machine Learning**:  
-  `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`.  
+  support vector machines, decision trees, k-nearest neighbors, random forests, neural networks.  
 - **Data Visualization**:  
-  Static and interactive visualizations with `ggplot2`, `Plotly`, and `shiny dashboards`.  
-
+ Static and interactive visualizations with  ggplot2, Plotly, and shiny dashboards.  
+- **Mathematical Writing**:  
+  LaTeX, R Markdown, Quarto, Bookdown.  
+- **Reproducible Research**:  
+  R Projects, renv.  
+- **Other Tools**:  
+  Google Workspace, Google Forms, Microsoft 365, Notion, Excel, Word, PowerPoint.  
 
 
 <h3>PROGRAMMING LANGUAGES & SOFTWARE</h3>
