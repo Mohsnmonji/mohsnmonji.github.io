@@ -142,13 +142,14 @@ redirect_from:
  
 
 ### **ACADEMIC MEMBERSHIPS**
-- Canadian Sociological Association  
-- American Sociological Association  
-- Canadian Public Health Association  
-- Canadian Population Society  
-- American Statistical Association
-- American College Health Association  
 
+- [Canadian Sociological Association](https://www.csa-scs.ca)  
+- [American Sociological Association](https://www.asanet.org)  
+- [Canadian Public Health Association](https://www.cpha.ca)  
+- [Canadian Population Society](https://www.canpopsoc.ca)  
+- [American Statistical Association](https://www.amstat.org)  
+- [American College Health Association](https://www.acha.org)  
+```
 
 ### **CERTIFICATES**  
 - **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
