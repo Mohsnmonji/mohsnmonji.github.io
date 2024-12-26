@@ -136,8 +136,7 @@ redirect_from:
   `R Projects`, `renv`.  
 
 
-<h3><i class="fas fa-code"></i> PROGRAMMING LANGUAGES & SOFTWARE</h3>
-
+<h3><i class="fab fa-r-project"></i> PROGRAMMING LANGUAGES & SOFTWARE</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white" alt="Python">
