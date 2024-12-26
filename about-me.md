@@ -12,22 +12,6 @@ author_profile: true
     font-family: 'Arial', sans-serif;
   }
 
-  .about-header {
-    text-align: center;
-    margin-bottom: 30px;
-  }
-
-  .about-header h1 {
-    font-size: 2.5rem;
-    color: #0056b3;
-  }
-
-  .about-header p {
-    font-size: 1.2rem;
-    color: #555;
-    margin-top: 10px;
-  }
-
   .about-content {
     line-height: 1.8;
     color: #333;
@@ -45,7 +29,7 @@ author_profile: true
 
   .about-section h2 {
     font-size: 1.8rem;
-    color: #0056b3;
+    color: black;
     margin-top: 40px;
     margin-bottom: 15px;
   }
@@ -73,11 +57,6 @@ author_profile: true
 </style>
 
 <div class="about-section">
-  <div class="about-header">
-    <h1>About Me</h1>
-    <p>Sociologist and Population Mental Health Researcher</p>
-  </div>
-
   <div class="about-content">
     <p>
       I am a <strong>PhD Candidate in Sociology</strong> at 
@@ -102,11 +81,12 @@ author_profile: true
   <div class="about-content">
     <h2>Research Interests</h2>
     <ul>
+      <li><i class="fas fa-users icon"></i> Sociology of Health</li>
       <li><i class="fas fa-database icon"></i> Quantitative Research Methods</li>
       <li><i class="fas fa-chart-line icon"></i> Survey Methodology</li>
-      <li><i class="fas fa-cogs icon"></i> Applied Social Statistics</li>
-      <li><i class="fas fa-robot icon"></i> Machine Learning</li>
-      <li><i class="fas fa-users icon"></i> Population Mental Health</li>
+      <li><i class="fas fa-table icon"></i> Social Statistics</li>
+      <li><i class="fas fa-laptop-code icon"></i> Computational Sociology</li>
+      <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
     </ul>
   </div>
 
