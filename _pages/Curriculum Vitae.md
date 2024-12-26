@@ -33,7 +33,7 @@ redirect_from:
 ### RESEARCH INTERESTS  
 *Sociological Theory*, *Sociology of Health*, *Quantitative Research Methods*, *Survey Methodology*, *Applied Social Statistics*, *Computational Sociology*, *Critical Data Studies*, *Society and Technology*
 
-### PROFESSIONAL AND RESEARCH EXPERIENCE
+### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
   *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
 - **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
@@ -52,7 +52,7 @@ redirect_from:
   *Available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
 
 
-### TEACHING EXPERIENCE
+### <i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE
 
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
   - SOCI 212, Statistics I, Winter 2025  
@@ -121,7 +121,7 @@ redirect_from:
 
 
 
-### **SKILLS** 
+### <i class="fas fa-chart-bar"></i> SKILLS
 - **Survey Data Analysis**:  
    `complex surveys`,`multiple imputations`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
 - **Statistical Modeling**:  
@@ -161,7 +161,7 @@ redirect_from:
 
 
 
-### **CERTIFICATES**  
+### <i class="fas fa-certificate"></i> CERTIFICATES 
 
 - **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
