@@ -111,40 +111,40 @@ redirect_from:
 
 <div style="margin-left: 20px;">
   
-### **SKILLS**  
+<div style="margin-left: 20px;">
 
-- **Survey Data Analysis**:  
-  `multiple imputations`, `complex surveys`, `sampling`, `nonresponse bias`, `weighting`, `bootstrapping`.  
-- **Statistical Modeling**:  
-  `OLS, logistic, & ordinal regression`, `mixed-effects models`, `mediation and moderation analysis`, `latent class analysis`, `I-MAIHDA`.  
-- **Machine Learning**:  
-  `support vector machines`, `decision trees`, `k-nearest neighbors`, `random forests`, `neural networks`.  
-- **Data Visualization**:  
-  Static and interactive visualizations with `ggplot2`, `Plotly`, and `shiny dashboards`.  
+  <h3>SKILLS</h3>
 
-<h4 style="margin-left: 20px;">Mathematical Writing</h4>
-<div style="display: flex; gap: 10px; align-items: center; margin-left: 20px;">
-  <img src="https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white" alt="R Markdown">
-  <img src="https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white" alt="Quarto">
-  <img src="https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white" alt="Bookdown">
-</div>
+  <ul>
+    <li><strong>Survey Data Analysis:</strong> multiple imputations, complex surveys, sampling, nonresponse bias, weighting, bootstrapping.</li>
+    <li><strong>Statistical Modeling:</strong> OLS, logistic, & ordinal regression, mixed-effects models, mediation and moderation analysis, latent class analysis, I-MAIHDA.</li>
+    <li><strong>Machine Learning:</strong> support vector machines, decision trees, k-nearest neighbors, random forests, neural networks.</li>
+    <li><strong>Data Visualization:</strong> Static and interactive visualizations with ggplot2, Plotly, and shiny dashboards.</li>
+  </ul>
 
-<h4 style="margin-left: 20px;">Reproducible Research</h4>
-<div style="display: flex; gap: 10px; align-items: center; margin-left: 20px;">
-  <img src="https://img.shields.io/badge/-R%20Projects-blue?logo=R&logoColor=white" alt="R Projects">
-  <img src="https://img.shields.io/badge/-renv-orange?logo=R&logoColor=white" alt="renv">
-</div>
+  <h4 style="margin-left: 0;">Mathematical Writing</h4>
+  <div style="display: flex; gap: 10px; align-items: center;">
+    <img src="https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white" alt="LaTeX">
+    <img src="https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white" alt="R Markdown">
+    <img src="https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white" alt="Quarto">
+    <img src="https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white" alt="Bookdown">
+  </div>
 
-<h4 style="margin-left: 20px;">Other Tools</h4>
-<div style="display: flex; gap: 10px; align-items: center; margin-left: 20px;">
-  <img src="https://img.shields.io/badge/-Google%20Workspace-blue?logo=googleworkspace&logoColor=white" alt="Google Workspace">
-  <img src="https://img.shields.io/badge/-Microsoft%20365-blue?logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
-  <img src="https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/-Word-blue?logo=microsoftword&logoColor=white" alt="Word">
-  <img src="https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
-</div>
+  <h4 style="margin-left: 0;">Reproducible Research</h4>
+  <div style="display: flex; gap: 10px; align-items: center;">
+    <img src="https://img.shields.io/badge/-R%20Projects-blue?logo=R&logoColor=white" alt="R Projects">
+    <img src="https://img.shields.io/badge/-renv-orange?logo=R&logoColor=white" alt="renv">
+  </div>
+
+  <h4 style="margin-left: 0;">Other Tools</h4>
+  <div style="display: flex; gap: 10px; align-items: center;">
+    <img src="https://img.shields.io/badge/-Google%20Workspace-blue?logo=googleworkspace&logoColor=white" alt="Google Workspace">
+    <img src="https://img.shields.io/badge/-Microsoft%20365-blue?logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
+    <img src="https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white" alt="Notion">
+    <img src="https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white" alt="Excel">
+    <img src="https://img.shields.io/badge/-Word-blue?logo=microsoftword&logoColor=white" alt="Word">
+    <img src="https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+  </div>
 
 </div>
 
