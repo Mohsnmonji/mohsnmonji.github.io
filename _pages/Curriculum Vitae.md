@@ -17,7 +17,6 @@ redirect_from:
   }
 </style>
 
-[Download my CV](/_pages/MohsenMonji_CV.pdf)
 
 
 ### <i class="fas fa-graduation-cap"></i> EDUCATION
