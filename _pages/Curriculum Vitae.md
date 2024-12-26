@@ -125,7 +125,7 @@ redirect_from:
 - **Office Tools**:  
   `Google Workspace`, `Microsoft 365`, `Notion`, `Excel`, `Word`, `PowerPoint`.  
 
-### **PROGRAMMING LANGUAGES & TOOLS**  
+### **PROGRAMMING LANGUAGES & Software**  
 
 - ![R](https://img.shields.io/badge/-R-blue?logo=R&logoColor=white) **R**  
 - ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white) **Python**  
