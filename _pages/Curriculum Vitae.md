@@ -19,10 +19,10 @@ redirect_from:
 
 ### EDUCATION
   - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
-  Concordia University (2020-Present)  
-  <span style="background-color: #e7f3fe; padding: 2px 4px; border-radius: 4px;">Co-supervisors: Drs. Matthew Unger and Marie-Pier Joly</span>
-
+  Concordia University (2020-Present)   
+  - **Co-supervisors:** Drs. Matthew Unger and Marie-Pier Joly (Concordia University)  
   - **Committee Member:** Dr. Alexis Dennis (McGill University)  
+ 
 
 - **M.A. in Anthropology**  
   University of Tehran, Iran (2018)  
