@@ -7,24 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="projects-grid">
-  {% for post in site.portfolio %}
-    <div class="project-item">
-      <h2>{{ post.title }}</h2>
-      <p>{{ post.excerpt }}</p>
-      <p>
-        {% if post.categories %}
-          <strong>Categories:</strong>
-          {% for category in post.categories %}
-            <a href="/projects/categories/{{ category | slugify }}" style="margin-right:10px; text-decoration:none; background-color:#007bff; color:white; padding:5px 10px; border-radius:5px;">{{ category }}</a>
-          {% endfor %}
-        {% endif %}
-      </p>
-      {{ post.content | markdownify }}
-      {% if post.paperurl %}
-        <p><a href="{{ post.paperurl }}" target="_blank" style="color:#007bff;">GitHub Repository</a></p>
-      {% endif %}
-    </div>
-    <hr>
-  {% endfor %}
-</div>
+
+
+{% for post in site.portfolio %}
+  <div class="project-item">
+    <h2>{{ post.title }}</h2> <!-- Added back to display project titles -->
+    {{ post.content | markdownify }}
+    {% if post.paperurl %}
+      <p><a href="{{ post.paperurl }}" target="_blank">GitHub Repository</a></p>
+    {% endif %}
+  </div>
+  <hr>
+{% endfor %}
+
