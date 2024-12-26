@@ -125,19 +125,20 @@ redirect_from:
 - **Other Tools**:  
   `Google Workspace`, `Google Forms`, `Microsoft 365`, `Notion`, `Excel`, `Word`, `PowerPoint`.  
 
-### **PROGRAMMING LANGUAGES & Software**  
+### **PROGRAMMING LANGUAGES & SOFTWARE**  
 
-![R](https://img.shields.io/badge/-R-blue?logo=R&logoColor=white) **R**  
-![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white) **Python**  
-![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX**  
-![R Markdown](https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white) **R Markdown**  
-![Quarto](https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white) **Quarto**  
-![Bookdown](https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white) **Bookdown**  
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) **Git**  
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) **GitHub**  
-![SPSS](https://img.shields.io/badge/-SPSS-lightblue) **SPSS**  
+![R](https://img.shields.io/badge/-R-blue?logo=R&logoColor=white) **R** &emsp;  
+![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white) **Python** &emsp;  
+![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX** &emsp;  
+![R Markdown](https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white) **R Markdown** &emsp;  
+![Quarto](https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white) **Quarto** &emsp;  
+![Bookdown](https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white) **Bookdown** &emsp;  
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) **Git** &emsp;  
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) **GitHub** &emsp;  
+![SPSS](https://img.shields.io/badge/-SPSS-lightblue) **SPSS** &emsp;  
 ![Qualtrics](https://img.shields.io/badge/-Qualtrics-purple) **Qualtrics**  
- 
+
+
 
 ### **ACADEMIC MEMBERSHIPS**
 
@@ -149,7 +150,9 @@ redirect_from:
 - [American College Health Association](https://www.acha.org)  
 
 
+
 ### **CERTIFICATES**  
+
 - **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
 - **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024  
