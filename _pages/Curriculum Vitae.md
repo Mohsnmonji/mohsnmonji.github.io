@@ -87,9 +87,10 @@ redirect_from:
 - **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
   *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*
 
-### **TALKS**
+### TALKS
+
 - **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6UNZkXNQeU0" title="Affecting Machines Workshop" frameborder="0" allowfullscreen></iframe>
+  Panelist in a workshop discussing and presenting the Normative Principles for Gender Equity in AI. See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
 
 
 
