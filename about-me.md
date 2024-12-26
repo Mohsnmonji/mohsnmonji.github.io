@@ -114,17 +114,12 @@ author_profile: true
     <h2>Teaching</h2>
     <p>
       As a university lecturer, I teach courses in <strong>Sociology of Health</strong>, 
-      <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, 
-      <strong>Survey Methodology</strong>, and <strong>Critical Data Studies</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate 
+      <strong>Quantitative Research Methods</strong>, <strong>Survey Methodology</strong>, 
+      <strong>Social Statistics</strong>, <strong>Computational Sociology</strong>, and 
+      <strong>Critical Data Studies</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate 
       <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more 
       <span class="highlight">functional</span>, <span class="highlight">just</span>, and <span class="highlight">healthier society</span>.
     </p>
   </div>
 </div>
-
-
-### Connect with Me  
-
-Feel free to reach out if you're interested in my research, teaching, or potential collaborations!  
-You can contact me at [mohsen.monji@concordia.ca](mailto:mohsen.monji@concordia.ca).
 
