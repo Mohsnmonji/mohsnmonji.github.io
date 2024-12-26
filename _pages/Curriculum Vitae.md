@@ -17,7 +17,8 @@ redirect_from:
   }
 </style>
 
-### <i class="fas fa-graduation-cap"></i> EDUCATION
+### <i class="fas fa-graduation-cap" style="color: blue;"></i> EDUCATION
+
   - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
   Concordia University (2020-Present)   
   - **Co-supervisors:** Drs. Matthew Unger and Marie-Pier Joly (Concordia University)  
