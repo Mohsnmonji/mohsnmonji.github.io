@@ -127,16 +127,16 @@ redirect_from:
 
 ### **PROGRAMMING LANGUAGES & SOFTWARE**  
 
-![R](https://img.shields.io/badge/-R-blue?logo=R&logoColor=white) **R** &emsp;  
-![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white) **Python** &emsp;  
-![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX** &emsp;  
-![R Markdown](https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white) **R Markdown** &emsp;  
-![Quarto](https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white) **Quarto** &emsp;  
-![Bookdown](https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white) **Bookdown** &emsp;  
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) **Git** &emsp;  
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) **GitHub** &emsp;  
-![SPSS](https://img.shields.io/badge/-SPSS-lightblue) **SPSS** &emsp;  
-![Qualtrics](https://img.shields.io/badge/-Qualtrics-purple) **Qualtrics**  
+![R](https://img.shields.io/badge/-R-blue?logo=R&logoColor=white) **R** &nbsp;  
+![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white) **Python** &nbsp;  
+![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX** &nbsp;  
+![R Markdown](https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white) **R Markdown** &nbsp;  
+![Quarto](https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white) **Quarto** &nbsp;  
+![Bookdown](https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white) **Bookdown** &nbsp;  
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) **Git** &nbsp;  
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) **GitHub** &nbsp;  
+![SPSS](https://img.shields.io/badge/-SPSS-lightblue) **SPSS** &nbsp;  
+![Qualtrics](https://img.shields.io/badge/-Qualtrics-purple) **Qualtrics**
 
 
 
