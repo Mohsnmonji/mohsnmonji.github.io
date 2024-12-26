@@ -13,7 +13,12 @@ hide_avatar: true
   
   <!-- Name -->
   <h1 style="color: #333; margin-bottom: 5px;">MOHSEN MONJI</h1>
-
+  
+  <!-- Subtitle -->
+  <p style="font-style: italic; font-size: 18px; margin-top: 5px; color: #555;">
+    PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
+  </p>
+ 
   <!-- Description -->
   <p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
     I am a <strong>PhD Candidate in Sociology</strong> at <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
