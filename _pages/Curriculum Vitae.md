@@ -125,17 +125,17 @@ redirect_from:
 - **Other Tools**:  
   `Google Workspace`, `Google Forms`, `Microsoft 365`, `Notion`, `Excel`, `Word`, `PowerPoint`.  
 
-### **PROGRAMMING LANGUAGES & SOFTWARE**  
+### **PROGRAMMING LANGUAGES & SOFTWARE**
 
-![R](https://img.shields.io/badge/-R-blue?logo=R&logoColor=white) **R** &nbsp;  
-![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white) **Python** &nbsp;  
-![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX** &nbsp;  
-![R Markdown](https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white) **R Markdown** &nbsp;  
-![Quarto](https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white) **Quarto** &nbsp;  
-![Bookdown](https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white) **Bookdown** &nbsp;  
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) **Git** &nbsp;  
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) **GitHub** &nbsp;  
-![SPSS](https://img.shields.io/badge/-SPSS-lightblue) **SPSS** &nbsp;  
+![R](https://img.shields.io/badge/-R-blue?logo=R&logoColor=white) **R**  
+![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white) **Python**  
+![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX**  
+![R Markdown](https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white) **R Markdown**  
+![Quarto](https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white) **Quarto**  
+![Bookdown](https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white) **Bookdown**  
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) **Git**  
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) **GitHub**  
+![SPSS](https://img.shields.io/badge/-SPSS-lightblue) **SPSS**  
 ![Qualtrics](https://img.shields.io/badge/-Qualtrics-purple) **Qualtrics**
 
 
