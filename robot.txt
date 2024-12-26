@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: /sitemap
 Allow: /
 Sitemap: https://www.mohsenmonji.com/sitemap.xml
