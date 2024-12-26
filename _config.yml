@@ -9,16 +9,14 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Mohsen Monji | PhD Candidate in Sociology & Lecturer" # Full site title
-title_separator: "-" # Separator for titles
+title: "Home "
+title_separator: "-"
 name: "Mohsen Monji"
-description: "Sociologist and Population Mental Health Researcher" # Default description
-url: "https://www.mohsenmonji.com" # Update with your custom domain
+description: "Sociologist & Population Mental Health Researcher"
+url: https://www.mohsenmonji.com # Update with your custom domain
 baseurl: "" # Leave empty for personal GitHub Pages site
 repository: "mohsenmonji/mohsenmonji.github.io"
 
-# Global Defaults for Metadata
-default_image: "/images/profile.PNG" # Fallback image for pages without specific images
 author: "Mohsen Monji" # Author name
 
 # Site Author - The following control what appears as part of the author content on the sidebar.
