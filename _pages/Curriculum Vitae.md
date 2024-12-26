@@ -110,7 +110,7 @@ redirect_from:
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
 
 
-### **ACADEMIC MEMBERSHIPS**
+### <i class="fas fa-users"></i> ACADEMIC MEMBERSHIPS
 
 - [Canadian Sociological Association](https://www.csa-scs.ca)  
 - [American Sociological Association](https://www.asanet.org)  
