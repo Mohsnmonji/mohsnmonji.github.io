@@ -120,11 +120,21 @@ redirect_from:
 - **Data Visualization**:  
  Static and interactive visualizations with  `ggplot2`, `Plotly`, and `shiny dashboards`.  
 - **Mathematical Writing**:  
-  `LaTeX`, `R Markdown`, `Quarto`, `Bookdown`.  
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white) **LaTeX**,  
+  ![R Markdown](https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white) **R Markdown**,  
+  ![Quarto](https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white) **Quarto**,  
+  ![Bookdown](https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white) **Bookdown**.  
 - **Reproducible Research**:  
-  `R Projects`, `renv`.  
+  ![R Projects](https://img.shields.io/badge/-R%20Projects-blue?logo=R&logoColor=white) **R Projects**,  
+  ![renv](https://img.shields.io/badge/-renv-orange?logo=R&logoColor=white) **renv**.  
 - **Other Tools**:  
-  `Google Workspace`, `Google Forms`, `Microsoft 365`, `Notion`, `Excel`, `Word`, `PowerPoint`.  
+  ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-blue?logo=googleworkspace&logoColor=white) **Google Workspace**,  
+  ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue?logo=microsoftoffice&logoColor=white) **Microsoft 365**,  
+  ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white) **Notion**,  
+  ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white) **Excel**,  
+  ![Word](https://img.shields.io/badge/-Word-blue?logo=microsoftword&logoColor=white) **Word**,  
+  ![PowerPoint](https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&logoColor=white) **PowerPoint**.  
+ 
 
 <h3>PROGRAMMING LANGUAGES & SOFTWARE</h3>
 <div style="display: flex; flex-wrap: nowrap; gap: 10px;">
