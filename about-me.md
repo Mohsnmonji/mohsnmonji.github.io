@@ -11,40 +11,6 @@ author_profile: true
     margin-bottom: 40px;
   }
 
-  .about-card {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 20px;
-    background-color: #f9f9f9;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px;
-  }
-
-  .about-card h3 {
-    font-size: 1.5rem;
-    color: black;
-    margin-bottom: 15px;
-    border-bottom: 2px solid black;
-    padding-bottom: 10px;
-  }
-
-  .about-card p {
-    margin: 0 0 10px;
-    line-height: 1.8;
-    color: #333;
-  }
-
-  .about-card ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .about-card ul li {
-    margin-bottom: 10px;
-    color: #555;
-  }
-
   .icon {
     margin-right: 10px;
     color: #007bff;
@@ -78,7 +44,7 @@ author_profile: true
   </p>
 </div>
 
-<div class="about-card">
+<div class="about-section">
   <h3>Research Interests</h3>
   <ul>
     <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
@@ -90,7 +56,7 @@ author_profile: true
   </ul>
 </div>
 
-<div class="about-card">
+<div class="about-section">
   <h3>Teaching</h3>
   <p>
     As a university lecturer, I teach courses in <strong>Sociology of Health</strong>, 
