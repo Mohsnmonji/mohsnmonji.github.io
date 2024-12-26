@@ -149,7 +149,7 @@ redirect_from:
 - [Canadian Population Society](https://www.canpopsoc.ca)  
 - [American Statistical Association](https://www.amstat.org)  
 - [American College Health Association](https://www.acha.org)  
-```
+
 
 ### **CERTIFICATES**  
 - **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
