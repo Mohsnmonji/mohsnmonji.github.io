@@ -30,7 +30,7 @@ redirect_from:
 - **B.S. in Industrial Engineering**  
   Isfahan University of Technology, Iran (2015)  
 
-### RESEARCH INTERESTS  
+### <i class="fas fa-lightbulb"></i> RESEARCH INTERESTS
 *Sociological Theory*, *Sociology of Health*, *Quantitative Research Methods*, *Survey Methodology*, *Applied Social Statistics*, *Computational Sociology*, *Critical Data Studies*, *Society and Technology*
 
 ### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
@@ -80,7 +80,7 @@ redirect_from:
   
    - Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
 
-### CONFERENCE PRESENTATION
+### <i class="fas fa-podium"></i> CONFERENCE PRESENTATION
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
   *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa delays).
@@ -88,13 +88,13 @@ redirect_from:
 - **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
   *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*
 
-### TALKS
+### <i class="fas fa-microphone"></i> TALKS 
 
 - **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
   Panelist in a workshop discussing and presenting the Normative Principles for Gender Equity in AI. See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
 
 
-### **FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS**
+### <i class="fas fa-trophy"></i> FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS
 - **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
   - Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
 - **Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship**, Ph.D., 2024.  
@@ -136,7 +136,8 @@ redirect_from:
   `R Projects`, `renv`.  
 
 
-<h3>PROGRAMMING LANGUAGES & SOFTWARE</h3>
+<h3><i class="fas fa-code"></i> PROGRAMMING LANGUAGES & SOFTWARE</h3>
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white" alt="Python">
