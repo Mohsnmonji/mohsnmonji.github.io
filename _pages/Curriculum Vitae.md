@@ -134,6 +134,10 @@ redirect_from:
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) **GitHub**  
 - ![SPSS](https://img.shields.io/badge/-SPSS-lightblue) **SPSS**  
 - ![Qualtrics](https://img.shields.io/badge/-Qualtrics-purple) **Qualtrics**   
+- ![R Markdown](https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white) **R Markdown**  
+- ![Quarto](https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white) **Quarto**  
+- ![Bookdown](https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white) **Bookdown**  
+   
 
 ### **ACADEMIC MEMBERSHIPS**
 - Canadian Sociological Association  
