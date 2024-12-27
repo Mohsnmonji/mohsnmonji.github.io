@@ -29,6 +29,7 @@ author_profile: true
     color: #333333; /* Dark Gray Text */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: justify; /* Justify text within the media cards */
   }
 
   .media-card:hover {
@@ -73,6 +74,7 @@ author_profile: true
     margin-bottom: 40px;
     box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.2);
     animation: float 3s ease-in-out infinite;
+    text-align: justify; /* Justify text within featured media */
   }
 
   @keyframes float {
@@ -136,7 +138,6 @@ author_profile: true
       </li>
     </ul>
   </div>
-
 
   <!-- Card 2 -->
   <div class="media-card">
