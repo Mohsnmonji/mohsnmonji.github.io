@@ -8,11 +8,11 @@ author_profile: true
 <style>
   /* General Styling */
   h2 {
-    border-bottom: 2px solid #007bff; /* Change solid line to blue */
+    border-bottom: 2px solid #1B5E20; /* Accessible Dark Green */
     font-weight: bold;
     padding-bottom: 10px; /* Space between text and the line */
     margin-top: 30px;
-    color: #333; /* Keep the heading text color unchanged */
+    color: #333; /* Dark Gray for Heading Text */
   }
 
   ul {
@@ -26,34 +26,31 @@ author_profile: true
 
   .icon {
     margin-right: 10px;
-    color: #007bff;
+    color: #1B5E20; /* Accessible Dark Green */
   }
 
   .teaching-section {
     margin-bottom: 40px;
   }
 
-  .teaching-section h2 {
-    margin-top: 20px;
-  }
-
   .teaching-card {
-    border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    background-color: #f9f9f9;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Keep the shadow as is */
+    color: #333333; /* Dark Gray Text */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Subtle Shadow */
+    background-color: #E3F2FD; /* Light Blue Background */
   }
 
   .teaching-card h4 {
     font-weight: bold;
     margin-bottom: 10px;
+    color: #333; /* Dark Gray for Heading Text */
   }
 
   .teaching-card p {
     margin: 0;
-    color: #555;
+    color: #555; /* Medium Gray for Body Text */
   }
 
   .teaching-list {
@@ -61,33 +58,36 @@ author_profile: true
   }
 </style>
 
-
 <div class="teaching-section">
   <h2>TEACHING PHILOSOPHY</h2>
-  <p>
-    <i class="fas fa-lightbulb icon"></i>
-    I approach teaching as an enjoyable experience where students feel encouraged to learn and develop their skills. In my courses, I incorporate 
-    <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data to examine topics such as 
-    income inequality, food insecurity, housing, and disparities in health outcomes. 
-  </p>
-  <p>
-    <i class="fas fa-hands-helping icon"></i>
-    I believe this hands-on approach not only helps students build technical expertise but also gives them a chance to see the impact their work can have 
-    in creating a more functional, just, and healthier society. I value slow and thoughtful learning and want students to engage with the concepts and 
-    methods they are exposed to.
-  </p>
+  <div class="teaching-card">
+    <p>
+      <i class="fas fa-lightbulb icon"></i>
+      I approach teaching as an enjoyable experience where students feel encouraged to learn and develop their skills. In my courses, I incorporate 
+      <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data to examine topics such as 
+      income inequality, food insecurity, housing, and disparities in health outcomes. 
+    </p>
+    <p>
+      <i class="fas fa-hands-helping icon"></i>
+      I believe this hands-on approach not only helps students build technical expertise but also gives them a chance to see the impact their work can have 
+      in creating a more functional, just, and healthier society. I value slow and thoughtful learning and want students to engage with the concepts and 
+      methods they are exposed to.
+    </p>
+  </div>
 </div>
 
 <div class="teaching-section">
   <h2>COURSES I TEACH</h2>
-  <ul class="teaching-list">
-    <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
-    <li><i class="fas fa-chart-line icon"></i>Social Statistics</li>
-    <li><i class="fas fa-table icon"></i>Quantitative Research Methods</li>
-    <li><i class="fas fa-poll icon"></i>Survey Methodology</li>
-    <li><i class="fas fa-laptop-code icon"></i>Computational Sociology</li>
-    <li><i class="fas fa-database icon"></i>Critical Data Studies</li>
-  </ul>
+  <div class="teaching-card">
+    <ul class="teaching-list">
+      <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
+      <li><i class="fas fa-chart-line icon"></i>Social Statistics</li>
+      <li><i class="fas fa-table icon"></i>Quantitative Research Methods</li>
+      <li><i class="fas fa-poll icon"></i>Survey Methodology</li>
+      <li><i class="fas fa-laptop-code icon"></i>Computational Sociology</li>
+      <li><i class="fas fa-database icon"></i>Critical Data Studies</li>
+    </ul>
+  </div>
 </div>
 
 <div class="teaching-section">
