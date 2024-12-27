@@ -7,48 +7,48 @@ author_profile: false
 hide_avatar: true
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 50px;">
-  <!-- Profile Image (Circular) -->
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 50px; gap: 40px; max-width: 1200px; margin: auto;">
+  <!-- Profile Image -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
-       style="width: 434px; height: 450px; object-fit: cover; margin-right: 40px; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+       style="width: 434px; height: 450px; object-fit: cover; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   
-  <!-- Name and Subtitle Container -->
-  <div>
+  <!-- Content Section -->
+  <div style="flex: 1;">
     <!-- Name -->
-    <h1 style="color: #333; margin-bottom: 5px;">MOHSEN MONJI</h1>
+    <h1 style="color: #333; font-size: 36px; margin-bottom: 10px;">MOHSEN MONJI</h1>
     
     <!-- Subtitle -->
-    <p style="font-style: italic; font-size: 18px; margin-top: 5px; color: #555;">
+    <p style="font-style: italic; font-size: 20px; margin-bottom: 20px; color: #555;">
       PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
     </p>
- 
+
     <!-- Description -->
-    <p style="font-size: 18px; max-width: 700px; color: #333; text-align: justify; line-height: 1.8;">
+    <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
       I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
       <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada.
     </p>
 
     <!-- Buttons -->
-    <div style="margin-top: 20px;">
-      <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 10px;">Learn More About Me</a><br>
+    <div style="margin-bottom: 20px;">
+      <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">Learn More About Me</a>
       <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
     </div>
 
     <!-- Social Media Links -->
-    <p style="margin-top: 20px;">
-      <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+    <div style="margin-top: 20px;">
+      <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin-right: 15px;">
         <i class="fas fa-envelope" style="font-size: 18px; margin-right: 5px;"></i> Email
       </a>
-      <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-        <i class="fab fa-github" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#333'" onmouseout="this.style.color='black'"></i> GitHub
+      <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none; margin-right: 15px;">
+        <i class="fab fa-github" style="font-size: 18px; margin-right: 5px;"></i> GitHub
       </a>
-      <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-        <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#0077b5'" onmouseout="this.style.color='black'"></i> LinkedIn
+      <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none; margin-right: 15px;">
+        <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px;"></i> LinkedIn
       </a>
-      <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-        <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#17a2b8'" onmouseout="this.style.color='black'"></i> Bluesky
+      <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none;">
+        <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px;"></i> Bluesky
       </a>
-    </p>
+    </div>
   </div>
 </div>
 
