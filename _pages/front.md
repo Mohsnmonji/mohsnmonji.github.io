@@ -17,7 +17,7 @@ hide_avatar: true
   <h1 style="color: #333; font-size: 36px; margin-bottom: 10px;">MOHSEN MONJI</h1>
 
   <!-- Subtitle -->
-  <p style="font-style: font-size: 18px; margin-top: 5px; color: #555;">
+  <p style="font-size: 18px; margin-top: 5px; color: #555;">
     PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
   </p>
 
@@ -36,18 +36,30 @@ hide_avatar: true
 
   <!-- Social Media Links -->
   <div style="margin-bottom: 20px;">
-    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="margin-right: 15px; font-size: 24px;">
-      <i class="fas fa-envelope" style="color: #D14836;"></i>
-    </a>
-    <a href="https://github.com/Mohsnmonji" target="_blank" style="margin-right: 15px; font-size: 24px;">
-      <i class="fab fa-github" style="color: #333;"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="margin-right: 15px; font-size: 24px;">
-      <i class="fab fa-linkedin" style="color: #0077B5;"></i>
-    </a>
-    <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="font-size: 24px;">
-      <i class="fas fa-cloud" style="color: #1DA1F2;"></i>
-    </a>
+    <div style="display: inline-block; text-align: center; margin-right: 15px;">
+      <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="text-decoration: none;">
+        <i class="fas fa-envelope" style="color: #D14836; font-size: 30px;"></i><br>
+        <span style="font-size: 14px; color: #555;">Email</span>
+      </a>
+    </div>
+    <div style="display: inline-block; text-align: center; margin-right: 15px;">
+      <a href="https://github.com/Mohsnmonji" target="_blank" style="text-decoration: none;">
+        <i class="fab fa-github" style="color: #333; font-size: 30px;"></i><br>
+        <span style="font-size: 14px; color: #555;">GitHub</span>
+      </a>
+    </div>
+    <div style="display: inline-block; text-align: center; margin-right: 15px;">
+      <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="text-decoration: none;">
+        <i class="fab fa-linkedin" style="color: #0077B5; font-size: 30px;"></i><br>
+        <span style="font-size: 14px; color: #555;">LinkedIn</span>
+      </a>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="text-decoration: none;">
+        <i class="fas fa-cloud" style="color: #1DA1F2; font-size: 30px;"></i><br>
+        <span style="font-size: 14px; color: #555;">Bluesky</span>
+      </a>
+    </div>
   </div>
 </div>
 
