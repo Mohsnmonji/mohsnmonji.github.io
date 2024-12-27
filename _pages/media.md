@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style>
   h3 {
-    border-bottom: 2px solid #0056b3; /* Blue solid line under headers */
+    border-bottom: 2px solid #1B5E20; /* Accessible Dark Green */
     font-weight: bold;
     padding-bottom: 10px;
     margin-top: 20px;
@@ -26,7 +26,7 @@ author_profile: true
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    color: white;
+    color: #333333; /* Dark Gray Text */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
@@ -37,11 +37,11 @@ author_profile: true
   }
 
   .media-card:nth-child(odd) {
-    background-color: #007bff; /* Light blue */
+    background-color: #E3F2FD; /* Light Blue Background */
   }
 
   .media-card:nth-child(even) {
-    background-color: #28a745; /* Light green */
+    background-color: #F3F4F6; /* Light Gray Background */
   }
 
   .media-card ul {
@@ -56,7 +56,7 @@ author_profile: true
   }
 
   .media-card ul li a {
-    color: #ffcc00; /* Golden yellow for links */
+    color: #1B5E20; /* Dark Green for Links */
     text-decoration: none;
     font-weight: bold;
   }
@@ -66,10 +66,10 @@ author_profile: true
   }
 
   .featured-media {
-    background-color: #0056b3; /* Featured blue */
+    background-color: #1B5E20; /* Dark Green */
     padding: 30px;
     border-radius: 12px;
-    color: white;
+    color: #FFFFFF; /* White Text */
     margin-bottom: 40px;
     box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.2);
   }
@@ -77,12 +77,13 @@ author_profile: true
   .featured-media h3 {
     margin-bottom: 20px;
     font-size: 28px;
+    color: #FFEB3B; /* Bright Yellow */
   }
 
   .tag {
     display: inline-block;
-    background: #ffcc00;
-    color: black;
+    background: #FFEB3B; /* Bright Yellow Tag Background */
+    color: #333; /* Dark Gray Tag Text */
     padding: 4px 8px;
     font-size: 12px;
     border-radius: 4px;
@@ -93,7 +94,7 @@ author_profile: true
 
   .icon {
     margin-right: 10px;
-    color: #ffcc00;
+    color: #FFEB3B; /* Bright Yellow for Icons */
   }
 </style>
 
@@ -102,7 +103,7 @@ author_profile: true
   <h3><i class="fas fa-star icon"></i> Featured Media: CAnD3 Fellows Feature</h3>
   <p>
     A highlight of my research as a doctoral fellow at CAnD3, McGill University, 2024.  
-    <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank" style="color: #ffcc00;">Read more</a>
+    <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank" style="color: #FFEB3B;">Read more</a>
   </p>
 </div>
 
@@ -192,7 +193,8 @@ author_profile: true
 <!-- Call to Action -->
 <div style="text-align: center; margin-top: 50px;">
   <p style="font-size: 18px; color: #333;">
-    If you are interested in my work, feel free to <a href="mailto:mohsen.monji@concordia.ca" style="color: #004c99;">Get in Touch</a>.
+    If you are interested in my work, feel free to <a href="mailto:mohsen.monji@concordia.ca" style="color: #1B5E20;">Get in Touch</a>.
   </p>
 </div>
+
 
