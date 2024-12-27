@@ -1,48 +1,39 @@
----
-permalink: /
-title: ""
-seo_title: "Home"
-description: "Sociologist and Population Mental Health Researcher"
-author_profile: false
-hide_avatar: true
----
-
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 50px; gap: 40px; max-width: 1200px; margin: auto;">
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 50px; max-width: 1200px; margin: auto;">
   <!-- Profile Image -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
-       style="width: 434px; height: 450px; object-fit: cover; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-  
+       style="width: 434px; height: 450px; object-fit: cover; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-right: 40px;">
+
   <!-- Content Section -->
   <div style="flex: 1;">
-    <!-- Name -->
-    <h1 style="color: #333; font-size: 36px; margin-bottom: 10px;">MOHSEN MONJI</h1>
-    
-    <!-- Subtitle -->
-    <p style="font-style: italic; font-size: 20px; margin-bottom: 20px; color: #555;">
-      PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
-    </p>
-
-    <!-- Description -->
-    <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-      I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
-      <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada.
-    </p>
-
-    <!-- Buttons -->
-    <div style="margin-bottom: 20px;">
-      <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">Learn More About Me</a>
-      <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
+    <!-- Name and Subtitle -->
+    <div style="display: flex; align-items: baseline; gap: 20px;">
+      <h1 style="color: #333; font-size: 36px; margin: 0;">MOHSEN MONJI</h1>
+      <p style="font-style: italic; font-size: 18px; color: #555; margin: 0;">
+        PhD Candidate in Sociology & Lecturer
+      </p>
     </div>
 
-    <!-- Social Media Links -->
-    <div style="margin-top: 20px;">
-      <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin-right: 15px;">
+    <!-- Description -->
+    <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin: 20px 0;">
+      I am a sociologist and population mental health researcher studying the 
+      <strong>social determinants of mental health</strong> and <strong>mental health disparities</strong> 
+      among <strong>youth</strong> and <strong>young adults</strong> in Canada.
+    </p>
+
+    <!-- Buttons and Social Links -->
+    <div style="display: flex; align-items: center; gap: 15px;">
+      <a href="/about-me/" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Learn More About Me</a>
+      <a href="/curriculum/" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
+      <a href="mailto:mohsen.monji@concordia.ca" style="color: black; text-decoration: none;">
         <i class="fas fa-envelope" style="font-size: 18px; margin-right: 5px;"></i> Email
       </a>
-      <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none; margin-right: 15px;">
+    </div>
+
+    <div style="margin-top: 20px; display: flex; gap: 15px;">
+      <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none;">
         <i class="fab fa-github" style="font-size: 18px; margin-right: 5px;"></i> GitHub
       </a>
-      <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none; margin-right: 15px;">
+      <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none;">
         <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px;"></i> LinkedIn
       </a>
       <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none;">
@@ -59,6 +50,3 @@ hide_avatar: true
     <button style="padding: 10px 20px; font-size: 14px; background-color: #007BFF; color: white; border: none; border-radius: 5px;">Subscribe</button>
   </form>
 </footer>
-
-
-
