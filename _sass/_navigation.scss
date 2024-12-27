@@ -177,7 +177,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: $background-color; /* Keeps the navigation bar background unchanged */
 
   a {
     display: block;
@@ -198,7 +198,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: darken($primary-color, 10%); /* Slightly darker than $primary-color */
     color: #fff;
     cursor: pointer;
     z-index: 100;
