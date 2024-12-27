@@ -100,7 +100,7 @@ author_profile: true
       <li>
         <strong>Women’s Health Research Cluster Member</strong> <br>
         <span>UBC Women’s Health Research Cluster (2023)</span><br>
-        Membership contributing to interdisciplinary research focused on advancing women’s health.  
+        Interdisciplinary research for advancing women’s health.  
         <a href="https://womenshealthresearch.ubc.ca/people/members/?whrc-page-2=30" target="_blank">View Profile</a>
       </li>
     </ul>
