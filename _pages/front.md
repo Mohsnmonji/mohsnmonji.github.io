@@ -10,7 +10,7 @@ hide_avatar: true
 <div style="text-align: center; margin-top: 50px;">
   <!-- Profile Image -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
-       style="width: 200px; height: 300px; object-fit: cover; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+       style="width: 300px; height: 450px; object-fit: cover; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   
   <!-- Name and Subtitle Container -->
   <div>
@@ -21,7 +21,6 @@ hide_avatar: true
     <p style="font-style: italic; font-size: 18px; margin-top: 5px; color: #555;">
       PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
     </p>
-
  
  <!-- Description -->
 <p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
