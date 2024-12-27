@@ -125,7 +125,7 @@ author_profile: true
         <strong>Affecting Machines Website</strong> <br>
         <span> Applied AI Institute, Concordia University (2023) </span><br>
         Visit the Affecting Machines website, which showcases normatives principles for gender equity in AI developed at Concordia's Applied AI Institute.  
-        <a href="https://affectingmachines.net/" target="_blank">Visit Site</a>
+        <a href="https://affectingmachines.net/" target="_blank">Visit the Website</a>
       </li>
     </ul>
   </div>
@@ -137,7 +137,7 @@ author_profile: true
         <strong>All Tech Is Human: Responsible Tech Guide</strong> <br>
         <span>All Tech Is Human (2023)</span><br>
         Featured in the 2023 Responsible Tech Guide for responsible AI.  
-        <a href="https://alltechishuman.org/responsible-tech-guide" target="_blank">Explore Guide</a>
+        <a href="https://alltechishuman.org/responsible-tech-guide" target="_blank">Read Responsible Tech Guide</a>
       </li>
     </ul>
   </div>
