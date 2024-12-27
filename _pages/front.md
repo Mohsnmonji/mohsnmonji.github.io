@@ -1,30 +1,24 @@
 <style>
-  /* Style for the word-by-word animation */
-  .animated-text {
+  /* Container for the animated text */
+  .animated-text-container {
     display: inline-block;
+    text-align: center;
     overflow: hidden;
     white-space: nowrap;
     border-right: 2px solid #007bff;
-    animation: typing 8s steps(80, end), blink 0.5s step-end infinite;
     font-size: 18px;
-    max-width: 100%; /* Ensure responsive text wrapping */
+    font-weight: normal;
+    color: #333;
+    animation: typing 8s steps(60, end), blink 0.5s step-end infinite;
   }
 
-  /* Typing animation for multiple lines */
-  .animated-text-wrapper {
-    display: inline-block;
-    white-space: normal;
-    overflow: hidden;
-    border-right: 2px solid #007bff;
-    animation: typing-multiline 8s steps(80, end), blink 0.5s step-end infinite;
-  }
-
-  @keyframes typing-multiline {
+  /* Typing effect */
+  @keyframes typing {
     from {
-      max-height: 0;
+      width: 0;
     }
     to {
-      max-height: 100%;
+      width: 100%;
     }
   }
 
@@ -51,17 +45,13 @@
   <p style="font-style: italic; font-size: 18px; margin-top: 5px; color: #555;">
     PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
   </p>
- 
-  <!-- Animated Multiline Description -->
-  <p style="max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
-    <span class="animated-text-wrapper">
-      I am a <strong>PhD Candidate in Sociology</strong> at <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
-      a <strong>CAnD3 Doctoral Fellow</strong> at <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
-      and a <strong>CRDCN Emerging Scholar</strong> at the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-      My doctoral research is focused on the <strong>social determinants of mental health</strong> and population-level disparities in mental health outcomes, 
-      particularly <strong>psychological distress</strong>, <strong>anxiety</strong>, and <strong>depression</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada.
-    </span>
-  </p>
+
+  <!-- Animated Description -->
+  <div style="max-width: 700px; margin: 0 auto; line-height: 1.8;">
+    <div class="animated-text-container">
+      I am a <strong>PhD Candidate in Sociology</strong> at Concordia University, a <strong>CAnD3 Doctoral Fellow</strong> at McGill University, and a <strong>CRDCN Emerging Scholar</strong>. My research focuses on <strong>social determinants of mental health</strong> and disparities in outcomes among <strong>youth</strong> and <strong>young adults</strong>.
+    </div>
+  </div>
   
   <!-- Buttons -->
   <div style="margin-top: 20px;">
