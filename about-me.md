@@ -15,14 +15,25 @@ author_profile: true
     color: #1B5E20; /* Accessible Dark Green */
   }
 
-.card {
+  .card {
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
     color: #333333; /* Dark Gray Text */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  .card:first-of-type {
     background-color: #F3F4F6; /* Light Grey Background */
-}
+  }
+
+  .card:nth-of-type(2) {
+    background-color: #E3F2FD; /* Light Blue Background */
+  }
+
+  .card:nth-of-type(3) {
+    background-color: #F1F8E9; /* Light Green Background for Contact Card */
+  }
 
   .card h3 {
     font-size: 1.2rem;
