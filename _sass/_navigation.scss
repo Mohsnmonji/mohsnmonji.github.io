@@ -177,19 +177,19 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color; /* Keeps the navigation bar background unchanged */
+  background: $background-color;
 
   a {
-    display: inline-block; /* Makes the links look like buttons */
-    margin: 0 0.5rem; /* Add some spacing between the "buttons" */
-    padding: 0.5rem 1rem; /* Adjust padding to make them look like buttons */
+    display: inline-block;
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
     color: #fff; /* White text for contrast */
-    background-color: #000; /* Black background for the buttons */
+    background-color: #000; /* Black background */
     text-decoration: none;
-    border-radius: 5px; /* Add rounded corners to the buttons */
+    border-radius: 5px;
 
     &:hover {
-      background-color: #222; /* Slightly lighter black for hover effect */
+      background-color: #333; /* Slightly lighter black for hover */
     }
   }
 
@@ -200,13 +200,12 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color; /* Retains the original color for the navigation icon */
+    background-color: #000; /* Black button */
     color: #fff;
     cursor: pointer;
-    z-index: 100;
 
     &:hover {
-      background-color: darken($primary-color, 10%);
+      background-color: #222; /* Slightly lighter black */
     }
   }
 }
