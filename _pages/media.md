@@ -74,7 +74,6 @@ author_profile: true
     margin-bottom: 40px;
     box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.2);
     animation: float 3s ease-in-out infinite;
-    text-align: justify; /* Justify text within featured media */
   }
 
   @keyframes float {
