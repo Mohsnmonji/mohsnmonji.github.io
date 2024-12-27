@@ -1,3 +1,19 @@
+<style>
+  /* Add animation for fade-in effect */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .fade-in {
+    animation: fadeIn 2s ease-in-out;
+  }
+</style>
+
 ---
 permalink: /
 title: ""
@@ -19,12 +35,11 @@ hide_avatar: true
     PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
   </p>
  
- <!-- Description -->
-<p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
-  I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
-  <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
-</p>
-
+  <!-- Description with fade-in effect -->
+  <p class="fade-in" style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
+    I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
+    <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
+  </p>
   
   <!-- Buttons -->
   <div style="margin-top: 20px;">
@@ -48,9 +63,3 @@ hide_avatar: true
     </a>
   </p>
 </div>
-
-<footer style="margin-top: 50px; text-align: center; padding: 20px; background: #f0f4f8;">
-  <p style="font-size: 14px; color: #666;">© 2024 Mohsen Monji</p>
-  <form style="margin-top: 15px;">
-    <input type="email" placeholder="Subscribe to my newsletter" style="padding: 10px; font-size: 14px; border: 1px solid #ccc; border-radius: 5px;">
-    <button style="padding: 10px 20px; font-size: 14px; back
