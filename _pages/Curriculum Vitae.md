@@ -11,14 +11,15 @@ redirect_from:
 
 <style>
   h3 {
-    border-bottom: 2px solid #007bff; /* Change solid line to blue */
+    border-bottom: 2px solid #1B5E20; /* Accessible Dark Green */
     font-weight: bold;
     padding-bottom: 10px; /* Space between text and the line */
+    color: #333; /* Dark Gray Text */
   }
 </style>
 
 <a href="{{ '/_pages/MohsenMonji_CV.pdf' | relative_url }}" target="_blank">
-  <i class="fas fa-download"></i> Download PDF
+  <i class="fas fa-download" style="color: #1B5E20;"></i> Download PDF
 </a>
 
 
