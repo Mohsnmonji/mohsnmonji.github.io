@@ -7,8 +7,31 @@ author_profile: true
 ---
 
 <style>
-  .about-section {
-    margin-bottom: 40px;
+  /* General Styling */
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.8;
+  }
+
+  .about-banner {
+    text-align: center;
+    padding: 30px 20px;
+    background-color: #f0f4f8;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .about-banner h1 {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+
+  .about-banner p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 0;
   }
 
   .icon {
@@ -26,10 +49,13 @@ author_profile: true
   }
 
   .card h3 {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     font-weight: bold;
     color: #333;
     margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
   }
 
   .card ul {
@@ -51,8 +77,14 @@ author_profile: true
 
   .email {
     font-weight: bold;
+    color: #007bff;
   }
 </style>
+
+<div class="about-banner">
+  <h1>About Mohsen Monji</h1>
+  <p>Sociologist and Population Mental Health Researcher</p>
+</div>
 
 <div class="about-section">
   <p>
