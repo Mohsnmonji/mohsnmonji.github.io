@@ -5,7 +5,6 @@ seo_title: "About Me - Mohsen Monji"
 description: "Sociologist and Population Mental Health Researcher - Detailed Bio"
 author_profile: true
 ---
-
 <style>
   .about-section {
     margin-bottom: 40px;
@@ -13,16 +12,25 @@ author_profile: true
 
   .icon {
     margin-right: 10px;
-    color: #007bff;
+    color: #1B5E20; /* Accessible Dark Green */
   }
 
   .card {
-    border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    background-color: #f9f9f9;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333333; /* Dark Gray Text */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  .card:nth-child(odd) {
+    background-color: #FFEB3B; /* Light Yellow Background */
+    color: #333; /* Text color */
+  }
+
+  .card:nth-child(even) {
+    background-color: #E3F2FD; /* Light Blue Background */
+    color: #333; /* Text color */
   }
 
   .card h3 {
@@ -51,6 +59,7 @@ author_profile: true
 
   .email {
     font-weight: bold;
+    color: #1B5E20; /* Dark Green */
   }
 </style>
 
