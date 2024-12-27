@@ -37,13 +37,14 @@ author_profile: true
   }
 
   .teaching-card {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 20px;
-    background-color: #f9f9f9;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-  }
+  border: 1px solid #007bff; /* Change the border color to blue */
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #e6f0ff; /* Light blue background color */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Keep the shadow as is */
+}
+
 
   .teaching-card h4 {
     font-weight: bold;
