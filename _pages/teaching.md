@@ -78,7 +78,7 @@ author_profile: true
 
 <div class="teaching-section">
   <h2>COURSES I TEACH</h2>
-  <ul class="teaching-list">
+  <ul class="teaching-card">
     <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
     <li><i class="fas fa-chart-line icon"></i>Social Statistics</li>
     <li><i class="fas fa-table icon"></i>Quantitative Research Methods</li>
