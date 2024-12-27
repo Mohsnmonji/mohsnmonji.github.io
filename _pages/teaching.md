@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Teaching"
@@ -15,7 +14,6 @@ author_profile: true
     margin-top: 30px;
     color: #333; /* Keep the heading text color unchanged */
   }
-
 
   ul {
     list-style: none;
@@ -40,14 +38,13 @@ author_profile: true
   }
 
   .teaching-card {
-  border: 1px solid #ddd;
+    border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
     background-color: #f9f9f9;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Keep the shadow as is */
-}
-
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Keep the shadow as is */
+  }
 
   .teaching-card h4 {
     font-weight: bold;
@@ -63,6 +60,7 @@ author_profile: true
     padding-left: 15px;
   }
 </style>
+
 
 <div class="teaching-section">
   <h2>TEACHING PHILOSOPHY</h2>
