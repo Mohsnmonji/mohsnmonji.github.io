@@ -7,11 +7,20 @@ author_profile: true
 
 <style>
   /* General Styling */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
   h2 {
     border-bottom: 2px solid black;
     font-weight: bold;
     padding-bottom: 10px; /* Space between text and the line */
     margin-top: 30px;
+    color: #333;
   }
 
   ul {
@@ -25,7 +34,7 @@ author_profile: true
 
   .icon {
     margin-right: 10px;
-    color: #007bff;
+    color: #007bff; /* Primary blue for icons */
   }
 
   .teaching-section {
@@ -40,25 +49,69 @@ author_profile: true
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
-    margin-bottom: 20px;
+    margin: 20px auto; /* Center the cards */
     background-color: #f9f9f9;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px; /* Set a maximum width for consistency */
   }
 
   .teaching-card h4 {
     font-weight: bold;
     margin-bottom: 10px;
+    color: #444;
   }
 
   .teaching-card p {
-    margin: 0;
+    margin: 0 0 10px;
     color: #555;
   }
 
   .teaching-list {
-    padding-left: 15px;
+    padding-left: 0; /* Remove padding */
+    list-style: none; /* Remove bullet points */
+  }
+
+  .teaching-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+  }
+
+  .teaching-title {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #333;
+  }
+
+  .teaching-card ul {
+    padding-left: 0; /* Remove padding for card lists */
+  }
+
+  /* Mobile Responsive Adjustments */
+  @media (max-width: 768px) {
+    .teaching-card {
+      padding: 15px;
+      margin: 15px;
+    }
+
+    .teaching-title {
+      font-size: 20px;
+    }
+
+    .teaching-card h4 {
+      font-size: 18px;
+    }
+
+    .teaching-list li {
+      font-size: 14px;
+    }
   }
 </style>
+
 
 <div class="teaching-section">
   <h2>TEACHING PHILOSOPHY</h2>
