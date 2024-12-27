@@ -122,6 +122,6 @@ author_profile: true
 <!-- Call to Action -->
 <div style="text-align: center; margin-top: 50px;">
   <p style="font-size: 18px; color: #333;">
-    Have a media inquiry or interested in collaborating? <a href="mailto:mohsen.monji@concordia.ca" style="color: #007BFF;">Get in Touch</a>.
+     <a href="mailto:mohsen.monji@concordia.ca" style="color: #007BFF;">Get in Touch</a>.
   </p>
 </div>
