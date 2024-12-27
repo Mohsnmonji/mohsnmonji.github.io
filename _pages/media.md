@@ -22,8 +22,8 @@ author_profile: true
       <h2 style="font-size: 22px; color: #333;">Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence</h2>
       <p style="font-size: 16px; color: #333; line-height: 1.6;">
         Workshop at 4TH SPACE, Concordia University, exploring gender equity in AI.
+        <a href="https://www.youtube.com/watch?v=8aWb-GaUFUI" target="_blank" style="color: #007BFF;">Watch Video</a>
       </p>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/8aWb-GaUFUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-top: 15px;"></iframe>
     </div>
 
     <!-- Feature 3: Women's Health Research Cluster -->
@@ -49,6 +49,11 @@ author_profile: true
 
 <!-- Call to Action -->
 <div style="text-align: center; margin-top: 50px;">
+  <p style="font-size: 18px; color: #333;">
+    Have a media inquiry or interested in collaborating? <a href="/contact/" style="color: #007BFF;">Get in Touch</a>.
+  </p>
+</div>
+rgin-top: 50px;">
   <p style="font-size: 18px; color: #333;">
     Have a media inquiry or interested in collaborating? <a href="/contact/" style="color: #007BFF;">Get in Touch</a>.
   </p>
