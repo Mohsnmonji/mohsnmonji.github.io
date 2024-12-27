@@ -17,5 +17,7 @@ main:
     url: /projects/
   - title: "Talks & Presentations"
     url: /talks/    
+  - title: "Media"
+    url: /media/
   - title: "Blog"
     url: /year-archive/
