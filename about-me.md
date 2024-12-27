@@ -24,15 +24,6 @@ author_profile: true
     background-color: #E3F2FD; /* Light Blue Background */
   }
 
-  .text-card {
-    border-radius: 8px;
-    padding: 30px;
-    margin-bottom: 40px;
-    color: #333333; /* Dark Gray Text */
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
-    background-color: #F3F4F6; /* Light Gray Background */
-  }
-
   .card h3 {
     font-size: 1.2rem;
     font-weight: bold;
@@ -63,7 +54,7 @@ author_profile: true
   }
 </style>
 
-<div class="text-card">
+<div class="card">
   <p>
     I am a <strong>PhD Candidate in Sociology</strong> at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
