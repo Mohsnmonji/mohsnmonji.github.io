@@ -22,7 +22,7 @@ hide_avatar: true
  <!-- Description -->
 <p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
   I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
-  <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
+  <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada.
 </p>
 
   
