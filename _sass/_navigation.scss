@@ -198,8 +198,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: darken($primary-color, 10%); /* Slightly darker than $primary-color */
-    color: #fff;
+    background-color: #000; /* Set the button background to black */
+    color: #fff; /* Keep the text white for contrast */
     cursor: pointer;
     z-index: 100;
   }
