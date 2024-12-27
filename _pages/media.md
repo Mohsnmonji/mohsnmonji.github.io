@@ -124,22 +124,18 @@ author_profile: true
 <div class="media-section">
   <h3><i class="fas fa-newspaper icon"></i> Media Features</h3>
 
-  <!-- Card 1 with Image -->
-<div class="media-card">
-  <span class="tag">Article</span>
-  <ul>
-    <li>
-      <strong>CAnD3 Fellows Feature: Mohsen Monji</strong> <br>
-      <span>McGill University (2024)</span><br>
-      A feature article highlighting my research as a doctoral fellow with CAnD3.  
-      <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank">Read more</a>
-    </li>
-  </ul>
-  <!-- Image -->
-  <div style="margin-top: 15px; text-align: center;">
-    <img src="images/CAnD3.PNG" alt="CAnD3 Fellows Feature Image" style="width: 100%; max-width: 300px; border-radius: 8px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);">
+  <!-- Card 1 -->
+  <div class="media-card">
+    <span class="tag">Article</span>
+    <ul>
+      <li>
+        <strong>CAnD3 Fellows Feature: Mohsen Monji</strong> <br>
+        <span>McGill University (2024)</span><br>
+        A feature article highlighting my research as a doctoral fellow with CAnD3.  
+        <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank">Read more</a>
+      </li>
+    </ul>
   </div>
-</div>
 
 
   <!-- Card 2 -->
