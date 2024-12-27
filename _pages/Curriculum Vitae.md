@@ -17,7 +17,9 @@ redirect_from:
   }
 </style>
 
-
+<a href="{{ '/_pages/MohsenMonji_CV.pdf' | relative_url }}" target="_blank">
+  <i class="fas fa-download"></i> Download PDF Version of My CV
+</a>
 
 
 ### <i class="fas fa-graduation-cap"></i> EDUCATION
