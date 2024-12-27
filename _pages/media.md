@@ -66,20 +66,14 @@ author_profile: true
     text-decoration: underline;
   }
 
-<!-- Featured Media -->
-<div class="featured-media">
-  <h3><i class="fas fa-star icon"></i> Concordia’s Applied AI Institute: Affecting Machines</h3>
-  <p>
-    The "Affecting Machines" project, normative principles for gender equity in Artificial Intelligence. Presented at Concordia University, Fourth Space, 2023.  
-    <a href="https://affectingmachines.net/" target="_blank" style="color: #0056b3;">Learn more</a>
-  </p>
-</div>
-
-.featured-media h3 {
-    margin-bottom: 20px;
-    font-size: 28px;
-    color: #333; /* Dark Gray for Header */
-}
+  .featured-media {
+    background-color: #E3F2FD; /* Light Blue Background */
+    padding: 30px;
+    border-radius: 12px;
+    color: #333; /* Dark Gray Text */
+    margin-bottom: 40px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Consistent with other cards */
+  }
 
   .featured-media h3 {
     margin-bottom: 20px;
@@ -107,10 +101,10 @@ author_profile: true
 
 <!-- Featured Media -->
 <div class="featured-media">
-  <h3><i class="fas fa-star icon"></i> CAnD3 Fellows Feature</h3>
+  <h3><i class="fas fa-star icon"></i> Concordia’s Applied AI Institute: Affecting Machines</h3>
   <p>
-    A highlight of my research as a doctoral fellow at CAnD3, McGill University, 2024.  
-    <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank" style="color: #0056b3;">Read more</a>
+    The "Affecting Machines" project, normative principles for gender equity in Artificial Intelligence. Presented at Concordia University, Fourth Space, 2023.  
+    <a href="https://affectingmachines.net/" target="_blank" style="color: #0056b3;">Learn more</a>
   </p>
 </div>
 
