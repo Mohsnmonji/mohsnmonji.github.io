@@ -169,7 +169,7 @@ author_profile: true
     <span class="tag">Workshop</span>
     <ul>
       <li>
-        <strong><i class="fas fa-chalkboard-teacher" style="margin-right: 8px;"></i>Concordia University News: Workshop on "Affecting Machines"</strong> <br>
+        <strong><i class="fas fa-chalkboard-teacher" style="margin-right: 8px;"></i>Concordia University News: Workshop on "Gender Equity in AI"</strong> <br>
         <span>Concordia University (2023)</span><br>
         Feminist design principles applied in AI research.  
         <a href="https://www.concordia.ca/cuevents/offices/provost/fourth-space/2023/08/22/affecting-machines.html" target="_blank">Learn more</a>
