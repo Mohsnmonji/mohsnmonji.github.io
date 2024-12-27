@@ -14,7 +14,7 @@ hide_avatar: true
   </div>
 
   <!-- Name -->
-  <h1 style="color: #333; font-size: 36px; margin-bottom: 10px;">MOHSEN MONJI</h1>
+  <h1 style="color: #333; font-size: 32px; margin-bottom: 10px;">MOHSEN MONJI</h1>
 
   <!-- Subtitle -->
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
