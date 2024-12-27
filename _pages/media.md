@@ -53,9 +53,3 @@ author_profile: true
     Have a media inquiry or interested in collaborating? <a href="/contact/" style="color: #007BFF;">Get in Touch</a>.
   </p>
 </div>
-rgin-top: 50px;">
-  <p style="font-size: 18px; color: #333;">
-    Have a media inquiry or interested in collaborating? <a href="/contact/" style="color: #007BFF;">Get in Touch</a>.
-  </p>
-</div>
-
