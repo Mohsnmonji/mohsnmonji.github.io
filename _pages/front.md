@@ -7,10 +7,10 @@ author_profile: false
 hide_avatar: true
 ---
 
-<div style="text-align: center; margin-top: 50px;">
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 50px;">
   <!-- Profile Image -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
-       style="width: 300px; height: 450px; object-fit: cover; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+       style="width: 300px; height: 450px; object-fit: cover; margin-right: 40px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   
   <!-- Name and Subtitle Container -->
   <div>
@@ -22,34 +22,34 @@ hide_avatar: true
       PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
     </p>
  
- <!-- Description -->
-<p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
-  I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
-  <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada.
-</p>
+    <!-- Description -->
+    <p style="font-size: 18px; max-width: 700px; color: #333; text-align: justify; line-height: 1.8;">
+      I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
+      <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada.
+    </p>
 
-  
-  <!-- Buttons -->
-  <div style="margin-top: 20px;">
-    <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 10px;">Learn More About Me</a><br>
-    <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
+    <!-- Buttons -->
+    <div style="margin-top: 20px;">
+      <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 10px;">Learn More About Me</a><br>
+      <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
+    </div>
+
+    <!-- Social Media Links -->
+    <p style="margin-top: 20px;">
+      <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+        <i class="fas fa-envelope" style="font-size: 18px; margin-right: 5px;"></i> Email
+      </a>
+      <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+        <i class="fab fa-github" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#333'" onmouseout="this.style.color='black'"></i> GitHub
+      </a>
+      <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+        <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#0077b5'" onmouseout="this.style.color='black'"></i> LinkedIn
+      </a>
+      <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+        <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#17a2b8'" onmouseout="this.style.color='black'"></i> Bluesky
+      </a>
+    </p>
   </div>
-
-  <!-- Social Media Links -->
-  <p style="margin-top: 20px;">
-    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fas fa-envelope" style="font-size: 18px; margin-right: 5px;"></i> Email
-    </a>
-    <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fab fa-github" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#333'" onmouseout="this.style.color='black'"></i> GitHub
-    </a>
-    <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#0077b5'" onmouseout="this.style.color='black'"></i> LinkedIn
-    </a>
-    <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#17a2b8'" onmouseout="this.style.color='black'"></i> Bluesky
-    </a>
-  </p>
 </div>
 
 <footer style="margin-top: 50px; text-align: center; padding: 20px; background: #f0f4f8;">
@@ -59,4 +59,5 @@ hide_avatar: true
     <button style="padding: 10px 20px; font-size: 14px; background-color: #007BFF; color: white; border: none; border-radius: 5px;">Subscribe</button>
   </form>
 </footer>
+
 
