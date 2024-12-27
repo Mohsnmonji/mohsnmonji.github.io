@@ -101,7 +101,7 @@ author_profile: true
 <div class="featured-media">
   <h3><i class="fas fa-star icon"></i> Featured Media: CAnD3 Fellows Feature</h3>
   <p>
-    A highlight of my research and achievements as a doctoral fellow with CAnD3, published by McGill University in 2024.  
+    A highlight of my research as a doctoral fellow at CAnD3, McGill University, 2024.  
     <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank" style="color: #ffcc00;">Read more</a>
   </p>
 </div>
