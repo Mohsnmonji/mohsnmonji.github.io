@@ -66,7 +66,7 @@ author_profile: true
   }
 
   .featured-media {
-    background-color: #1B5E20; /* Dark Green */
+    background-color: #0056b3; /* Blue for Featured Media */
     padding: 30px;
     border-radius: 12px;
     color: #FFFFFF; /* White Text */
