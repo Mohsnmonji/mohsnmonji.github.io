@@ -175,18 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #333333; /* Dark background for better contrast */
+  background: $background-color;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #ffffff; /* Light text for contrast */
+    color: $masthead-link-color;
     text-decoration: none;
 
     &:hover {
-      color: #f0f0f0; /* Slightly lighter hover color for better visibility */
-      background: #444444; /* Add hover background for better contrast */
+      color: $masthead-link-color-hover;
     }
   }
 
@@ -197,8 +196,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: #444444; /* Use a darker button background */
-    color: #ffffff; /* Light button text for contrast */
+    background-color: $primary-color;
+    color: #fff;
     cursor: pointer;
     z-index: 100;
   }
