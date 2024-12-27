@@ -1,18 +1,4 @@
-<style>
-  /* Add animation for fade-in effect */
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
 
-  .fade-in {
-    animation: fadeIn 2s ease-in-out;
-  }
-</style>
 
 ---
 permalink: /
@@ -22,7 +8,22 @@ description: "Sociologist and Population Mental Health Researcher"
 author_profile: false
 hide_avatar: true
 ---
+<style>
+  /* Add animation for fade-in effect */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
 
+  .fade-in {
+    opacity: 0; /* Start fully transparent */
+    animation: fadeIn 2s ease-in-out forwards; /* Animation lasts 2 seconds and applies the final state */
+  }
+</style>
 <div style="text-align: center; margin-top: 50px;">
   <!-- Profile Image -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
