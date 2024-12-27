@@ -177,19 +177,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: $background-color; /* Keeps the navigation bar background unchanged */
 
   a {
-    display: inline-block;
-    margin: 0 0.5rem;
-    padding: 0.5rem 1rem;
-    color: #fff; /* White text for contrast */
-    background-color: #000; /* Black background */
+    display: block;
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    color: $masthead-link-color;
     text-decoration: none;
-    border-radius: 5px;
 
     &:hover {
-      background-color: #333; /* Slightly lighter black for hover */
+      color: $masthead-link-color-hover;
     }
   }
 
@@ -200,15 +198,12 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: #000; /* Black button */
-    color: #fff;
+    background-color: #000; /* Set the button background to black */
+    color: #fff; /* Keep the text white for contrast */
     cursor: pointer;
-
-    &:hover {
-      background-color: #222; /* Slightly lighter black */
-    }
+    z-index: 100;
   }
-}
+
   .visible-links {
     display: table;
 
