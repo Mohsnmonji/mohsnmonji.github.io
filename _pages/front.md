@@ -17,7 +17,7 @@ hide_avatar: true
   <h1 style="color: #333; font-size: 36px; margin-bottom: 10px;">MOHSEN MONJI</h1>
 
   <!-- Subtitle -->
-  <p style="font-style: italic; font-size: 18px; margin-top: 5px; color: #555;">
+  <p style="font-style: font-size: 18px; margin-top: 5px; color: #555;">
     PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
   </p>
 
@@ -36,17 +36,17 @@ hide_avatar: true
 
   <!-- Social Media Links -->
   <div style="margin-bottom: 20px;">
-    <a href="mailto:mohsen.monji@concordia.ca" style="color: black; text-decoration: none; margin-right: 10px;">
-      <i class="fas fa-envelope" style="font-size: 18px; margin-right: 5px;"></i>Email
+    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="margin-right: 15px; font-size: 24px;">
+      <i class="fas fa-envelope" style="color: #D14836;"></i>
     </a>
-    <a href="https://github.com/Mohsnmonji" style="color: black; text-decoration: none; margin-right: 10px;">
-      <i class="fab fa-github" style="font-size: 18px; margin-right: 5px;"></i>GitHub
+    <a href="https://github.com/Mohsnmonji" target="_blank" style="margin-right: 15px; font-size: 24px;">
+      <i class="fab fa-github" style="color: #333;"></i>
     </a>
-    <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" style="color: black; text-decoration: none; margin-right: 10px;">
-      <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px;"></i>LinkedIn
+    <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="margin-right: 15px; font-size: 24px;">
+      <i class="fab fa-linkedin" style="color: #0077B5;"></i>
     </a>
-    <a href="https://bsky.app/profile/mohsenmonji.bsky.social" style="color: black; text-decoration: none;">
-      <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px;"></i>Bluesky
+    <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="font-size: 24px;">
+      <i class="fas fa-cloud" style="color: #1DA1F2;"></i>
     </a>
   </div>
 </div>
@@ -60,4 +60,3 @@ hide_avatar: true
     <button style="padding: 10px 20px; font-size: 14px; background-color: #007BFF; color: white; border: none; border-radius: 5px;">Subscribe</button>
   </form>
 </footer>
-
