@@ -53,10 +53,9 @@ hide_avatar: true
         <i class="fab fa-linkedin" style="color: #0077B5; font-size: 30px;"></i><br>
         <span style="font-size: 14px; color: #555;">LinkedIn</span>
       </a>
-    </div>
-    <div style="display: inline-block; text-align: center;">
+   <div style="display: inline-block; text-align: center;">
   <a href="https://bsky.app/profile/{{ site.social_links.bluesky }}" target="_blank" style="text-decoration: none;">
-    <i class="fas fa-cloud" style="color: #1DA1F2; font-size: 30px;"></i><br>
+    <i class="fab fa-bluesky" style="color: #1DA1F2; font-size: 30px;"></i><br>
     <span style="font-size: 14px; color: #555;">Bluesky</span>
   </a>
 </div>
