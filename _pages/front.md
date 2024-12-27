@@ -14,9 +14,9 @@ hide_avatar: true
     overflow: hidden;
     white-space: nowrap;
     border-right: 2px solid #007bff;
-    animation: typing 4s steps(40, end), blink 0.5s step-end infinite;
     font-size: 18px;
     max-width: 100%; /* Ensure responsive text wrapping */
+    animation: typing 6s steps(80, end), blink 0.5s step-end infinite; /* Adjusted duration and steps */
   }
 
   /* Typing animation */
