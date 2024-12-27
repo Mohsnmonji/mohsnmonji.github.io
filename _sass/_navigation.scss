@@ -1,5 +1,3 @@
-
-
 /* ==========================================================================
    NAVIGATION
    ========================================================================== */
@@ -177,24 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color; /* Keeps the navigation bar background unchanged */
+  background: $background-color;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color; /* Default link color */
+    color: $masthead-link-color;
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover; /* Hover link color */
-    }
-
-    &.active {
-      color: #fff; /* White text for active link */
-      background-color: $primary-color; /* Highlight active link background */
-      font-weight: bold; /* Optional: emphasize active link */
-      border-radius: 5px; /* Optional: rounded corners for active link */
+      color: $masthead-link-color-hover;
     }
   }
 
@@ -205,16 +196,11 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: #000; /* Set the button background to black */
-    color: #fff; /* Keep the text white for contrast */
+    background-color: $primary-color;
+    color: #fff;
     cursor: pointer;
     z-index: 100;
-
-    &:hover {
-      background-color: #222; /* Slightly lighter black on hover */
-    }
   }
-}
 
   .visible-links {
     display: table;
@@ -447,4 +433,3 @@
     }
   }
 }
-
