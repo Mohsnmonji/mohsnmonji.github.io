@@ -10,7 +10,7 @@ hide_avatar: true
   <!-- Profile Image -->
   <div>
     <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
-         style="width: 300px; height: 300px; object-fit: cover; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+         style="width: 350px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   </div>
 
   <!-- Text Content -->
@@ -53,3 +53,14 @@ hide_avatar: true
     </div>
   </div>
 </div>
+
+<!-- Footer -->
+<footer style="margin-top: 50px; text-align: center; padding: 20px; background: #f0f4f8;">
+  <p style="font-size: 14px; color: #666;">© 2024 Mohsen Monji</p>
+  <form style="margin-top: 15px;">
+    <input type="email" placeholder="Subscribe to my newsletter" 
+           style="padding: 10px; font-size: 14px; border: 1px solid #ccc; border-radius: 5px; margin-right: 10px;">
+    <button style="padding: 10px 20px; font-size: 14px; background-color: #007BFF; color: white; border: none; border-radius: 5px;">Subscribe</button>
+  </form>
+</footer>
+
