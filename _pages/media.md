@@ -66,15 +66,20 @@ author_profile: true
     text-decoration: underline;
   }
 
-  .featured-media {
+ .featured-media {
     background-color: #E3F2FD; /* Light Blue Background */
     padding: 30px;
     border-radius: 12px;
     color: #333; /* Dark Gray Text */
     margin-bottom: 40px;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Consistent with other cards */
-    text-align: justify; /* Align text in the Featured Card */
-  }
+}
+
+.featured-media h3 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #333; /* Dark Gray for Header */
+}
 
   .featured-media h3 {
     margin-bottom: 20px;
