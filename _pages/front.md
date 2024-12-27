@@ -8,9 +8,9 @@ hide_avatar: true
 ---
 
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 50px;">
-  <!-- Profile Image -->
+  <!-- Profile Image (Circular) -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
-       style="width: 300px; height: 450px; object-fit: cover; margin-right: 40px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+       style="width: 150px; height: 150px; object-fit: cover; margin-right: 40px; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   
   <!-- Name and Subtitle Container -->
   <div>
@@ -59,5 +59,6 @@ hide_avatar: true
     <button style="padding: 10px 20px; font-size: 14px; background-color: #007BFF; color: white; border: none; border-radius: 5px;">Subscribe</button>
   </form>
 </footer>
+
 
 
