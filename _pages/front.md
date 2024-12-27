@@ -34,34 +34,32 @@ hide_avatar: true
     <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
   </div>
 
-  <!-- Social Media Links -->
   <div style="margin-bottom: 20px;">
-    <div style="display: inline-block; text-align: center; margin-right: 15px;">
-      <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="text-decoration: none;">
-        <img src="images/Gmail.PNG" alt="Gmail" style="width: 30px; height: 30px;"><br>
-        <span style="font-size: 14px; color: #555;">Email</span>
-      </a>
-    </div>
-    <div style="display: inline-block; text-align: center; margin-right: 15px;">
-      <a href="https://github.com/Mohsnmonji" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-github" style="color: #333; font-size: 30px;"></i><br>
-        <span style="font-size: 14px; color: #555;">GitHub</span>
-      </a>
-    </div>
-    <div style="display: inline-block; text-align: center; margin-right: 15px;">
-      <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-linkedin" style="color: #0077B5; font-size: 30px;"></i><br>
-        <span style="font-size: 14px; color: #555;">LinkedIn</span>
-      </a>
-    </div>
-    <div style="display: inline-block; text-align: center;">
-      <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="text-decoration: none;">
-        <img src="images/Bluesky.PNG" alt="Bluesky" style="width: 30px; height: 30px;"><br>
-        <span style="font-size: 14px; color: #555;">Bluesky</span>
-      </a>
-    </div>
-  </div>
+  <!-- Email -->
+  <a href="mailto:{{ site.social_links.email }}" target="_blank" style="margin-right: 15px;">
+    <i class="fas fa-envelope" style="color: #D14836; font-size: 30px;"></i><br>
+    <span style="font-size: 14px; color: #555;">Email</span>
+  </a>
+
+  <!-- GitHub -->
+  <a href="{{ site.social_links.github }}" target="_blank" style="margin-right: 15px;">
+    <i class="fab fa-github" style="color: #333; font-size: 30px;"></i><br>
+    <span style="font-size: 14px; color: #555;">GitHub</span>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="{{ site.social_links.linkedin }}" target="_blank" style="margin-right: 15px;">
+    <i class="fab fa-linkedin" style="color: #0077B5; font-size: 30px;"></i><br>
+    <span style="font-size: 14px; color: #555;">LinkedIn</span>
+  </a>
+
+  <!-- Bluesky -->
+  <a href="{{ site.social_links.bluesky }}" target="_blank" style="text-decoration: none;">
+    <i class="fab fa-bluesky" style="color: #1DA1F2; font-size: 30px;"></i><br>
+    <span style="font-size: 14px; color: #555;">Bluesky</span>
+  </a>
 </div>
+
 
 <!-- Footer -->
 <footer style="margin-top: 50px; text-align: center; padding: 20px; background: #f0f4f8;">
