@@ -37,16 +37,16 @@ hide_avatar: true
   <!-- Social Media Links -->
   <div style="margin-bottom: 20px;">
     <a href="mailto:mohsen.monji@concordia.ca" style="color: black; text-decoration: none; margin-right: 10px;">
-      <i class="fas fa-envelope" style="font-size: 24px;"></i>
+      <i class="fas fa-envelope" style="font-size: 18px; margin-right: 5px;"></i>Email
     </a>
     <a href="https://github.com/Mohsnmonji" style="color: black; text-decoration: none; margin-right: 10px;">
-      <i class="fab fa-github" style="font-size: 24px;"></i>
+      <i class="fab fa-github" style="font-size: 18px; margin-right: 5px;"></i>GitHub
     </a>
     <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" style="color: black; text-decoration: none; margin-right: 10px;">
-      <i class="fab fa-linkedin" style="font-size: 24px;"></i>
+      <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px;"></i>LinkedIn
     </a>
     <a href="https://bsky.app/profile/mohsenmonji.bsky.social" style="color: black; text-decoration: none;">
-      <i class="fas fa-cloud" style="font-size: 24px;"></i>
+      <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px;"></i>Bluesky
     </a>
   </div>
 </div>
