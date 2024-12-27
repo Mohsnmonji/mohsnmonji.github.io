@@ -21,16 +21,7 @@ author_profile: true
     margin-bottom: 20px;
     color: #333333; /* Dark Gray Text */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
-  }
-
-  .card:nth-child(odd) {
-    background-color: #FFEB3B; /* Light Yellow Background */
-    color: #333; /* Text color */
-  }
-
-  .card:nth-child(even) {
     background-color: #E3F2FD; /* Light Blue Background */
-    color: #333; /* Text color */
   }
 
   .card h3 {
