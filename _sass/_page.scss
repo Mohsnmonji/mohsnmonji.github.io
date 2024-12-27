@@ -3,15 +3,14 @@
    ========================================================================== */
 
 #main {
-  @include container;
-  @include clearfix;
+  @include container; /* Central container */
+  @include clearfix;  /* Clearfix to handle floated elements */
 
-  /* Center the content */
+  /* Center the content with top and bottom margins */
   margin: 2em auto;
 
   /* Padding for inner spacing */
-  padding-left: 1em;
-  padding-right: 1em;
+  padding: 1em;
 
   /* Add animation */
   animation: intro 0.3s both;
@@ -19,20 +18,26 @@
 
   /* Maximum width for large screens */
   @include breakpoint($x-large) {
-    max-width: $x-large; /* Ensure $x-large is a defined variable, e.g., 1200px */
+    max-width: 1200px; /* Optimized for large desktops */
+    padding: 1.5em;
   }
 
-  /* Responsive adjustments for smaller screens */
+  /* Adjust for medium screens (tablets) */
   @include breakpoint(max-width $medium) {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+    max-width: 90%; /* Prevent stretching to edges on tablets */
+    padding: 1em;
   }
 
+  /* Adjust for small screens (mobiles) */
   @include breakpoint(max-width $small) {
-    padding-left: 0.25em;
-    padding-right: 0.25em;
+    max-width: 95%; /* Slight margins for aesthetics */
+    padding: 0.75em;
   }
+
+  /* Prevent horizontal overflow */
+  overflow-x: hidden;
 }
+
 
 
 .page {
