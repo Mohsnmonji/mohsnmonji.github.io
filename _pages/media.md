@@ -37,11 +37,11 @@ author_profile: true
   }
 
   .media-card:nth-child(odd) {
-    background-color: #004c99; /* Dark blue */
+    background-color: #007bff; /* Light blue */
   }
 
   .media-card:nth-child(even) {
-    background-color: #006400; /* Dark green */
+    background-color: #28a745; /* Light green */
   }
 
   .media-card ul {
@@ -66,7 +66,7 @@ author_profile: true
   }
 
   .featured-media {
-    background-color: #00264d; /* Darker blue for featured */
+    background-color: #0056b3; /* Featured blue */
     padding: 30px;
     border-radius: 12px;
     color: white;
@@ -91,32 +91,11 @@ author_profile: true
     font-weight: bold;
   }
 
-  .gallery img {
-    width: 150px;
-    height: auto;
-    margin: 10px;
-    border-radius: 8px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease;
-  }
-
-  .gallery img:hover {
-    transform: scale(1.05);
-  }
-
   .icon {
     margin-right: 10px;
     color: #ffcc00;
   }
 </style>
-
-<!-- Media Gallery -->
-<div class="gallery" style="text-align: center; margin: 30px 0;">
-  <img src="images/media_logo1.png" alt="Media Logo 1">
-  <img src="images/media_logo2.png" alt="Media Logo 2">
-  <img src="images/media_logo3.png" alt="Media Logo 3">
-  <img src="images/media_logo4.png" alt="Media Logo 4">
-</div>
 
 <!-- Featured Media -->
 <div class="featured-media">
@@ -216,3 +195,4 @@ author_profile: true
     If you are interested in my work, feel free to <a href="mailto:mohsen.monji@concordia.ca" style="color: #004c99;">Get in Touch</a>.
   </p>
 </div>
+
