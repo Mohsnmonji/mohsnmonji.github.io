@@ -7,20 +7,11 @@ author_profile: true
 
 <style>
   /* General Styling */
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-
   h2 {
     border-bottom: 2px solid black;
     font-weight: bold;
     padding-bottom: 10px; /* Space between text and the line */
     margin-top: 30px;
-    color: #333;
   }
 
   ul {
@@ -34,7 +25,7 @@ author_profile: true
 
   .icon {
     margin-right: 10px;
-    color: #007bff; /* Primary blue for icons */
+    color: #007bff;
   }
 
   .teaching-section {
@@ -49,69 +40,25 @@ author_profile: true
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
-    margin: 20px auto; /* Center the cards */
+    margin-bottom: 20px;
     background-color: #f9f9f9;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    max-width: 800px; /* Set a maximum width for consistency */
   }
 
   .teaching-card h4 {
     font-weight: bold;
     margin-bottom: 10px;
-    color: #444;
   }
 
   .teaching-card p {
-    margin: 0 0 10px;
+    margin: 0;
     color: #555;
   }
 
   .teaching-list {
-    padding-left: 0; /* Remove padding */
-    list-style: none; /* Remove bullet points */
-  }
-
-  .teaching-list li {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-    font-size: 16px;
-    color: #555;
-  }
-
-  .teaching-title {
-    text-align: center;
-    font-size: 22px;
-    font-weight: bold;
-    margin-bottom: 15px;
-    color: #333;
-  }
-
-  .teaching-card ul {
-    padding-left: 0; /* Remove padding for card lists */
-  }
-
-  /* Mobile Responsive Adjustments */
-  @media (max-width: 768px) {
-    .teaching-card {
-      padding: 15px;
-      margin: 15px;
-    }
-
-    .teaching-title {
-      font-size: 20px;
-    }
-
-    .teaching-card h4 {
-      font-size: 18px;
-    }
-
-    .teaching-list li {
-      font-size: 14px;
-    }
+    padding-left: 15px;
   }
 </style>
-
 
 <div class="teaching-section">
   <h2>TEACHING PHILOSOPHY</h2>
@@ -129,18 +76,17 @@ author_profile: true
   </p>
 </div>
 
-<div class="teaching-card">
-  <h2 class="teaching-title">Courses I Teach</h2>
+<div class="teaching-section">
+  <h2>COURSES I TEACH</h2>
   <ul class="teaching-list">
     <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
-    <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
-    <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
-    <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-laptop-code icon"></i> Computational Sociology</li>
-    <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
+    <li><i class="fas fa-chart-line icon"></i>Social Statistics</li>
+    <li><i class="fas fa-table icon"></i>Quantitative Research Methods</li>
+    <li><i class="fas fa-poll icon"></i>Survey Methodology</li>
+    <li><i class="fas fa-laptop-code icon"></i>Computational Sociology</li>
+    <li><i class="fas fa-database icon"></i>Critical Data Studies</li>
   </ul>
 </div>
-
 
 <div class="teaching-section">
   <h2>TEACHING EXPERIENCE</h2>
