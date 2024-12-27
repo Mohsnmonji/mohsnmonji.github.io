@@ -55,11 +55,11 @@ hide_avatar: true
       </a>
     </div>
     <div style="display: inline-block; text-align: center;">
-      <a href="{{ site.social_links.bluesky }}" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-bluesky" style="color: #1DA1F2; font-size: 30px;"></i><br>
-        <span style="font-size: 14px; color: #555;">Bluesky</span>
-      </a>
-    </div>
+  <a href="https://bsky.app/profile/{{ site.social_links.bluesky }}" target="_blank" style="text-decoration: none;">
+    <i class="fas fa-cloud" style="color: #1DA1F2; font-size: 30px;"></i><br>
+    <span style="font-size: 14px; color: #555;">Bluesky</span>
+  </a>
+</div>
   </div>
 </div>
 
