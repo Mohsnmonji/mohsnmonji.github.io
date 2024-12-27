@@ -19,14 +19,12 @@ hide_avatar: true
     PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
   </p>
  
-  <!-- Description -->
-  <p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
-    I am a <strong>PhD Candidate in Sociology</strong> at <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
-    a <strong>CAnD3 Doctoral Fellow</strong> at <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
-    and a <strong>CRDCN Emerging Scholar</strong> at the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My doctoral research is focused on the <strong>social determinants of mental health</strong> and population-level disparities in mental health outcomes, 
-    particularly <strong>psychological distress</strong>, <strong>anxiety</strong>, and <strong>depression</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada. 
-  </p>
+ <!-- Description -->
+<p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
+  I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
+  <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
+</p>
+
   
   <!-- Buttons -->
   <div style="margin-top: 20px;">
