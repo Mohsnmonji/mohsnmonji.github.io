@@ -17,7 +17,7 @@ author_profile: true
   <div style="margin-bottom: 30px;">
     <h2 style="font-size: 22px; color: #007BFF;">CAnD3 Fellows Feature: Mohsen Monji</h2>
     <p style="font-size: 16px; color: #333; line-height: 1.6;">
-      A feature article highlighting my work and experiences as a doctoral fellow with CAnD3. 
+      A feature article highlighting my research as a doctoral fellow with CAnD3. 
       <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank" style="color: #007BFF;">Read More</a>
     </p>
   </div>
@@ -26,7 +26,7 @@ author_profile: true
   <div style="margin-bottom: 30px;">
     <h2 style="font-size: 22px; color: #007BFF;">Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence</h2>
     <p style="font-size: 16px; color: #333; line-height: 1.6;">
-      A video from 4TH SPACE, Concordia University, exploring gender equity in AI and its normative principles.
+     Wrokshop at 4TH SPACE, Concordia University, exploring gender equity in AI.
     </p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8aWb-GaUFUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-top: 15px;"></iframe>
   </div>
@@ -35,7 +35,7 @@ author_profile: true
   <div style="margin-bottom: 30px;">
     <h2 style="font-size: 22px; color: #007BFF;">Women’s Health Research Cluster Member</h2>
     <p style="font-size: 16px; color: #333; line-height: 1.6;">
-      Proud to be a member of the Women’s Health Research Cluster, contributing to interdisciplinary research focused on advancing women’s health.
+       Membership to Women’s Health Research Cluster, contributing to interdisciplinary research focused on advancing women’s health.
       <a href="https://womenshealthresearch.ubc.ca/people/members/?whrc-page-2=30" target="_blank" style="color: #007BFF;">View My Profile</a>
     </p>
   </div>
