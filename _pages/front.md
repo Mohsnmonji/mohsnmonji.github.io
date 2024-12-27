@@ -6,10 +6,15 @@ description: "Sociologist and Population Mental Health Researcher"
 author_profile: false
 hide_avatar: true
 ---
-
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 50px; padding: 20px; max-width: 1200px; margin: auto;">
+  <!-- Profile Image -->
+  <div>
+    <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
+         style="width: 450px; height: auto; border-radius: 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  </div>
+
   <!-- Text Content -->
-  <div style="flex: 1;">
+  <div style="flex: 1; text-align: left;">
     <!-- Name -->
     <h1 style="color: #333; margin-bottom: 10px;">MOHSEN MONJI</h1>
 
@@ -46,12 +51,6 @@ hide_avatar: true
         <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px;"></i>Bluesky
       </a>
     </div>
-  </div>
-
-  <!-- Profile Image -->
-  <div>
-    <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
-         style="width: 300px; height: auto; border-radius: 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   </div>
 </div>
 
