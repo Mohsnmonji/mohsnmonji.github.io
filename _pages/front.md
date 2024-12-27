@@ -8,24 +8,24 @@ hide_avatar: true
 ---
 
 <style>
-  /* Style for the word-by-word animation */
+  /* Style for the animated text */
   .animated-text {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
     border-right: 2px solid #007bff;
     font-size: 18px;
-    max-width: 100%; /* Ensure responsive text wrapping */
-    animation: typing 6s steps(80, end), blink 0.5s step-end infinite; /* Adjusted duration and steps */
+    max-width: 100%; /* Ensures responsive text wrapping */
+    animation: typing 8s steps(120, end), blink 0.5s step-end infinite;
   }
 
   /* Typing animation */
   @keyframes typing {
     from {
-      width: 0;
+      max-width: 0;
     }
     to {
-      width: 100%;
+      max-width: 100%; /* Adjust width dynamically */
     }
   }
 
@@ -90,3 +90,4 @@ hide_avatar: true
     <button style="padding: 10px 20px; font-size: 14px; background-color: #007BFF; color: white; border: none; border-radius: 5px;">Subscribe</button>
   </form>
 </footer>
+
