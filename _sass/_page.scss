@@ -5,16 +5,35 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+
+  /* Center the content */
+  margin: 2em auto;
+
+  /* Padding for inner spacing */
   padding-left: 1em;
   padding-right: 1em;
+
+  /* Add animation */
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  /* Maximum width for large screens */
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: $x-large; /* Ensure $x-large is a defined variable, e.g., 1200px */
+  }
+
+  /* Responsive adjustments for smaller screens */
+  @include breakpoint(max-width $medium) {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  @include breakpoint(max-width $small) {
+    padding-left: 0.25em;
+    padding-right: 0.25em;
   }
 }
+
 
 .page {
   @include breakpoint($large) {
