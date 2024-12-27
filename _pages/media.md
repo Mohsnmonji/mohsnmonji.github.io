@@ -75,7 +75,7 @@ author_profile: true
     <ul>
       <li>
         <strong>CAnD3 Fellows Feature: Mohsen Monji</strong> <br>
-        <span>McGill University (2023)</span><br>
+        <span>McGill University (2024)</span><br>
         A feature article highlighting my research as a doctoral fellow with CAnD3.  
         <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank">Read more</a>
       </li>
@@ -117,4 +117,11 @@ author_profile: true
       </li>
     </ul>
   </div>
+</div>
+
+<!-- Call to Action -->
+<div style="text-align: center; margin-top: 50px;">
+  <p style="font-size: 18px; color: #333;">
+    Have a media inquiry or interested in collaborating? <a href="mailto:mohsen.monji@concordia.ca" style="color: #007BFF;">Get in Touch</a>.
+  </p>
 </div>
