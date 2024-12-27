@@ -11,11 +11,12 @@ redirect_from:
 
 <style>
   h3 {
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #007bff; /* Change solid line to blue */
     font-weight: bold;
     padding-bottom: 10px; /* Space between text and the line */
   }
 </style>
+
 
 
 
