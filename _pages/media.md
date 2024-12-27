@@ -112,7 +112,7 @@ author_profile: true
       <li>
         <strong>Concordia University News: Workshop on "Affecting Machines"</strong> <br>
         <span>Concordia University (2023)</span><br>
-        A recap of my participation in the interdisciplinary workshop on artificial intelligence and its social impacts.  
+        This workshop aims to introduce participants to ways in which feminist design principles can be applied in AI research and development environments. Sabrina Ward-Kimola, Mohsen Monji and Juliette de Lamberterie, researchers in the fields of critical/feminist theory, science and technology studies (STS) and sociology, will present and discuss a set of normative principles for gender equity in AI. 
         <a href="https://www.concordia.ca/cuevents/offices/provost/fourth-space/2023/08/22/affecting-machines.html" target="_blank">Learn more</a>
       </li>
     </ul>
