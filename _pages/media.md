@@ -66,32 +66,13 @@ author_profile: true
   }
 
   .featured-media {
-    background: linear-gradient(45deg, #0056b3, #1A73E8);
-    background-size: 400% 400%;
+    background-color: #0056b3; /* Blue for Featured Media */
     padding: 30px;
     border-radius: 12px;
     color: #FFFFFF; /* White Text */
     margin-bottom: 40px;
     box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.2);
-    animation: gradientShift 6s ease infinite, float 3s ease-in-out infinite;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .featured-media:hover {
-    transform: translateY(-5px);
-    box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.3);
-  }
-
-  @keyframes gradientShift {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
+    animation: float 3s ease-in-out infinite;
   }
 
   @keyframes float {
@@ -124,15 +105,6 @@ author_profile: true
     font-weight: bold;
   }
 
-  .tag a {
-    color: #333; /* Dark Gray Tag Text */
-    text-decoration: none;
-  }
-
-  .tag a:hover {
-    text-decoration: underline;
-  }
-
   .icon {
     margin-right: 10px;
     color: #FFEB3B; /* Bright Yellow for Icons */
@@ -154,7 +126,7 @@ author_profile: true
 
   <!-- Card 1 -->
   <div class="media-card">
-    <span class="tag" title="Article feature"><a href="/tag/article/">Article</a></span>
+    <span class="tag">Article</span>
     <ul>
       <li>
         <strong>CAnD3 Fellows Feature: Mohsen Monji</strong> <br>
@@ -167,7 +139,7 @@ author_profile: true
 
   <!-- Card 2 -->
   <div class="media-card">
-    <span class="tag" title="Video content"><a href="/tag/video/">Video</a></span>
+    <span class="tag">Video</span>
     <ul>
       <li>
         <strong><i class="fas fa-play-circle" style="margin-right: 8px;"></i>Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence</strong> <br>
@@ -180,7 +152,7 @@ author_profile: true
 
   <!-- Card 3 -->
   <div class="media-card">
-    <span class="tag" title="Membership"><a href="/tag/membership/">Membership</a></span>
+    <span class="tag">Membership</span>
     <ul>
       <li>
         <strong><i class="fas fa-users" style="margin-right: 8px;"></i>Women’s Health Research Cluster Member</strong> <br>
@@ -191,7 +163,44 @@ author_profile: true
     </ul>
   </div>
 
-  <!-- Additional cards omitted for brevity -->
+  <!-- Card 4 -->
+  <div class="media-card">
+    <span class="tag">Workshop</span>
+    <ul>
+      <li>
+        <strong><i class="fas fa-chalkboard-teacher" style="margin-right: 8px;"></i>Concordia University News: Workshop on "Affecting Machines"</strong> <br>
+        <span>Concordia University (2023)</span><br>
+        Feminist design principles applied in AI research.  
+        <a href="https://www.concordia.ca/cuevents/offices/provost/fourth-space/2023/08/22/affecting-machines.html" target="_blank">Learn more</a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- Card 5 -->
+  <div class="media-card">
+    <span class="tag">Website</span>
+    <ul>
+      <li>
+        <strong><i class="fas fa-globe" style="margin-right: 8px;"></i>Affecting Machines Website</strong> <br>
+        <span> Applied AI Institute, Concordia University (2023) </span><br>
+        Showcasing normative principles for gender equity in AI.  
+        <a href="https://affectingmachines.net/" target="_blank">Visit the Website</a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- Card 6 -->
+  <div class="media-card">
+    <span class="tag">Guide</span>
+    <ul>
+      <li>
+        <strong><i class="fas fa-book" style="margin-right: 8px;"></i>All Tech Is Human: Responsible Tech Guide</strong> <br>
+        <span>All Tech Is Human (2023)</span><br>
+        Featured in the 2023 Responsible Tech Guide for responsible AI.  
+        <a href="https://alltechishuman.org/responsible-tech-guide" target="_blank">Read the Responsible Tech Guide</a>
+      </li>
+    </ul>
+  </div>
 </div>
 
 <!-- Call to Action -->
@@ -200,6 +209,3 @@ author_profile: true
     If you are interested in my work, feel free to <a href="mailto:mohsen.monji@concordia.ca" style="color: #1B5E20;">Get in Touch</a>.
   </p>
 </div>
-
-
-
