@@ -1,25 +1,11 @@
-<style>
-  /* Style for futuristic fade-in text animation */
-  .animated-description {
-    opacity: 0;
-    color: #00bfff; /* Futuristic neon blue */
-    text-shadow: 0 0 5px #00bfff, 0 0 10px #00bfff;
-    font-size: 18px;
-    animation: fadeIn 3s ease-in-out forwards; /* Fade in over 3 seconds */
-  }
-
-  /* Keyframes for fade-in animation */
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: translateY(10px); /* Slight upward motion */
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0); /* Settles into place */
-    }
-  }
-</style>
+---
+permalink: /
+title: ""
+seo_title: "Home"
+description: "Sociologist and Population Mental Health Researcher"
+author_profile: false
+hide_avatar: true
+---
 
 <div style="text-align: center; margin-top: 50px;">
   <!-- Profile Image -->
@@ -33,15 +19,32 @@
     PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
   </p>
  
-  <!-- Animated Description -->
-  <p class="animated-description">
-    I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> 
-    and <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
-  </p>
+ <!-- Description -->
+<p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
+  I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
+  <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
+</p>
+
   
   <!-- Buttons -->
   <div style="margin-top: 20px;">
     <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 10px;">Learn More About Me</a><br>
     <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
   </div>
+
+  <!-- Social Media Links -->
+  <p style="margin-top: 20px;">
+    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+      <i class="fas fa-envelope" style="font-size: 18px; margin-right: 5px;"></i> Email
+    </a>
+    <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+      <i class="fab fa-github" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#333'" onmouseout="this.style.color='black'"></i> GitHub
+    </a>
+    <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+      <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#0077b5'" onmouseout="this.style.color='black'"></i> LinkedIn
+    </a>
+    <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+      <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#17a2b8'" onmouseout="this.style.color='black'"></i> Bluesky
+    </a>
+  </p>
 </div>
