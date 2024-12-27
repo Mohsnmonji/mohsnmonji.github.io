@@ -66,15 +66,15 @@ author_profile: true
     text-decoration: underline;
   }
 
-  .featured-media {
-    background-color: #0056b3; /* Blue for Featured Media */
+.featured-media {
+    background-color: #E3F2FD; /* Light Blue Background */
     padding: 30px;
     border-radius: 12px;
-    color: #FFFFFF; /* White Text */
+    color: #333; /* Dark Gray Text */
     margin-bottom: 40px;
-    box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.2);
-    animation: float 3s ease-in-out infinite;
-  }
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Consistent with other cards */
+    text-align: justify; /* Align text in the Featured Card */
+}
 
   @keyframes float {
     0% {
@@ -94,17 +94,17 @@ author_profile: true
     color: #FFEB3B; /* Bright Yellow */
   }
 
-  .tag {
+.tag {
     display: inline-block;
-    background: #FFEB3B; /* Bright Yellow Tag Background */
-    color: #333; /* Dark Gray Tag Text */
+    background: #1B5E20; /* Dark Green Tag Background */
+    color: #FFFFFF; /* White Tag Text */
     padding: 4px 8px;
     font-size: 12px;
     border-radius: 4px;
     margin-right: 8px;
     text-transform: uppercase;
     font-weight: bold;
-  }
+}
 
   .icon {
     margin-right: 10px;
@@ -117,7 +117,7 @@ author_profile: true
   <h3><i class="fas fa-star icon"></i> CAnD3 Fellows Feature</h3>
   <p>
     A highlight of my research as a doctoral fellow at CAnD3, McGill University, 2024.  
-    <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank" style="color: #FFEB3B;">Read more</a>
+    <a href="https://www.mcgill.ca/cand3/article/fellows-feature-mohsen-monji-and-galiba-zahid" target="_blank" style="color: #0056b3;">Read more</a>
   </p>
 </div>
 
