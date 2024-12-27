@@ -1,3 +1,13 @@
+
+---
+permalink: /
+title: ""
+seo_title: "Home"
+description: "Sociologist and Population Mental Health Researcher"
+author_profile: false
+hide_avatar: true
+---
+
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 50px; max-width: 1200px; margin: auto;">
   <!-- Profile Image -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
