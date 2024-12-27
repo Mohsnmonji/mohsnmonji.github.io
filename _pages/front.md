@@ -8,53 +8,50 @@ hide_avatar: true
 ---
 
 <style>
-  /* Style for the animated text */
+  /* Style for futuristic glowing text animation */
   .animated-text {
     display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 2px solid #007bff;
+    color: #fff;
+    text-shadow: 0 0 5px #00bfff, 0 0 10px #00bfff, 0 0 20px #00bfff, 0 0 30px #00bfff, 0 0 40px #00bfff, 0 0 50px #00bfff;
     font-size: 18px;
-    max-width: 100%; /* Ensures responsive text wrapping */
-    animation: typing 8s steps(120, end), blink 0.5s step-end infinite;
+    animation: futuristic-reveal 4s steps(40, end), glow 2s infinite alternate;
   }
 
   /* Typing animation */
-  @keyframes typing {
+  @keyframes futuristic-reveal {
     from {
-      max-width: 0;
+      width: 0;
     }
     to {
-      max-width: 100%; /* Adjust width dynamically */
+      width: 100%;
     }
   }
 
-  /* Blinking cursor */
-  @keyframes blink {
-    from,
-    to {
-      border-color: transparent;
+  /* Glow pulsating animation */
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 10px #00bfff, 0 0 20px #00bfff, 0 0 40px #00bfff, 0 0 60px #00bfff;
     }
-    50% {
-      border-color: #007bff;
+    to {
+      text-shadow: 0 0 20px #1e90ff, 0 0 40px #1e90ff, 0 0 60px #1e90ff, 0 0 80px #1e90ff;
     }
   }
 </style>
 
-<div style="text-align: center; margin-top: 50px;">
+<div style="text-align: center; margin-top: 50px; background: #000; padding: 20px; border-radius: 10px; box-shadow: 0 0 20px #00bfff;">
   <!-- Profile Image -->
-  <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px; box-shadow: 0 0 20px #00bfff;">
   
   <!-- Name -->
-  <h1 style="color: #333; margin-bottom: 5px;">MOHSEN MONJI</h1>
+  <h1 style="color: #00bfff; text-shadow: 0 0 5px #00bfff, 0 0 10px #00bfff; margin-bottom: 5px;">MOHSEN MONJI</h1>
   
   <!-- Subtitle -->
-  <p style="font-style: italic; font-size: 18px; margin-top: 5px; color: #555;">
+  <p style="font-style: italic; font-size: 18px; margin-top: 5px; color: #87cefa; text-shadow: 0 0 5px #00bfff;">
     PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
   </p>
  
   <!-- Animated Description -->
-  <p style="max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
+  <p style="max-width: 700px; margin: 0 auto; color: #00bfff; text-align: justify; line-height: 1.8;">
     <span class="animated-text">
       I am a sociologist and population mental health researcher studying the social determinants of mental health and mental health disparities among youth and young adults in Canada and the US.
     </span>
@@ -62,23 +59,23 @@ hide_avatar: true
   
   <!-- Buttons -->
   <div style="margin-top: 20px;">
-    <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 10px;">Learn More About Me</a><br>
-    <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
+    <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #00bfff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 10px; box-shadow: 0 0 10px #00bfff;">Learn More About Me</a><br>
+    <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #1e90ff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 0 0 10px #1e90ff;">View My CV</a>
   </div>
 
   <!-- Social Media Links -->
-  <p style="margin-top: 20px;">
-    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
+  <p style="margin-top: 20px; color: #87cefa; text-shadow: 0 0 5px #00bfff;">
+    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="color: #00bfff; text-decoration: none; margin: 0 10px;">
       <i class="fas fa-envelope" style="font-size: 18px; margin-right: 5px;"></i> Email
     </a>
-    <a href="https://github.com/Mohsnmonji" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fab fa-github" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#333'" onmouseout="this.style.color='black'"></i> GitHub
+    <a href="https://github.com/Mohsnmonji" target="_blank" style="color: #00bfff; text-decoration: none; margin: 0 10px;">
+      <i class="fab fa-github" style="font-size: 18px; margin-right: 5px;"></i> GitHub
     </a>
-    <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#0077b5'" onmouseout="this.style.color='black'"></i> LinkedIn
+    <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="color: #00bfff; text-decoration: none; margin: 0 10px;">
+      <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px;"></i> LinkedIn
     </a>
-    <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: black; text-decoration: none; margin: 0 10px;">
-      <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px; transition: color 0.3s;" onmouseover="this.style.color='#17a2b8'" onmouseout="this.style.color='black'"></i> Bluesky
+    <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="color: #00bfff; text-decoration: none; margin: 0 10px;">
+      <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px;"></i> Bluesky
     </a>
   </p>
 </div>
