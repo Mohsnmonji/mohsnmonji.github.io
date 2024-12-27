@@ -37,16 +37,16 @@ hide_avatar: true
   <!-- Social Media Links -->
   <div style="margin-bottom: 20px;">
     <a href="mailto:mohsen.monji@concordia.ca" style="color: black; text-decoration: none; margin-right: 10px;">
-      <i class="fas fa-envelope" style="font-size: 18px; margin-right: 5px;"></i>Email
+      <i class="fas fa-envelope" style="font-size: 24px;"></i>
     </a>
     <a href="https://github.com/Mohsnmonji" style="color: black; text-decoration: none; margin-right: 10px;">
-      <i class="fab fa-github" style="font-size: 18px; margin-right: 5px;"></i>GitHub
+      <i class="fab fa-github" style="font-size: 24px;"></i>
     </a>
     <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" style="color: black; text-decoration: none; margin-right: 10px;">
-      <i class="fab fa-linkedin" style="font-size: 18px; margin-right: 5px;"></i>LinkedIn
+      <i class="fab fa-linkedin" style="font-size: 24px;"></i>
     </a>
     <a href="https://bsky.app/profile/mohsenmonji.bsky.social" style="color: black; text-decoration: none;">
-      <i class="fas fa-cloud" style="font-size: 18px; margin-right: 5px;"></i>Bluesky
+      <i class="fas fa-cloud" style="font-size: 24px;"></i>
     </a>
   </div>
 </div>
@@ -60,3 +60,4 @@ hide_avatar: true
     <button style="padding: 10px 20px; font-size: 14px; background-color: #007BFF; color: white; border: none; border-radius: 5px;">Subscribe</button>
   </form>
 </footer>
+
