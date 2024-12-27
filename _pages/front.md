@@ -7,23 +7,6 @@ author_profile: false
 hide_avatar: true
 ---
 
-<style>
-  /* Fade-in animation */
-  .fade-in-description {
-    opacity: 0; /* Initially hidden */
-    animation: fadeIn 2s ease-in forwards; /* Fades in over 2 seconds */
-  }
-
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
-</style>
-
 <div style="text-align: center; margin-top: 50px;">
   <!-- Profile Image -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
@@ -37,11 +20,12 @@ hide_avatar: true
   </p>
  
  <!-- Description -->
-  <p class="fade-in-description" style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
-    I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
-    <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
-  </p>
+<p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
+  I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
+  <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
+</p>
 
+  
   <!-- Buttons -->
   <div style="margin-top: 20px;">
     <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 10px;">Learn More About Me</a><br>
@@ -64,3 +48,4 @@ hide_avatar: true
     </a>
   </p>
 </div>
+
