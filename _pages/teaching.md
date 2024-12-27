@@ -40,6 +40,7 @@ author_profile: true
     color: #333333; /* Dark Gray Text */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Subtle Shadow */
     background-color: #E3F2FD; /* Light Blue Background */
+    text-align: justify; /* Justify text within cards */
   }
 
   .teaching-card h4 {
@@ -81,11 +82,11 @@ author_profile: true
   <div class="teaching-card">
     <ul class="teaching-list">
       <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
-      <li><i class="fas fa-chart-line icon"></i>Social Statistics</li>
-      <li><i class="fas fa-table icon"></i>Quantitative Research Methods</li>
-      <li><i class="fas fa-poll icon"></i>Survey Methodology</li>
-      <li><i class="fas fa-laptop-code icon"></i>Computational Sociology</li>
-      <li><i class="fas fa-database icon"></i>Critical Data Studies</li>
+      <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
+      <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
+      <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
+      <li><i class="fas fa-laptop-code icon"></i> Computational Sociology</li>
+      <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
     </ul>
   </div>
 </div>
@@ -94,7 +95,7 @@ author_profile: true
   <h2>TEACHING EXPERIENCE</h2>
 
   <div class="teaching-card">
-    <h4><i class="fas fa-chalkboard-teacher icon"></i>LECTURER</h4>
+    <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER</h4>
     <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
       <li>SOCI 212, Statistics I, Winter 2025</li>
@@ -106,7 +107,7 @@ author_profile: true
   </div>
 
   <div class="teaching-card">
-    <h4><i class="fas fa-chalkboard icon"></i>TEACHING ASSISTANT</h4>
+    <h4><i class="fas fa-chalkboard icon"></i> TEACHING ASSISTANT</h4>
     <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
       <li>SOCI 212–B, Statistics I, Fall 2024</li>
@@ -121,7 +122,7 @@ author_profile: true
   </div>
 
   <div class="teaching-card">
-    <h4><i class="fas fa-chalkboard icon"></i>TEACHING ASSISTANT</h4>
+    <h4><i class="fas fa-chalkboard icon"></i> TEACHING ASSISTANT</h4>
     <p>Department of Applied Human Sciences, Concordia University</p>
     <ul>
       <li>AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022</li>
@@ -129,7 +130,7 @@ author_profile: true
   </div>
 
   <div class="teaching-card">
-    <h4><i class="fas fa-user-graduate icon"></i>TUTOR</h4>
+    <h4><i class="fas fa-user-graduate icon"></i> TUTOR</h4>
     <p>Self-Employed, Tehran, Iran, 2016-2020</p>
     <ul>
       <li>Taught Social Statistics and quantitative methods.</li>
