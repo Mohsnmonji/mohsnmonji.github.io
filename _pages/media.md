@@ -66,14 +66,14 @@ author_profile: true
     text-decoration: underline;
   }
 
- .featured-media {
-    background-color: #E3F2FD; /* Light Blue Background */
-    padding: 30px;
-    border-radius: 12px;
-    color: #333; /* Dark Gray Text */
-    margin-bottom: 40px;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Consistent with other cards */
-}
+<!-- Featured Media -->
+<div class="featured-media">
+  <h3><i class="fas fa-star icon"></i> Concordia’s Applied AI Institute: Affecting Machines</h3>
+  <p>
+    The "Affecting Machines" project, normative principles for gender equity in Artificial Intelligence. Presented at Concordia University, Fourth Space, 2023.  
+    <a href="https://affectingmachines.net/" target="_blank" style="color: #0056b3;">Learn more</a>
+  </p>
+</div>
 
 .featured-media h3 {
     margin-bottom: 20px;
