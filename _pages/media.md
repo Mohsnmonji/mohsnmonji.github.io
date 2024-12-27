@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style>
   h3 {
-    border-bottom: 2px solid #007bff; /* Blue solid line under headers */
+    border-bottom: 2px solid #0056b3; /* Dark blue line under headers */
     font-weight: bold;
     padding-bottom: 10px;
     margin-top: 20px;
@@ -31,11 +31,11 @@ author_profile: true
   }
 
   .media-card:nth-child(odd) {
-    background-color: #007bff;
+    background-color: #004c99; /* Dark blue */
   }
 
   .media-card:nth-child(even) {
-    background-color: #28a745;
+    background-color: #006400; /* Dark green */
   }
 
   .media-card ul {
@@ -50,7 +50,7 @@ author_profile: true
   }
 
   .media-card ul li a {
-    color: #ffe600;
+    color: #ffcc00; /* Golden yellow for links */
     text-decoration: none;
     font-weight: bold;
   }
@@ -61,7 +61,7 @@ author_profile: true
 
   .icon {
     margin-right: 10px;
-    color: #007bff;
+    color: #004c99; /* Dark blue */
   }
 </style>
 
@@ -122,7 +122,7 @@ author_profile: true
       <li>
         <strong>Affecting Machines Website</strong> <br>
         <span> Applied AI Institute, Concordia University (2023) </span><br>
-        The Affecting Machines website showcases normatives principles for gender equity in AI developed at Concordia's Applied AI Institute.  
+        The Affecting Machines website showcases normative principles for gender equity in AI developed at Concordia's Applied AI Institute.  
         <a href="https://affectingmachines.net/" target="_blank">Visit the Website</a>
       </li>
     </ul>
@@ -144,8 +144,6 @@ author_profile: true
 <!-- Call to Action -->
 <div style="text-align: center; margin-top: 50px;">
   <p style="font-size: 18px; color: #333;">
-    If you are interested in my work, feel free to <a href="mailto:mohsen.monji@concordia.ca" style="color: #007BFF;">Get in Touch</a>.
+    If you are interested in my work, feel free to <a href="mailto:mohsen.monji@concordia.ca" style="color: #004c99;">Get in Touch</a>.
   </p>
 </div>
-
-
