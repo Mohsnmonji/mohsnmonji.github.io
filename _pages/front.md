@@ -1,5 +1,3 @@
-
-
 ---
 permalink: /
 title: ""
@@ -8,22 +6,7 @@ description: "Sociologist and Population Mental Health Researcher"
 author_profile: false
 hide_avatar: true
 ---
-<style>
-  /* Add animation for fade-in effect */
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
 
-  .fade-in {
-    opacity: 0; /* Start fully transparent */
-    animation: fadeIn 2s ease-in-out forwards; /* Animation lasts 2 seconds and applies the final state */
-  }
-</style>
 <div style="text-align: center; margin-top: 50px;">
   <!-- Profile Image -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" style="max-width: 300px; height: auto; border-radius: 50%; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
@@ -36,11 +19,12 @@ hide_avatar: true
     PhD Candidate in Sociology & Lecturer, FRQSC Doctoral Scholar, CAnD3 Doctoral Fellow, CRDCN Emerging Scholar
   </p>
  
-  <!-- Description with fade-in effect -->
-  <p class="fade-in" style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
-    I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
-    <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
-  </p>
+ <!-- Description -->
+<p style="font-size: 18px; max-width: 700px; margin: 0 auto; color: #333; text-align: justify; line-height: 1.8;">
+  I am a sociologist and population mental health researcher studying the <strong>social determinants of mental health</strong> and 
+  <strong>mental health disparities</strong> among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
+</p>
+
   
   <!-- Buttons -->
   <div style="margin-top: 20px;">
