@@ -184,8 +184,8 @@ author_profile: true
       <li>
         <strong><i class="fas fa-book icon"></i>All Tech Is Human: Responsible Tech Guide</strong> <br>
         <span>All Tech Is Human (2023)</span><br>
-        Featured in the 2023 Responsible Tech Guide for responsible AI.  
-        <a href="https://alltechishuman.org/responsible-tech-guide" target="_blank">Read the Responsible Tech Guide</a>
+        The 2023 Responsible Tech Guide.  
+        <a href="https://alltechishuman.org/responsible-tech-guide" target="_blank">Download the Responsible Tech Guide</a>
       </li>
     </ul>
   </div>
