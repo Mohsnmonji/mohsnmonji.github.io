@@ -8,12 +8,13 @@ author_profile: true
   h3 {
     border-bottom: 2px solid #007bff; /* Blue solid line under headers */
     font-weight: bold;
-    padding-bottom: 10px; /* Space between text and the line */
+    padding-bottom: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
     display: flex;
     align-items: center;
     gap: 10px;
+    color: #333;
   }
 
   .media-section {
@@ -22,12 +23,19 @@ author_profile: true
   }
 
   .media-card {
-    border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    background-color: #f9f9f9;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: white;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  .media-card:nth-child(odd) {
+    background-color: #007bff;
+  }
+
+  .media-card:nth-child(even) {
+    background-color: #28a745;
   }
 
   .media-card ul {
@@ -39,26 +47,16 @@ author_profile: true
   .media-card ul li {
     margin-bottom: 15px;
     font-size: 1rem;
-    color: #555;
   }
 
   .media-card ul li a {
-    color: #007bff;
+    color: #ffe600;
     text-decoration: none;
     font-weight: bold;
   }
 
   .media-card ul li a:hover {
     text-decoration: underline;
-  }
-
-  iframe {
-    border: none;
-    width: 100%;
-    max-width: 660px;
-    height: 371px;
-    margin: 10px auto;
-    display: block;
   }
 
   .icon {
@@ -112,7 +110,7 @@ author_profile: true
       <li>
         <strong>Concordia University News: Workshop on "Affecting Machines"</strong> <br>
         <span>Concordia University (2023)</span><br>
-        This workshop introduces participants to ways in which feminist design principles can be applied in AI research and development environments. Sabrina Ward-Kimola, Mohsen Monji and Juliette de Lamberterie, researchers in the fields of critical/feminist theory, science and technology studies (STS) and sociology, present and discuss a set of normative principles for gender equity in AI. 
+        This workshop introduces participants to ways in which feminist design principles can be applied in AI research and development environments. Sabrina Ward-Kimola, Mohsen Monji and Juliette de Lamberterie, researchers in the fields of critical/feminist theory, science and technology studies (STS) and sociology, present and discuss a set of normative principles for gender equity in AI.  
         <a href="https://www.concordia.ca/cuevents/offices/provost/fourth-space/2023/08/22/affecting-machines.html" target="_blank">Learn more</a>
       </li>
     </ul>
@@ -141,6 +139,13 @@ author_profile: true
       </li>
     </ul>
   </div>
+</div>
+
+<!-- Call to Action -->
+<div style="text-align: center; margin-top: 50px;">
+  <p style="font-size: 18px; color: #333;">
+    If you are interested in my work, feel free to <a href="mailto:mohsen.monji@concordia.ca" style="color: #007BFF;">Get in Touch</a>.
+  </p>
 </div>
 
 <!-- Call to Action -->
