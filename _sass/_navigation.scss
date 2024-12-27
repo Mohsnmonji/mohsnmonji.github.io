@@ -183,11 +183,18 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: $masthead-link-color; /* Default link color */
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: $masthead-link-color-hover; /* Hover link color */
+    }
+
+    &.active {
+      color: #fff; /* White text for active link */
+      background-color: $primary-color; /* Highlight active link background */
+      font-weight: bold; /* Optional: emphasize active link */
+      border-radius: 5px; /* Optional: rounded corners for active link */
     }
   }
 
@@ -202,7 +209,12 @@
     color: #fff; /* Keep the text white for contrast */
     cursor: pointer;
     z-index: 100;
+
+    &:hover {
+      background-color: #222; /* Slightly lighter black on hover */
+    }
   }
+}
 
   .visible-links {
     display: table;
