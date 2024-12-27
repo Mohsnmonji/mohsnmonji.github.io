@@ -117,11 +117,35 @@ author_profile: true
       </li>
     </ul>
   </div>
+
+  <!-- Card 5 -->
+  <div class="media-card">
+    <ul>
+      <li>
+        <strong>Affecting Machines Website</strong> <br>
+        <span>2023</span><br>
+        Visit the Affecting Machines website, which showcases normatives principles for gender equity in AI developed at Concordia's Applied AI Institute.  
+        <a href="https://affectingmachines.net/" target="_blank">Visit Site</a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- Card 6 -->
+  <div class="media-card">
+    <ul>
+      <li>
+        <strong>All Tech Is Human: Responsible Tech Guide</strong> <br>
+        <span>All Tech Is Human (2024)</span><br>
+        Featured in the 2023 Responsible Tech Guide for responsible AI.  
+        <a href="https://alltechishuman.org/responsible-tech-guide" target="_blank">Explore Guide</a>
+      </li>
+    </ul>
+  </div>
 </div>
 
 <!-- Call to Action -->
 <div style="text-align: center; margin-top: 50px;">
   <p style="font-size: 18px; color: #333;">
-  If you are interested in my work, feel free to  <a href="mailto:mohsen.monji@concordia.ca" style="color: #007BFF;">Get in Touch</a>.
+    If you are interested in my work, feel free to <a href="mailto:mohsen.monji@concordia.ca" style="color: #007BFF;">Get in Touch</a>.
   </p>
 </div>
