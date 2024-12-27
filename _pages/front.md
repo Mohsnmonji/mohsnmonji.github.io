@@ -10,7 +10,7 @@ hide_avatar: true
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 50px;">
   <!-- Profile Image (Circular) -->
   <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
-       style="width: 150px; height: 150px; object-fit: cover; margin-right: 40px; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+       style="width: 434px; height: 450px; object-fit: cover; margin-right: 40px; border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   
   <!-- Name and Subtitle Container -->
   <div>
