@@ -38,7 +38,7 @@ hide_avatar: true
   <div style="margin-bottom: 20px;">
     <div style="display: inline-block; text-align: center; margin-right: 15px;">
       <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="text-decoration: none;">
-        <i class="fas fa-envelope" style="color: #D14836; font-size: 30px;"></i><br>
+        <img src="images/Gmail.PNG" alt="Gmail" style="width: 30px; height: 30px;"><br>
         <span style="font-size: 14px; color: #555;">Email</span>
       </a>
     </div>
@@ -56,7 +56,7 @@ hide_avatar: true
     </div>
     <div style="display: inline-block; text-align: center;">
       <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="text-decoration: none;">
-        <i class="fas fa-cloud" style="color: #1DA1F2; font-size: 30px;"></i><br>
+        <img src="images/Bluesky.PNG" alt="Bluesky" style="width: 30px; height: 30px;"><br>
         <span style="font-size: 14px; color: #555;">Bluesky</span>
       </a>
     </div>
