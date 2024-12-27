@@ -17,8 +17,8 @@ hide_avatar: true
   <h1 style="color: #333; font-size: 36px; margin-bottom: 10px;">MOHSEN MONJI</h1>
 
   <!-- Subtitle -->
-  <p style="font-style: italic; font-size: 20px; color: #555; margin-bottom: 20px;">
-    PhD Candidate in Sociology & Lecturer
+  <p style="font-style: italic; font-size: 18px; margin-top: 5px; color: #555;">
+    PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
   </p>
 
   <!-- Description -->
