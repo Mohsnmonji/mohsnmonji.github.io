@@ -127,18 +127,17 @@ author_profile: true
     </ul>
   </div>
 
-  <!-- Card 4 -->
-  <div class="media-card">
-    <span class="tag">Website</span>
-    <ul>
-      <li>
-        <strong><i class="fas fa-globe icon"></i>Affecting Machines Website</strong> <br>
-        <span>Applied AI Institute, Concordia University (2023)</span><br>
-        Showcasing normative principles for gender equity in AI.  
-        <a href="https://affectingmachines.net/" target="_blank">Visit the Website</a>
-      </li>
-    </ul>
-  </div>
+ <!-- Card 4 -->
+<div class="media-card">
+  <span class="tag">Website</span>
+  <ul>
+    <li>
+      <strong><i class="fas fa-globe icon"></i>Affecting Machines Website</strong> <br>
+      <span>Applied AI Institute, Concordia University (2023)</span><br>
+      <a href="https://affectingmachines.net/" target="_blank">Visit the Website</a>
+    </li>
+  </ul>
+</div>
 
   <!-- Card 5 -->
   <div class="media-card">
