@@ -134,7 +134,7 @@ author_profile: true
       <li>
         <strong><i class="fas fa-globe icon"></i>Affecting Machines Website</strong> <br>
         <span>Applied AI Institute, Concordia University (2023)</span><br>
-          
+        Showcasing normative principles for gender equity in AI.  
         <a href="https://affectingmachines.net/" target="_blank">Visit the Website</a>
       </li>
     </ul>
