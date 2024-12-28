@@ -53,6 +53,9 @@ data <- tibble(
 model <- glm(outcome ~ predictor, data = data, family = binomial)
 summary(model)
 
+```r
+
+
 The glm() function in R fits a generalized linear model, with the family = binomial argument specifying logistic regression.
 
 Interpretation
