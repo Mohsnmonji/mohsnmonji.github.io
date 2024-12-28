@@ -20,25 +20,25 @@ redirect_from:
 
 
 
-
 ### <i class="fas fa-graduation-cap"></i> EDUCATION
 
 <div style="border-radius: 10px; padding: 20px; background-color: #E3F2FD; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);">
   <h4 style="font-weight: bold; color: #1B5E20;">Ph.D. Candidate in Social and Cultural Analysis (Sociology)</h4>
-  <p><strong>Institution:</strong> Concordia University (2020-Present)</p>
+  <p>Concordia University (2020-Present)</p>
   <p><strong>Co-supervisors:</strong> Drs. Matthew Unger and Marie-Pier Joly (Concordia University)</p>
   <p><strong>Committee Member:</strong> Dr. Alexis Dennis (McGill University)</p>
 
-  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
+  <p style="margin-bottom: 10px;"></p> <!-- Empty line to separate entries -->
 
   <h4 style="font-weight: bold; color: #1B5E20;">M.A. in Anthropology</h4>
-  <p><strong>Institution:</strong> University of Tehran, Iran (2018)</p>
+  <p>University of Tehran, Iran (2018)</p>
 
-  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
+  <p style="margin-bottom: 10px;"></p> <!-- Empty line to separate entries -->
 
   <h4 style="font-weight: bold; color: #1B5E20;">B.S. in Industrial Engineering</h4>
-  <p><strong>Institution:</strong> Isfahan University of Technology, Iran (2015)</p>
+  <p>Isfahan University of Technology, Iran (2015)</p>
 </div>
+
 
 ### <i class="fas fa-lightbulb"></i> RESEARCH INTERESTS
 
