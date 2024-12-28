@@ -140,12 +140,12 @@ redirect_from:
 - **Statistical Modeling**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
     <img src="https://img.shields.io/badge/OLS-blue" alt="OLS badge">
-    <img src="https://img.shields.io/badge/logistic-green" alt="logistic badge">
+    <img src="https://img.shields.io/badge/logistic%20regression-green" alt="logistic regression badge">
     <img src="https://img.shields.io/badge/ordinal%20regression-red" alt="ordinal regression badge">
     <img src="https://img.shields.io/badge/mixed%2Deffects%20models-orange" alt="mixed-effects models badge">
     <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-lightgreen" alt="mediation and moderation analysis badge">
     <img src="https://img.shields.io/badge/latent%20class%20analysis-blueviolet" alt="latent class analysis badge">
-    <img src="https://img.shields.io/badge/I-MAIHDA-yellow" alt="I-MAIHDA badge">
+    <img src="https://img.shields.io/badge/I%2DMAIHDA-yellow" alt="I-MAIHDA badge">
   </div>
 
 - **Machine Learning**  
