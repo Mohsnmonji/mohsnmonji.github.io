@@ -1,10 +1,3 @@
----
-permalink: /about-me/
-title: "About"
-seo_title: "About Me - Mohsen Monji"
-description: "Sociologist and Population Mental Health Researcher - Detailed Bio"
-author_profile: true
----
 <style>
   .about-section {
     margin-bottom: 40px;
@@ -24,15 +17,15 @@ author_profile: true
   }
 
   .card:first-of-type {
-    background-color: #90CAF9 /* Light Green Background */
+    background-color: #F3F4F6; /* Light Grey Background for Bio */
   }
 
   .card:nth-of-type(2) {
-    background-color: #E3F2FD; /* Light Blue Background */
+    background-color: #E3F2FD; /* Light Blue Background for Expertise */
   }
 
   .card:nth-of-type(3) {
-    background-color: #F1F8E9; /* Light Green Background for Contact Card */
+    background-color: #F1F8E9; /* Light Green Background for Contact */
   }
 
   .card h3 {
@@ -57,6 +50,7 @@ author_profile: true
   .card p {
     font-size: 1rem;
     color: #555;
+    line-height: 1.6; /* Improves readability */
   }
 
   .email {
