@@ -30,10 +30,9 @@ $$
 
 Where:
 
-- \( Y \): Binary outcome variable  
-- \( X \): Predictor variable  
-- \( \beta_0, \beta_1 \): Model coefficients  
-
+- //Y//: Binary outcome variable  
+- //X//: Predictor variable  
+- //β₀, β₁//: Model coefficients  
 ---
 
 ### Example in R
