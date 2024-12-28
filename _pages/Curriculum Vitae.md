@@ -17,44 +17,21 @@ redirect_from:
     color: #333; /* Dark Gray Text */
   }
 
-  h4 {
-    font-weight: bold;
-    color: #1B5E20;
-  }
 
-  p {
-    margin-bottom: 10px;
-    text-align: justify;
-  }
+### <i class="fas fa-graduation-cap"></i> EDUCATION
 
-  ul {
-    list-style-type: none;
-    padding-left: 0;
-  }
+  - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
+  Concordia University (2020-Present)   
+   **Co-supervisors:** Drs. Matthew Unger and Marie-Pier Joly (Concordia University)  
+   **Committee Member:** Dr. Alexis Dennis (McGill University)  
+ 
 
-  ul li {
-    margin-bottom: 10px;
-    text-align: justify;
-  }
+- **M.A. in Anthropology**  
+  University of Tehran, Iran (2018)  
 
-  .title {
-    color: #1B5E20;
-    font-weight: bold;
-  }
-</style>
+- **B.S. in Industrial Engineering**  
+  Isfahan University of Technology, Iran (2015)  
 
-<!-- EDUCATION -->
-<h3><i class="fas fa-graduation-cap"></i> EDUCATION</h3>
-<h4>Ph.D. Candidate in Social and Cultural Analysis (Sociology)</h4>
-<p>Concordia University (2020-Present)</p>
-<p><strong>Co-supervisors:</strong> Drs. Matthew Unger and Marie-Pier Joly (Concordia University)</p>
-<p><strong>Committee Member:</strong> Dr. Alexis Dennis (McGill University)</p>
-
-<h4>M.A. in Anthropology</h4>
-<p>University of Tehran, Iran (2018)</p>
-
-<h4>B.S. in Industrial Engineering</h4>
-<p>Isfahan University of Technology, Iran (2015)</p>
 
 <!-- RESEARCH INTERESTS -->
 <h3><i class="fas fa-lightbulb"></i> RESEARCH INTERESTS</h3>
