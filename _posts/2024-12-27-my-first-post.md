@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Understanding Logistic Regression in Social Statistics"
+title: " Logistic Regression in Social Statistics"
 date: 2024-12-27
 categories: [statistics, regression]
 tags: [logistic regression, R, social statistics]
