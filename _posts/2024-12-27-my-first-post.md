@@ -56,13 +56,3 @@ summary(model)
 ```r
 
 
-The glm() function in R fits a generalized linear model, with the family = binomial argument specifying logistic regression.
-
-Interpretation
-
-The coefficients (￼ and ￼) from the output can be used to interpret the log-odds of the binary outcome. Exponentiating the coefficients gives the odds ratio for a one-unit change in the predictor variable.
-
-### Conclusion
-
-Logistic regression is a powerful tool for analyzing binary outcomes in social science research. With R, you can efficiently model and interpret these relationships to uncover meaningful insights.
-
