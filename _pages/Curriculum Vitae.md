@@ -64,144 +64,131 @@ redirect_from:
   *Contributed to writing the Responsible AI Section of the 2023 Responsible Tech Guide.*
   *Available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
 
+### <i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE
 
-<!-- TEACHING EXPERIENCE -->
-<h3><i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE</h3>
-<ul>
-  <li><strong>LECTURER</strong>, Department of Sociology and Anthropology, Concordia University  
-    <br>SOCI 212, Statistics I, Winter 2025  
-    <br>Designed a course titled “Statistics for Social Good” by incorporating experiential learning to provide students with more opportunities to work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes.
-  </li>
-  <li><strong>TEACHING ASSISTANT</strong>, Department of Sociology and Anthropology, Concordia University  
-    <ul>
-      <li>SOCI 212–B, Statistics I, Fall 2024</li>
-      <li>SOCI 213–B, Statistics II, Winter 2024</li>
-      <li>SOCI 213–CC, Statistics II, Winter 2024</li>
-      <li>SOCI 213–AA, Statistics II, Fall 2023</li>
-      <li>SOCI 310, Research Methods, Winter 2022</li>
-      <li>SOCI 300, Classical Social Theory, Winter 2025, Fall 2024</li>
-      <li>SOCI 300, Classical Social Theory, Winter 2023, Fall 2022</li>
-      <li>SOCI 300, Classical Social Theory, Winter 2022, Fall 2021</li>
-    </ul>
-  </li>
-  <li><strong>TEACHING ASSISTANT</strong>, Department of Applied Human Sciences, Concordia University  
-    <ul>
-      <li>AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022</li>
-    </ul>
-  </li>
-  <li><strong>TUTOR</strong>, Self-Employed, Tehran, Iran, 2016-2020  
-    <ul>
-      <li>Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.</li>
-    </ul>
-  </li>
-</ul>
+- **LECTURER**, Department of Sociology and Anthropology, Concordia University  
+  - SOCI 212, Statistics I, Winter 2025  
 
-<!-- CONFERENCE PRESENTATIONS -->
-<h3><i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS</h3>
-<ul>
-  <li><strong>ODISSEI Conference of Computational Social Science</strong>, Utrecht, The Netherlands (2024)  
-    <br><em>Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada</em> (Absent due to visa delays).
-  </li>
-  <li><strong>Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing</strong>, Toronto, Canada (2024)  
-    <br><em>Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.</em>
-  </li>
-</ul>
+  \- Designed a course titled “Statistics for Social Good” by incorporating experiential learning to provide students with more opportunities to work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes.
 
-<!-- TALKS -->
-<h3><i class="fas fa-microphone"></i> TALKS</h3>
-<ul>
-  <li><strong>Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence</strong>, Fourth Space, Concordia University (2023)  
-    <br>See the recorded workshop at: <a href="https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C">Affecting Machines</a>
-  </li>
-</ul>
+- **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia University  
 
-<!-- FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS -->
-<h3><i class="fas fa-trophy"></i> FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS</h3>
-<ul>
-  <li><strong>Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant</strong>, Ph.D., 2024  
-    <br>Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
-  </li>
-  <li><strong>Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship</strong>, Ph.D., 2024</li>
-  <li><strong>Fonds de recherche du Québec (FRQSC) Doctoral Scholarship</strong>, 2024-2026  
-    <br><em>Ranked first in Sociology and Demography.</em>
-  </li>
-  <li><strong>Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellowship</strong>, 2024-2025  
-    <br><em>First Concordia student to be awarded the CAnD3 fellowship by McGill University.</em>
-  </li>
-  <li><strong>Dialogue McGill’s Graduate Research Scholarship</strong>, 2023-2024  
-    <br><em>Awarded by Dialogue McGill, funded by Health Canada.</em>
-  </li>
-  <li><strong>Concordia University Conference Travel Award</strong>, 2024</li>
-  <li><strong>Concordia University Merit Scholarship</strong>, Concordia University, 2023</li>
-  <li><strong>Concordia University Graduate Fellowship</strong>, Ph.D., 2020-2024</li>
-  <li><strong>Concordia University International Tuition Award of Excellence</strong>, Ph.D., 2020-2024</li>
-</ul>
+  \- Provided office hours, led tutorials, and directed lab sessions.
+  
+  - SOCI 212–B, Statistics I, Fall 2024
+  - SOCI 213–B, Statistics II, Winter 2024
+  - SOCI 213–CC, Statistics II, Winter 2024
+  - SOCI 213–AA, Statistics II, Fall 2023
+  - SOCI 310, Research Methods, Winter 2022  
+  - SOCI 300, Classical Social Theory, Winter 2025, Fall 2024  
+  - SOCI 300, Classical Social Theory, Winter 2023, Fall 2022  
+  - SOCI 300, Classical Social Theory, Winter 2022, Fall 2021  
 
-<!-- ACADEMIC MEMBERSHIPS -->
-<h3><i class="fas fa-users"></i> ACADEMIC MEMBERSHIPS</h3>
-<ul>
-  <li><a href="https://www.csa-scs.ca">Canadian Sociological Association</a></li>
-  <li><a href="https://www.asanet.org">American Sociological Association</a></li>
-  <li><a href="https://www.cpha.ca">Canadian Public Health Association</a></li>
-  <li><a href="https://www.canpopsoc.ca">Canadian Population Society</a></li>
-  <li><a href="https://www.amstat.org">American Statistical Association</a></li>
-  <li><a href="https://www.acha.org">American College Health Association</a></li>
-</ul>
+- **TEACHING ASSISTANT**, Department of Applied Human Sciences, Concordia University  
+  
+  - AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022
 
-<!-- SKILLS -->
-<h3><i class="fas fa-chart-bar"></i> SKILLS</h3>
-<p><strong>Survey Data Analysis</strong></p>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/complex%20surveys-blue" alt="complex surveys badge">
-  <img src="https://img.shields.io/badge/multiple%20imputations-green" alt="multiple imputations badge">
-  <img src="https://img.shields.io/badge/sampling-red" alt="sampling badge">
-  <img src="https://img.shields.io/badge/nonresponse%20bias-blue" alt="nonresponse bias badge">
-  <img src="https://img.shields.io/badge/weighting-green" alt="weighting badge">
-  <img src="https://img.shields.io/badge/bootstrapping-red" alt="bootstrapping badge">
-</div>
+- **TUTOR**, Self-Employed, Tehran, Iran, 2016-2020  
+  
+   - Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
 
-<p><strong>Statistical Modeling</strong></p>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/OLS-blue" alt="OLS badge">
-  <img src="https://img.shields.io/badge/logistic%20regression-green" alt="logistic regression badge">
-  <img src="https://img.shields.io/badge/ordinal%20regression-red" alt="ordinal regression badge">
-  <img src="https://img.shields.io/badge/mixed%2Deffects%20models-blue" alt="mixed-effects models badge">
-  <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-green" alt="mediation and moderation analysis badge">
-  <img src="https://img.shields.io/badge/latent%20class%20analysis-red" alt="latent class analysis badge">
-  <img src="https://img.shields.io/badge/I%2DMAIHDA-blue" alt="I-MAIHDA badge">
-</div>
+### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
 
-<p><strong>Machine Learning</strong></p>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/support%20vector%20machines-green" alt="support vector machines badge">
-  <img src="https://img.shields.io/badge/decision%20trees-red" alt="decision trees badge">
-  <img src="https://img.shields.io/badge/k%2Dnearest%20neighbors-blue" alt="k-nearest neighbors badge">
-  <img src="https://img.shields.io/badge/random%20forests-green" alt="random forests badge">
-  <img src="https://img.shields.io/badge/neural%20networks-red" alt="neural networks badge">
-</div>
+- **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
+  *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa delays).
 
-<p><strong>Data Visualization</strong></p>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/ggplot2-blue" alt="ggplot2 badge">
-  <img src="https://img.shields.io/badge/Plotly-green" alt="Plotly badge">
-  <img src="https://img.shields.io/badge/shiny%20dashboards-red" alt="shiny dashboards badge">
-</div>
+- **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
+  *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*
 
-<p><strong>Mathematical Writing</strong></p>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/LaTeX-blue" alt="LaTeX badge">
-  <img src="https://img.shields.io/badge/R%20Markdown-green" alt="R Markdown badge">
-  <img src="https://img.shields.io/badge/Quarto-red" alt="Quarto badge">
-  <img src="https://img.shields.io/badge/Bookdown-blue" alt="Bookdown badge">
-</div>
+### <i class="fas fa-microphone"></i> TALKS 
 
-<p><strong>Reproducible Research</strong></p>
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/R%20Projects-green" alt="R Projects badge">
-  <img src="https://img.shields.io/badge/renv-red" alt="renv badge">
-</div>
+- **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
+  See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
 
-<!-- PROGRAMMING LANGUAGES & SOFTWARE -->
+
+### <i class="fas fa-trophy"></i> FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS
+- **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
+  - Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
+- **Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship**, Ph.D., 2024.  
+- **Fonds de recherche du Québec (FRQSC) Doctoral Scholarship**, 2024-2026.  
+  - *Ranked first in Sociology and Demography.*  
+- **Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellowship**, 2024-2025.  
+  - *First Concordia student to be awarded the CAnD3 fellowship by McGill University.*  
+- **Dialogue McGill’s Graduate Research Scholarship**, 2023-2024.  
+  - *Awarded by Dialogue McGill, funded by Health Canada.*  
+- **Concordia University Conference Travel Award**, 2024.  
+- **Concordia University Merit Scholarship**, Concordia University, 2023.  
+- **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
+- **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
+
+
+### <i class="fas fa-users"></i> ACADEMIC MEMBERSHIPS
+
+- [Canadian Sociological Association](https://www.csa-scs.ca)  
+- [American Sociological Association](https://www.asanet.org)  
+- [Canadian Public Health Association](https://www.cpha.ca)  
+- [Canadian Population Society](https://www.canpopsoc.ca)  
+- [American Statistical Association](https://www.amstat.org)  
+- [American College Health Association](https://www.acha.org)  
+
+
+
+
+### <i class="fas fa-chart-bar"></i> SKILLS
+
+- **Survey Data Analysis**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/complex%20surveys-blue" alt="complex surveys badge">
+    <img src="https://img.shields.io/badge/multiple%20imputations-green" alt="multiple imputations badge">
+    <img src="https://img.shields.io/badge/sampling-red" alt="sampling badge">
+    <img src="https://img.shields.io/badge/nonresponse%20bias-blue" alt="nonresponse bias badge">
+    <img src="https://img.shields.io/badge/weighting-green" alt="weighting badge">
+    <img src="https://img.shields.io/badge/bootstrapping-red" alt="bootstrapping badge">
+  </div>
+
+- **Statistical Modeling**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/OLS-blue" alt="OLS badge">
+    <img src="https://img.shields.io/badge/logistic%20regression-green" alt="logistic regression badge">
+    <img src="https://img.shields.io/badge/ordinal%20regression-red" alt="ordinal regression badge">
+    <img src="https://img.shields.io/badge/mixed%2Deffects%20models-blue" alt="mixed-effects models badge">
+    <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-green" alt="mediation and moderation analysis badge">
+    <img src="https://img.shields.io/badge/latent%20class%20analysis-red" alt="latent class analysis badge">
+    <img src="https://img.shields.io/badge/I%2DMAIHDA-blue" alt="I-MAIHDA badge">
+  </div>
+
+- **Machine Learning**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/support%20vector%20machines-green" alt="support vector machines badge">
+    <img src="https://img.shields.io/badge/decision%20trees-red" alt="decision trees badge">
+    <img src="https://img.shields.io/badge/k%2Dnearest%20neighbors-blue" alt="k-nearest neighbors badge">
+    <img src="https://img.shields.io/badge/random%20forests-green" alt="random forests badge">
+    <img src="https://img.shields.io/badge/neural%20networks-red" alt="neural networks badge">
+  </div>
+
+- **Data Visualization**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/ggplot2-blue" alt="ggplot2 badge">
+    <img src="https://img.shields.io/badge/Plotly-green" alt="Plotly badge">
+    <img src="https://img.shields.io/badge/shiny%20dashboards-red" alt="shiny dashboards badge">
+  </div>
+
+- **Mathematical Writing**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/LaTeX-blue" alt="LaTeX badge">
+    <img src="https://img.shields.io/badge/R%20Markdown-green" alt="R Markdown badge">
+    <img src="https://img.shields.io/badge/Quarto-red" alt="Quarto badge">
+    <img src="https://img.shields.io/badge/Bookdown-blue" alt="Bookdown badge">
+  </div>
+
+- **Reproducible Research**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/R%20Projects-green" alt="R Projects badge">
+    <img src="https://img.shields.io/badge/renv-red" alt="renv badge">
+  </div>
+
+
+
 <h3><i class="fab fa-r-project"></i> PROGRAMMING LANGUAGES & SOFTWARE</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" alt="R">
@@ -223,14 +210,18 @@ redirect_from:
   <img src="https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
 </div>
 
-<!-- CERTIFICATES -->
-<h3><i class="fas fa-award"></i> CERTIFICATES</h3>
-<ul>
-  <li><strong>Canadian Statistics and Microdata for the Social Sciences</strong>, issued by Concordia University, 2023</li>
-  <li><strong>Gender-Based Analysis Plus</strong>, issued by Government of Canada, 2024</li>
-  <li><strong>Gender and Health: Awareness, Analysis, and Action</strong>, issued by Pan American Health Organization, 2024</li>
-  <li><strong>Health Inequality Monitoring Foundations: Data Sources</strong>, issued by World Health Organization, 2023</li>
-  <li><strong>Health Inequality Monitoring Foundations: Health Data Disaggregation</strong>, issued by World Health Organization, 2023</li>
-  <li><strong>Inequality Analysis using R: Disaggregated Data from Surveys</strong>, issued by World Health Organization, 2023</li>
-  <li><strong>Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)</strong>, issued by Government of Canada, 2024</li>
-</ul>
+
+
+
+
+### <i class="fas fa-award"></i> CERTIFICATES
+
+
+- **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
+- **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
+- **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024  
+- **Health Inequality Monitoring Foundations: Data Sources**, issued by World Health Organization, 2023  
+- **Health Inequality Monitoring Foundations: Health Data Disaggregation**, issued by World Health Organization, 2023  
+- **Inequality Analysis using R: Disaggregated Data from Surveys**, issued by World Health Organization, 2023  
+- **Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)**, issued by Government of Canada, 2024  
+
