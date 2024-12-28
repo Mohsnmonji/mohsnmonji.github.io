@@ -29,9 +29,9 @@ P(Y = 1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X)}}
 $$
 
 Where:
-- $begin:math:text$ Y $end:math:text$: Binary outcome variable  
-- $begin:math:text$ X $end:math:text$: Predictor variable  
-- $begin:math:text$ \\beta_0, \\beta_1 $end:math:text$: Model coefficients  
+- $Y$: Binary outcome variable  
+- $X$: Predictor variable  
+- $\beta_0, \beta_1$: Model coefficients  
 
 ---
 
