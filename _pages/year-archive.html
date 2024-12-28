@@ -3,11 +3,22 @@ layout: archive
 permalink: /year-archive/
 title: "Blog Posts"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
 <style>
+  /* General Styling for Blog Archive */
+  .blog-section {
+    margin-top: 30px;
+  }
+
+  .blog-title {
+    border-bottom: 2px solid #1B5E20; /* Accessible Dark Green */
+    font-weight: bold;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    color: #333; /* Dark Gray for Heading Text */
+  }
+
   .post-cards {
     display: flex;
     flex-wrap: wrap;
@@ -16,11 +27,12 @@ redirect_from:
   }
 
   .post-card {
-    background-color: #f8f9fa; /* Light gray background for the card */
-    border: 1px solid #ddd; /* Subtle border */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+    border-radius: 8px;
     padding: 20px;
+    margin-bottom: 20px;
+    background-color: #E3F2FD; /* Light Blue Background */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Subtle Shadow */
+    text-align: justify; /* Justify text within cards */
     width: 100%; /* Full width for smaller screens */
     max-width: 300px; /* Limit width of each card */
     flex: 1 1 calc(33.333% - 20px); /* Responsive 3-column layout */
@@ -29,19 +41,18 @@ redirect_from:
 
   .post-card:hover {
     transform: translateY(-5px); /* Slight lift effect on hover */
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow on hover */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
   }
 
   .post-card h3 {
-    margin-top: 0;
+    font-weight: bold;
     margin-bottom: 10px;
-    font-size: 1.25rem;
-    color: #007bff; /* Blue color for post title */
+    color: #1B5E20; /* Accessible Dark Green for titles */
   }
 
   .post-card p {
-    margin: 0 0 10px;
-    color: #555; /* Subtle text color for excerpt */
+    margin: 0;
+    color: #555; /* Medium Gray for text */
     font-size: 1rem;
     line-height: 1.5;
   }
@@ -49,7 +60,7 @@ redirect_from:
   .post-card a {
     display: inline-block;
     margin-top: 10px;
-    color: #007bff;
+    color: #1B5E20; /* Accessible Dark Green for links */
     text-decoration: none;
     font-weight: bold;
   }
@@ -59,14 +70,15 @@ redirect_from:
   }
 </style>
 
-<p>Stay tuned for tutorials on quantitative research methods, complex survey data analysis, and using R for statistical data analysis.</p>
-
-<div class="post-cards">
-  {% for post in site.posts %}
-  <div class="post-card">
-    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-    <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
-    <a href="{{ post.url | relative_url }}">Read More</a>
+<div class="blog-section">
+  <h2 class="blog-title">BLOG POSTS</h2>
+  <div class="post-cards">
+    {% for post in site.posts %}
+    <div class="post-card">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+      <a href="{{ post.url | relative_url }}">Read More</a>
+    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
 </div>
