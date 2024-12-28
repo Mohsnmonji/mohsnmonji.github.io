@@ -125,7 +125,6 @@ redirect_from:
 
 
 
-
 ### <i class="fas fa-chart-bar"></i> SKILLS
 
 - **Survey Data Analysis**
@@ -145,39 +144,7 @@ redirect_from:
     ![badge](https://img.shields.io/badge/ordinal%20regression-red)
     ![badge](https://img.shields.io/badge/mixed%2Deffects%20models-orange)
     ![badge](https://img.shields.io/badge/mediation%20and%20moderation%20analysis-lightgreen)
-    ![badge](https://img.shields.io/badge/latent%20class%20analysis-blueviolet)
-    ![badge](https://img.shields.io/badge/I-MAIHDA-yellow)
-  </div>
 
-- **Machine Learning**
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    ![badge](https://img.shields.io/badge/support%20vector%20machines-blue)
-    ![badge](https://img.shields.io/badge/decision%20trees-red)
-    ![badge](https://img.shields.io/badge/k-nearest%20neighbors-orange)
-    ![badge](https://img.shields.io/badge/random%20forests-lightgreen)
-    ![badge](https://img.shields.io/badge/neural%20networks-blueviolet)
-  </div>
-
-- **Data Visualization**
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    ![badge](https://img.shields.io/badge/ggplot2-blue)
-    ![badge](https://img.shields.io/badge/Plotly-green)
-    ![badge](https://img.shields.io/badge/shiny%20dashboards-red)
-  </div>
-
-- **Mathematical Writing**
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    ![badge](https://img.shields.io/badge/LaTeX-blue)
-    ![badge](https://img.shields.io/badge/R%20Markdown-green)
-    ![badge](https://img.shields.io/badge/Quarto-red)
-    ![badge](https://img.shields.io/badge/Bookdown-lightgrey)
-  </div>
-
-- **Reproducible Research**
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    ![badge](https://img.shields.io/badge/R%20Projects-blueviolet)
-    ![badge](https://img.shields.io/badge/renv-lightgreen)
-  </div>
 
 <h3><i class="fab fa-r-project"></i> PROGRAMMING LANGUAGES & SOFTWARE</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
