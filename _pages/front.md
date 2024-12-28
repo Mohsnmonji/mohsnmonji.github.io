@@ -62,12 +62,3 @@ hide_avatar: true
   </div>
 </div>
 
-<!-- Footer -->
-<footer style="margin-top: 50px; text-align: center; padding: 20px; background: #f0f4f8;">
-  <p style="font-size: 14px; color: #666;">© 2024 Mohsen Monji</p>
-  <form style="margin-top: 15px;">
-    <input type="email" placeholder="Subscribe to my newsletter" 
-           style="padding: 10px; font-size: 14px; border: 1px solid #ccc; border-radius: 5px; margin-right: 10px;">
-    <button style="padding: 10px 20px; font-size: 14px; background-color: #007BFF; color: white; border: none; border-radius: 5px;">Subscribe</button>
-  </form>
-</footer>
