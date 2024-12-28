@@ -28,7 +28,7 @@ author_profile: true
   }
 
   .card:nth-of-type(2) {
-    background-color: #E3F2FD; /* Light Blue Background for Expertise */
+    background-color: #E3F2FD; /* Light Blue Background
   }
 
   .card:nth-of-type(3) {
