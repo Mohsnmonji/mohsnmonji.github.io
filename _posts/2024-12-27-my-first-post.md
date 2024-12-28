@@ -23,6 +23,7 @@ It’s widely used in social science research for understanding and predicting c
 
 Here’s how to run a simple logistic regression in R:
 
+<div class="code-box">
 ```r
 # Load the library
 library(tidyverse)
