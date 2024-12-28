@@ -23,25 +23,21 @@ redirect_from:
 
 ### <i class="fas fa-graduation-cap"></i> EDUCATION
 
-<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 30px;">
-  
-  <div style="border-radius: 8px; padding: 15px; background-color: #E3F2FD; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-    <h4 style="font-weight: bold; color: #1B5E20;">Ph.D. Candidate in Social and Cultural Analysis (Sociology)</h4>
-    <p>Concordia University (2020-Present)</p>
-    <p><strong>Co-supervisors:</strong> Drs. Matthew Unger and Marie-Pier Joly (Concordia University)</p>
-    <p><strong>Committee Member:</strong> Dr. Alexis Dennis (McGill University)</p>
-  </div>
+<div style="border-radius: 10px; padding: 20px; background-color: #E3F2FD; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);">
+  <h4 style="font-weight: bold; color: #1B5E20;">Ph.D. Candidate in Social and Cultural Analysis (Sociology)</h4>
+  <p><strong>Institution:</strong> Concordia University (2020-Present)</p>
+  <p><strong>Co-supervisors:</strong> Drs. Matthew Unger and Marie-Pier Joly (Concordia University)</p>
+  <p><strong>Committee Member:</strong> Dr. Alexis Dennis (McGill University)</p>
 
-  <div style="border-radius: 8px; padding: 15px; background-color: #E3F2FD; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-    <h4 style="font-weight: bold; color: #1B5E20;">M.A. in Anthropology</h4>
-    <p>University of Tehran, Iran (2018)</p>
-  </div>
+  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
 
-  <div style="border-radius: 8px; padding: 15px; background-color: #E3F2FD; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-    <h4 style="font-weight: bold; color: #1B5E20;">B.S. in Industrial Engineering</h4>
-    <p>Isfahan University of Technology, Iran (2015)</p>
-  </div>
+  <h4 style="font-weight: bold; color: #1B5E20;">M.A. in Anthropology</h4>
+  <p><strong>Institution:</strong> University of Tehran, Iran (2018)</p>
 
+  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
+
+  <h4 style="font-weight: bold; color: #1B5E20;">B.S. in Industrial Engineering</h4>
+  <p><strong>Institution:</strong> Isfahan University of Technology, Iran (2015)</p>
 </div>
 
 ### <i class="fas fa-lightbulb"></i> RESEARCH INTERESTS
