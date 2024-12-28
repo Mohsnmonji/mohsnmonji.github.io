@@ -44,35 +44,25 @@ redirect_from:
   <li><i class="fas fa-database" style="color: #1B5E20;"></i> <strong>Critical Data Studies</strong></li>
 </ul>
 
-<!-- PROFESSIONAL AND RESEARCH EXPERIENCE -->
-<h3><i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE</h3>
-<p><strong>Doctoral Researcher, CRDCN Emerging Scholar</strong> (2024-Present)  
-  <br><em>Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.</em>
-</p>
 
-<p><strong>Doctoral Researcher, Quebec Inter-University Centre for Social Statistics (QICSS)</strong> (2024-Present)  
-  <br><em>Studying disparities in mental health outcomes among youth in Canada as part of my Ph.D. dissertation.</em>
-</p>
+### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
+- **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
+  *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
+- **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
+  *Studying disparities in mental health outcomes among youth in Canada as part of my Ph.D. dissertation.*
+- **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
+  *One-year training fellowship in population analytics.*
+- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)  
+  *Research assistant to Professor Matthew Unger in two SSHRC and FRQSC projects on law, criminalization, and Indigenous communities in Canada.*  
+- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)  
+   *Research assistant to Professor Marie-Pier Joly in a project on employment, underemployment, and the mental health of immigrants in Canada.*
+- **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
+  *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute in a project on gender equity in AI.*  
+  *Available at: [Affecting Machines](https://affectingmachines.net/)*
+- **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023)  
+  *Contributed to writing the Responsible AI Section of the 2023 Responsible Tech Guide.*
+  *Available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
 
-<p><strong>Doctoral Fellow, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University</strong> (2024-2025)  
-  <br><em>One-year training fellowship in population analytics.</em>
-</p>
-
-<p><strong>Research Assistant, Department of Sociology and Anthropology, Concordia University</strong> (2022-Present)  
-  <br><em>Research assistant to Professor Matthew Unger in two SSHRC and FRQSC projects on law, criminalization, and Indigenous communities in Canada.</em>
-</p>
-
-<p><strong>Research Assistant, Department of Sociology and Anthropology, Concordia University</strong> (2022-2023)  
-  <br><em>Research assistant to Professor Marie-Pier Joly in a project on employment, underemployment, and the mental health of immigrants in Canada.</em>
-</p>
-
-<p><strong>Research Assistant, Applied Artificial Intelligence Institute, Concordia University</strong> (Jun-Sep 2023)  
-  <br><em>Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute in a project on gender equity in AI. Available at: <a href="https://affectingmachines.net/">Affecting Machines</a></em>
-</p>
-
-<p><strong>Contributing Author, All Tech is Human, Responsible Artificial Intelligence Working Group</strong> (2023)  
-  <br><em>Contributed to writing the Responsible AI Section of the 2023 Responsible Tech Guide. Available at: <a href="https://alltechishuman.org/responsible-tech-guide">Responsible Tech Guide</a></em>
-</p>
 
 <!-- TEACHING EXPERIENCE -->
 <h3><i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE</h3>
