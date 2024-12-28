@@ -23,20 +23,37 @@ redirect_from:
 
 ### <i class="fas fa-graduation-cap"></i> EDUCATION
 
-  - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
-  Concordia University (2020-Present)   
-   **Co-supervisors:** Drs. Matthew Unger and Marie-Pier Joly (Concordia University)  
-   **Committee Member:** Dr. Alexis Dennis (McGill University)  
- 
+<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 30px;">
+  
+  <div style="border-radius: 8px; padding: 15px; background-color: #E3F2FD; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <h4 style="font-weight: bold; color: #1B5E20;">Ph.D. Candidate in Social and Cultural Analysis (Sociology)</h4>
+    <p>Concordia University (2020-Present)</p>
+    <p><strong>Co-supervisors:</strong> Drs. Matthew Unger and Marie-Pier Joly (Concordia University)</p>
+    <p><strong>Committee Member:</strong> Dr. Alexis Dennis (McGill University)</p>
+  </div>
 
-- **M.A. in Anthropology**  
-  University of Tehran, Iran (2018)  
+  <div style="border-radius: 8px; padding: 15px; background-color: #E3F2FD; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <h4 style="font-weight: bold; color: #1B5E20;">M.A. in Anthropology</h4>
+    <p>University of Tehran, Iran (2018)</p>
+  </div>
 
-- **B.S. in Industrial Engineering**  
-  Isfahan University of Technology, Iran (2015)  
+  <div style="border-radius: 8px; padding: 15px; background-color: #E3F2FD; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <h4 style="font-weight: bold; color: #1B5E20;">B.S. in Industrial Engineering</h4>
+    <p>Isfahan University of Technology, Iran (2015)</p>
+  </div>
+
+</div>
 
 ### <i class="fas fa-lightbulb"></i> RESEARCH INTERESTS
-*Sociology of Health*, *Quantitative Research Methods*, *Survey Methodology*, *Social Statistics*, *Computational Sociology*, *Critical Data Studies*
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Sociology%20of%20Health-blue" alt="Sociology of Health badge">
+  <img src="https://img.shields.io/badge/Quantitative%20Research%20Methods-green" alt="Quantitative Research Methods badge">
+  <img src="https://img.shields.io/badge/Social%20Statistics-red" alt="Social Statistics badge">
+  <img src="https://img.shields.io/badge/Computational%20Sociology-blue" alt="Computational Sociology badge">
+  <img src="https://img.shields.io/badge/Critical%20Data%20Studies-green" alt="Critical Data Studies badge">
+  <img src="https://img.shields.io/badge/Survey%20Methodology-red" alt="Survey Methodology badge">
+</div>
 ### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
   *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
