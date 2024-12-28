@@ -59,7 +59,7 @@ The glm() function in R fits a generalized linear model, with the family = binom
 
 Interpretation
 
-The coefficients ( \beta_0 ) and ( \beta_1 ) from the output of the logistic regression can be interpreted as follows:
+The coefficients <p>\( \beta_0, \beta_1 \)</p> from the output of the logistic regression can be interpreted as follows:
 	•	
 
 <p>\( \beta_0 \)</p>: The intercept, representing the log-odds of the outcome when the predictor is zero.  
