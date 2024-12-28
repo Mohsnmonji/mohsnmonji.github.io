@@ -1,3 +1,5 @@
+Here is the updated version with MathJax for rendering ￼ and ￼ properly in LaTeX format, without any mention of “Corey”:
+
 ---
 layout: single
 title: "Understanding Logistic Regression in Social Statistics"
@@ -28,7 +30,7 @@ $$
 P(Y = 1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X)}}
 $$
 
-Here:
+Where:
 - \( Y \): Binary outcome variable  
 - \( X \): Predictor variable  
 - \( \beta_0, \beta_1 \): Model coefficients  
@@ -52,3 +54,14 @@ data <- tibble(
 # Logistic regression
 model <- glm(outcome ~ predictor, data = data, family = binomial)
 summary(model)
+
+The glm() function in R fits a generalized linear model, with the family = binomial argument specifying logistic regression.
+
+Interpretation
+
+The coefficients (( \beta_0 ) and ( \beta_1 )) from the output can be used to interpret the log-odds of the binary outcome. Exponentiating the coefficients gives the odds ratio for a one-unit change in the predictor variable.
+
+Conclusion
+
+Logistic regression is a powerful tool for analyzing binary outcomes in social science research. With R, you can efficiently model and interpret these relationships to uncover meaningful insights.
+
