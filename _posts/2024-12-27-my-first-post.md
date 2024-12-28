@@ -1,6 +1,14 @@
+The main issues with the rendering of the content appear to be:
+	1.	Improper Markdown Syntax: Inline LaTeX and bullet points need proper spacing and syntax for correct rendering. For example, \beta_0 should be enclosed in double dollar signs ($$) for MathJax or single dollar signs for inline math rendering ($).
+	2.	Code Block Syntax: The R code block should be properly enclosed within triple backticks (```r) to render as a code snippet.
+	3.	Formatting in the Interpretation Section: MathJax equations within text must use $ ... $ for inline math.
+	4.	Incorrect Use of Parentheses: Replace (( \beta_0 )) with the correct format for inline math rendering (￼).
+
+Here is the corrected version:
+
 ---
 layout: single
-title: " Logistic Regression in Social Statistics"
+title: "Understanding Logistic Regression in Social Statistics"
 date: 2024-12-27
 categories: [statistics, regression]
 tags: [logistic regression, R, social statistics]
@@ -29,9 +37,9 @@ P(Y = 1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X)}}
 $$
 
 Where:
-- \( Y \): Binary outcome variable  
-- \( X \): Predictor variable  
-- \( \beta_0, \beta_1 \): Model coefficients  
+- $begin:math:text$ Y $end:math:text$: Binary outcome variable  
+- $begin:math:text$ X $end:math:text$: Predictor variable  
+- $begin:math:text$ \\beta_0, \\beta_1 $end:math:text$: Model coefficients  
 
 ---
 
@@ -57,9 +65,9 @@ The glm() function in R fits a generalized linear model, with the family = binom
 
 Interpretation
 
-The coefficients (( \beta_0 ) and ( \beta_1 )) from the output can be used to interpret the log-odds of the binary outcome. Exponentiating the coefficients gives the odds ratio for a one-unit change in the predictor variable.
+The coefficients (￼ and ￼) from the output can be used to interpret the log-odds of the binary outcome. Exponentiating the coefficients gives the odds ratio for a one-unit change in the predictor variable.
 
-Conclusion
+### Conclusion
 
 Logistic regression is a powerful tool for analyzing binary outcomes in social science research. With R, you can efficiently model and interpret these relationships to uncover meaningful insights.
 
