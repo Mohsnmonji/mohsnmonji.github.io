@@ -6,6 +6,7 @@ categories: [statistics, regression]
 tags: [logistic regression, R, social statistics]
 author: Mohsen Monji
 excerpt: "A brief introduction to logistic regression and its applications in social statistics, with examples in R."
+math: true
 ---
 
 ### Introduction
@@ -19,13 +20,28 @@ It’s widely used in social science research for understanding and predicting c
 
 ---
 
+### Logistic Regression Formula
+
+Logistic regression uses the following equation:
+
+$$
+P(Y = 1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X)}}
+$$
+
+Here:
+- \( Y \): Binary outcome variable
+- \( X \): Predictor variable
+- \( \beta_0, \beta_1 \): Model coefficients
+
+---
+
 ### Example in R
 
 Here’s how to run a simple logistic regression in R:
 
 <div class="code-box">
 ```r
-# Load the library
+# Load necessary library
 library(tidyverse)
 
 # Sample data
