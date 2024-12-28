@@ -81,6 +81,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - _posts # Add this line to include the posts folder
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
