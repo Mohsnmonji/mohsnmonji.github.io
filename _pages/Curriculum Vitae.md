@@ -23,6 +23,7 @@ redirect_from:
     background-color: #f7f9fb; /* Light grey background */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Subtle Shadow */
     margin-bottom: 20px;
+    text-align: justify; /* Justify all text in the cards */
   }
 
   .cv-card h4 {
@@ -202,7 +203,6 @@ redirect_from:
   </ul>
 </div>
 
-
 <!-- SKILLS -->
 <div class="cv-card">
   <h3><i class="fas fa-chart-bar"></i> SKILLS</h3>
@@ -296,4 +296,3 @@ redirect_from:
     <li><strong>Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)</strong>, issued by Government of Canada, 2024</li>
   </ul>
 </div>
-
