@@ -22,7 +22,7 @@ It’s widely used in social science research for understanding and predicting d
 
 ### Logistic Regression Formula
 
-Logistic regression equation is expresses as follows:
+Logistic regression equation is expressed as follows:
 
 <p>$$
 P(Y = 1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X)}}
