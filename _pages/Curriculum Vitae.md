@@ -42,14 +42,26 @@ redirect_from:
 
 ### <i class="fas fa-lightbulb"></i> RESEARCH INTERESTS
 
-<div style="margin-top: 20px;">
+<div style="margin-top: 20px; border-radius: 10px; padding: 20px; background-color: #ffffff; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;"><i class="fas fa-heartbeat" style="color: #1B5E20;"></i> <strong>Sociology of Health</strong></li>
-    <li style="margin-bottom: 10px;"><i class="fas fa-chart-line" style="color: #1B5E20;"></i> <strong>Quantitative Research Methods</strong></li>
-    <li style="margin-bottom: 10px;"><i class="fas fa-chart-bar" style="color: #1B5E20;"></i> <strong>Social Statistics</strong></li>
-    <li style="margin-bottom: 10px;"><i class="fas fa-poll" style="color: #1B5E20;"></i> <strong>Survey Methodology</strong></li>
-    <li style="margin-bottom: 10px;"><i class="fas fa-laptop-code" style="color: #1B5E20;"></i> <strong>Computational Sociology</strong></li>
-    <li style="margin-bottom: 10px;"><i class="fas fa-database" style="color: #1B5E20;"></i> <strong>Critical Data Studies</strong></li>
+    <li style="margin-bottom: 10px;">
+      <i class="fas fa-heartbeat" style="color: #1B5E20;"></i> <strong>Sociology of Health</strong>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <i class="fas fa-chart-line" style="color: #1B5E20;"></i> <strong>Quantitative Research Methods</strong>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <i class="fas fa-chart-bar" style="color: #1B5E20;"></i> <strong>Social Statistics</strong>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <i class="fas fa-poll" style="color: #1B5E20;"></i> <strong>Survey Methodology</strong>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <i class="fas fa-laptop-code" style="color: #1B5E20;"></i> <strong>Computational Sociology</strong>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <i class="fas fa-database" style="color: #1B5E20;"></i> <strong>Critical Data Studies</strong>
+    </li>
   </ul>
 </div>
 
