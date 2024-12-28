@@ -24,7 +24,7 @@ author_profile: true
   }
 
   .card:first-of-type {
-    background-color: #F3F4F6; /* Light Grey Background for Bio */
+    background-color: #FFFFFF; /* White Background */
   }
 
   .card:nth-of-type(2) {
