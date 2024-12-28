@@ -24,7 +24,7 @@ author_profile: true
   }
 
   .card:first-of-type {
-    background-color: #FFFFFF; /* White Background */
+    background-color: #FAFAFA; /* Soft White Background */
   }
 
   .card:nth-of-type(2) {
