@@ -8,7 +8,7 @@ div.highlighter-rouge, figure.highlight {
   padding: 1.5em;
   border: 1px solid #007bff; /* Blue border for a modern look */
   border-radius: 8px; /* Slightly more rounded corners */
-  background-color: #f0f4ff; /* Light blue background for better readability */
+  background-color: #e8f4ff; /* Light blue background for better readability */
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
   font-size: 14px; /* Consistent font size for code */
   font-family: "Fira Code", "Courier New", Courier, monospace; /* Monospace font for code */
@@ -70,7 +70,7 @@ div.highlighter-rouge:before, figure.highlight:before {
 
 code {
   padding: 0.2em 0.4em;
-  background-color: #f5f5f5; /* Same background as the code block */
+  background-color: #e8f4ff; /* Light blue background for inline code */
   border-radius: 3px;
   font-family: "Fira Code", "Courier New", Courier, monospace;
   font-size: 14px;
