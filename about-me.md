@@ -1,3 +1,12 @@
+
+---
+permalink: /about-me/
+title: "About"
+seo_title: "About Me - Mohsen Monji"
+description: "Sociologist and Population Mental Health Researcher - Detailed Bio"
+author_profile: true
+---
+
 <style>
   .about-section {
     margin-bottom: 40px;
