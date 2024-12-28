@@ -29,9 +29,9 @@ P(Y = 1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X)}}
 $$
 
 Here:
-- \( Y \): Binary outcome variable
-- \( X \): Predictor variable
-- \( \beta_0, \beta_1 \): Model coefficients
+- \( Y \): Binary outcome variable  
+- \( X \): Predictor variable  
+- \( \beta_0, \beta_1 \): Model coefficients  
 
 ---
 
@@ -39,7 +39,6 @@ Here:
 
 Here’s how to run a simple logistic regression in R:
 
-<div class="code-box">
 ```r
 # Load necessary library
 library(tidyverse)
