@@ -46,14 +46,18 @@ redirect_from:
 
 ### <i class="fas fa-lightbulb"></i> RESEARCH INTERESTS
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Sociology%20of%20Health-blue" alt="Sociology of Health badge">
-  <img src="https://img.shields.io/badge/Quantitative%20Research%20Methods-green" alt="Quantitative Research Methods badge">
-  <img src="https://img.shields.io/badge/Social%20Statistics-red" alt="Social Statistics badge">
-  <img src="https://img.shields.io/badge/Computational%20Sociology-blue" alt="Computational Sociology badge">
-  <img src="https://img.shields.io/badge/Critical%20Data%20Studies-green" alt="Critical Data Studies badge">
-  <img src="https://img.shields.io/badge/Survey%20Methodology-red" alt="Survey Methodology badge">
+<div style="margin-top: 20px;">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;"><i class="fas fa-heartbeat" style="color: #1B5E20;"></i> <strong>Sociology of Health</strong></li>
+    <li style="margin-bottom: 10px;"><i class="fas fa-chart-line" style="color: #1B5E20;"></i> <strong>Quantitative Research Methods</strong></li>
+    <li style="margin-bottom: 10px;"><i class="fas fa-chart-bar" style="color: #1B5E20;"></i> <strong>Social Statistics</strong></li>
+    <li style="margin-bottom: 10px;"><i class="fas fa-poll" style="color: #1B5E20;"></i> <strong>Survey Methodology</strong></li>
+    <li style="margin-bottom: 10px;"><i class="fas fa-laptop-code" style="color: #1B5E20;"></i> <strong>Computational Sociology</strong></li>
+    <li style="margin-bottom: 10px;"><i class="fas fa-database" style="color: #1B5E20;"></i> <strong>Critical Data Studies</strong></li>
+  </ul>
 </div>
+
+
 ### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
   *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
