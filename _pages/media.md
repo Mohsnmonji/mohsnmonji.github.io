@@ -66,21 +66,6 @@ author_profile: true
     text-decoration: underline;
   }
 
-  .featured-media {
-    background-color: #E3F2FD; /* Light Blue Background */
-    padding: 30px;
-    border-radius: 12px;
-    color: #333; /* Dark Gray Text */
-    margin-bottom: 40px;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Consistent with other cards */
-  }
-
-  .featured-media h3 {
-    margin-bottom: 20px;
-    font-size: 28px;
-    color: #333; /* Dark Gray for Header */
-  }
-
   .tag {
     display: inline-block;
     background: #1B5E20; /* Dark Green Tag Background */
@@ -99,15 +84,6 @@ author_profile: true
   }
 </style>
 
-<!-- Featured Media -->
-<div class="featured-media">
-  <h3><i class="fas fa-star icon"></i> Concordia’s Applied AI Institute: Affecting Machines</h3>
-  <p>
-    The "Affecting Machines" project, normative principles for gender equity in Artificial Intelligence. Presented at Concordia University, Fourth Space, 2023.  
-    <a href="https://affectingmachines.net/" target="_blank" style="color: #0056b3;">Learn more</a>
-  </p>
-</div>
-
 <!-- Media Cards -->
 <div class="media-section">
   <h3><i class="fas fa-newspaper icon"></i> Media Features</h3>
@@ -125,7 +101,7 @@ author_profile: true
     </ul>
   </div>
 
-  <!-- Card 2 -->
+  <!-- YouTube Card -->
   <div class="media-card">
     <span class="tag">Video</span>
     <ul>
@@ -153,31 +129,18 @@ author_profile: true
 
   <!-- Card 4 -->
   <div class="media-card">
-    <span class="tag">Workshop</span>
-    <ul>
-      <li>
-        <strong><i class="fas fa-chalkboard-teacher icon"></i>Concordia University News: Workshop on "Gender Equity in AI"</strong> <br>
-        <span>Concordia University (2023)</span><br>
-        Feminist design principles applied in AI research.  
-        <a href="https://www.concordia.ca/cuevents/offices/provost/fourth-space/2023/08/22/affecting-machines.html" target="_blank">Learn more</a>
-      </li>
-    </ul>
-  </div>
-
-  <!-- Card 5 -->
-  <div class="media-card">
     <span class="tag">Website</span>
     <ul>
       <li>
         <strong><i class="fas fa-globe icon"></i>Affecting Machines Website</strong> <br>
         <span>Applied AI Institute, Concordia University (2023)</span><br>
-        Showcasing normative principles for gender equity in AI.  
+          
         <a href="https://affectingmachines.net/" target="_blank">Visit the Website</a>
       </li>
     </ul>
   </div>
 
-  <!-- Card 6 -->
+  <!-- Card 5 -->
   <div class="media-card">
     <span class="tag">Guide</span>
     <ul>
