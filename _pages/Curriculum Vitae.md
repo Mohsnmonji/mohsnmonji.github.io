@@ -16,6 +16,7 @@ redirect_from:
     padding-bottom: 10px; /* Space between text and the line */
     color: #333; /* Dark Gray Text */
   }
+</style>
 
 
 ### <i class="fas fa-graduation-cap"></i> EDUCATION
