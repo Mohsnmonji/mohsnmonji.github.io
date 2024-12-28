@@ -53,25 +53,49 @@ redirect_from:
   </ul>
 </div>
 
+<div style="border-radius: 10px; padding: 20px; background-color: #E3F2FD; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);">
+  <h3 style="font-weight: bold; color: #1B5E20;"><i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE</h3>
 
-### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
-- **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
-  *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
-- **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
-  *Studying disparities in mental health outcomes among youth in Canada as part of my Ph.D. dissertation.*
-- **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
-  *One-year training fellowship in population analytics.*
-- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)  
-  *Research assistant to Professor Matthew Unger in two SSHRC and FRQSC projects on law, criminalization, and Indigenous communities in Canada.*  
-- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)  
-   *Research assistant to Professor Marie-Pier Joly in a project on employment, underemployment, and the mental health of immigrants in Canada.*
-- **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
-  *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute in a project on gender equity in AI.*  
-  *Available at: [Affecting Machines](https://affectingmachines.net/)*
-- **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023)  
-  *Contributed to writing the Responsible AI Section of the 2023 Responsible Tech Guide.*
-  *Available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
+  <h4 style="font-weight: bold; color: #1B5E20;">Doctoral Researcher, CRDCN Emerging Scholar</h4>
+  <p><strong>Institution:</strong> Canadian Research Data Centre Network (CRDCN) (2024-Present)</p>
+  <p><em>Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.</em></p>
 
+  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
+
+  <h4 style="font-weight: bold; color: #1B5E20;">Doctoral Researcher</h4>
+  <p><strong>Institution:</strong> Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)</p>
+  <p><em>Studying disparities in mental health outcomes among youth in Canada as part of my Ph.D. dissertation.</em></p>
+
+  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
+
+  <h4 style="font-weight: bold; color: #1B5E20;">Doctoral Fellow</h4>
+  <p><strong>Institution:</strong> Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)</p>
+  <p><em>One-year training fellowship in population analytics.</em></p>
+
+  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
+
+  <h4 style="font-weight: bold; color: #1B5E20;">Research Assistant</h4>
+  <p><strong>Institution:</strong> Department of Sociology and Anthropology, Concordia University (2022-Present)</p>
+  <p><em>Research assistant to Professor Matthew Unger in two SSHRC and FRQSC projects on law, criminalization, and Indigenous communities in Canada.</em></p>
+
+  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
+
+  <h4 style="font-weight: bold; color: #1B5E20;">Research Assistant</h4>
+  <p><strong>Institution:</strong> Department of Sociology and Anthropology, Concordia University (2022-2023)</p>
+  <p><em>Research assistant to Professor Marie-Pier Joly in a project on employment, underemployment, and the mental health of immigrants in Canada.</em></p>
+
+  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
+
+  <h4 style="font-weight: bold; color: #1B5E20;">Research Assistant</h4>
+  <p><strong>Institution:</strong> Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)</p>
+  <p><em>Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute in a project on gender equity in AI. Available at: <a href="https://affectingmachines.net/">Affecting Machines</a></em></p>
+
+  <hr style="border: 1px solid #1B5E20; margin: 20px 0;">
+
+  <h4 style="font-weight: bold; color: #1B5E20;">Contributing Author</h4>
+  <p><strong>Institution:</strong> All Tech is Human, Responsible Artificial Intelligence Working Group (2023)</p>
+  <p><em>Contributed to writing the Responsible AI Section of the 2023 Responsible Tech Guide. Available at: <a href="https://alltechishuman.org/responsible-tech-guide">Responsible Tech Guide</a></em></p>
+</div>
 
 ### <i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE
 
