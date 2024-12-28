@@ -127,23 +127,57 @@ redirect_from:
 
 ### <i class="fas fa-chart-bar"></i> SKILLS
 
-- **Survey Data Analysis**
+- **Survey Data Analysis**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    ![badge](https://img.shields.io/badge/complex%20surveys-blue)
-    ![badge](https://img.shields.io/badge/multiple%20imputations-green)
-    ![badge](https://img.shields.io/badge/sampling-red)
-    ![badge](https://img.shields.io/badge/nonresponse%20bias-orange)
-    ![badge](https://img.shields.io/badge/weighting-purple)
-    ![badge](https://img.shields.io/badge/bootstrapping-lightgrey)
+    <img src="https://img.shields.io/badge/complex%20surveys-blue" alt="complex surveys badge">
+    <img src="https://img.shields.io/badge/multiple%20imputations-green" alt="multiple imputations badge">
+    <img src="https://img.shields.io/badge/sampling-red" alt="sampling badge">
+    <img src="https://img.shields.io/badge/nonresponse%20bias-orange" alt="nonresponse bias badge">
+    <img src="https://img.shields.io/badge/weighting-purple" alt="weighting badge">
+    <img src="https://img.shields.io/badge/bootstrapping-lightgrey" alt="bootstrapping badge">
   </div>
 
-- **Statistical Modeling**
+- **Statistical Modeling**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    ![badge](https://img.shields.io/badge/OLS-blue)
-    ![badge](https://img.shields.io/badge/logistic-green)
-    ![badge](https://img.shields.io/badge/ordinal%20regression-red)
-    ![badge](https://img.shields.io/badge/mixed%2Deffects%20models-orange)
-    ![badge](https://img.shields.io/badge/mediation%20and%20moderation%20analysis-lightgreen)
+    <img src="https://img.shields.io/badge/OLS-blue" alt="OLS badge">
+    <img src="https://img.shields.io/badge/logistic-green" alt="logistic badge">
+    <img src="https://img.shields.io/badge/ordinal%20regression-red" alt="ordinal regression badge">
+    <img src="https://img.shields.io/badge/mixed%2Deffects%20models-orange" alt="mixed-effects models badge">
+    <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-lightgreen" alt="mediation and moderation analysis badge">
+    <img src="https://img.shields.io/badge/latent%20class%20analysis-blueviolet" alt="latent class analysis badge">
+    <img src="https://img.shields.io/badge/I-MAIHDA-yellow" alt="I-MAIHDA badge">
+  </div>
+
+- **Machine Learning**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/support%20vector%20machines-blue" alt="support vector machines badge">
+    <img src="https://img.shields.io/badge/decision%20trees-red" alt="decision trees badge">
+    <img src="https://img.shields.io/badge/k-nearest%20neighbors-orange" alt="k-nearest neighbors badge">
+    <img src="https://img.shields.io/badge/random%20forests-lightgreen" alt="random forests badge">
+    <img src="https://img.shields.io/badge/neural%20networks-blueviolet" alt="neural networks badge">
+  </div>
+
+- **Data Visualization**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/ggplot2-blue" alt="ggplot2 badge">
+    <img src="https://img.shields.io/badge/Plotly-green" alt="Plotly badge">
+    <img src="https://img.shields.io/badge/shiny%20dashboards-red" alt="shiny dashboards badge">
+  </div>
+
+- **Mathematical Writing**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/LaTeX-blue" alt="LaTeX badge">
+    <img src="https://img.shields.io/badge/R%20Markdown-green" alt="R Markdown badge">
+    <img src="https://img.shields.io/badge/Quarto-red" alt="Quarto badge">
+    <img src="https://img.shields.io/badge/Bookdown-lightgrey" alt="Bookdown badge">
+  </div>
+
+- **Reproducible Research**  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/R%20Projects-blueviolet" alt="R Projects badge">
+    <img src="https://img.shields.io/badge/renv-lightgreen" alt="renv badge">
+  </div>
+
 
 
 <h3><i class="fab fa-r-project"></i> PROGRAMMING LANGUAGES & SOFTWARE</h3>
