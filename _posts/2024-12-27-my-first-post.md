@@ -53,6 +53,7 @@ data <- tibble(
 # Logistic regression
 model <- glm(outcome ~ predictor, data = data, family = binomial)
 summary(model)
+```
 
 The glm() function in R fits a generalized linear model, with the family = binomial argument specifying logistic regression.
 
@@ -84,6 +85,3 @@ If the odds ratio is greater than 1, the predictor increases the likelihood of t
 Conclusion
 
 Logistic regression is a powerful and versatile tool for analyzing binary outcomes in social science research. By understanding and interpreting the coefficients, researchers can uncover relationships between predictors and outcomes.
-
-With R, logistic regression becomes accessible and efficient, enabling researchers to model and interpret these relationships with real-world data.
-
