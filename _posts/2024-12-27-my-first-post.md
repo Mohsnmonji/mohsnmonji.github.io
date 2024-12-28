@@ -1,4 +1,4 @@
-Here is the updated version with MathJax for rendering ￼ and ￼ properly in LaTeX format, without any mention of “Corey”:
+
 
 ---
 layout: single
