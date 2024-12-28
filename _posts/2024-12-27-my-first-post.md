@@ -52,7 +52,3 @@ data <- tibble(
 # Logistic regression
 model <- glm(outcome ~ predictor, data = data, family = binomial)
 summary(model)
-
-```r
-
-
