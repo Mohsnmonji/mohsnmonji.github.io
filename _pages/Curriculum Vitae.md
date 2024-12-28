@@ -125,6 +125,7 @@ redirect_from:
 
 
 
+
 ### <i class="fas fa-chart-bar"></i> SKILLS
 
 - **Survey Data Analysis**  
@@ -132,9 +133,9 @@ redirect_from:
     <img src="https://img.shields.io/badge/complex%20surveys-blue" alt="complex surveys badge">
     <img src="https://img.shields.io/badge/multiple%20imputations-green" alt="multiple imputations badge">
     <img src="https://img.shields.io/badge/sampling-red" alt="sampling badge">
-    <img src="https://img.shields.io/badge/nonresponse%20bias-orange" alt="nonresponse bias badge">
-    <img src="https://img.shields.io/badge/weighting-purple" alt="weighting badge">
-    <img src="https://img.shields.io/badge/bootstrapping-lightgrey" alt="bootstrapping badge">
+    <img src="https://img.shields.io/badge/nonresponse%20bias-blue" alt="nonresponse bias badge">
+    <img src="https://img.shields.io/badge/weighting-green" alt="weighting badge">
+    <img src="https://img.shields.io/badge/bootstrapping-red" alt="bootstrapping badge">
   </div>
 
 - **Statistical Modeling**  
@@ -142,19 +143,19 @@ redirect_from:
     <img src="https://img.shields.io/badge/OLS-blue" alt="OLS badge">
     <img src="https://img.shields.io/badge/logistic%20regression-green" alt="logistic regression badge">
     <img src="https://img.shields.io/badge/ordinal%20regression-red" alt="ordinal regression badge">
-    <img src="https://img.shields.io/badge/mixed%2Deffects%20models-orange" alt="mixed-effects models badge">
-    <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-lightgreen" alt="mediation and moderation analysis badge">
-    <img src="https://img.shields.io/badge/latent%20class%20analysis-blueviolet" alt="latent class analysis badge">
-    <img src="https://img.shields.io/badge/I%2DMAIHDA-yellow" alt="I-MAIHDA badge">
+    <img src="https://img.shields.io/badge/mixed%2Deffects%20models-blue" alt="mixed-effects models badge">
+    <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-green" alt="mediation and moderation analysis badge">
+    <img src="https://img.shields.io/badge/latent%20class%20analysis-red" alt="latent class analysis badge">
+    <img src="https://img.shields.io/badge/I%2DMAIHDA-blue" alt="I-MAIHDA badge">
   </div>
 
 - **Machine Learning**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/support%20vector%20machines-blue" alt="support vector machines badge">
+    <img src="https://img.shields.io/badge/support%20vector%20machines-green" alt="support vector machines badge">
     <img src="https://img.shields.io/badge/decision%20trees-red" alt="decision trees badge">
-    <img src="https://img.shields.io/badge/k-nearest%20neighbors-orange" alt="k-nearest neighbors badge">
-    <img src="https://img.shields.io/badge/random%20forests-lightgreen" alt="random forests badge">
-    <img src="https://img.shields.io/badge/neural%20networks-blueviolet" alt="neural networks badge">
+    <img src="https://img.shields.io/badge/k%2Dnearest%20neighbors-blue" alt="k-nearest neighbors badge">
+    <img src="https://img.shields.io/badge/random%20forests-green" alt="random forests badge">
+    <img src="https://img.shields.io/badge/neural%20networks-red" alt="neural networks badge">
   </div>
 
 - **Data Visualization**  
@@ -169,13 +170,13 @@ redirect_from:
     <img src="https://img.shields.io/badge/LaTeX-blue" alt="LaTeX badge">
     <img src="https://img.shields.io/badge/R%20Markdown-green" alt="R Markdown badge">
     <img src="https://img.shields.io/badge/Quarto-red" alt="Quarto badge">
-    <img src="https://img.shields.io/badge/Bookdown-lightgrey" alt="Bookdown badge">
+    <img src="https://img.shields.io/badge/Bookdown-blue" alt="Bookdown badge">
   </div>
 
 - **Reproducible Research**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/R%20Projects-blueviolet" alt="R Projects badge">
-    <img src="https://img.shields.io/badge/renv-lightgreen" alt="renv badge">
+    <img src="https://img.shields.io/badge/R%20Projects-green" alt="R Projects badge">
+    <img src="https://img.shields.io/badge/renv-red" alt="renv badge">
   </div>
 
 
