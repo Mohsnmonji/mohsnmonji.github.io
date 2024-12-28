@@ -10,7 +10,7 @@ math: true
 permalink: /survey-weights/
 ---
 
-### Introduction
+## Introduction
 
 Survey data often come with **complex sampling designs**, including stratification, clustering, and unequal probabilities of selection. To make valid population-level inferences, **survey weights** must be applied. This page focuses on understanding survey weights and bootstrap weights, and how to use them effectively in **R** with the `survey` package.
 
