@@ -106,7 +106,7 @@ author_profile: true
     <span class="tag">Video</span>
     <ul>
       <li>
-        <strong><i class="fas fa-play-circle icon"></i>Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence</strong> <br>
+        <strong><i class="fas fa-play-circle icon"></i>Affecting Machines </strong> <br>
         <span>Concordia University, Fourth Space (2023)</span><br>
         Workshop exploring gender equity in AI.  
         <a href="https://www.youtube.com/watch?v=8aWb-GaUFUI" target="_blank">Watch Video</a>
