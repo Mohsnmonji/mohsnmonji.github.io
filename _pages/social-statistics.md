@@ -38,7 +38,6 @@ author_profile: true
     max-width: 300px; /* Limit width of each card */
     flex: 1 1 300px; /* Responsive layout */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    position: relative; /* For badge positioning */
   }
 
   .post-card:hover {
@@ -71,38 +70,14 @@ author_profile: true
     text-decoration: underline;
   }
 
-  /* New Badge Styling */
-  .badge-new {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background-color: #1B5E20; /* Dark Green */
-    color: white;
-    font-size: 0.8rem;
-    font-weight: bold;
-    padding: 5px 10px;
-    border-radius: 4px;
-  }
-
-  /* Categories Styling */
-  .post-categories {
-    margin-top: 10px;
-    color: #1B5E20; /* Accessible Dark Green */
-    font-size: 0.9rem;
-    font-style: italic;
-  }
+  /* Removed Badge Styling */
 </style>
 
 <div class="blog-section">
   <h2 class="blog-title">TOPICS</h2>
   <div class="post-cards">
-    {% assign recent_threshold = site.time | date: "%s" | minus: 604800 %} <!-- 7 days in seconds -->
     {% for post in site.posts %}
-    {% assign post_date = post.date | date: "%s" %}
     <div class="post-card">
-      {% if post_date > recent_threshold %}
-      <span class="badge-new">New</span>
-      {% endif %}
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
       <p class="post-categories">Categories: {{ post.categories | join: ', ' }}</p>
@@ -111,5 +86,3 @@ author_profile: true
     {% endfor %}
   </div>
 </div>
-
-
