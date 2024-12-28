@@ -14,15 +14,15 @@ math: true
 Logistic regression is a statistical method used for modeling binary outcomes, such as:
 
 - Predicting whether an individual is diagnosed with anxiety or not.
-- Examining disparities in employment status.
+- Examining disparities in employment status( employed versus unemployed)
 
-It’s widely used in social science research for understanding and predicting categorical outcomes.
+It’s widely used in social science research for understanding and predicting dischotomous outcomes.
 
 ---
 
 ### Logistic Regression Formula
 
-Logistic regression uses the following equation:
+Logistic regression equation is expresses as follows:
 
 <p>$$
 P(Y = 1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X)}}
