@@ -1,5 +1,3 @@
-
-
 ---
 layout: single
 title: "Understanding Logistic Regression in Social Statistics"
