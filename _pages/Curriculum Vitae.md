@@ -18,9 +18,7 @@ redirect_from:
   }
 </style>
 
-<a href="{{ '/_pages/MohsenMonji_CV.pdf' | relative_url }}" target="_blank">
-  <i class="fas fa-download" style="color: #1B5E20;"></i> Download PDF
-</a>
+
 
 
 ### <i class="fas fa-graduation-cap"></i> EDUCATION
