@@ -99,7 +99,7 @@ author_profile: true
   <ul>
     <li><i class="fas fa-notes-medical icon"></i> Sociology of Health</li>
     <li><i class="fas fa-heartbeat icon"></i> Social Determinants of Health</li>
-    <li><i class="fas fa-users icon"></i> Population</li>
+    <li><i class="fas fa-users icon"></i> Population Mental Health</li>
     <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
     <li><i class="fas fa-poll-h icon"></i> Survey Methodology</li>
     <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
