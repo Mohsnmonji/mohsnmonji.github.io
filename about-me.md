@@ -102,7 +102,7 @@ author_profile: true
     <li><i class="fas fa-brain icon"></i> Population Mental Health</li>
     <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
     <li><i class="fas fa-poll-h icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-code icon"></i> Computational Sociology</li>
+    <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
     <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
   </ul>
 </div>
