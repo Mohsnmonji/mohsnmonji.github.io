@@ -36,15 +36,15 @@ redirect_from:
 
 <!-- RESEARCH INTERESTS -->
 <h3><i class="fas fa-lightbulb"></i> RESEARCH INTERESTS</h3>
-<ul>
-  <li><i class="fas fa-notes-medical" style="color: #1B5E20;"></i> <strong>Sociology of Health</strong></li>
-  <li><i class="fas fa-heartbeat" style="color: #1B5E20;"></i> <strong>Social Determinants of Health</strong></li>
-  <li><i class="fas fa-brain" style="color: #1B5E20;"></i> <strong>Population Mental Health</strong></li>
-  <li><i class="fas fa-chart-bar" style="color: #1B5E20;"></i> <strong>Social Statistics</strong></li>
-  <li><i class="fas fa-poll-h" style="color: #1B5E20;"></i> <strong>Survey Methodology</strong></li>
-  <li><i class="fas fa-microchip" style="color: #1B5E20;"></i> <strong>Computational Sociology</strong></li>
-  <li><i class="fas fa-database" style="color: #1B5E20;"></i> <strong>Critical Data Studies</strong></li>
-</ul>
+<div>
+  <i class="fas fa-notes-medical" style="color: #1B5E20;"></i> <strong>Sociology of Health</strong><br>
+  <i class="fas fa-heartbeat" style="color: #1B5E20;"></i> <strong>Social Determinants of Health</strong><br>
+  <i class="fas fa-brain" style="color: #1B5E20;"></i> <strong>Population Mental Health</strong><br>
+  <i class="fas fa-chart-bar" style="color: #1B5E20;"></i> <strong>Social Statistics</strong><br>
+  <i class="fas fa-poll-h" style="color: #1B5E20;"></i> <strong>Survey Methodology</strong><br>
+  <i class="fas fa-microchip" style="color: #1B5E20;"></i> <strong>Computational Sociology</strong><br>
+  <i class="fas fa-database" style="color: #1B5E20;"></i> <strong>Critical Data Studies</strong>
+</div>
 
 
 ### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
