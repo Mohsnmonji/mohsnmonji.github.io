@@ -39,7 +39,7 @@ redirect_from:
 <div>
   <i class="fas fa-notes-medical" style="color: #1B5E20;"></i> Sociology of Health<br>
   <i class="fas fa-heartbeat" style="color: #1B5E20;"></i> Social Determinants of Health<br>
-  <i class="fas fa-users" style="color: #1B5E20;"></i> Population<br>
+  <i class="fas fa-users" style="color: #1B5E20;"></i> Population Mental Health<br>
   <i class="fas fa-chart-bar" style="color: #1B5E20;"></i> Social Statistics<br>
   <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology<br>
   <i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology<br>
