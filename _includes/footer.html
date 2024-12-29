@@ -1,8 +1,8 @@
 {% include base_path %}
 
 {% if site.author.github or site.author.bitbucket %}
-  <div class="page__footer-follow" style="background-color: #f1f1f1; padding: 20px 0; text-align: center;">
-    <ul class="social-icons" style="list-style-type: none; padding: 0; display: flex; justify-content: center; gap: 15px; font-size: 16px;">
+  <div class="page__footer-follow" style="background-color: #f1f1f1; padding: 20px 0;">
+    <ul class="social-icons" style="list-style-type: none; padding: 0; display: flex; gap: 20px; font-size: 16px; text-align: left;">
       {% if site.data.ui-text[site.locale].follow_label %}
         <li style="font-weight: bold; color: #333;">{{ site.data.ui-text[site.locale].follow_label }}</li>
       {% endif %}
@@ -24,11 +24,15 @@
   </div>
 {% endif %}
 
-<div class="page__footer-copyright" style="background-color: #333; color: white; padding: 20px 0; text-align: center; font-size: 14px;">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, 
-  {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
-  <a href="http://jekyllrb.com" rel="nofollow" style="color: #f1f1f1; text-decoration: none;">Jekyll</a> &amp; 
-  <a href="https://github.com/academicpages/academicpages.github.io" style="color: #f1f1f1; text-decoration: none;" rel="nofollow">AcademicPages</a>, a fork of 
-  <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="color: #f1f1f1; text-decoration: none;">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' }}
+<div class="page__footer-copyright" style="background-color: #333; color: white; padding: 20px 0; font-size: 14px; display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, 
+    {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
+    <a href="http://jekyllrb.com" rel="nofollow" style="color: #f1f1f1; text-decoration: none;">Jekyll</a> &amp; 
+    <a href="https://github.com/academicpages/academicpages.github.io" style="color: #f1f1f1; text-decoration: none;" rel="nofollow">AcademicPages</a>, a fork of 
+    <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="color: #f1f1f1; text-decoration: none;">Minimal Mistakes</a>.
+  </div>
+  <div>
+    Site last updated {{ "now" | date: '%Y-%m-%d' }}
+  </div>
 </div>
