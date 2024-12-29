@@ -97,11 +97,12 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
   <ul>
+    <li><i class="fas fa-notes-medical icon"></i> Sociology of Health</li>
     <li><i class="fas fa-heartbeat icon"></i> Social Determinants of Health</li>
-    <li><i class="fas fa-users icon"></i> Population Mental Health</li>
-    <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
-    <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-laptop-code icon"></i> Computational Sociology</li>
+    <li><i class="fas fa-brain icon"></i> Population Mental Health</li>
+    <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
+    <li><i class="fas fa-poll-h icon"></i> Survey Methodology</li>
+    <li><i class="fas fa-code icon"></i> Computational Sociology</li>
     <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
   </ul>
 </div>
