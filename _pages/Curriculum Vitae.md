@@ -62,7 +62,7 @@ redirect_from:
   *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute in a project on gender equity in AI.*  
   *Available at: [Affecting Machines](https://affectingmachines.net/)*
 - **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023)  
-  *Contributed to writing the Responsible AI Section of the 2023 Responsible Tech Guide.*
+  *Contributed to the writing of the Responsible AI Section of the 2023 Responsible Tech Guide.*
   *Available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
 
 ### <i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE
