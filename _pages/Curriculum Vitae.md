@@ -113,8 +113,8 @@ redirect_from:
 - **Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship**, Ph.D., 2024.  
 - **Fonds de recherche du Québec (FRQSC) Doctoral Scholarship**, 2024-2026.  
   - *Ranked first in Sociology and Demography.*  
-- **Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellowship**, 2024-2025.  
-  - *First Concordia student to be awarded the CAnD3 fellowship by McGill University.*  
+- **Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellowship**, McGill University, 2024-2025.  
+  - *First Concordia student to be awarded the CAnD3 fellowship.*  
 - **Dialogue McGill’s Graduate Research Scholarship**, 2023-2024.  
   - *Awarded by Dialogue McGill, funded by Health Canada.*  
 - **Concordia University Conference Travel Award**, 2024.  
