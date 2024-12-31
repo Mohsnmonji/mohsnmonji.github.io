@@ -131,9 +131,7 @@ redirect_from:
 - [Canadian Population Society](https://www.canpopsoc.ca)  
 - [American Statistical Association](https://www.amstat.org)  
 - [American College Health Association](https://www.acha.org)  
-
-
-
+- [Women’s Health Research Cluster](https://womenshealthresearchcluster.com/)  
 
 ### <i class="fas fa-chart-bar"></i> SKILLS
 
