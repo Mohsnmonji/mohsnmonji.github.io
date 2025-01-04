@@ -65,12 +65,12 @@ author_profile: true
     <p>
       <i class="fas fa-lightbulb icon"></i>
       I approach teaching as an enjoyable experience where students feel encouraged to learn and develop their skills. In my courses, I incorporate 
-      <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data to examine topics such as 
+      <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data and apply <strong>Sociological Theory</strong> and <strong>Quantitative Research Methods</strong> to examine topics such as 
       income inequality, food insecurity, housing, and disparities in health outcomes. 
     </p>
     <p>
       <i class="fas fa-hands-helping icon"></i>
-      I believe this hands-on approach not only helps students build technical expertise but also gives them a chance to see the impact their work can have 
+      I believe this hands-on approach not only helps students connect theoretical concepts with practical analysis but also gives them a chance to see the impact their work can have 
       in creating a more functional, just, and healthier society. I value slow and thoughtful learning and want students to engage with the concepts and 
       methods they are exposed to.
     </p>
