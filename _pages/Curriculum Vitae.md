@@ -37,10 +37,10 @@ redirect_from:
 <!-- RESEARCH INTERESTS -->
 <h3><i class="fas fa-lightbulb"></i> RESEARCH INTERESTS</h3>
 <div>
+  <i class="fas fa-book" style="color: #1B5E20;"></i> Sociological Theory<br>
   <i class="fas fa-notes-medical" style="color: #1B5E20;"></i> Sociology of Health<br>
-  <i class="fas fa-heartbeat" style="color: #1B5E20;"></i> Social Determinants of Health<br>
-  <i class="fas fa-users" style="color: #1B5E20;"></i> Population Mental Health<br>
-  <i class="fas fa-chart-bar" style="color: #1B5E20;"></i> Social Statistics<br>
+  <i class="fas fa-calculator" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
+  <i class="fas fa-chart-bar" style="color: #1B5E20;"></i> Applied Social Statistics<br>
   <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology<br>
   <i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology<br>
   <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies
