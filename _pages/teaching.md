@@ -81,6 +81,7 @@ author_profile: true
   <h2>COURSES I TEACH</h2>
   <div class="teaching-card">
     <ul class="teaching-list">
+      <li><i class="fas fa-book icon"></i> Sociological Theory</li>
       <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
       <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
