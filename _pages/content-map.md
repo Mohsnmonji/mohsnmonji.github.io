@@ -2,7 +2,10 @@
 layout: archive
 title: "Content-map"
 permalink: /content-map/
-author_profile: true
+author_profile: false
+sitemap: false
+---
+
 ---
 
 {% include base_path %}
