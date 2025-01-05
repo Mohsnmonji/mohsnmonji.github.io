@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Content-map"
-permalink: /sitemap/
+permalink: /content-map/
 author_profile: true
 ---
 
