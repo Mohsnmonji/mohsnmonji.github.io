@@ -49,8 +49,16 @@
       {% endif %}
       {% if author.bluesky %}
   <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-bluesky"></i> BlueSky</a></li>
-{% endif %}
-
-    </ul>
-  </div>
+ {% endif %}
+    {% if author.orcid %}
+      <li>
+        <a href="{{ author.orcid }}" target="_blank" rel="noopener noreferrer">
+          <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" 
+               alt="ORCID" 
+               style="width: 16px; height: 16px; margin-right: 5px;">
+          ORCID
+        </a>
+      </li>
+    {% endif %}
+  </ul>
 </div>
