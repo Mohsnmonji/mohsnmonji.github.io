@@ -50,7 +50,11 @@
       {% if author.bluesky %}
   <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-bluesky"></i> BlueSky</a></li>
 {% endif %}
+      {% if author.orcid %}
+  <li><a href="{{ author.orcid }}"><i class="fab fa-orcid"></i> ORCID</a></li>
+{% endif %}
 
     </ul>
   </div>
 </div>
+    
