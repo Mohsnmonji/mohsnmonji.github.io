@@ -55,6 +55,10 @@ author_profile: true
     line-height: 1.6; /* Improves readability */
   }
 
+  .card:first-of-type p {
+    text-align: justify; /* Justify the text in the first card */
+  }
+
   .email {
     font-weight: bold;
     color: #1B5E20; /* Dark Green */
