@@ -3,6 +3,7 @@ layout: archive
 title: "About"
 permalink: /about-me/
 author_profile: true
+robots: noindex
 ---
 <style>
   .icon {
