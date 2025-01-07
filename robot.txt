@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /content-map/
+Disallow: /categories/
 Allow: /
 Sitemap: https://www.mohsenmonji.com/sitemap.xml
