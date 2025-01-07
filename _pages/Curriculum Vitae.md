@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
   - /cv/
+robots: noindex
 ---
 {% include base_path %}
 
