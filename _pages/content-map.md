@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Content-map"
+title: "Content Map"
 permalink: /content-map/
 author_profile: false
 sitemap: false
+robots: noindex
 ---
-
----
-
 {% include base_path %}
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
