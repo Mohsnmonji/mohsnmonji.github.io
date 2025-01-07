@@ -19,7 +19,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Robots Meta Tag -->
-<meta name="robots" content="index, follow">
+{% if page.robots == "noindex" %}
+  <meta name="robots" content="noindex, follow">
+{% else %}
+  <meta name="robots" content="index, follow">
+{% endif %}
 
 <!-- Open Graph Metadata for All Platforms -->
 <meta property="og:title" content="Mohsen Monji">
