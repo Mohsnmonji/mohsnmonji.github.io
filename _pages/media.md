@@ -122,7 +122,7 @@ author_profile: true
         <strong><i class="fas fa-users icon"></i>Women’s Health Research Cluster Member</strong> <br>
         <span>UBC Women’s Health Research Cluster (2023)</span><br>
         Interdisciplinary research for advancing women’s health.  
-        <a href="https://womenshealthresearch.ubc.ca/people/members/?whrc-page-2=30" target="_blank">Learn More</a>
+        <a href=" https://womenshealthresearchcluster.com/profile/mohsen-monji-0/" target="_blank">Learn More</a>
       </li>
     </ul>
   </div>
