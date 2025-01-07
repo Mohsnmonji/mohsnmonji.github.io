@@ -2,8 +2,6 @@
 layout: archive
 title: "Critical Data Studies"
 permalink: /critical-data-studies/
-seo_title: "Critical Data Studies - Mohsen Monji"
-description: "Exploring the intersection of data, society, and justice through critical perspectives."
 author_profile: true
 
 ---
