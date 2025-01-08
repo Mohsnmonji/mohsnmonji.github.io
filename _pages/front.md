@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-seo_title: "Home"
+title: "Mohsen Monji | Sociologist & Population Mental Health Researcher"
 description: "Sociologist and Population Mental Health Researcher"
 author_profile: false
 hide_avatar: true
