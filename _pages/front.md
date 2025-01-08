@@ -9,8 +9,8 @@ hide_avatar: true
 <div style="text-align: center; margin-top: 50px; max-width: 800px; margin: auto; padding: 20px;">
   <!-- Profile Image -->
   <div>
-    <img src="images/profile.PNG" alt="Profile Picture of Mohsen Monji" 
-         style="width: 350px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+   <img src="images/mohsen-monji-profile.png" alt="Mohsen Monji, Sociologist and Population Mental Health Researcher" 
+     style="width: 350px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
   </div>
 
   <!-- Name -->
