@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mohsen Monji | Sociologist & Population Mental Health Researcher"
+title: ""
 description: "Mohsen Monji is a Sociologist and Population Mental Health Researcher studying the social determinants of mental health among youth and young adults in Canada and the US."
 author_profile: true
 hide_avatar: true
