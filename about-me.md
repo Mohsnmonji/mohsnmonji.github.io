@@ -3,20 +3,70 @@ layout: archive
 title: "About"
 permalink: /about-me/
 author_profile: true
-robots: index
+robots: noindex
 ---
+<style>
+  .icon {
+    margin-right: 10px;
+    color: #1B5E20; /* Accessible Dark Green */
+  }
 
-<!-- Google Analytics Tracking -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W5ED9M8GYL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
-  gtag('js', new Date());
-  gtag('config', 'G-W5ED9M8GYL');
-</script>
+  .card {
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333333; /* Dark Gray Text */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+  }
 
-<!-- Main Content -->
-<section>
+  .card:first-of-type {
+    background-color: #F3F4F6; /* Light Gray Background */
+  }
+
+  .card:nth-of-type(2) {
+    background-color: #E3F2FD; /* Light Blue Background for Expertise */
+  }
+
+  .card:nth-of-type(3) {
+    background-color: #F1F8E9; /* Light Green Background for Contact */
+  }
+
+  .card h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #1B5E20; /* Accessible Dark Green */
+    margin-bottom: 15px;
+  }
+
+  .card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .card ul li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #555; /* Medium Gray */
+  }
+
+  .card p {
+    font-size: 1rem;
+    color: #333; /* Dark Gray */
+    line-height: 1.6; /* Improves readability */
+  }
+
+  .card:first-of-type p {
+    text-align: justify; /* Justify the text in the first card */
+  }
+
+  .email {
+    font-weight: bold;
+    color: #1B5E20; /* Dark Green */
+  }
+</style>
+
+<div class="card">
   <p>
     I am a <strong>PhD Candidate in Sociology</strong> at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
@@ -46,24 +96,24 @@ robots: index
     <strong>Survey Methodology</strong>, and <strong>Critical Data Studies</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more 
     <strong>functional</strong>, <strong>just</strong>, and <strong>healthier society</strong>.
   </p>
-</section>
+</div>
 
-<section>
-  <h2>Areas of Expertise</h2>
+<div class="card">
+  <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
   <ul>
-    <li>Sociology of Health</li>
-    <li>Applied Social Statistics</li>
-    <li>Quantitative Research Methods</li>
-    <li>Survey Methodology</li>
-    <li>Computational Sociology</li>
-    <li>Critical Data Studies</li>
+    <li><i class="fas fa-notes-medical icon"></i> Sociology of Health</li>
+    <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
+    <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
+    <li><i class="fas fa-poll-h icon"></i> Survey Methodology</li>
+    <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
+    <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
   </ul>
-</section>
+</div>
 
-<section>
-  <h2>Contact</h2>
+<div class="card">
+  <h3><i class="fas fa-envelope icon"></i> Contact</h3>
   <p>
     Feel free to reach out if you’re interested in my research, teaching, or potential collaborations!  
     You can contact me at <span class="email">𝐦𝐨𝐡𝐬𝐞𝐧.𝐦𝐨𝐧𝐣𝐢@𝐜𝐨𝐧𝐜𝐨𝐫𝐝𝐢𝐚.𝐜𝐚</span>.
   </p>
-</section>
+</div>
