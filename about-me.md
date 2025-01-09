@@ -1,55 +1,70 @@
 ---
 layout: archive
-title: ""
+title: "About"
 permalink: /about-me/
 author_profile: true
-robots: index
+robots: noindex
 ---
 <style>
   .icon {
     margin-right: 10px;
     color: #1B5E20; /* Accessible Dark Green */
   }
+
   .card {
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    color: #333; /* Dark Gray Text */
+    color: #333333; /* Dark Gray Text */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
   }
+
   .card:first-of-type {
     background-color: #F3F4F6; /* Light Gray Background */
   }
+
   .card:nth-of-type(2) {
-    background-color: #E3F2FD; /* Light Blue Background */
+    background-color: #E3F2FD; /* Light Blue Background for Expertise */
   }
+
   .card:nth-of-type(3) {
-    background-color: #F1F8E9; /* Light Green Background */
+    background-color: #F1F8E9; /* Light Green Background for Contact */
   }
+
   .card h3 {
     font-size: 1.2rem;
     font-weight: bold;
     color: #1B5E20; /* Accessible Dark Green */
     margin-bottom: 15px;
   }
+
   .card ul {
     list-style: none;
     padding: 0;
     margin: 0;
   }
+
   .card ul li {
     margin-bottom: 10px;
     font-size: 1rem;
     color: #555; /* Medium Gray */
   }
+
   .card p {
     font-size: 1rem;
     color: #333; /* Dark Gray */
     line-height: 1.6; /* Improves readability */
   }
-</style>
 
-<h1>About</h1>
+  .card:first-of-type p {
+    text-align: justify; /* Justify the text in the first card */
+  }
+
+  .email {
+    font-weight: bold;
+    color: #1B5E20; /* Dark Green */
+  }
+</style>
 
 <div class="card">
   <p>
@@ -61,8 +76,14 @@ robots: index
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. My doctoral research is focused on the 
     <strong>social determinants of mental health</strong> and population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression among <strong>youth</strong> and <strong>young adults</strong> in Canada. I use statistical modeling and machine learning to analyze such disparities and recommend data-driven and evidence-based policies to improve the mental health of youth and young adults at the population level.
   </p>
-  <!-- Additional sections remain unchanged -->
-</div>
+
+  <p>
+    My doctoral research has been supported by funding from 
+    <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
+    <a href="https://www.frq.gouv.qc.ca" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
+    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Center for Social Statistics (QICSS)</a>, 
+    and the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
+  </p>
 
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
