@@ -187,28 +187,26 @@ robots: noindex
   </div>
 
 
-
-### <i class="fab fa-r-project"></i> PROGRAMMING LANGUAGES & SOFTWARE
+<h3><i class="fab fa-r-project"></i> PROGRAMMING LANGUAGES & SOFTWARE</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://img.shields.io/badge/-R-grey?logo=R&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/-Python-grey?logo=Python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-LaTeX-grey?logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/-R%20Markdown-grey?logo=R&logoColor=white" alt="R Markdown">
-  <img src="https://img.shields.io/badge/-Quarto-grey?logo=quarto&logoColor=white" alt="Quarto">
-  <img src="https://img.shields.io/badge/-Bookdown-grey?logo=r&logoColor=white" alt="Bookdown">
-  <img src="https://img.shields.io/badge/-Git-grey?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-grey?logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-SPSS-grey" alt="SPSS">
-  <img src="https://img.shields.io/badge/-Qualtrics-grey" alt="Qualtrics">
-  <img src="https://img.shields.io/badge/-Google%20Workspace-grey?logo=googleworkspace&logoColor=white" alt="Google Workspace">
-  <img src="https://img.shields.io/badge/-Google%20Forms-grey?logo=googleforms&logoColor=white" alt="Google Forms">
-  <img src="https://img.shields.io/badge/-Microsoft%20365-grey?logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
-  <img src="https://img.shields.io/badge/-Notion-grey?logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/-Excel-grey?logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/-Word-grey?logo=microsoftword&logoColor=white" alt="Word">
-  <img src="https://img.shields.io/badge/-PowerPoint-grey?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+  <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white" alt="R Markdown">
+  <img src="https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white" alt="Quarto">
+  <img src="https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white" alt="Bookdown">
+  <img src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-SPSS-lightblue" alt="SPSS">
+  <img src="https://img.shields.io/badge/-Qualtrics-purple" alt="Qualtrics">
+  <img src="https://img.shields.io/badge/-Google%20Workspace-blue?logo=googleworkspace&logoColor=white" alt="Google Workspace">
+  <img src="https://img.shields.io/badge/-Google%20Forms-green?logo=googleforms&logoColor=white" alt="Google Forms">
+  <img src="https://img.shields.io/badge/-Microsoft%20365-blue?logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/-Word-blue?logo=microsoftword&logoColor=white" alt="Word">
+  <img src="https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
 </div>
-
 
 
 
