@@ -112,8 +112,8 @@ author_profile: true
   </p>
  <!-- Call-to-Action Section -->
   <div style="text-align: center; margin-top: 20px;">
-    <a href="/curriculum/" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">View My CV</a>
-    <a href="/projects/" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">See My Projects</a>
+    <a href="/_pages/Curriculum%20Vitae.md" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">View My CV</a>
+    <a href="/_pages/portfolio.html" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">See My Projects</a>
   </div>
 </div>
 
