@@ -110,11 +110,6 @@ author_profile: true
     <strong>Survey Methodology</strong>, and <strong>Critical Data Studies</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more 
     <strong>functional</strong>, <strong>just</strong>, and <strong>healthier society</strong>.
   </p>
- <!-- Call-to-Action Section -->
-  <div style="text-align: center; margin-top: 20px;">
-    <a href="/_pages/Curriculum%20Vitae.md" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">View My CV</a>
-    <a href="/_pages/portfolio.html" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">See My Projects</a>
-  </div>
 </div>
 
 <div class="card">
@@ -135,4 +130,8 @@ author_profile: true
     Feel free to reach out if you’re interested in my research, teaching, or potential collaborations!  
     You can contact me at <span class="email">𝐦𝐨𝐡𝐬𝐞𝐧.𝐦𝐨𝐧𝐣𝐢@𝐜𝐨𝐧𝐜𝐨𝐫𝐝𝐢𝐚.𝐜𝐚</span>.
   </p>
-</div>
+ <!-- Call-to-Action Section -->
+  <div style="text-align: center; margin-top: 20px;">
+    <a href="/_pages/Curriculum%20Vitae.md" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">View My CV</a>
+    <a href="/_pages/portfolio.html" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">See My Projects</a>
+  </div>
