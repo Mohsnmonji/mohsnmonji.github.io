@@ -13,7 +13,7 @@ title: "Home "
 title_separator: "-"
 name: "Mohsen Monji"
 description: "Sociologist & Population Mental Health Researcher"
-url: "https://www.mohsenmonji.com/" # Update with your custom domain
+url: "https://www.mohsenmonji.com"
 baseurl: "" # Leave empty for personal GitHub Pages site
 repository: "mohsenmonji/mohsenmonji.github.io"
 
