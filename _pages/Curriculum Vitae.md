@@ -3,7 +3,7 @@ layout: archive
 title: "Curriculum Vitae"
 permalink: /curriculum/
 seo_title: "Curriculum Vitae | Mohsen Monji"
-description: "Explore Mohsen Monji's Curriculum Vitae, showcasing academic achievements, research, and professional experience."
+description: "Explore Mohsen Monji's academic achievements, research, and professional experience."
 canonical: "https://www.mohsenmonji.com/curriculum/"
 author_profile: true
 ---
