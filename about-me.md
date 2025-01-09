@@ -3,7 +3,7 @@ layout: archive
 title: "About"
 permalink: /about-me/
 seo_title: "About | Mohsen Monji"
-description: "Mohsen Monji is a Sociologist and Population Mental Health Researcher studying the social determinants of mental health among youth and young adults in Canada and the US."
+description: " Learn more anout Mohsen Monji."
 canonical: "https://www.mohsenmonji.com/about-me/"
 author_profile: true
 ---
