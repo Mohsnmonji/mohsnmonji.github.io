@@ -131,82 +131,83 @@ robots: noindex
 - [American College Health Association](https://www.acha.org)  
 - [Women’s Health Research Cluster](https://womenshealthresearchcluster.com/)  
 
+
+
 ### <i class="fas fa-chart-bar"></i> SKILLS
 
 - **Survey Data Analysis**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/complex%20surveys-blue" alt="complex surveys badge">
-    <img src="https://img.shields.io/badge/multiple%20imputations-green" alt="multiple imputations badge">
-    <img src="https://img.shields.io/badge/sampling-red" alt="sampling badge">
-    <img src="https://img.shields.io/badge/nonresponse%20bias-blue" alt="nonresponse bias badge">
-    <img src="https://img.shields.io/badge/weighting-green" alt="weighting badge">
-    <img src="https://img.shields.io/badge/bootstrapping-red" alt="bootstrapping badge">
+    <img src="https://img.shields.io/badge/complex%20surveys-grey" alt="complex surveys badge">
+    <img src="https://img.shields.io/badge/multiple%20imputations-grey" alt="multiple imputations badge">
+    <img src="https://img.shields.io/badge/sampling-grey" alt="sampling badge">
+    <img src="https://img.shields.io/badge/nonresponse%20bias-grey" alt="nonresponse bias badge">
+    <img src="https://img.shields.io/badge/weighting-grey" alt="weighting badge">
+    <img src="https://img.shields.io/badge/bootstrapping-grey" alt="bootstrapping badge">
   </div>
 
 - **Statistical Modeling**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/OLS-blue" alt="OLS badge">
-    <img src="https://img.shields.io/badge/logistic%20regression-green" alt="logistic regression badge">
-    <img src="https://img.shields.io/badge/ordinal%20regression-red" alt="ordinal regression badge">
-    <img src="https://img.shields.io/badge/mixed%2Deffects%20models-blue" alt="mixed-effects models badge">
-    <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-green" alt="mediation and moderation analysis badge">
-    <img src="https://img.shields.io/badge/latent%20class%20analysis-red" alt="latent class analysis badge">
-    <img src="https://img.shields.io/badge/I%2DMAIHDA-blue" alt="I-MAIHDA badge">
+    <img src="https://img.shields.io/badge/OLS-grey" alt="OLS badge">
+    <img src="https://img.shields.io/badge/logistic%20regression-grey" alt="logistic regression badge">
+    <img src="https://img.shields.io/badge/ordinal%20regression-grey" alt="ordinal regression badge">
+    <img src="https://img.shields.io/badge/mixed%2Deffects%20models-grey" alt="mixed-effects models badge">
+    <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-grey" alt="mediation and moderation analysis badge">
+    <img src="https://img.shields.io/badge/latent%20class%20analysis-grey" alt="latent class analysis badge">
+    <img src="https://img.shields.io/badge/I%2DMAIHDA-grey" alt="I-MAIHDA badge">
   </div>
 
 - **Machine Learning**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/support%20vector%20machines-green" alt="support vector machines badge">
-    <img src="https://img.shields.io/badge/decision%20trees-red" alt="decision trees badge">
-    <img src="https://img.shields.io/badge/k%2Dnearest%20neighbors-blue" alt="k-nearest neighbors badge">
-    <img src="https://img.shields.io/badge/random%20forests-green" alt="random forests badge">
-    <img src="https://img.shields.io/badge/neural%20networks-red" alt="neural networks badge">
+    <img src="https://img.shields.io/badge/support%20vector%20machines-grey" alt="support vector machines badge">
+    <img src="https://img.shields.io/badge/decision%20trees-grey" alt="decision trees badge">
+    <img src="https://img.shields.io/badge/k%2Dnearest%20neighbors-grey" alt="k-nearest neighbors badge">
+    <img src="https://img.shields.io/badge/random%20forests-grey" alt="random forests badge">
+    <img src="https://img.shields.io/badge/neural%20networks-grey" alt="neural networks badge">
   </div>
 
 - **Data Visualization**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/ggplot2-blue" alt="ggplot2 badge">
-    <img src="https://img.shields.io/badge/Plotly-green" alt="Plotly badge">
-    <img src="https://img.shields.io/badge/shiny%20dashboards-red" alt="shiny dashboards badge">
+    <img src="https://img.shields.io/badge/ggplot2-grey" alt="ggplot2 badge">
+    <img src="https://img.shields.io/badge/Plotly-grey" alt="Plotly badge">
+    <img src="https://img.shields.io/badge/shiny%20dashboards-grey" alt="shiny dashboards badge">
   </div>
 
 - **Mathematical Writing**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/LaTeX-blue" alt="LaTeX badge">
-    <img src="https://img.shields.io/badge/R%20Markdown-green" alt="R Markdown badge">
-    <img src="https://img.shields.io/badge/Quarto-red" alt="Quarto badge">
-    <img src="https://img.shields.io/badge/Bookdown-blue" alt="Bookdown badge">
+    <img src="https://img.shields.io/badge/LaTeX-grey" alt="LaTeX badge">
+    <img src="https://img.shields.io/badge/R%20Markdown-grey" alt="R Markdown badge">
+    <img src="https://img.shields.io/badge/Quarto-grey" alt="Quarto badge">
+    <img src="https://img.shields.io/badge/Bookdown-grey" alt="Bookdown badge">
   </div>
 
 - **Reproducible Research**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/R%20Projects-green" alt="R Projects badge">
-    <img src="https://img.shields.io/badge/renv-red" alt="renv badge">
+    <img src="https://img.shields.io/badge/R%20Projects-grey" alt="R Projects badge">
+    <img src="https://img.shields.io/badge/renv-grey" alt="renv badge">
   </div>
 
 
 
-<h3><i class="fab fa-r-project"></i> PROGRAMMING LANGUAGES & SOFTWARE</h3>
+### <i class="fab fa-r-project"></i> PROGRAMMING LANGUAGES & SOFTWARE
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-LaTeX-blue?logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/-R%20Markdown-blue?logo=R&logoColor=white" alt="R Markdown">
-  <img src="https://img.shields.io/badge/-Quarto-blueviolet?logo=quarto&logoColor=white" alt="Quarto">
-  <img src="https://img.shields.io/badge/-Bookdown-darkgreen?logo=r&logoColor=white" alt="Bookdown">
-  <img src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-SPSS-lightblue" alt="SPSS">
-  <img src="https://img.shields.io/badge/-Qualtrics-purple" alt="Qualtrics">
-  <img src="https://img.shields.io/badge/-Google%20Workspace-blue?logo=googleworkspace&logoColor=white" alt="Google Workspace">
-  <img src="https://img.shields.io/badge/-Google%20Forms-green?logo=googleforms&logoColor=white" alt="Google Forms">
-  <img src="https://img.shields.io/badge/-Microsoft%20365-blue?logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
-  <img src="https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/-Word-blue?logo=microsoftword&logoColor=white" alt="Word">
-  <img src="https://img.shields.io/badge/-PowerPoint-orange?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+  <img src="https://img.shields.io/badge/-R-grey?logo=R&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/-Python-grey?logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-LaTeX-grey?logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/-R%20Markdown-grey?logo=R&logoColor=white" alt="R Markdown">
+  <img src="https://img.shields.io/badge/-Quarto-grey?logo=quarto&logoColor=white" alt="Quarto">
+  <img src="https://img.shields.io/badge/-Bookdown-grey?logo=r&logoColor=white" alt="Bookdown">
+  <img src="https://img.shields.io/badge/-Git-grey?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-grey?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-SPSS-grey" alt="SPSS">
+  <img src="https://img.shields.io/badge/-Qualtrics-grey" alt="Qualtrics">
+  <img src="https://img.shields.io/badge/-Google%20Workspace-grey?logo=googleworkspace&logoColor=white" alt="Google Workspace">
+  <img src="https://img.shields.io/badge/-Google%20Forms-grey?logo=googleforms&logoColor=white" alt="Google Forms">
+  <img src="https://img.shields.io/badge/-Microsoft%20365-grey?logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/-Notion-grey?logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/-Excel-grey?logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/-Word-grey?logo=microsoftword&logoColor=white" alt="Word">
+  <img src="https://img.shields.io/badge/-PowerPoint-grey?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
 </div>
-
 
 
 
