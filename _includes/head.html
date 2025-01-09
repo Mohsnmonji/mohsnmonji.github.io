@@ -14,16 +14,16 @@
 <meta charset="utf-8">
 
 <!-- Title and Description -->
-
-<title>Mohsen Monji | Sociologist & Population Health Resercher</title>
-<meta name="description" content="I am a sociologist of health studying the social determinants of mental health among youth and young adults in Canada and the US.">
+<title>{{ page.seo_title | default: "Mohsen Monji | Sociologist & Population Health Researcher" }}</title>
+<meta name="description" content="{{ page.description | default: "I am a sociologist of health studying the social determinants of mental health among youth and young adults in Canada and the US." }}">
 <meta name="author" content="Mohsen Monji">
 
 <!-- Keywords for SEO -->
-<meta name="keywords" content="Mohsen Monji,sociologist, lecturer, youth mental health, mental health researcher, population health, social determinants of health, mental health disparities, sociology of health, quantitative research, Canada, US">
+<meta name="keywords" content="Mohsen Monji, sociologist, lecturer, youth mental health, mental health researcher, population health, social determinants of health, mental health disparities, sociology of health, quantitative research, Canada, US">
 
 <!-- Dynamic Canonical URL -->
-<link rel="canonical" href="{{ site.url | append: site.baseurl | append: page.url | replace: 'index.html', '' }}" />
+<link rel="canonical" href="{{ site.url | append: page.url | replace: 'index.html', '' }}" />
+
 <!-- Viewport for Mobile Responsiveness -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -34,27 +34,26 @@
   <meta name="robots" content="index, follow">
 {% endif %}
 
+
 <!-- Open Graph Metadata for All Platforms -->
-<meta property="og:title" content="Mohsen Monji">
-<meta property="og:description" content="Sociologist and Population Health Researcher.">
-<meta property="og:url" content="https://www.mohsenmonji.com">
-<meta property="og:image" content="https://www.mohsenmonji.com/images/mohsen-monji-profile.webp">
-<meta property="og:image:secure_url" content="https://www.mohsenmonji.com/images/mohsen-monji-profile.webp">
-<meta property="og:image:type" content="image/webp"> <!-- Updated to reflect WebP format -->
+<meta property="og:title" content="{{ page.seo_title | default: "Mohsen Monji" }}">
+<meta property="og:description" content="{{ page.description | default: "Sociologist and Population Health Researcher." }}">
+<meta property="og:url" content="{{ site.url | append: page.url | replace: 'index.html', '' }}">
+<meta property="og:image" content="{{ site.url }}/images/mohsen-monji-profile.webp">
+<meta property="og:image:secure_url" content="{{ site.url }}/images/mohsen-monji-profile.webp">
+<meta property="og:image:type" content="image/webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="627">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Mohsen Monji">
 
-
 <!-- Twitter Card Metadata -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mohsen Monji">
-<meta name="twitter:description" content="Sociologist and Population Health Researcher.">
-<meta name="twitter:image" content="https://www.mohsenmonji.com/images/mohsen-monji-profile.webp">
+<meta name="twitter:title" content="{{ page.seo_title | default: "Mohsen Monji" }}">
+<meta name="twitter:description" content="{{ page.description | default: "Sociologist and Population Health Researcher." }}">
+<meta name="twitter:image" content="{{ site.url }}/images/mohsen-monji-profile.webp">
 <meta name="twitter:image:alt" content="Profile picture of Mohsen Monji">
-
 <!-- Structured Data for Rich Snippets -->
 <script type="application/ld+json">
 {
