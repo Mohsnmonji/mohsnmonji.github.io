@@ -22,7 +22,7 @@ author: "Mohsen Monji" # Author name
 # Site Author - The following control what appears as part of the author content on the sidebar.
 author:
   # Biographic information
-  avatar: "images/mohsen-monji-profile.jpg" # Replace with your profile picture file
+  avatar: "images/mohsen-monji-profile.webp" # Replace with your profile picture file
   name: 
   bio:
   location: "Montreal, Canada"
