@@ -137,53 +137,53 @@ robots: noindex
 
 - **Survey Data Analysis**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/complex%20surveys-grey" alt="complex surveys badge">
-    <img src="https://img.shields.io/badge/multiple%20imputations-grey" alt="multiple imputations badge">
-    <img src="https://img.shields.io/badge/sampling-grey" alt="sampling badge">
-    <img src="https://img.shields.io/badge/nonresponse%20bias-grey" alt="nonresponse bias badge">
-    <img src="https://img.shields.io/badge/weighting-grey" alt="weighting badge">
-    <img src="https://img.shields.io/badge/bootstrapping-grey" alt="bootstrapping badge">
+    <img src="https://img.shields.io/badge/complex%20surveys-blue" alt="complex surveys badge">
+    <img src="https://img.shields.io/badge/multiple%20imputations-green" alt="multiple imputations badge">
+    <img src="https://img.shields.io/badge/sampling-blue" alt="sampling badge">
+    <img src="https://img.shields.io/badge/nonresponse%20bias-green" alt="nonresponse bias badge">
+    <img src="https://img.shields.io/badge/weighting-blue" alt="weighting badge">
+    <img src="https://img.shields.io/badge/bootstrapping-green" alt="bootstrapping badge">
   </div>
 
 - **Statistical Modeling**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/OLS-grey" alt="OLS badge">
-    <img src="https://img.shields.io/badge/logistic%20regression-grey" alt="logistic regression badge">
-    <img src="https://img.shields.io/badge/ordinal%20regression-grey" alt="ordinal regression badge">
-    <img src="https://img.shields.io/badge/mixed%2Deffects%20models-grey" alt="mixed-effects models badge">
-    <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-grey" alt="mediation and moderation analysis badge">
-    <img src="https://img.shields.io/badge/latent%20class%20analysis-grey" alt="latent class analysis badge">
-    <img src="https://img.shields.io/badge/I%2DMAIHDA-grey" alt="I-MAIHDA badge">
+    <img src="https://img.shields.io/badge/OLS-blue" alt="OLS badge">
+    <img src="https://img.shields.io/badge/logistic%20regression-green" alt="logistic regression badge">
+    <img src="https://img.shields.io/badge/ordinal%20regression-blue" alt="ordinal regression badge">
+    <img src="https://img.shields.io/badge/mixed%2Deffects%20models-green" alt="mixed-effects models badge">
+    <img src="https://img.shields.io/badge/mediation%20and%20moderation%20analysis-blue" alt="mediation and moderation analysis badge">
+    <img src="https://img.shields.io/badge/latent%20class%20analysis-green" alt="latent class analysis badge">
+    <img src="https://img.shields.io/badge/I%2DMAIHDA-blue" alt="I-MAIHDA badge">
   </div>
 
 - **Machine Learning**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/support%20vector%20machines-grey" alt="support vector machines badge">
-    <img src="https://img.shields.io/badge/decision%20trees-grey" alt="decision trees badge">
-    <img src="https://img.shields.io/badge/k%2Dnearest%20neighbors-grey" alt="k-nearest neighbors badge">
-    <img src="https://img.shields.io/badge/random%20forests-grey" alt="random forests badge">
-    <img src="https://img.shields.io/badge/neural%20networks-grey" alt="neural networks badge">
+    <img src="https://img.shields.io/badge/support%20vector%20machines-green" alt="support vector machines badge">
+    <img src="https://img.shields.io/badge/decision%20trees-blue" alt="decision trees badge">
+    <img src="https://img.shields.io/badge/k%2Dnearest%20neighbors-green" alt="k-nearest neighbors badge">
+    <img src="https://img.shields.io/badge/random%20forests-blue" alt="random forests badge">
+    <img src="https://img.shields.io/badge/neural%20networks-green" alt="neural networks badge">
   </div>
 
 - **Data Visualization**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/ggplot2-grey" alt="ggplot2 badge">
-    <img src="https://img.shields.io/badge/Plotly-grey" alt="Plotly badge">
-    <img src="https://img.shields.io/badge/shiny%20dashboards-grey" alt="shiny dashboards badge">
+    <img src="https://img.shields.io/badge/ggplot2-blue" alt="ggplot2 badge">
+    <img src="https://img.shields.io/badge/Plotly-green" alt="Plotly badge">
+    <img src="https://img.shields.io/badge/shiny%20dashboards-blue" alt="shiny dashboards badge">
   </div>
 
 - **Mathematical Writing**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/LaTeX-grey" alt="LaTeX badge">
-    <img src="https://img.shields.io/badge/R%20Markdown-grey" alt="R Markdown badge">
-    <img src="https://img.shields.io/badge/Quarto-grey" alt="Quarto badge">
-    <img src="https://img.shields.io/badge/Bookdown-grey" alt="Bookdown badge">
+    <img src="https://img.shields.io/badge/LaTeX-green" alt="LaTeX badge">
+    <img src="https://img.shields.io/badge/R%20Markdown-blue" alt="R Markdown badge">
+    <img src="https://img.shields.io/badge/Quarto-green" alt="Quarto badge">
+    <img src="https://img.shields.io/badge/Bookdown-blue" alt="Bookdown badge">
   </div>
 
 - **Reproducible Research**  
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/R%20Projects-grey" alt="R Projects badge">
-    <img src="https://img.shields.io/badge/renv-grey" alt="renv badge">
+    <img src="https://img.shields.io/badge/R%20Projects-blue" alt="R Projects badge">
+    <img src="https://img.shields.io/badge/renv-green" alt="renv badge">
   </div>
 
 
