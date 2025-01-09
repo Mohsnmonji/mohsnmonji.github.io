@@ -110,6 +110,11 @@ author_profile: true
     <strong>Survey Methodology</strong>, and <strong>Critical Data Studies</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more 
     <strong>functional</strong>, <strong>just</strong>, and <strong>healthier society</strong>.
   </p>
+ <!-- Call-to-Action Section -->
+  <div style="text-align: center; margin-top: 20px;">
+    <a href="/curriculum/" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">View My CV</a>
+    <a href="/projects/" style="padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">See My Projects</a>
+  </div>
 </div>
 
 <div class="card">
