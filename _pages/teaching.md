@@ -3,7 +3,6 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 seo_title: "Teaching | Mohsen Monji"
-description: "Discover Mohsen Monji's teaching portfolio, including courses on Sociology, Social Statistics, and Population Health Research."
 canonical: "https://www.mohsenmonji.com/teaching/"
 author_profile: true
 ---
