@@ -154,25 +154,6 @@
 <!-- Stylesheet -->
 <link rel="stylesheet" href="https://www.mohsenmonji.com/assets/css/main.min.css">
 
-<!-- Lazy Load Script for Images -->
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const lazyImages = document.querySelectorAll("img[data-src]");
-    const observer = new IntersectionObserver((entries, observer) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          const img = entry.target;
-          img.src = img.dataset.src;
-          img.removeAttribute("data-src");
-          observer.unobserve(img);
-        }
-      });
-    });
-
-    lazyImages.forEach(img => observer.observe(img));
-  });
-</script>
-
 <!-- JavaScript for Better Browser Support -->
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
