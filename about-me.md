@@ -16,6 +16,12 @@ author_profile: true
     margin-bottom: 20px;
     color: #333333; /* Dark Gray Text */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.2);
   }
 
   .card:first-of-type {
@@ -62,6 +68,15 @@ author_profile: true
   .email {
     font-weight: bold;
     color: #1B5E20; /* Dark Green */
+  }
+
+  a {
+    color: #1B5E20;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 </style>
 
