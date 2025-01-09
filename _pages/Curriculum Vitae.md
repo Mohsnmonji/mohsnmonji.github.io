@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Curriculum Vitae"
 permalink: /curriculum/
 author_profile: true
