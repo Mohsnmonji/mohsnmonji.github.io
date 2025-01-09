@@ -23,8 +23,7 @@
 <meta name="keywords" content="Mohsen Monji,sociologist, lecturer, youth mental health, mental health researcher, population health, social determinants of health, mental health disparities, sociology of health, quantitative research, Canada, US">
 
 <!-- Dynamic Canonical URL -->
-<link rel="canonical" href="{{ site.url }}{{ page.url | replace: 'index.html', '' }}" />
-
+<link rel="canonical" href="{{ site.url | append: site.baseurl | append: page.url | replace: 'index.html', '' | replace: '//', '/' }}" />
 <!-- Viewport for Mobile Responsiveness -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
