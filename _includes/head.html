@@ -13,17 +13,19 @@
 <!-- Character Encoding -->
 <meta charset="utf-8">
   
+
+
 <!-- Title and Description -->
-<title>{{ page.seo_title | default: "Mohsen Monji | Sociologist & Population Health Researcher" }}</title>
-<meta name="description" content="{{ page.description | default: "I am a sociologist of health studying the social determinants of mental health among youth and young adults in Canada and the US." }}">
+
+<title>Mohsen Monji | Sociologist & Population Health Resercher</title>
+<meta name="description" content="I am a sociologist of health studying the social determinants of mental health among youth and young adults in Canada and the US.">
 <meta name="author" content="Mohsen Monji">
 
 <!-- Keywords for SEO -->
-<meta name="keywords" content="Mohsen Monji, sociologist, lecturer, youth mental health, mental health researcher, population health, social determinants of health, mental health disparities, sociology of health, quantitative research, Canada, US">
+<meta name="keywords" content="Mohsen Monji,sociologist, lecturer, youth mental health, mental health researcher, population health, social determinants of health, mental health disparities, sociology of health, quantitative research, Canada, US">
 
 <!-- Dynamic Canonical URL -->
-<link rel="canonical" href="{{ site.url | append: page.url | replace: 'index.html', '' }}" />
-
+<link rel="canonical" href="{{ site.url | append: site.baseurl | append: page.url | replace: 'index.html', '' }}" />
 <!-- Viewport for Mobile Responsiveness -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -151,22 +153,3 @@
 <link rel="icon" href="https://www.mohsenmonji.com/favicon-192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://www.mohsenmonji.com/favicon-180.png">
 
-<!-- Stylesheet -->
-<link rel="stylesheet" href="https://www.mohsenmonji.com/assets/css/main.min.css">
-
-<!-- JavaScript for Better Browser Support -->
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-<script defer src="https://www.mohsenmonji.com/assets/js/main.js"></script>
-
-<!-- ClearType for Windows -->
-<meta http-equiv="cleartype" content="on">
-
-<!-- Lazy Loaded Picture Example -->
-<div>
-  <picture>
-    <source data-srcset="https://www.mohsenmonji.com/images/mohsen-monji-profile.webp" type="image/webp">
-    <img data-src="https://www.mohsenmonji.com/images/mohsen-monji-profile.jpg" alt="Mohsen Monji, Sociologist and Population Health Researcher" width="350" height="400" style="object-fit: cover; border-radius: 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);" loading="lazy">
-  </picture>
-</div>
