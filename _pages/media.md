@@ -3,7 +3,7 @@ layout: archive
 title: "Media"
 permalink: /media/
 seo_title: "Media | Mohsen Monji"
-description: "Explore media appearances, interviews, and featured content related to Mohsen Monji's work as a Sociologist and Population Health Researcher."
+description: "Explore media appearances, interviews, and featured content related to Mohsen Monji's work."
 canonical: "https://www.mohsenmonji.com/media/"
 author_profile: true
 ---
