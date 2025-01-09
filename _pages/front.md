@@ -62,3 +62,21 @@ hide_avatar: true
   </div>
 </div>
 
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Mohsen Monji",
+  "jobTitle": "Sociologist & Population Mental Health Researcher",
+  "description": "PhD Candidate in Sociology specializing in social determinants of mental health and disparities among youth and young adults in Canada and the US.",
+  "image": "https://www.mohsenmonji.com/images/mohsen-monji-profile.webp",
+  "url": "https://www.mohsenmonji.com",
+  "sameAs": [
+    "https://github.com/Mohsnmonji",
+    "https://www.linkedin.com/in/mohsen-monji-0a3a37269",
+    "https://bsky.app/profile/mohsenmonji.bsky.social"
+  ]
+}
+</script>
+
