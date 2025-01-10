@@ -91,8 +91,7 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. My doctoral research is focused on the 
-    <strong>social determinants of mental health</strong> and population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US. I use statistical modeling and machine learning to analyze such disparities and recommend data-driven and evidence-based policies to improve the mental health of youth and young adults at the population level.
-  </p>
+    <strong>social determinants of mental health</strong> and population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression among <strong>youth</strong> and <strong>young adults</strong> in Canada and the US.
 
   <p>
     My doctoral research has been supported by funding from 
