@@ -109,10 +109,9 @@ author_profile: true
   <p>
     As a university lecturer, I teach courses in <strong>Sociological Theory</strong>, <strong>Sociology of Health</strong>, 
     <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, 
-    <strong>Survey Methodology</strong>, and <strong>Critical Data Studies</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a more 
-    <strong>functional</strong>, <strong>just</strong>, and <strong>healthier society</strong>.
+    <strong>Survey Methodology</strong>, and <strong>Critical Data Studies</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a 
+    <strong>functional</strong>, and <strong>healthy society</strong>.
   </p>
-</div>
 
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
