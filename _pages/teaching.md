@@ -73,7 +73,7 @@ author_profile: true
     <p>
       <i class="fas fa-hands-helping icon"></i>
       I believe this hands-on approach not only helps students connect theoretical concepts with practical analysis but also gives them a chance to see the impact their work can have 
-      in creating a more functional, just, and healthier society. I value slow and thoughtful learning and want students to engage with the concepts and 
+      in creating a  functional and healthy society. I value slow and thoughtful learning and want students to engage with the concepts and 
       methods they are exposed to.
     </p>
   </div>
@@ -103,8 +103,7 @@ author_profile: true
     <ul>
       <li>SOCI 212, Statistics I, Winter 2025</li>
       <li>
-        Designed a course titled “Statistics for Social Good” by incorporating experiential learning to provide students with more opportunities to 
-        work with real-world data to examine topics such as income inequality, food insecurity, housing, and disparities in health outcomes.
+        Designed a course in social statistics by incorporating experiential learning to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, disparities in health outcomes, etc.
       </li>
     </ul>
   </div>
