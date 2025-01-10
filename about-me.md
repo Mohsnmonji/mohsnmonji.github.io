@@ -133,7 +133,4 @@ author_profile: true
     Feel free to reach out if you’re interested in my research, teaching, or potential collaborations!  
     You can contact me at <span class="email">𝐦𝐨𝐡𝐬𝐞𝐧.𝐦𝐨𝐧𝐣𝐢@𝐜𝐨𝐧𝐜𝐨𝐫𝐝𝐢𝐚.𝐜𝐚</span>.
   </p>
- <!-- Call-to-Action Section -->
-<div style="text-align: center; margin-top: 20px;">
-  <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">View My CV</
-</div>
+ </div>
