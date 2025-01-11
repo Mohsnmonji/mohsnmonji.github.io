@@ -121,8 +121,8 @@ author_profile: true
     <span class="tag">Membership</span>
     <ul>
       <li>
-        <strong><i class="fas fa-users icon"></i>Mohsen Monji: Women’s Health Research Cluster Member</strong> <br>
-        <span>UBC Women’s Health Research Cluster (2023)</span><br>
+        <strong><i class="fas fa-users icon"></i>Mohsen Monji: Women’s Health Research Cluster</strong> <br>
+        <span>Women’s Health Research Cluster (2023)</span><br>
         Interdisciplinary research for advancing women’s health.  
         <a href=" https://womenshealthresearchcluster.com/profile/mohsen-monji-0/" target="_blank">Learn More</a>
       </li>
