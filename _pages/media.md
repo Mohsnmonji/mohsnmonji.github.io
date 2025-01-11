@@ -108,7 +108,7 @@ author_profile: true
     <span class="tag">Workshop</span>
     <ul>
       <li>
-        <strong><i class="fas fa-play-circle icon"></i>Affecting Machines Workshop </strong> <br>
+        <strong><i class="fas fa-play-circle icon"></i>Mohsen Monji: Affecting Machines Workshop </strong> <br>
         <span>Concordia University, Fourth Space (2023)</span><br>
         Workshop exploring gender equity in AI.  
         <a href="https://www.youtube.com/watch?v=8aWb-GaUFUI" target="_blank">Watch Video</a>
@@ -121,7 +121,7 @@ author_profile: true
     <span class="tag">Membership</span>
     <ul>
       <li>
-        <strong><i class="fas fa-users icon"></i>Women’s Health Research Cluster Member</strong> <br>
+        <strong><i class="fas fa-users icon"></i>Mohsen Monji: Women’s Health Research Cluster Member</strong> <br>
         <span>UBC Women’s Health Research Cluster (2023)</span><br>
         Interdisciplinary research for advancing women’s health.  
         <a href=" https://womenshealthresearchcluster.com/profile/mohsen-monji-0/" target="_blank">Learn More</a>
@@ -134,7 +134,7 @@ author_profile: true
   <span class="tag">Website</span>
   <ul>
     <li>
-      <strong><i class="fas fa-globe icon"></i>Affecting Machines Website</strong> <br>
+      <strong><i class="fas fa-globe icon"></i>Mohsen Monji: Affecting Machines Website</strong> <br>
       <span>Applied AI Institute, Concordia University (2023)</span><br>
       <a href="https://affectingmachines.net/" target="_blank">Visit the Website</a>
     </li>
@@ -146,7 +146,7 @@ author_profile: true
     <span class="tag">Guide</span>
     <ul>
       <li>
-        <strong><i class="fas fa-book icon"></i>All Tech Is Human: Responsible Tech Guide</strong> <br>
+        <strong><i class="fas fa-book icon"></i>Mohsen Monji: All Tech Is Human: Responsible Tech Guide</strong> <br>
         <span>All Tech Is Human (2023)</span><br>
         The 2023 Responsible Tech Guide.  
         <a href="https://alltechishuman.org/responsible-tech-guide" target="_blank">Download the Responsible Tech Guide</a>
