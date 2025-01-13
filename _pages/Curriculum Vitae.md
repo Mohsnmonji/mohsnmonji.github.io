@@ -42,8 +42,7 @@ author_profile: true
   <i class="fas fa-pills" style="color: #1B5E20;"></i> Sociology of Health<br>
   <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology<br>
   <i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology<br>
-  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies<br>
-  <i class="fas fa-robot" style="color: #1B5E20;"></i> Society and Technology
+  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies
 </div>
 
 
