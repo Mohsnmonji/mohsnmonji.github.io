@@ -36,7 +36,7 @@ author_profile: true
 <!-- RESEARCH INTERESTS -->
 <h3><i class="fas fa-lightbulb"></i> RESEARCH & TEACHING INTERESTS</h3>
 <div>
-  <i class="fas fa-chart-line" style="color: #1B5E20;"></i> Social Statistics<br>
+  <i class="fas fa-chart-line" style="color: #1B5E20;"></i> Applied Social Statistics<br>
   <i class="fas fa-table" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
   <i class="fas fa-exclamation-triangle" style="color: #1B5E20;"></i> Social Problems and Inequalities<br>
   <i class="fas fa-pills" style="color: #1B5E20;"></i> Sociology of Health<br>
