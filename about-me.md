@@ -116,8 +116,9 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
   <ul>
-    <li><i class="fas fa-notes-medical icon"></i> Sociology of Health</li>
-    <li><i class="fas fa-exclamation-triangle icon"></i> Social Problems and Inequalities</li>
+ 
+   <li><i class="fas fa-exclamation-triangle icon"></i> Social Problems and Inequalities</li>
+   <li><i class="fas fa-notes-medical icon"></i> Sociology of Health</li>
     <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
     <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-poll-h icon"></i> Survey Methodology</li>
