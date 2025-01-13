@@ -36,7 +36,7 @@ author_profile: true
 <!-- RESEARCH INTERESTS -->
 <h3>RESEARCH & TEACHING INTERESTS</h3>
 <div>
-  «Sociology of Health», «Quantitative Research Methods», «Social Problems», «Social Inequalities», «Applied Social Statistics», «Survey Methodology», «Computational Sociology», «Critical Data Studies», «Society and Technology», «Sociological Theory»
+**Sociology of Health**, **Quantitative Research Methods**, **Social Problems**, **Social Inequalities**, **Applied Social Statistics**, **Survey Methodology**, **Computational Sociology**, **Critical Data Studies**, **Society and Technology**
 </div>
 
 
