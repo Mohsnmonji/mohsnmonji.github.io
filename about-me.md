@@ -107,7 +107,7 @@ author_profile: true
   </p>
 
   <p>
-    I teach courses in both **sociological theory and method**, including <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, <strong>Social Problems and Inequalities</strong>, <strong>Sociology of Health</strong>,and <strong>Survey Methodology</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a <strong>functional</strong>, and <strong>healthy society</strong>.
+    I teach courses in both <strong>Sociologiacl Theory and Method</strong>, including <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, <strong>Social Problems and Inequalities</strong>, <strong>Sociology of Health</strong>,and <strong>Survey Methodology</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a <strong>functional</strong>, and <strong>healthy society</strong>.
 </p>
 
 <div class="card">
