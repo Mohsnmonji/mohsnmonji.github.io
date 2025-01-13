@@ -82,7 +82,7 @@ author_profile: true
   <h2>COURSES I TEACH</h2>
   <div class="teaching-card">
     <ul class="teaching-list">
-      <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
+      <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
       <li><i class="fas fa-exclamation-triangle icon"></i> Social Problems and Inequalities</li>
       <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
