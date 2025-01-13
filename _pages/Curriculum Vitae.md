@@ -34,18 +34,9 @@ author_profile: true
 
 
 <!-- RESEARCH INTERESTS -->
-<h3><i class="fas fa-lightbulb"></i> RESEARCH & TEACHING INTERESTS</h3>
+<h3>RESEARCH & TEACHING INTERESTS</h3>
 <div>
-  <i class="fas fa-notes-medical" style="color: #1B5E20;"></i> Sociology of Health<br>
-  <i class="fas fa-calculator" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
-  <i class="fas fa-exclamation-triangle" style="color: #1B5E20;"></i> Social Problems<br>
-  <i class="fas fa-balance-scale" style="color: #1B5E20;"></i> Social Inequalities<br>
-  <i class="fas fa-chart-bar" style="color: #1B5E20;"></i> Applied Social Statistics<br>
-  <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology<br>
-  <i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology<br>
-  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies<br>
-  <i class="fas fa-robot" style="color: #1B5E20;"></i> Society and Technology<br>
-  <i class="fas fa-book" style="color: #1B5E20;"></i> Sociological Theory
+  «Sociology of Health», «Quantitative Research Methods», «Social Problems», «Social Inequalities», «Applied Social Statistics», «Survey Methodology», «Computational Sociology», «Critical Data Studies», «Society and Technology», «Sociological Theory»
 </div>
 
 
