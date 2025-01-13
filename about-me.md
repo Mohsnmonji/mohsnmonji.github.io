@@ -122,7 +122,6 @@ author_profile: true
     <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-poll-h icon"></i> Survey Methodology</li>
     <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
-    <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
   </ul>
 </div>
 
