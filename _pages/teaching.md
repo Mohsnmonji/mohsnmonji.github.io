@@ -71,7 +71,7 @@ author_profile: true
     </p>
     <p>
       <i class="fas fa-hands-helping icon"></i>
-      I believe this hands-on approach not only helps students connect theoretical concepts with practical analysis but also gives them a chance to see the impact their work can have 
+      I believe this hands-on approach not only helps students connect theoretical concepts with practical applications but also gives them a chance to see the impact their work can have 
       in creating a  functional and healthy society. I value slow and thoughtful learning and want students to engage with the concepts and 
       methods they are exposed to.
     </p>
