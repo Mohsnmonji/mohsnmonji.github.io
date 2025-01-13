@@ -92,6 +92,7 @@ author_profile: true
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. My doctoral research is focused on the 
     <strong>social determinants of mental health</strong> and population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression among <strong>youth</strong> and <strong>young adults</strong> in Canada.
+  </p>
 
   <p>
     My doctoral research has been supported by funding from 
@@ -107,8 +108,10 @@ author_profile: true
   </p>
 
   <p>
-    I teach courses in both <strong>Sociologiacl Theory and Method</strong>, including <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, <strong>Social Problems and Inequalities</strong>, <strong>Sociology of Health</strong>,and <strong>Survey Methodology</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a <strong>functional</strong>, and <strong>healthy society</strong>.
-</p>
+    I teach courses in both <strong>sociological theory and method</strong>, including <strong>Social Statistics</strong>, 
+    <strong>Quantitative Research Methods</strong>, <strong>Social Problems and Inequalities</strong>, <strong>Sociology of Health</strong>, and <strong>Survey Methodology</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a <strong>functional</strong> and <strong>healthy society</strong>.
+  </p>
+</div>
 
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
@@ -129,4 +132,4 @@ author_profile: true
     Feel free to reach out if you’re interested in my research, teaching, or potential collaborations!  
     You can contact me at <span class="email">𝐦𝐨𝐡𝐬𝐞𝐧.𝐦𝐨𝐧𝐣𝐢@𝐜𝐨𝐧𝐜𝐨𝐫𝐝𝐢𝐚.𝐜𝐚</span>.
   </p>
- </div>
+</div>
