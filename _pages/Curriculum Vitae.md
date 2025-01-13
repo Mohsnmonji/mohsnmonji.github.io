@@ -36,14 +36,14 @@ author_profile: true
 <!-- RESEARCH INTERESTS -->
 <h3><i class="fas fa-lightbulb"></i> RESEARCH & TEACHING INTERESTS</h3>
 <div>
-  <i class="fas fa-notes-medical" style="color: #1B5E20;"></i> Sociology of Health, 
-  <i class="fas fa-calculator" style="color: #1B5E20;"></i> Quantitative Research Methods, 
-  <i class="fas fa-exclamation-triangle" style="color: #1B5E20;"></i> Social Problems and Inequalities, 
-  <i class="fas fa-chart-bar" style="color: #1B5E20;"></i> Applied Social Statistics, 
-  <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology, 
-  <i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology, 
-  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies, 
-  <i class="fas fa-robot" style="color: #1B5E20;"></i> Society and Technology
+  <p><i class="fas fa-chart-line" style="color: #1B5E20;"></i> Social Statistics</p>
+  <p><i class="fas fa-table" style="color: #1B5E20;"></i> Quantitative Research Methods</p>
+  <p><i class="fas fa-exclamation-triangle" style="color: #1B5E20;"></i> Social Problems and Inequalities</p>
+  <p><i class="fas fa-pills" style="color: #1B5E20;"></i> Sociology of Health</p>
+  <p><i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology</p>
+  <p><i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology</p>
+  <p><i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies</p>
+  <p><i class="fas fa-robot" style="color: #1B5E20;"></i> Society and Technology</p>
 </div>
 
 
