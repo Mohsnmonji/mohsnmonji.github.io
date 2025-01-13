@@ -34,9 +34,16 @@ author_profile: true
 
 
 <!-- RESEARCH INTERESTS -->
-<h3>RESEARCH & TEACHING INTERESTS</h3>
+<h3><i class="fas fa-lightbulb"></i> RESEARCH & TEACHING INTERESTS</h3>
 <div>
-**Sociology of Health**, **Quantitative Research Methods**, **Social Problems**, **Social Inequalities**, **Applied Social Statistics**, **Survey Methodology**, **Computational Sociology**, **Critical Data Studies**, **Society and Technology**
+  <i class="fas fa-notes-medical" style="color: #1B5E20;"></i> Sociology of Health, 
+  <i class="fas fa-calculator" style="color: #1B5E20;"></i> Quantitative Research Methods, 
+  <i class="fas fa-exclamation-triangle" style="color: #1B5E20;"></i> Social Problems and Inequalities, 
+  <i class="fas fa-chart-bar" style="color: #1B5E20;"></i> Applied Social Statistics, 
+  <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology, 
+  <i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology, 
+  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies, 
+  <i class="fas fa-robot" style="color: #1B5E20;"></i> Society and Technology
 </div>
 
 
