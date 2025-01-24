@@ -47,6 +47,9 @@ author_profile: true
 
 
 ### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
+- **Mentor, Connect Concordia Mentorship Program**, Concordia University (2025-Present)  
+  *Supporting students in achieving their academic and career goals .*  
+  [Connect Concordia Mentorship Program](https://www.concordia.ca/academics/experiential-learning/students/connect.html)
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
   *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
 - **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
