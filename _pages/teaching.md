@@ -84,7 +84,7 @@ author_profile: true
     <ul class="teaching-list">
       <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
-      <li><i class="fas fa-exclamation-triangle icon"></i> Social Problems and Inequalities</li>
+      <li><i class="fas fa-exclamation-triangle icon"></i> Social Problems</li>
       <li><i class="fas fa-pills icon"></i> Sociology of Health</li>
       <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
       <li><i class="fas fa-laptop-code icon"></i> Computational Sociology</li>
