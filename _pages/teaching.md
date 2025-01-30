@@ -66,7 +66,7 @@ author_profile: true
   <div class="teaching-card">
     <p>
       <i class="fas fa-lightbulb icon"></i>
-      I approach teaching as a way to expose students to new ideas, concepts, and methods of thinking about and engaging with social problems and inequalities.In my courses, I incorporate 
+      I approach teaching as a way to expose students to new ideas, concepts, and methods of thinking about and engaging with social problems and statistics. In my courses, I incorporate 
       <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data to examine topics such as poverty, income inequality, food insecurity, housing, and disparities in health outcomes. 
     </p>
     <p>
