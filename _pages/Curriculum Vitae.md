@@ -52,14 +52,14 @@ author_profile: true
 - **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
 - **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)  
-  *Research assistant to Professor Matthew Unger.
+  Research assistant to Professor Matthew Unger.
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)  
-   *Research assistant to Professor Marie-Pier Joly.
+   Research assistant to Professor Marie-Pier Joly.
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
-  *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute.
+  Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute.
 - **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023)  
-  *Contributed to the writing of the Responsible AI Section of the 2023 Responsible Tech Guide.*
-  *Available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
+  Contributed to the writing of the Responsible AI Section of the 2023 Responsible Tech Guide.*
+  Available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
 
 ### <i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE
 
