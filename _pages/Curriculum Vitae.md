@@ -87,10 +87,6 @@ author_profile: true
   
    - Taught Social Statistics and Quantitative Research Methods.
 
-### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
-
-- **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
-  *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa 
 
 ### <i class="fas fa-users"></i> ACADEMIC MEMBERSHIPS
 
