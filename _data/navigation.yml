@@ -11,8 +11,13 @@ main:
     url: /curriculum/
   - title: "Teaching"
     url: /teaching/    
+  - title: "Publications"
+    url: /publications/
   - title: "Projects"
     url: /projects/
- 
-
+  - title: "Talks & Presentations"
+    url: /talks/    
+  - title: "Media"
+    url: /media/
+  
  
