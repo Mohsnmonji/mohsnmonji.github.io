@@ -96,7 +96,7 @@ author_profile: true
 
 ### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
 
-- **The Canadian Public Health Association Conference**, Canada (2025)  
+- **The Canadian Public Health Association Conference**,Winnipeg,Canada (2025)  
   *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis.*
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
@@ -109,7 +109,6 @@ author_profile: true
 
 - **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
   See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
-
 
 ### <i class="fas fa-trophy"></i> FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS
 - **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
