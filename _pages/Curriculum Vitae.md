@@ -97,7 +97,7 @@ author_profile: true
 ### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
 
 - **The Canadian Public Health Association Conference**, Canada (2025)  
-  *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis*
+  *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis.*
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
   *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa delays).
