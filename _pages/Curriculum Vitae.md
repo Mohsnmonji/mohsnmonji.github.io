@@ -216,12 +216,11 @@ author_profile: true
 
 ### <i class="fas fa-award"></i> CERTIFICATES
 
-
+- **Graduate Seminar in University Teaching (35 hours)**, issued by Concordia University, 2025  
 - **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
 - **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024  
 - **Health Inequality Monitoring Foundations: Data Sources**, issued by World Health Organization, 2023  
 - **Health Inequality Monitoring Foundations: Health Data Disaggregation**, issued by World Health Organization, 2023  
 - **Inequality Analysis using R: Disaggregated Data from Surveys**, issued by World Health Organization, 2023  
-- **Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)**, issued by Government of Canada, 2024  
-
+- **Research Ethics based on the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)**, issued by Government of Canada, 2024
