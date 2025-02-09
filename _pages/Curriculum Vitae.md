@@ -36,11 +36,8 @@ author_profile: true
 <div>
   <i class="fas fa-heartbeat" style="color: #1B5E20;"></i> Sociology of Health<br>
   <i class="fas fa-chart-line" style="color: #1B5E20;"></i> Applied Social Statistics<br>
-  <i class="fas fa-university" style="color: #1B5E20;"></i> Sociological Theory<br>
   <i class="fas fa-table" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
   <i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology<br>
-  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies<br>
-  <i class="fas fa-users" style="color: #1B5E20;"></i> Social Problems and Inequalities
 </div>
 
 ### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
