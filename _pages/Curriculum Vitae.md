@@ -190,5 +190,5 @@ author_profile: true
 
 ### <i class="fas fa-award"></i> CERTIFICATES
 
-- **Graduate Seminar in University Teaching (35 hours)**, issued by Concordia University, 2025  
+- **Graduate Seminar in University Teaching**, issued by Concordia University, 2025  
 - **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
