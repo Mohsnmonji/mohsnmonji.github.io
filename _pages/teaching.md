@@ -67,11 +67,9 @@ author_profile: true
     <ul class="teaching-list">
       <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
       <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
-      <li><i class="fas fa-university icon"></i> Sociological Theory</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
       <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
       <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
-      <li><i class="fas fa-users icon"></i> Social Problems and Inequalities</li>
       <li><i class="fas fa-robot icon"></i> Society and Technology</li>
     </ul>
   </div>
@@ -85,9 +83,6 @@ author_profile: true
     <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
       <li>SOCI 212, Statistics I, Winter 2025</li>
-      <li>
-        Designed a course in social statistics by incorporating experiential learning to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, disparities in health outcomes, etc.
-      </li>
     </ul>
   </div>
 
