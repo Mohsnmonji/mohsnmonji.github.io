@@ -39,6 +39,8 @@ author_profile: true
   <i class="fas fa-table" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
   <i class="fas fa-poll" style="color: #1B5E20;"></i> Survey Methodology<br>
   <i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology<br>
+  <i class="fas fa-robot" style="color: #1B5E20;"></i> Society and Technology<br>
+  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies<br>
 </div>
 
 ### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
