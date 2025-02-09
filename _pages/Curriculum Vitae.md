@@ -31,7 +31,7 @@ author_profile: true
   Isfahan University of Technology, Iran (2015)  
 
 
-<!-- RESEARCH & TEACHING INTERESTS -->
+<!-- RESEARCH INTERESTS -->
 <h3><i class="fas fa-lightbulb"></i> RESEARCH & TEACHING INTERESTS</h3>
 <div>
   <i class="fas fa-heartbeat" style="color: #1B5E20;"></i> Sociology of Health<br>
