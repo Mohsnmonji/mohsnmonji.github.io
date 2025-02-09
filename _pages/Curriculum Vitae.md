@@ -97,11 +97,6 @@ author_profile: true
 
 - **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024) 
 
-### <i class="fas fa-microphone"></i> TALKS 
-
-- **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
-  See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
-
 ### <i class="fas fa-trophy"></i> FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS
 - **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
   - Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
