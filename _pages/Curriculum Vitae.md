@@ -54,9 +54,9 @@ author_profile: true
 - **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
   *One-year training fellowship in population analytics.*
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)  
-  *Research assistant to Professor Matthew Unger*  
+  *Research assistant to Professor Matthew Unger.*  
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)  
-   *Research assistant to Professor Marie-Pier Joly*
+   *Research assistant to Professor Marie-Pier Joly.*
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
   *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute.*
 - **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023)  
