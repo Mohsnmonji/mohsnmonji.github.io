@@ -49,8 +49,7 @@ author_profile: true
   [Connect Concordia Mentorship Program](https://www.concordia.ca/academics/experiential-learning/students/connect.html)
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
 - **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
-- **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
-  *One-year training fellowship in population analytics.*
+- **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)   
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)  
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)
