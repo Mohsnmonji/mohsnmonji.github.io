@@ -78,8 +78,6 @@ author_profile: true
 
 - **TUTOR**, Self-Employed, Tehran, Iran, 2016-2020  
   
-   - Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
-
 ### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
 
 - **The Canadian Public Health Association Conference**, Winnipeg, Canada (2025)  
