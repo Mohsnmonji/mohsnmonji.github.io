@@ -108,8 +108,8 @@ author_profile: true
   </p>
 
   <p>
-    I teach courses in both <strong>Sociological Theory and Method</strong>, including <strong>Applied Social Statistics</strong>, 
-    <strong>Quantitative Research Methods</strong>, <strong>Sociology of Health</strong>, and <strong>Survey Methodology</strong>, with an emphasis on connecting course material to real-world applications.
+    I teach courses in both <strong>Sociological Theory and Method</strong>, including <strong>Social Statistics</strong>, 
+    <strong>Quantitative Research Methods</strong>, <strong>Social Problems</strong>, <strong>Sociology of Health</strong>, and <strong>Survey Methodology</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a <strong>functional</strong> and <strong>healthy society</strong>.
   </p>
 </div>
 
@@ -117,11 +117,12 @@ author_profile: true
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
   <ul>
     <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
-    <li><i class="fas fa-notes-medical icon"></i> Critical Public Health</li>
-    <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
     <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
+    <li><i class="fas fa-university icon"></i> Sociological Theory</li>
     <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
+    <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
+    <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
   </ul>
 </div>
 
