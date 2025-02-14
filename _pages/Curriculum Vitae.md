@@ -96,12 +96,14 @@ author_profile: true
 
 ### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
 
+- **2025 Canadian Public Health Association Annual Conference**, Winnipeg, Canada  
+  *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis.*
+
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
   *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa delays).
 
 - **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
   *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*
-
 ### <i class="fas fa-microphone"></i> TALKS 
 
 - **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
