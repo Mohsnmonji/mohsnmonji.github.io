@@ -96,7 +96,7 @@ author_profile: true
 
 ### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
 
-- **2025 Canadian Public Health Association Annual Conference**, Winnipeg, Canada  
+- **Canadian Public Health Association Annual Conference**, Winnipeg, Canada(2025)
   *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis.*
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
