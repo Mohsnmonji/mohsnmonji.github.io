@@ -62,15 +62,34 @@ author_profile: true
 </style>
 
 <div class="teaching-section">
+  <h2>TEACHING PHILOSOPHY</h2>
+  <div class="teaching-card">
+    <p>
+      <i class="fas fa-lightbulb icon"></i>
+      I approach teaching as a way to expose students to new ideas, concepts, and methods of thinking about and engaging with social problems and statistics. In my courses, I incorporate 
+      <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data to examine topics such as poverty, food insecurity, housing, and disparities in health outcomes. 
+    </p>
+    <p>
+      <i class="fas fa-hands-helping icon"></i>
+      I believe this hands-on approach not only helps students connect theoretical concepts with practical applications but also gives them a chance to see the impact their work can have 
+      in creating a  functional and healthy society. I value slow and thoughtful learning and want students to engage with the concepts and 
+      methods they are exposed to.
+    </p>
+  </div>
+</div>
+
+<div class="teaching-section">
   <h2>COURSES I TEACH</h2>
   <div class="teaching-card">
     <ul class="teaching-list">
       <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
-      <li><i class="fas fa-notes-medical icon"></i> Critical Public Health</li>
-      <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
       <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
+      <li><i class="fas fa-university icon"></i> Sociological Theory</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
-      <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
+      <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
+      <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
+      <li><i class="fas fa-users icon"></i> Social Problems and Inequalities</li>
+      <li><i class="fas fa-robot icon"></i> Society and Technology</li>
     </ul>
   </div>
 </div>
@@ -83,6 +102,9 @@ author_profile: true
     <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
       <li>SOCI 212, Statistics I, Winter 2025</li>
+      <li>
+        Designed a course in social statistics by incorporating experiential learning to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, disparities in health outcomes, etc.
+      </li>
     </ul>
   </div>
 
