@@ -38,7 +38,6 @@ author_profile: true
 <div>
   <i class="fas fa-chart-line" style="color: #1B5E20;"></i> Applied Social Statistics<br>
   <i class="fas fa-table" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
-  <i class="fas fa-exclamation-triangle" style="color: #1B5E20;"></i> Social Problems and Inequalities<br>
   <i class="fas fa-pills" style="color: #1B5E20;"></i> Sociology of Health<br>
   <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology<br>
   <i class="fas fa-microchip" style="color: #1B5E20;"></i> Computational Sociology<br>
