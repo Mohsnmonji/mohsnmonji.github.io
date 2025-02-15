@@ -107,10 +107,6 @@ author_profile: true
     <strong>applied social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
   </p>
 
-  <p>
-    I teach courses in both <strong>Sociological Theory and Method</strong>, including <strong>Social Statistics</strong>, 
-    <strong>Quantitative Research Methods</strong>, <strong>Critical Public Health</strong>, <strong>Sociology of Health</strong>, and <strong>Survey Methodology</strong>, with an emphasis on connecting course material to real-world applications. In my courses, I incorporate <strong>experiential learning</strong> to provide students with more opportunities to work with real-world data on topics such as income inequality, discrimination, food insecurity, housing, and disparities in health outcomes, allowing them to see the impact their work can have in creating a <strong>functional</strong> and <strong>healthy society</strong>.
-  </p>
 </div>
 
 <div class="card">
