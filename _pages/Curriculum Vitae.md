@@ -96,14 +96,23 @@ author_profile: true
 
 ### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
 
-- **Canadian Public Health Association Annual Conference**, Winnipeg, Canada(2025)
-  *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis.*
+- **Canadian Sociological Association Annual Conference**, Toronto, Canada (2025)  
+  *Discrimination and Inequalities in Psychological Distress among Young Adult Post-Secondary Students in Canada: A Latent Class Analysis.*  
+  *(Sociology of Mental Health Research Cluster)*  
+
+- **Canadian Sociological Association Annual Conference**, Toronto, Canada (2025)  
+  *Food Insecurity and Psychological Distress Among Young Adult Post-Secondary Students in Canada: A Mixed-Effect Analysis.*  
+  *(Food Studies Cluster)*  
+
+- **Canadian Public Health Association Annual Conference**, Winnipeg, Canada (2025)  
+  *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis.*  
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
-  *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada* (Absent due to visa delays).
+  *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada.*  
+  *(Absent due to visa delays)*  
 
 - **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
-  *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*
+  *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*  
 ### <i class="fas fa-microphone"></i> TALKS 
 
 - **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
