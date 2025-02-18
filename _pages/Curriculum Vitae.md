@@ -113,6 +113,7 @@ author_profile: true
 
 - **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
   *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*  
+
 ### <i class="fas fa-microphone"></i> TALKS 
 
 - **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
