@@ -228,6 +228,7 @@ author_profile: true
 ### <i class="fas fa-award"></i> CERTIFICATES
 
 
+- **Graduate Seminar in University Teaching**, issued by Concordia University, 2025
 - **Canadian Statistics and Microdata for the Social Sciences**, issued by Concordia University, 2023  
 - **Gender-Based Analysis Plus**, issued by Government of Canada, 2024  
 - **Gender and Health: Awareness, Analysis, and Action**, issued by Pan American Health Organization, 2024  
