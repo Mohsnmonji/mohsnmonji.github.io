@@ -115,7 +115,6 @@ author_profile: true
     <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
     <li><i class="fas fa-notes-medical icon"></i> Critical Public Health</li>
     <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
-    <li><i class="fas fa-university icon"></i> Sociological Theory</li>
     <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
     <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
