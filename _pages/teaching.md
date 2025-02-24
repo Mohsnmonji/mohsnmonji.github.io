@@ -62,7 +62,7 @@ author_profile: true
 </style>
 
 <div class="teaching-section">
-  <h2>TEACHING COMPETENCE</h2>
+  <h2>TEACHING COMPETENCY</h2>
   <div class="teaching-card">
     <ul class="teaching-list">
       <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
