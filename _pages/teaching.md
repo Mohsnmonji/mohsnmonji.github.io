@@ -88,7 +88,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard icon"></i> TEACHING ASSISTANT</h4>
-    <p>Department of Sociology and Anthropology, Concordia University</p>
+    <p>Department of Sociology and Anthropology, Concordia University, 2021-Present</p>
     <ul>
       <li>Social Statistics</li>
       <li>Quantitative Research Methods</li>
