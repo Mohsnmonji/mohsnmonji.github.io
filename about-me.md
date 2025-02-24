@@ -106,10 +106,8 @@ author_profile: true
     Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
     <strong>applied social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
   </p>
-<p>
-    I teach courses in both <strong>Sociological Theory and Method</strong>, including <strong>Social Statistics</strong>, 
-    <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Sociology of Health</strong>, and <strong>Survey Methodology</strong>, with an emphasis on connecting course material to real-world applications.
 
+</div>
 
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
