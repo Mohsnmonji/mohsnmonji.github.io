@@ -80,7 +80,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER</h4>
-    <p>Department of Sociology and Anthropology, Concordia University</p>
+    <p>Department of Sociology and Anthropology, Concordia University, 2025-Present</p>
     <ul>
       <li>Social Statistics</li>
     </ul>
