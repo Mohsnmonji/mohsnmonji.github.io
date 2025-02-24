@@ -32,7 +32,7 @@ author_profile: true
 
 
 <!-- RESEARCH INTERESTS -->
-<h3><i class="fas fa-lightbulb"></i> RESEARCH & TEACHING INTERESTS</h3>
+<h3><i class="fas fa-lightbulb"></i> RESEARCH INTERESTS</h3>
 <div>
   <i class="fas fa-pills" style="color: #1B5E20;"></i> Sociology of Health<br>
   <i class="fas fa-notes-medical" style="color: #1B5E20;"></i> Critical Public Health<br>
