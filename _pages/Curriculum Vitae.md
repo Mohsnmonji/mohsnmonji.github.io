@@ -52,6 +52,7 @@ author_profile: true
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)
 - **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023) 
+
 ### <i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE
 
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
