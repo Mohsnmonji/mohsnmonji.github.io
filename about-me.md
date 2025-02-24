@@ -110,7 +110,7 @@ author_profile: true
   <p>
     I teach courses in both <strong>Sociological Theory and Method</strong>, including <strong>Social Statistics</strong>, 
     <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Sociology of Health</strong>, and <strong>Survey Methodology</strong>, with an emphasis on connecting course material to real-world applications.
- <p>
+  </p>
   
 </div>
 
