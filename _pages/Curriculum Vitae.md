@@ -65,7 +65,7 @@ author_profile: true
   
    - Social Statistics and Quantitative Research Methods.
 
-### <i class="fas fa-users"></i> ACADEMIC MEMBERSHIPS
+### <i class="fas fa-users"></i> ACADEMIC AFFILIATIONS
 
 - [Canadian Sociological Association](https://www.csa-scs.ca)  
 - [American Sociological Association](https://www.asanet.org)  
