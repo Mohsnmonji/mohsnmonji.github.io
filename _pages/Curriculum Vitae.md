@@ -56,14 +56,14 @@ author_profile: true
 ### <i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE
 
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
-  - SOCI 212, Statistics I, Winter 2025  
+  - Social Statistics
 
 - **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia 
   - Statistics, Quantitative Research Methods, Social Theory.
 
 - **TUTOR**, Self-Employed, Tehran, Iran, 2016-2020  
   
-   - Social Statistics and Quantitative Research Methods
+   - Social Statistics and Quantitative Research Methods.
 
 ### <i class="fas fa-users"></i> ACADEMIC MEMBERSHIPS
 
