@@ -55,13 +55,13 @@ author_profile: true
 
 ### <i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE
 
-- **LECTURER**, Department of Sociology and Anthropology, Concordia University  
+- **LECTURER**, Department of Sociology and Anthropology, Concordia University, 2025-Present.  
   - Social Statistics
 
-- **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia 
+- **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia University, 2021-Present.
   - Statistics, Quantitative Research Methods, Social Theory.
 
-- **TUTOR**, Self-Employed, Tehran, Iran, 2016-2020  
+- **TUTOR**, Self-Employed, Tehran, Iran, 2016-2020.  
   
    - Social Statistics and Quantitative Research Methods.
 
