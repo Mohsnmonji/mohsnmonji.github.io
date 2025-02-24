@@ -80,7 +80,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER</h4>
-    <p>Department of Sociology and Anthropology, Concordia University, 2025-Present</p>
+    <p>Department of Sociology and Anthropology, Concordia University, 2025-Present.</p>
     <ul>
       <li>Social Statistics</li>
     </ul>
@@ -88,7 +88,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard icon"></i> TEACHING ASSISTANT</h4>
-    <p>Department of Sociology and Anthropology, Concordia University, 2021-Present</p>
+    <p>Department of Sociology and Anthropology, Concordia University, 2021-Present.</p>
     <ul>
       <li>Social Statistics</li>
       <li>Quantitative Research Methods</li>
@@ -98,7 +98,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-user-graduate icon"></i> TUTOR</h4>
-    <p>Self-Employed, Tehran, Iran, 2016-2020</p>
+    <p>Self-Employed, Tehran, Iran, 2016-2020.</p>
     <ul>
       <li>Social Statistics and Quantitative Research Methods.</li>
     </ul>
