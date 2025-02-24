@@ -17,7 +17,7 @@ author_profile: true
   }
 </style>
 
-<p><i>Note: This is a condensed version of my curriculum vitae. A complete CV, including publications, awards, and conference presentations, can be shared upon request.</i></p>
+<p><i>Note: This is a short version of my curriculum vitae. Complete CV can be shared upon request.</i></p>
 
 ### <i class="fas fa-graduation-cap"></i> EDUCATION
 
