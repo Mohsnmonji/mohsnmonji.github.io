@@ -135,7 +135,7 @@ author_profile: true
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
 
 
-### <i class="fas fa-users"></i> PROFESSIONAL MEMBERSHIPS AND AFFILIATIONS
+### <i class="fas fa-users"></i> PROFESSIONAL AFFILIATIONS
 
 - [Canadian Sociological Association](https://www.csa-scs.ca)  
 - [American Sociological Association](https://www.asanet.org)  
