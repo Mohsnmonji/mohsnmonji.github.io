@@ -34,7 +34,7 @@ author_profile: true
 
 
 <!-- RESEARCH INTERESTS -->
-<h3><i class="fas fa-lightbulb"></i> RESEARCH INTERESTS</h3>
+<h3><i class="fas fa-lightbulb"></i> RESEARCH & TEACHING INTERESTS</h3>
 <div>
   <i class="fas fa-pills" style="color: #1B5E20;"></i> Sociology of Health<br>
   <i class="fas fa-notes-medical" style="color: #1B5E20;"></i> Critical Public Health<br>
@@ -42,6 +42,7 @@ author_profile: true
   <i class="fas fa-table" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
   <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology<br>
   <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies<br>
+  <i class="fas fa-brain" style="color: #1B5E20;"></i> Computational Sociology<br>
   <i class="fas fa-microchip" style="color: #1B5E20;"></i> Society and Technology
 </div>
 
