@@ -114,11 +114,4 @@ author_profile: true
     </ul>
   </div>
 
-  <div class="teaching-card">
-    <h4><i class="fas fa-user-graduate icon"></i> TUTOR</h4>
-    <p>Self-Employed, Tehran, Iran, 2016-2020</p>
-    <ul>
-      <li>Taught Social Statistics and quantitative methods to undergraduate social science students.</li>
-    </ul>
-  </div>
-</div>
+
