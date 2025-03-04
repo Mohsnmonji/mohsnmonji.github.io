@@ -130,10 +130,3 @@ author_profile: true
   </ul>
 </div>
 
-<div class="card">
-  <h3><i class="fas fa-envelope icon"></i> Contact</h3>
-  <p>
-    Feel free to reach out if you’re interested in my research, teaching, or potential collaborations!  
-    You can contact me at <span class="email">𝐦𝐨𝐡𝐬𝐞𝐧.𝐦𝐨𝐧𝐣𝐢@𝐜𝐨𝐧𝐜𝐨𝐫𝐝𝐢𝐚.𝐜𝐚</span>.
-  </p>
-</div>
