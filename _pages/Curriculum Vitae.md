@@ -22,10 +22,7 @@ author_profile: true
 
   - **Ph.D. Candidate in Social and Cultural Analysis (Sociology)**  
   Concordia University (2020-Present)   
-   **Co-supervisors:** Drs. Matthew Unger and Marie-Pier Joly (Concordia University)  
-   **Committee Member:** Dr. Alexis Dennis (McGill University)  
- 
-
+  
 - **M.A. in Anthropology**  
   University of Tehran, Iran (2018)  
 
@@ -51,32 +48,23 @@ author_profile: true
   *Providing mentorship, academic, and career advising to undergraduate students.*  
   [Connect Concordia Mentorship Program](https://www.concordia.ca/academics/experiential-learning/students/connect.html)
 - **Doctoral Researcher, CRDCN Emerging Scholar**, Canadian Research Data Centre Network (CRDCN) (2024-Present)  
-  *Using Statistics Canada data to analyze disparities in mental health outcomes among youth in Canada.*
+  *Using Statistics Canada data to analyze mental health outcomes among youth and young adults in Canada.*
 - **Doctoral Researcher**, Quebec Inter-University Centre for Social Statistics (QICSS) (2024-Present)  
-  *Studying disparities in mental health outcomes among youth in Canada as part of my Ph.D. dissertation.*
+  *Studying mental health outcomes among youth in Canada as part of my Ph.D. dissertation.*
 - **Doctoral Fellow**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024-2025)  
-  *One-year training fellowship in population analytics.*
-- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)  
-  *Research assistant to Professor Matthew Unger in two SSHRC and FRQSC projects on law, criminalization, and Indigenous communities in Canada.*  
+  *One-year training fellowship in population data analytics.*
+- **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-Present)   
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (2022-2023)  
-   *Research assistant to Professor Marie-Pier Joly in a project on employment, underemployment, and the mental health of immigrants in Canada.*
-- **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)  
-  *Research assistant to Professor Tristan Glatard, Canada Research Chair on Big Data for Neuroinformatics and the co-director of the Applied Artificial Intelligence Institute in a project on gender equity in AI.*  
-  *Available at: [Affecting Machines](https://affectingmachines.net/)*
-- **Contributing Author**, All Tech is Human, Responsible Artificial Intelligence Working Group (2023)  
-  *Contributed to the writing of the Responsible AI Section of the 2023 Responsible Tech Guide.*
-  *Available at: [Responsible Tech Guide](https://alltechishuman.org/responsible-tech-guide).*  
-
+- **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun-Sep 2023)
+- **Contributing Author**, All Tech is Human, (July-Sep 2023)  
+  
 ### <i class="fas fa-chalkboard-teacher"></i> TEACHING EXPERIENCE
 
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
   - SOCI 212, Statistics I, Winter 2025  
 
-  \- Designed a course in social statistics to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, disparities in health outcomes, etc.
 - **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia University  
 
-  \- Provided office hours, led tutorials, and directed lab sessions.
-  
   - SOCI 212–B, Statistics I, Fall 2024
   - SOCI 213–B, Statistics II, Winter 2024
   - SOCI 213–CC, Statistics II, Winter 2024
@@ -90,52 +78,6 @@ author_profile: true
   
   - AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022
 
-
-### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
-
-- **Canadian Sociological Association Annual Conference**, Toronto, Canada (2025)  
-  *Discrimination and Inequalities in Psychological Distress among Young Adult Post-Secondary Students in Canada: A Latent Class Analysis.*  
-  *(Sociology of Mental Health Research Cluster)*  
-
-- **Canadian Sociological Association Annual Conference**, Toronto, Canada (2025)  
-  *Food Insecurity and Psychological Distress Among Young Adult Post-Secondary Students in Canada: A Mixed-Effect Analysis.*  
-  *(Food Studies Cluster)*  
-
-- **Canadian Population Society Annual Conference**, Toronto, Canada (2025)  
-  *Discrimination and Inequalities in Psychological Distress among Young Adult Post-Secondary Students in Canada: A Latent Class Analysis.*  
-
-- **Canadian Population Society Annual Conference**, Toronto, Canada (2025)  
-  *Food Insecurity and Psychological Distress Among Young Adult Post-Secondary Students in Canada: A Mixed-Effect Analysis.*  
-
-- **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
-  *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada.*  
-  *(Absent due to visa delays)*  
-
-- **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
-  *Towards Mental Health Equity through Community Building: Social Prescribing as an Emerging Determinant of Mental Health in Canada.*  
-
-### <i class="fas fa-microphone"></i> TALKS 
-
-- **Affecting Machines: Normative Principles for Gender Equity in Artificial Intelligence**, Fourth Space, Concordia University (2023)  
-  See the recorded workshop at: [Affecting Machines](https://www.youtube.com/live/6UNZkXNQeU0?si=QRERKwbGPYSppP5C).
-
-
-### <i class="fas fa-trophy"></i> FELLOWSHIPS, SCHOLARSHIPS, GRANTS, AWARDS
-- **Canadian Research Data Centre Network (CRDCN) Emerging Scholars Grant**, Ph.D., 2024.
-  - Awarded by CRDCN, Funded by the CFI, CHIRR, SSHRC, Statistics Canada.
-- **Quebec Inter-University Center for Social Statistics (QICSS) Entrance Scholarship**, Ph.D., 2024.  
-- **Fonds de recherche du Québec (FRQSC) Doctoral Scholarship**, 2024-2026.  
-  - *Ranked first in Sociology and Demography.*  
-- **Consortium on Analytics for Data-Driven Decision-Making (CAnD3) Fellowship**, McGill University, 2024-2025.  
-  - *First Concordia student to be awarded the CAnD3 fellowship.*  
-- **Dialogue McGill’s Graduate Research Scholarship**, 2023-2024.  
-  - *Awarded by Dialogue McGill, funded by Health Canada.*  
-- **Concordia University Conference Travel Award**, 2024.  
-- **Concordia University Merit Scholarship**, Concordia University, 2023.  
-- **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
-- **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
-
-
 ### <i class="fas fa-users"></i> PROFESSIONAL AFFILIATIONS
 
 - [Canadian Sociological Association](https://www.csa-scs.ca)  
@@ -144,9 +86,7 @@ author_profile: true
 - [Canadian Population Society](https://www.canpopsoc.ca)  
 - [American Statistical Association](https://www.amstat.org)  
 - [Statistical Society of Canada](https://ssc.ca/en)  
-- [American College Health Association](https://www.acha.org)  
-- [Women’s Health Research Cluster](https://womenshealthresearchcluster.com/)  
-
+- [American College Health Association](https://www.acha.
 
 ### <i class="fas fa-chart-bar"></i> SKILLS
 
