@@ -8,6 +8,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+**This is a shortened version of my curriculum vitae. A complete version is available upon request.**
+
 <style>
   h3 {
     border-bottom: 2px solid #1B5E20; /* Accessible Dark Green */
