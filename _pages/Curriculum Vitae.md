@@ -37,11 +37,12 @@ author_profile: true
 <h3><i class="fas fa-lightbulb"></i> RESEARCH & TEACHING INTERESTS</h3>
 <div>
   <i class="fas fa-pills" style="color: #1B5E20;"></i> Sociology of Health<br>
-  <i class="fas fa-notes-medical" style="color: #1B5E20;"></i> Critical Public Health<br>
   <i class="fas fa-chart-line" style="color: #1B5E20;"></i> Applied Social Statistics<br>
   <i class="fas fa-table" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
   <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology<br>
-  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies
+  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies<br>
+  <i class="fas fa-brain" style="color: #1B5E20;"></i> Computational Sociology<br>
+  <i class="fas fa-microchip" style="color: #1B5E20;"></i> Society and Technology
 </div>
 
 
@@ -71,7 +72,7 @@ author_profile: true
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
   - SOCI 212, Statistics I, Winter 2025  
 
-  \- Designed a course in social statistics by incorporating experiential learning to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, disparities in health outcomes, etc.
+  \- Designed a course in social statistics to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, disparities in health outcomes, etc.
 - **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia University  
 
   \- Provided office hours, led tutorials, and directed lab sessions.
@@ -89,9 +90,6 @@ author_profile: true
   
   - AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022
 
-- **TUTOR**, Self-Employed, Tehran, Iran, 2016-2020  
-  
-   - Taught Social Statistics and Quantitative Research Methods to undergraduate and graduate social science students.
 
 ### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS
 
@@ -103,8 +101,11 @@ author_profile: true
   *Food Insecurity and Psychological Distress Among Young Adult Post-Secondary Students in Canada: A Mixed-Effect Analysis.*  
   *(Food Studies Cluster)*  
 
-- **Canadian Public Health Association Annual Conference**, Winnipeg, Canada (2025)  
-  *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis.*  
+- **Canadian Population Society Annual Conference**, Toronto, Canada (2025)  
+  *Discrimination and Inequalities in Psychological Distress among Young Adult Post-Secondary Students in Canada: A Latent Class Analysis.*  
+
+- **Canadian Population Society Annual Conference**, Toronto, Canada (2025)  
+  *Food Insecurity and Psychological Distress Among Young Adult Post-Secondary Students in Canada: A Mixed-Effect Analysis.*  
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
   *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada.*  
@@ -135,16 +136,16 @@ author_profile: true
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
 
 
-### <i class="fas fa-users"></i> ACADEMIC MEMBERSHIPS
+### <i class="fas fa-users"></i> PROFESSIONAL AFFILIATIONS
 
 - [Canadian Sociological Association](https://www.csa-scs.ca)  
 - [American Sociological Association](https://www.asanet.org)  
 - [Canadian Public Health Association](https://www.cpha.ca)  
 - [Canadian Population Society](https://www.canpopsoc.ca)  
 - [American Statistical Association](https://www.amstat.org)  
+- [Statistical Society of Canada](https://ssc.ca/en)  
 - [American College Health Association](https://www.acha.org)  
 - [Women’s Health Research Cluster](https://womenshealthresearchcluster.com/)  
-
 
 
 ### <i class="fas fa-chart-bar"></i> SKILLS
