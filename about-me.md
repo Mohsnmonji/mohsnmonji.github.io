@@ -90,9 +90,17 @@ author_profile: true
     a <strong>CAnD3 Doctoral Fellow</strong> at 
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
-    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. My doctoral research is focused on the 
-    <strong>social determinants of mental health</strong> and population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression in Canada.
-  </p>
+    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
+    My doctoral research is focused on the <strong>social determinants of mental health</strong> and 
+    population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression in Canada.
+</p>
+
+<p>
+    Another strand of my research explores the <strong>social history of modern statistics</strong>, 
+    focusing on the historical contexts in which statistical knowledge has emerged and how 
+    <strong>statistical reasoning and quantification</strong> became central—epistemologically—to 
+    knowledge production and population governance.
+</p>
 
   <p>
     My doctoral research has been supported by funding from 
