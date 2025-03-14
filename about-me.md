@@ -112,7 +112,7 @@ author_profile: true
 
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
-    <strong>applied social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
+    <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
   </p>
   
   <p>
