@@ -85,10 +85,7 @@ author_profile: true
     <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER</h4>
     <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
-      <li>SOCI 212, Statistics I, Winter 2025</li>
-      <li>
-        Designed a course in social statistics by incorporating experiential learning to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, disparities in health outcomes, etc.
-      </li>
+      <li>SOCI 212, Social Statistics, Winter 2025</
     </ul>
   </div>
 
