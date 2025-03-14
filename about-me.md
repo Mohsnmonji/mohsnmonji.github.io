@@ -119,7 +119,6 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
   <ul>
-    <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
     <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
     <li><i class="fas fa-history icon"></i> Social History of Statistics</li>
     <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
@@ -127,6 +126,7 @@ author_profile: true
     <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
     <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
     <li><i class="fas fa-microchip icon"></i> Society and Technology</li>
+<li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
     
   </ul>
 </div>
