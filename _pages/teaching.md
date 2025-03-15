@@ -85,7 +85,7 @@ author_profile: true
     <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER</h4>
     <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
-      <li>SOCI 212, Social Statistics, Winter 2025</li>
+      <li>SOCI 212, Statistics I, Winter 2025</li>
     </ul>
   </div>
 </div>
