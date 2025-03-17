@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About"
+title: ""
 permalink: /about-me/
 seo_title: "About | Mohsen Monji"
 description: " Learn more about Mohsen Monji."
