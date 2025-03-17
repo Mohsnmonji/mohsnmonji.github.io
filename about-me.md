@@ -126,7 +126,6 @@ author_profile: true
     <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
     <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
     <li><i class="fas fa-microchip icon"></i> Society and Technology</li>
-<li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
     
   </ul>
 </div>
