@@ -78,6 +78,25 @@ author_profile: true
   
   - AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022
 
+### <i class="fas fa-chalkboard-teacher"></i> CONFERENCE PRESENTATIONS  
+
+- **Canadian Sociological Association Annual Conference**, Toronto, Canada (2025)  
+  *(Sociology of Mental Health Research Cluster)*  
+
+- **Canadian Sociological Association Annual Conference**, Toronto, Canada (2025)  
+  *(Food Studies Cluster)*  
+
+- **Canadian Population Society Annual Conference**, Toronto, Canada (2025)  
+
+- **Canadian Population Society Annual Conference**, Toronto, Canada (2025)  
+
+- **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
+  *(Absent due to visa delays)*  
+
+- **Canada's Social Prescribing Conference - Advancing Social Prescribing for Health & Wellbeing**, Toronto, Canada (2024)  
+
+
+
 ### <i class="fas fa-users"></i> PROFESSIONAL AFFILIATIONS
 
 - [Canadian Sociological Association](https://www.csa-scs.ca)  
