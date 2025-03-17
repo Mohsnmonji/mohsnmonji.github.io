@@ -8,7 +8,7 @@ hide_avatar: true
 <div style="text-align: center; margin-top: 50px; max-width: 800px; margin: auto; padding: 20px;">
   <!-- Profile Image -->
   <div>
-   <img src="images/mohsen-monji-profile.webp" alt="Mohsen Monji, Sociologist and Population  Health Researcher" 
+   <img src="images/mohsen-monji-profile.webp" alt="Mohsen Monji, Sociologist and Population Health Researcher" 
      style="width: 350px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
   </div>
 
@@ -30,7 +30,6 @@ hide_avatar: true
   <!-- Buttons -->
   <div style="margin-bottom: 20px;">
     <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">Learn More About Me</a>
-    <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
   </div>
 
   <!-- Social Media Links -->
@@ -60,6 +59,3 @@ hide_avatar: true
     </a>
   </div>
 </div>
-
-
-
