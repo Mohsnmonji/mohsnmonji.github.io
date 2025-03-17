@@ -91,9 +91,13 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My doctoral research is focused on the <strong>social determinants of mental health</strong> and 
-    population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression in Canada.
-</p>
+    My doctoral research focuses on the <strong>evaluation of quantitative and statistical methods</strong> 
+    used in <strong>health disparities research</strong>, with a particular emphasis on methodologies for studying 
+    <strong>mental health inequalities</strong> at the population level. My work critically examines 
+    the application of statistical modeling and computational approaches to understand and measure 
+    disparities in psychological distress, anxiety, and depression.
+  </p>
+</div>
 
 <p>
     Another strand of my research explores the <strong>social history of modern statistics</strong>, 
