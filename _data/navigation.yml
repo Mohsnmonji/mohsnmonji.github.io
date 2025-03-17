@@ -7,8 +7,6 @@
 main:
   - title: "About"
     url: /about-me/
-  - title: "CV"
-    url: /curriculum/
   - title: "Teaching"
     url: /teaching/    
   - title: "Projects"
