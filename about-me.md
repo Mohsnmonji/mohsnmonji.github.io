@@ -91,7 +91,7 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My doctoral research focuses on the <strong>evaluation of quantitative approaches and statistical methods</strong> 
+    My doctoral research is focused on the <strong>evaluation of quantitative approaches and statistical methods</strong> 
     used in <strong>health disparities research</strong>. In particular, my work critically examines 
     the application of statistical modeling and computational approaches to measuring and studying 
     <strong>mental health disparities</strong>, including disparities in psychological distress, anxiety, and depression at the population level.  
