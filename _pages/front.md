@@ -21,11 +21,9 @@ hide_avatar: true
   </p>
 
   <!-- Description -->
-  <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-    I am a sociologist of health and population health researcher studying the 
-    <strong>social determinants of mental health</strong> and <strong>mental health disparities</strong> 
-    in Canada.
-  </p>
+<p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
+  I am a sociologist and social statistician working on <strong>quantitative approaches and statistical methods</strong> for measuring and studying <strong>mental health outcomes</strong> at the population level.
+</p>
 
   <!-- Buttons -->
   <div style="margin-bottom: 20px;">
