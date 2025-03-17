@@ -97,9 +97,9 @@ author_profile: true
 
 <p>
     Another strand of my research explores the <strong>social history of modern statistics</strong>, 
-    focusing on the historical contexts in which statistical knowledge has emerged and how 
+    focusing on the historical contexts in which statistical knowledge has emerged and 
     <strong>statistical reasoning and quantification</strong> became central—epistemologically—to 
-    knowledge production and population governance.
+    knowledge production.
 </p>
 
 
