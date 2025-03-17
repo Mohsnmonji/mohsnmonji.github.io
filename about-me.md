@@ -96,7 +96,6 @@ author_profile: true
     In particular, my work examines the <strong>quantification</strong> and the use of statistical methods 
     to measure and study mental health outcomes, including psychological distress, anxiety, and depression.
   </p>
-</div>
 
   <p>
     Another strand of my research explores the <strong>social history of modern statistics</strong>, 
@@ -115,10 +114,10 @@ author_profile: true
     <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Social History of Quantification</strong>, 
     <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Society and Technology</strong>.
   </p>
-</div>  
+</div> <!-- 
 
 <div class="card">
-  <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
+  <h3><i class="fas fa-briefcase icon"></i> Research Interests</h3>
   <ul>
     <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
     <li><i class="fas fa-history icon"></i> Social History of Statistics</li>
