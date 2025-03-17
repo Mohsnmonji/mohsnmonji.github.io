@@ -96,28 +96,25 @@ author_profile: true
     In particular, my work examines the <strong>quantification of mental health disparities</strong> and the use of statistical methods 
     to measure and study disparities in psychological distress, anxiety, and depression at the population level.  
   </p>
-</div>
 
-<p>
+  <p>
     Another strand of my research explores the <strong>social history of modern statistics</strong>, 
-    focusing on the historical contexts in which statistical knowledge was emerged and 
+    focusing on the historical contexts in which statistical knowledge emerged and how 
     <strong>statistical reasoning and quantification</strong> became central—epistemologically—to 
     scientific knowledge production.
-</p>
-
+  </p>
 
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
     <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
   </p>
-  
+
   <p>
     I teach courses in both <strong>sociological theory and method</strong>, including <strong>Social Statistics</strong>, 
     <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Social History of Quantification</strong>, 
     <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Society and Technology</strong>.
-</p>
-  
-</div>
+  </p>
+</div>  
 
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
@@ -129,7 +126,6 @@ author_profile: true
     <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
     <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
     <li><i class="fas fa-microchip icon"></i> Society and Technology</li>
-    
   </ul>
 </div>
 
