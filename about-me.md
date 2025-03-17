@@ -3,7 +3,7 @@ layout: archive
 title: "About"
 permalink: /about-me/
 seo_title: "About | Mohsen Monji"
-description: " Learn more anout Mohsen Monji."
+description: " Learn more about Mohsen Monji."
 canonical: "https://www.mohsenmonji.com/about-me/"
 author_profile: true
 ---
