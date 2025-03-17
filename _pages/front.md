@@ -22,7 +22,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-  I am a sociologist and social statistician interested in studying <strong>quantitative approaches and statistical methods</strong> for measuring and studying <strong>mental health outcomes</strong> at the population level.
+  I am a sociologist and social statistician working on <strong>quantitative approaches and statistical methods</strong> for measuring and studying <strong>mental health outcomes</strong> at the population level.
 </p>
 
   <!-- Buttons -->
