@@ -94,7 +94,7 @@ author_profile: true
     In my doctoral research, I <strong>question and evaluate</strong> quantitative approaches and statistical methods 
     used in <strong>health disparities research</strong>.  
     In particular, my work examines the <strong>quantification</strong> and the use of statistical methods 
-    to measure and study mental health outcomes, including in psychological distress, anxiety, and depression.
+    to measure and study mental health outcomes, including psychological distress, anxiety, and depression.
   </p>
 </div>
 
