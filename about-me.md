@@ -114,7 +114,7 @@ author_profile: true
     <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Social History of Quantification</strong>, 
     <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Society and Technology</strong>.
   </p>
-</div> <!-- 
+</div> 
 
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Research Interests</h3>
