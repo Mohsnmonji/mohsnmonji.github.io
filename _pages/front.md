@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-seo_title: "Mohsen Monji | Sociologist & Population Health Researcher"
+seo_title: "Mohsen Monji"
 author_profile: false
 hide_avatar: true
 ---
