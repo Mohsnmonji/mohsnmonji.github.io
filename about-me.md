@@ -93,7 +93,7 @@ author_profile: true
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
     In my doctoral research, I <strong>question and evaluate</strong> quantitative approaches and statistical methods 
     used in <strong>health disparities research</strong>.  
-    In particular, my work examines the <strong>quantification of mental health disparities</strong> and the use of statistical methods 
+    In particular, my work examines the <strong>quantification and  use of statistical methods 
     to measure and study disparities in psychological distress, anxiety, and depression at the population level.  
   </p>
 
