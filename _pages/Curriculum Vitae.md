@@ -63,8 +63,6 @@ author_profile: true
 
 - **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia University  
 
-  \- Provided office hours, led tutorials, and directed lab sessions.
-  
   - SOCI 212–B, Statistics I, Fall 2024
   - SOCI 213–B, Statistics II, Winter 2024
   - SOCI 213–CC, Statistics II, Winter 2024
