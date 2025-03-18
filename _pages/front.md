@@ -17,13 +17,9 @@ hide_avatar: true
 
   <!-- Subtitle -->
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
-    PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
+    PhD Candidate in Sociology | Social Statistician | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
   </p>
 
-  <!-- Description -->
-<p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-  I am a sociologist and social statistician working on <strong>quantitative approaches and statistical methods</strong> for measuring and studying <strong>mental health outcomes</strong> at the population level.
-</p>
 
   <!-- Buttons -->
   <div style="margin-bottom: 20px;">
