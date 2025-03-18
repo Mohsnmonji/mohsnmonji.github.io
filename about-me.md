@@ -110,7 +110,7 @@ author_profile: true
   </p>
 
   <p>
-    I teach courses in both <strong>sociological theory and method</strong>, including <strong>Social Statistics</strong>, 
+    I teach courses in <strong>Social Statistics</strong>, 
     <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Social History of Quantification</strong>, 
     <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Society and Technology</strong>.
   </p>
