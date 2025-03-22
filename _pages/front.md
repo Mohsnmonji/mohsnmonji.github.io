@@ -17,7 +17,7 @@ hide_avatar: true
 
   <!-- Subtitle -->
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
-    Sociologist | Social Statistician | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
+    PhD Candidate & Lecturer in Sociology | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
   </p>
 
 
