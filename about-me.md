@@ -91,16 +91,14 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    In my doctoral research, I <strong>question and evaluate</strong> quantitative approaches and statistical methods 
+    In my doctoral research, I <strong>question and evaluate</strong> quantitative methods 
     used in <strong>health disparities research</strong>.  
-    In particular, my work examines the <strong>quantification</strong> and the use of statistical methods 
-    to measure and study mental health outcomes, including psychological distress, anxiety, and depression.
+    
   </p>
 
   <p>
     Another strand of my research explores the <strong>social history of modern statistics</strong>, 
-    focusing on the historical contexts in which statistical knowledge emerged and how 
-    <strong>statistical reasoning and quantification</strong> became central—epistemologically—to 
+    focusing on the historical contexts in which statistical knowledge and reasoning emerged and became central—epistemologically—to 
     scientific knowledge production.
   </p>
 
