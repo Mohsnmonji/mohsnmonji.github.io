@@ -66,9 +66,9 @@ author_profile: true
 <div class="teaching-card">
   <ul class="teaching-list">
     <li><i class="fas fa-chart-line icon"></i>  Social Statistics</li>
-  <li><i class="fas fa-history icon"></i> Social History of Statistics</li>
-    <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-database icon"></i> Survey Methodology</li>
+    <li><i class="fas fa-history icon"></i> History of Statistics</li>
+    <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
     <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
     <li><i class="fas fa-microchip icon"></i> Society and Technology</li>
