@@ -1,42 +1,31 @@
 {% include base_path %}
 
-<!-- Google tag (gtag.js) -->
+<!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-W5ED9M8GYL"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-W5ED9M8GYL');
 </script>
 
-<!-- Character Encoding -->
 <meta charset="utf-8">
-
-<!-- Title and Description -->
 <title>{{ page.seo_title | default: "Mohsen Monji" }}</title>
-<meta name="description" content="I am a sociologist and social statistician interested in quantitative methods for measuring and studying mental health outcomes at the population level.">
+<meta name="description" content="I am a sociologist of health and population health researcher studying the social determinants of mental health and mental health disparities in Canada.">
 <meta name="author" content="Mohsen Monji">
+<meta name="keywords" content="Mohsen Monji, sociologist of health, population health, mental health disparities, social determinants of health, social statistician, survey data, Canada, quantitative methods, statistical modeling, social statistics, sociology of health, mental health research">
 
-<!-- Keywords for SEO -->
-<meta name="keywords" content="Mohsen Monji, sociologist, social statistician, lecturer, quantitative methods, statistical methods, social statistics, social history of statistics, survey methodology, measurement, disparities, sociology of health, quantitative research, Canada, US">
-
-<!-- Dynamic Canonical URL -->
 <link rel="canonical" href="{{ site.url | append: page.url | replace: 'index.html', '' }}" />
-
-<!-- Viewport for Mobile Responsiveness -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<!-- Robots Meta Tag -->
 {% if page.robots == "noindex" %}
   <meta name="robots" content="noindex, follow">
 {% else %}
   <meta name="robots" content="index, follow">
 {% endif %}
 
-<!-- Open Graph Metadata for All Platforms -->
+<!-- Open Graph -->
 <meta property="og:title" content="Mohsen Monji">
-<meta property="og:description" content="I am a sociologist and social statistician working on quantitative methods for measuring and studying mental health outcomes at the population level.">
+<meta property="og:description" content="I am a sociologist of health and population health researcher studying the social determinants of mental health and mental health disparities in Canada.">
 <meta property="og:url" content="{{ site.url | append: page.url | replace: 'index.html', '' }}">
 <meta property="og:image" content="{{ site.url }}/images/mohsen-monji-profile.webp">
 <meta property="og:image:secure_url" content="{{ site.url }}/images/mohsen-monji-profile.webp">
@@ -47,20 +36,20 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Mohsen Monji">
 
-<!-- Twitter Card Metadata -->
+<!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Mohsen Monji">
-<meta name="twitter:description" content="I am a sociologist and social statistician interested in quantitative methods for measuring and studying mental health outcomes at the population level.">
+<meta name="twitter:description" content="I am a sociologist of health and population health researcher studying the social determinants of mental health and mental health disparities in Canada.">
 <meta name="twitter:image" content="{{ site.url }}/images/mohsen-monji-profile.webp">
-<meta name="twitter:image:alt" content="Profile picture of Mohsen Monji">
+<meta name="twitter:image:alt" content="Headshot of Mohsen Monji, Sociologist of Health and Population Health Researcher">
 
-<!-- Structured Data for Rich Snippets -->
+<!-- Person Structured Data -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Mohsen Monji",
-  "description": "I am a sociologist and social statistician specializing in quantitative approaches and statistical methods for measuring and studying mental health outcomes at the population level.",
+  "description": "I am a sociologist of health and population health researcher studying the social determinants of mental health and mental health disparities in Canada.",
   "image": "https://www.mohsenmonji.com/images/mohsen-monji-profile.webp",
   "url": "https://www.mohsenmonji.com",
   "jobTitle": [
@@ -90,13 +79,13 @@
     "https://bsky.app/profile/mohsenmonji.bsky.social"
   ],
   "knowsAbout": [
-    "Quantitative Approaches",
-    "Statistical Methods",
-    "Social Statistics",
-    "Survey Methodology",
-    "Measurement",
     "Mental Health Disparities",
-    "Machine Learning"
+    "Social Determinants of Health",
+    "Quantitative Methods",
+    "Statistical Modeling",
+    "Survey Methodology",
+    "Social Statistics",
+    "Population Health in Canada"
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
@@ -116,7 +105,7 @@
       "name": "Who is Mohsen Monji?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Mohsen Monji is a sociologist and social statistician specializing in quantitative approaches and statistical methods for measuring and studying mental health outcomes at the population level."
+        "text": "Mohsen Monji is a sociologist of health and population health researcher studying the social determinants of mental health and mental health disparities in Canada."
       }
     },
     {
@@ -132,7 +121,7 @@
       "name": "What does Mohsen Monji research?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "His research focuses on evaluating quantitative methods in health disparities research, particularly for studying mental health outcomes at the population level."
+        "text": "His research focuses on quantitative methods for studying mental health disparities and the social determinants of mental health in Canada using survey and population health data."
       }
     },
     {
@@ -147,15 +136,10 @@
 }
 </script>
 
-<!-- Favicon -->
 <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-<!-- Stylesheet -->
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<!-- JavaScript for Better Browser Support -->
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
-
-<!-- ClearType for Windows -->
 <meta http-equiv="cleartype" content="on">
