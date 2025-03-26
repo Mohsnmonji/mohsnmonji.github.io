@@ -95,13 +95,6 @@ author_profile: true
     population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression in Canada.
 </p>
 
-<p>
-    Another strand of my research explores the <strong>social history of modern statistics</strong>, 
-    focusing on the historical contexts in which statistical knowledge has emerged and how 
-    <strong>statistical reasoning and quantification</strong> became central—epistemologically—to 
-    knowledge production and population governance.
-</p>
-
   <p>
     My doctoral research has been supported by funding from 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
