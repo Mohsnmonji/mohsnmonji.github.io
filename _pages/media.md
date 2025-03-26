@@ -154,10 +154,3 @@ author_profile: true
     </ul>
   </div>
 </div>
-
-<!-- Call to Action -->
-<div style="text-align: center; margin-top: 50px;">
-  <p style="font-size: 18px; color: #333;">
-    If you are interested in my work, feel free to <a href="mailto:mohsen.monji@concordia.ca" style="color: #1B5E20;">Get in Touch</a>.
-  </p>
-</div>
