@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: ""
-seo_title: "Mohsen Monji"
+seo_title: "Mohsen Monji | Sociologist & Population Health Researcher"
 author_profile: false
 hide_avatar: true
 ---
 <div style="text-align: center; margin-top: 50px; max-width: 800px; margin: auto; padding: 20px;">
   <!-- Profile Image -->
   <div>
-   <img src="images/mohsen-monji-profile.webp" alt="Mohsen Monji, Sociologist and Population Health Researcher" 
+   <img src="images/mohsen-monji-profile.webp" alt="Mohsen Monji, Sociologist and Population  Health Researcher" 
      style="width: 350px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
   </div>
 
@@ -17,13 +17,20 @@ hide_avatar: true
 
   <!-- Subtitle -->
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
-    PhD Candidate & Lecturer in Sociology | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
+    PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
   </p>
 
+  <!-- Description -->
+  <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
+    I am a sociologist of health and population health researcher studying the 
+    <strong>social determinants of mental health</strong> and <strong>mental health disparities</strong> 
+    in Canada.
+  </p>
 
   <!-- Buttons -->
   <div style="margin-bottom: 20px;">
     <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">Learn More About Me</a>
+    <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
   </div>
 
   <!-- Social Media Links -->
@@ -53,3 +60,6 @@ hide_avatar: true
     </a>
   </div>
 </div>
+
+
+
