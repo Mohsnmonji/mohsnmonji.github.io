@@ -72,7 +72,7 @@ author_profile: true
 - **LECTURER**, Department of Sociology and Anthropology, Concordia University  
   - SOCI 212, Statistics I, Winter 2025  
 
-  \- Designed a course in social statistics to provide students with more opportunities to work with real-world data on topics such as income inequality, food insecurity, housing, disparities in health outcomes, etc.
+  \- Designed a course in social statistics.
 - **TEACHING ASSISTANT**, Department of Sociology and Anthropology, Concordia University  
 
   \- Provided office hours, led tutorials, and directed lab sessions.
