@@ -130,7 +130,7 @@ author_profile: true
   - *First Concordia student to be awarded the CAnD3 fellowship.*  
 - **Dialogue McGill’s Graduate Research Scholarship**, 2023-2024.  
   - *Awarded by Dialogue McGill, funded by Health Canada.*  
-- **Concordia University Conference Travel Award**, 2024, 2025(3times).
+- **Concordia University Conference Travel Award**, 2024-2025(3 times).
 - **Concordia University Merit Scholarship**, Concordia University, 2023.  
 - **Concordia University Graduate Fellowship**, Ph.D., 2020-2024.  
 - **Concordia University International Tuition Award of Excellence**, Ph.D., 2020-2024.
