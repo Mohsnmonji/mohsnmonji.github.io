@@ -119,7 +119,7 @@ author_profile: true
 </div>
 
 <div class="card">
-  <h3><i class="fas fa-briefcase icon"></i> Research & Teaching Interests</h3>
+  <h3><i class="fas fa-briefcase icon"></i> Research Interests</h3>
   <ul>
     <li><i class="fas fa-brain icon"></i> Social Determinants of Mental Health</li>
     <li><i class="fas fa-user-md icon"></i> Access to Mental Health Care</li>
