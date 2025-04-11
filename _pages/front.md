@@ -21,11 +21,12 @@ hide_avatar: true
   </p>
 
   <!-- Description -->
-  <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-    I am a sociologist of health studying the 
-    <strong>social determinants of mental health</strong> and <strong>mental health disparities</strong> 
-    in Canada.
-  </p>
+<p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
+  I am a sociologist of health studying the
+  <strong>social determinants of mental health</strong>, 
+  <strong>access to mental health care</strong>, and
+  <strong>mental health disparities</strong> in Canada.
+</p>
 
   <!-- Buttons -->
   <div style="margin-bottom: 20px;">
