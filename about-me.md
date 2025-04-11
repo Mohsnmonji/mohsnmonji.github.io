@@ -121,11 +121,11 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Research & Teaching Interests</h3>
   <ul>
-  <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
-   <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
-  <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
+    <li><i class="fas fa-brain icon"></i> Social Determinants of Mental Health</li>
+    <li><i class="fas fa-user-md icon"></i> Access to Mental Health Care</li>
+    <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
+    <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
     <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
-    <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
-    <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
-<li><i class="fas fa-history icon"></i> Social History of Statistics</li>
+    <li><i class="fas fa-history icon"></i> Social History of Statistics</li>
   </ul>
+</div>
