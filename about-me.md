@@ -110,12 +110,6 @@ author_profile: true
     <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
   </p>
   
-  <p>
-    I teach courses in both <strong>Sociological Theory and Method</strong>, including <strong>Social Statistics</strong>, 
-    <strong>Quantitative Research Methods</strong>,  <strong>Sociology of Health</strong>, <strong>Critical Data Studies</strong>,
-    <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Society and Technology</strong>.
-</p>
-  
 </div>
 
 <div class="card">
