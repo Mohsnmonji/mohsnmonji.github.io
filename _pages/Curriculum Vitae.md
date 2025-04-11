@@ -42,6 +42,8 @@ author_profile: true
   <i class="fas fa-table" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
   <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology<br>
   <i class="fas fa-history" style="color: #1B5E20;"></i> Social History of Statistics<br>
+  <i class="fas fa-database" style="color: #1B5E20;"></i> Critical Data Studies<br>
+  <i class="fas fa-brain" style="color: #1B5E20;"></i> Computational Sociology<br>
 </div>
 
 ### <i class="fas fa-briefcase"></i> PROFESSIONAL AND RESEARCH EXPERIENCE
