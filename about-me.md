@@ -93,7 +93,7 @@ author_profile: true
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
       My doctoral research is focused on the 
   <strong>social determinants of mental health</strong>, 
-  <strong>access to mental health care</strong>, and population-level 
+  <strong>access to mental health care</strong>, and 
   <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression in Canada.
 </p>
 
