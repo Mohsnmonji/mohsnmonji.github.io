@@ -69,7 +69,7 @@ author_profile: true
       “All I do is teach the best class I know how to, and the way I do that is to teach a class that I wish I had taken when I was an undergrad.”
     </blockquote>
     <p style="text-align: right; margin-top: 10px; color: #666;">
-      — Joseph K. Blitzstein, Professor of the Practice in Statistics, Harvard University
+      — Joseph K. Blitzstein, Professor of the Practice in Statistics, Harvard University.
     </p>
   </div>
 </div>
