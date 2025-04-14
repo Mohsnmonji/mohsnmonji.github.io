@@ -36,6 +36,7 @@ author_profile: true
 <!-- RESEARCH INTERESTS -->
 <h3><i class="fas fa-lightbulb"></i> RESEARCH INTERESTS</h3>
 <div>
+  <i class="fas fa-users" style="color: #1B5E20;"></i> Sociology of Health<br>
   <i class="fas fa-brain" style="color: #1B5E20;"></i> Social Determinants of Mental Health<br>
   <i class="fas fa-user-md" style="color: #1B5E20;"></i> Access to Mental Health Care<br>
   <i class="fas fa-feather" style="color: #1B5E20;"></i> Indigenous Mental Health<br>
