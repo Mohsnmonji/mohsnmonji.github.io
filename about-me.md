@@ -118,7 +118,7 @@ author_profile: true
     <li><i class="fas fa-users icon"></i> Sociology of Health</li>
     <li><i class="fas fa-brain icon"></i> Social Determinants of Mental Health</li>
     <li><i class="fas fa-user-md icon"></i> Access to Mental Health Care</li>
-    <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
+    <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
     <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-microscope icon"></i> Critical Data Studies</li>
