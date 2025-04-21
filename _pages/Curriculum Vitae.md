@@ -41,7 +41,7 @@ author_profile: true
   <i class="fas fa-chart-line" style="color: #1B5E20;"></i> Applied Social Statistics<br>
   <i class="fas fa-table" style="color: #1B5E20;"></i> Quantitative Research Methods<br>
   <i class="fas fa-poll-h" style="color: #1B5E20;"></i> Survey Methodology<br>
-  <i class="fas fa-microscope" style="color: #1B5E20;"></i> Critical Data Studies<br>
+ <i class="fas fa-code" style="color: #1B5E20;"></i> Critical Data Studies<br>
   <i class="fas fa-history" style="color: #1B5E20;"></i> History of Statistics<br>
   <i class="fas fa-brain" style="color: #1B5E20;"></i> Computational Sociology<br>
 </div>
