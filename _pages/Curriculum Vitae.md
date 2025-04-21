@@ -109,7 +109,7 @@ author_profile: true
   *Food Insecurity and Psychological Distress Among Young Adult Post-Secondary Students in Canada: A Mixed-Effect Analysis.*  
 
 - **Canadian Public Health Association Annual Conference**, Winnipeg, Canada (2025)  
-  *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis.*
+  *Discrimination and Inequalities in Psychological Distress among Young Adults in Canada: A Latent Class Analysis.* (Accepted)
 
 - **ODISSEI Conference of Computational Social Science**, Utrecht, The Netherlands (2024)  
   *Machine Learning Approaches for Exploring the Social Determinants of Mental Health in Canada.*  
