@@ -1,5 +1,5 @@
 ---
 layout: none
 permalink: /curriculum/
-redirect_to: /Mohsen%20Monji_CV.pdf
+redirect_to: /MohsenMonji_CV.pdf
 ---
