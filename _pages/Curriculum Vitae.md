@@ -6,7 +6,7 @@ permalink: /curriculum/
 <html>
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://www.mohsenmonji.com/Monji_Mohsen_CV.pdf">
+    <meta http-equiv="refresh" content="0; url=https://www.mohsenmonji.com/Mohsen_Monji_CV.pdf">
     <title>Redirecting...</title>
     <style>
       html, body {
