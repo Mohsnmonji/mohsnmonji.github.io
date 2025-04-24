@@ -4,7 +4,7 @@ title: "Playlists"
 permalink: /playlists/
 ---
 
-<p> Here you can find the musics and aounds I listen to. These mixes range widely, but they often revolve around a few constants: retro synth textures, melancholic dark wave, underground hits, and electro pop. I’m a big fan of Boy Harsher and similar sounds that live somewhere between eerie and hypnotic. If you’ve got suggestions or want to talk music, I’m always up for it.</p>
+<p> Here you can find the musics and sounds I listen to. These mixes range widely, but they often revolve around a few constants: retro synth textures, melancholic dark wave, underground hits, and electro pop. I’m a big fan of Boy Harsher and similar sounds that live somewhere between eerie and hypnotic. If you’ve got suggestions or want to talk music, I’m always up for it.</p>
 
 <h2><i class="fas fa-music"></i> Playlists</h2>
 <p>Here’s a playlist I’m listening to this month.</p>
