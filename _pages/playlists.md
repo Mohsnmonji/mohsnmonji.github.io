@@ -119,7 +119,7 @@ author_profile: true
     <ul>
       <li>
         <a href="https://music.apple.com/ca/playlist/march-2025/pl.u-11zBJWySN0BzjGq" target="_blank">
-          Listen on Apple Music
+          Listen
         </a>
       </li>
     </ul>
