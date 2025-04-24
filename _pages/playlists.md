@@ -88,7 +88,7 @@ author_profile: true
 </style>
 
 <div class="playlist-section">
-  <p>Here you can find the music and sounds I listen to. They range widely, but they often revolve around a few constants: dark wave, electro pop, retro, dreamy, and melancholic sounds and tones. I’m a big fan of Boy Harsher and similar sounds that live somewhere between eerie and hypnotic. If you’ve got suggestions or want to talk music, I’m always up for it.</p>
+  <p>Here you can find the music and sounds I listen to. They range widely, but they often revolve around a few constants: dark wave, electro pop, retro synth, dreamy, and melancholic sounds and tones. I’m a big fan of Boy Harsher and similar sounds that live somewhere between eerie and hypnotic. If you’ve got suggestions or want to talk music, I’m always up for it.</p>
 
   <h3><i class="fas fa-music icon"></i> April 2025 Playlist</h3>
 
@@ -107,26 +107,19 @@ author_profile: true
     </ul>
   </div>
 
-  <h3><i class="fas fa-history icon"></i> Previous Playlists</h3>
+  <h3><i class="fas fa-history icon"></i> March 2025</h3>
 
   <div class="playlist-card">
-    <span class="tag">March 2025</span>
+    <span class="tag">Previous</span>
     <ul>
       <li>
-        <a href="https://music.apple.com/ca/playlist/march-2025/pl.u-XXXX" target="_blank">
-          Listen on Apple Music
-        </a>
-      </li>
-    </ul>
-  </div>
-
-  <div class="playlist-card">
-    <span class="tag">February 2025</span>
-    <ul>
-      <li>
-        <a href="https://music.apple.com/ca/playlist/february-2025/pl.u-XXXX" target="_blank">
-          Listen on Apple Music
-        </a>
+        <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+                frameborder="0"
+                height="450"
+                style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+                sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+                src="https://embed.music.apple.com/ca/playlist/march-2025/pl.u-11zBJWySN0BzjGq">
+        </iframe>
       </li>
     </ul>
   </div>
