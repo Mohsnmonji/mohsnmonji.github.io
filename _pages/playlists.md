@@ -107,19 +107,15 @@ author_profile: true
     </ul>
   </div>
 
-  <h3><i class="fas fa-history icon"></i> March 2025</h3>
+  <h3><i class="fas fa-history icon"></i> Previous Playlist</h3>
 
   <div class="playlist-card">
-    <span class="tag">Previous</span>
+    <span class="tag">March 2025</span>
     <ul>
       <li>
-        <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
-                frameborder="0"
-                height="450"
-                style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-                sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-                src="https://embed.music.apple.com/ca/playlist/march-2025/pl.u-11zBJWySN0BzjGq">
-        </iframe>
+        <a href="https://music.apple.com/ca/playlist/march-2025/pl.u-11zBJWySN0BzjGq" target="_blank">
+          Listen on Apple Music
+        </a>
       </li>
     </ul>
   </div>
