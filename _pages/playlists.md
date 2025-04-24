@@ -112,7 +112,7 @@ author_profile: true
   </ul>
 </div>
 
-  <h3><i class="fas fa-history icon"></i> Previous Playlist</h3>
+  <h3><i class="fas fa-history icon"></i> Previous Playlists</h3>
 
   <div class="playlist-card">
     <span class="tag">March 2025</span>
