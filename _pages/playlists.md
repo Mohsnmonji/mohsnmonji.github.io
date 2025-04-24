@@ -20,9 +20,13 @@ author_profile: true
     color: #333;
   }
 
-  .playlist-section {
+   .playlist-section {
     margin-top: 20px;
     margin-bottom: 40px;
+  }
+
+  .playlist-section p {
+    text-align: justify;
   }
 
   .playlist-card {
