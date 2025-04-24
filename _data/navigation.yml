@@ -17,5 +17,5 @@ main:
     url: /talks/    
   - title: "Playlists"
     url: /playlists/
- - title: "Media"
+  - title: "Media"
     url: /media/
