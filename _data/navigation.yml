@@ -15,7 +15,7 @@ main:
     url: /projects/
   - title: "Talks & Presentations"
     url: /talks/    
-  - title: "Media"
-    url: /media/
   - title: "Playlists"
     url: /playlists/
+ - title: "Media"
+    url: /media/
