@@ -4,7 +4,7 @@ title: "Playlists"
 permalink: /playlists/
 ---
 
-<p>Here you can find the music and sounds I listen to. They range widely, but they often revolve around a few constants: dark wave, electro pop,retro synth, dreamy and melancholic sounds and tones. I’m a big fan of Boy Harsher and similar sounds that live somewhere between eerie and hypnotic. If you’ve got suggestions or want to talk music, I’m always up for it.</p>
+<p>Here you can find the music and sounds I listen to. They range widely, but they often revolve around a few constants: dark wave, electro pop, retro synth, dreamy, and melancholic sounds and tones. I’m a big fan of Boy Harsher and similar sounds that live somewhere between eerie and hypnotic. If you’ve got suggestions or want to talk music, I’m always up for it.</p>
 
 <h2><i class="fas fa-music"></i> Playlists</h2>
 <p>April 2025.</p>
