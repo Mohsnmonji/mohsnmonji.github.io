@@ -90,22 +90,23 @@ author_profile: true
 <div class="playlist-section">
   <p>Here you can find the music and sounds I listen to. They range widely, but they often revolve around a few constants: dark wave, electro pop, retro, dreamy, and melancholic sounds and tones. I’m a big fan of Boy Harsher and similar sounds that live somewhere between eerie and hypnotic. If you’ve got suggestions or want to talk music, I’m always up for it.</p>
 
-  <h3><i class="fas fa-music icon"></i> April 2025 Playlist</h3>
+ <h3><i class="fas fa-music icon"></i> April 2025 Playlist</h3>
 
-  <div class="playlist-card">
-    <span class="tag">Now Playing</span>
-    <ul>
-      <li>
-        <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
-                frameborder="0"
-                height="450"
-                style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
-                sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-                src="https://embed.music.apple.com/ca/playlist/april-2025/pl.u-aZb0NJvs1Evkzgb">
-        </iframe>
-      </li>
-    </ul>
-  </div>
+<div class="playlist-card">
+  <span class="tag">Now Playing</span>
+  <p><em>If you see me walking the streets of Montréal with my earpods in, I’m probably listening to these.</em></p>
+  <ul>
+    <li>
+      <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+              frameborder="0"
+              height="450"
+              style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;"
+              sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+              src="https://embed.music.apple.com/ca/playlist/april-2025/pl.u-aZb0NJvs1Evkzgb">
+      </iframe>
+    </li>
+  </ul>
+</div>
 
   <h3><i class="fas fa-history icon"></i> Previous Playlist</h3>
 
