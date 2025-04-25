@@ -98,7 +98,6 @@ author_profile: true
 
 <div class="playlist-card">
   <span class="tag">Now Playing</span>
-  <p><em>If you see me with my earpods in, I’m probably listening to these.</em></p>
   <ul>
     <li>
       <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
