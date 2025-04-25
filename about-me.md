@@ -93,7 +93,7 @@ author_profile: true
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
       My primary reseasrch interests are the 
   <strong>social determinants of health</strong> and 
-  <strong>access to health care</strong> in Canada, with a focus on mental and oral health.
+  <strong>access to healthcare</strong> in Canada, with a focus on mental and oral health.
 </p>
 
   <p>
@@ -108,7 +108,11 @@ author_profile: true
     Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
     <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
   </p>
-  
+ <p>
+    I teach courses in both <strong>Sociological Theory and Method</strong>, including <strong>Sociology of Health</strong, <strong>Social Statistics</strong>, 
+    <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>,  
+    <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Society and Technology</strong>.
+</p>
 </div>
 
 <div class="card">
