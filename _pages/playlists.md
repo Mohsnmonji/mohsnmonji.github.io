@@ -92,7 +92,7 @@ author_profile: true
 </style>
 
 <div class="playlist-section">
-  <p>Here you can find the music and sounds I listen to. They often revolve around a few themes:retro, dreamy,and melancholic sounds, tones, and vibes. I’m a big fan of Boy Harsher and similar sounds that live somewhere between eerie and hypnotic.</p>
+  <p>Here you can find the music and sounds I listen to. They often revolve around a few themes: retro, dreamy, and melancholic sounds, tones, and vibes. I’m a big fan of Boy Harsher and similar sounds that live somewhere between eerie and hypnotic.</p>
 
  <h3><i class="fas fa-music icon"></i> April 2025 Playlist</h3>
 
