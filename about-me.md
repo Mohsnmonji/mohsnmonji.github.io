@@ -93,7 +93,7 @@ author_profile: true
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
       My primary reseasrch interests are the 
   <strong>social determinants of health</strong> and 
-  <strong>access to healthcare</strong> in Canada, with a focus on mental and oral health.
+  <strong>access to health care</strong> in Canada, with a focus on mental and oral health.
 </p>
 
   <p>
