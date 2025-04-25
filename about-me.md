@@ -109,7 +109,7 @@ author_profile: true
     <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
   </p>
  <p>
-    My primary teaching areas are <strong>Sociolgy of Health</strong>,  
+    I teach courses in <strong>Sociolgy of Health</strong>,  
     <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>,  
     <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>.
 </p>
