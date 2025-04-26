@@ -182,11 +182,11 @@ author_profile: true
     </div>
     <div class="testimonial-slide">
       <p>"I was scared of statistics but ended up loving the course thanks to your patience and clear explanations."</p>
-      <span>— Student, Winter 2025</span>
+      <span>— Student, SOCI 212, Winter 2025</span>
     </div>
     <div class="testimonial-slide">
       <p>"He puts a lot of energy into class and does whatever needed to make sure everyone succeeds."</p>
-      <span>— Student, Statistics I</span>
+      <span>— Student, SOCI 212, Winter 2025</span>
     </div>
   </div>
 
