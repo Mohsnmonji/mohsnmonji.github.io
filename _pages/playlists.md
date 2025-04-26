@@ -92,10 +92,7 @@ author_profile: true
 </style>
 
 <div class="playlist-section">
-  <p>Here you can find the music and sounds I listen to. They often revolve around a few themes: retro, dreamy, and melancholic sounds and tones.</p>
-
- <h3><i class="fas fa-music icon"></i> April 2025</h3>
-
+  
 <div class="playlist-card">
   <span class="tag">Now Playing</span>
   <ul>
