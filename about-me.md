@@ -2,9 +2,6 @@
 layout: archive
 title: "About"
 permalink: /about-me/
-seo_title: "About"
-description: " Learn more about Me."
-canonical: "https://www.mohsenmonji.com/about-me/"
 author_profile: true
 ---
 <style>
