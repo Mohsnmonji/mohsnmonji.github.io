@@ -188,6 +188,10 @@ author_profile: true
       <p>"He puts a lot of energy into class and does whatever needed to make sure everyone succeeds."</p>
       <span>— Student, SOCI 212, Winter 2025</span>
     </div>
+    <div class="testimonial-slide">
+      <p>"I really enjoyed your class, it was very well structured and the PowerPoint slides really helped me to understand the concepts."</p>
+      <span>— Student, SOCI 212, Winter 2025</span>
+    </div>
   </div>
 
   <div class="testimonial-controls">
