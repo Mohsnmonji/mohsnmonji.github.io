@@ -177,7 +177,7 @@ author_profile: true
 
   <div class="testimonial-carousel">
     <div class="testimonial-slide active">
-      <p>"Professor Mohsen made statistics approachable and even enjoyable. Thank you for making data make sense!"</p>
+      <p>" He makes stats feel way more approachable and actually relevant!"</p>
       <span>— Student, SOCI 212, Winter 2025</span>
     </div>
     <div class="testimonial-slide">
@@ -185,7 +185,7 @@ author_profile: true
       <span>— Student, Winter 2025</span>
     </div>
     <div class="testimonial-slide">
-      <p>"He truly cares about his students' success and goes beyond to make sure we understand the material."</p>
+      <p>"He puts a lot of energy into class and does whatever needed to make sure everyone succeeds."</p>
       <span>— Student, Statistics I</span>
     </div>
   </div>
