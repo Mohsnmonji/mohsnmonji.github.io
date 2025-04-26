@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mohsen Monji"
+title: ""
 seo_title: "Mohsen Monji | Sociologist of Health"
 description: "Mohsen Monji is sociologist of health studying the social determinants of health and access to health care in Canada, with a focus on mental and oral health."
 canonical: "https://www.mohsenmonji.com/"
