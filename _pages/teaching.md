@@ -59,8 +59,57 @@ author_profile: true
   .teaching-list {
     padding-left: 15px;
   }
-</style>
 
+  /* Testimonials Styling */
+  .testimonial-carousel {
+    position: relative;
+    overflow: hidden;
+    height: 180px;
+    margin-top: 20px;
+  }
+
+  .testimonial-slide {
+    display: none;
+    text-align: center;
+    padding: 20px;
+    background: #E3F2FD;
+    border-radius: 8px;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
+    color: #444;
+    font-style: italic;
+  }
+
+  .testimonial-slide.active {
+    display: block;
+  }
+
+  .testimonial-slide span {
+    display: block;
+    margin-top: 15px;
+    font-style: normal;
+    color: #666;
+  }
+
+  .testimonial-controls {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .testimonial-controls button {
+    background-color: #1B5E20;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    margin: 0 5px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .testimonial-controls button:hover {
+    background-color: #145a14;
+  }
+</style>
 
 <div class="teaching-section">
   <h2>TEACHING PHILOSOPHY</h2>
@@ -74,8 +123,6 @@ author_profile: true
   </div>
 </div>
 
-
-
 <div class="teaching-section">
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
@@ -84,7 +131,7 @@ author_profile: true
       <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
       <li><i class="fas fa-database icon"></i> Survey Methodology</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
-   <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
+      <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
       <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
     </ul>
   </div>
@@ -100,7 +147,7 @@ author_profile: true
       <li>SOCI 212, Statistics I, Winter 2025</li>
     </ul>
   </div>
-</div>
+
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard icon"></i> TEACHING ASSISTANT</h4>
     <p>Department of Sociology and Anthropology, Concordia University</p>
@@ -123,5 +170,49 @@ author_profile: true
       <li>AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022</li>
     </ul>
   </div>
+</div>
 
+<div class="teaching-section">
+  <h2>STUDENT TESTIMONIALS</h2>
 
+  <div class="testimonial-carousel">
+    <div class="testimonial-slide active">
+      <p>"Professor Mohsen made statistics approachable and even enjoyable. Thank you for making data make sense!"</p>
+      <span>— Student, SOCI 212, Winter 2025</span>
+    </div>
+    <div class="testimonial-slide">
+      <p>"I was scared of statistics but ended up loving the course thanks to your patience and clear explanations."</p>
+      <span>— Student, Winter 2025</span>
+    </div>
+    <div class="testimonial-slide">
+      <p>"He truly cares about his students' success and goes beyond to make sure we understand the material."</p>
+      <span>— Student, Statistics I</span>
+    </div>
+  </div>
+
+  <div class="testimonial-controls">
+    <button onclick="prevTestimonial()">‹</button>
+    <button onclick="nextTestimonial()">›</button>
+  </div>
+</div>
+
+<script>
+  let currentTestimonial = 0;
+  const testimonials = document.querySelectorAll('.testimonial-slide');
+
+  function showTestimonial(index) {
+    testimonials.forEach((testimonial, i) => {
+      testimonial.classList.toggle('active', i === index);
+    });
+  }
+
+  function nextTestimonial() {
+    currentTestimonial = (currentTestimonial + 1) % testimonials.length;
+    showTestimonial(currentTestimonial);
+  }
+
+  function prevTestimonial() {
+    currentTestimonial = (currentTestimonial - 1 + testimonials.length) % testimonials.length;
+    showTestimonial(currentTestimonial);
+  }
+</script>
