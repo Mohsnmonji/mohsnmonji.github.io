@@ -67,7 +67,7 @@ author_profile: true
   .testimonial-carousel {
     position: relative;
     overflow: hidden;
-    height: 200px;
+    height: 220px;
     margin-top: 20px;
   }
   .testimonial-slide {
@@ -90,6 +90,17 @@ author_profile: true
   }
   .testimonial-slide.active {
     display: block;
+    animation: fadeSlide 0.8s ease forwards;
+  }
+  @keyframes fadeSlide {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
   .testimonial-slide span {
     display: block;
@@ -221,8 +232,11 @@ author_profile: true
 
   function showTestimonial(index) {
     testimonials.forEach((testimonial, i) => {
-      testimonial.classList.toggle('active', i === index);
+      testimonial.style.display = 'none';
+      testimonial.classList.remove('active');
     });
+    testimonials[index].style.display = 'block';
+    testimonials[index].classList.add('active');
   }
 
   function nextTestimonial() {
@@ -234,6 +248,6 @@ author_profile: true
     currentTestimonial = (currentTestimonial - 1 + testimonials.length) % testimonials.length;
     showTestimonial(currentTestimonial);
   }
-   setInterval(nextTestimonial, 5000); // Every 5 seconds, move to next testimonial
-</script>
 
+  setInterval(nextTestimonial, 5000); // Auto-slide every 5 seconds
+</script>
