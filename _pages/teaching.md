@@ -10,7 +10,7 @@ author_profile: true
 <style>
   /* General Styling */
   body {
-    font-size: 1.05em; /* Slightly larger font */
+    font-size: 1.05em; /* larger font */
   }
   h2 {
     border-bottom: 2px solid #1B5E20; 
