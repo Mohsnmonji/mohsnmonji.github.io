@@ -9,65 +9,67 @@ author_profile: true
 
 <style>
   /* General Styling */
-  h2 {
-    border-bottom: 2px solid #1B5E20; /* Accessible Dark Green */
-    font-weight: bold;
-    padding-bottom: 10px; /* Space between text and the line */
-    margin-top: 30px;
-    color: #333; /* Dark Gray for Heading Text */
+  body {
+    font-size: 1.05em; /* Slightly larger font */
   }
-
+  h2 {
+    border-bottom: 2px solid #1B5E20; 
+    font-weight: bold;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    color: #333;
+  }
   ul {
     list-style: none;
     padding-left: 0;
   }
-
   ul li {
     margin-bottom: 10px;
   }
-
   .icon {
     margin-right: 10px;
-    color: #1B5E20; /* Accessible Dark Green */
+    color: #1B5E20;
   }
-
   .teaching-section {
     margin-bottom: 40px;
   }
-
   .teaching-card {
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    color: #333333; /* Dark Gray Text */
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Subtle Shadow */
-    background-color: #E3F2FD; /* Light Blue Background */
-    text-align: justify; /* Justify text within cards */
+    color: #333333;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    background-color: #E3F2FD;
+    text-align: justify;
   }
-
   .teaching-card h4 {
     font-weight: bold;
     margin-bottom: 10px;
-    color: #333; /* Dark Gray for Heading Text */
+    color: #333;
   }
-
   .teaching-card p {
     margin: 0;
-    color: #555; /* Medium Gray for Body Text */
+    color: #555;
   }
-
   .teaching-list {
     padding-left: 15px;
+  }
+
+  /* Divider Style */
+  .section-divider {
+    border: 0;
+    height: 1px;
+    background: #cccccc;
+    margin: 40px 0;
   }
 
   /* Testimonials Styling */
   .testimonial-carousel {
     position: relative;
     overflow: hidden;
-    height: 180px;
+    height: 200px;
     margin-top: 20px;
   }
-
   .testimonial-slide {
     display: none;
     text-align: center;
@@ -77,24 +79,28 @@ author_profile: true
     box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
     color: #444;
     font-style: italic;
+    position: relative;
   }
-
+  .testimonial-slide i {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    font-size: 24px;
+    color: #1B5E20;
+  }
   .testimonial-slide.active {
     display: block;
   }
-
   .testimonial-slide span {
     display: block;
     margin-top: 15px;
     font-style: normal;
     color: #666;
   }
-
   .testimonial-controls {
     text-align: center;
     margin-top: 10px;
   }
-
   .testimonial-controls button {
     background-color: #1B5E20;
     color: white;
@@ -105,7 +111,6 @@ author_profile: true
     border-radius: 5px;
     cursor: pointer;
   }
-
   .testimonial-controls button:hover {
     background-color: #145a14;
   }
@@ -123,6 +128,8 @@ author_profile: true
   </div>
 </div>
 
+<hr class="section-divider">
+
 <div class="teaching-section">
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
@@ -136,6 +143,8 @@ author_profile: true
     </ul>
   </div>
 </div>
+
+<hr class="section-divider">
 
 <div class="teaching-section">
   <h2>TEACHING EXPERIENCE</h2>
@@ -172,31 +181,37 @@ author_profile: true
   </div>
 </div>
 
+<hr class="section-divider">
+
 <div class="teaching-section">
   <h2>STUDENT TESTIMONIALS</h2>
 
   <div class="testimonial-carousel">
     <div class="testimonial-slide active">
-      <p>" He makes stats feel way more approachable and actually relevant!"</p>
+      <i class="fas fa-quote-left"></i>
+      <p>"He makes stats feel way more approachable and actually relevant!"</p>
       <span>— Student, SOCI 212, Winter 2025</span>
     </div>
     <div class="testimonial-slide">
+      <i class="fas fa-quote-left"></i>
       <p>"I was scared of statistics but ended up loving the course thanks to your patience and clear explanations."</p>
       <span>— Student, SOCI 212, Winter 2025</span>
     </div>
     <div class="testimonial-slide">
+      <i class="fas fa-quote-left"></i>
       <p>"He puts a lot of energy into class and does whatever needed to make sure everyone succeeds."</p>
       <span>— Student, SOCI 212, Winter 2025</span>
     </div>
     <div class="testimonial-slide">
+      <i class="fas fa-quote-left"></i>
       <p>"I really enjoyed your class, it was very well structured and the PowerPoint slides really helped me to understand the concepts."</p>
       <span>— Student, SOCI 212, Winter 2025</span>
     </div>
   </div>
 
   <div class="testimonial-controls">
-    <button onclick="prevTestimonial()">‹</button>
-    <button onclick="nextTestimonial()">›</button>
+    <button onclick="prevTestimonial()" aria-label="Previous testimonial">‹</button>
+    <button onclick="nextTestimonial()" aria-label="Next testimonial">›</button>
   </div>
 </div>
 
@@ -219,4 +234,6 @@ author_profile: true
     currentTestimonial = (currentTestimonial - 1 + testimonials.length) % testimonials.length;
     showTestimonial(currentTestimonial);
   }
+   setInterval(nextTestimonial, 5000); // Every 5 seconds, move to next testimonial
 </script>
+
