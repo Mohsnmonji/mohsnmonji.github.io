@@ -107,8 +107,7 @@ author_profile: true
   </p>
  <p>
     I teach courses in <strong>Sociolgy of Health</strong>,  
-    <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>,  
-    <strong>Survey Methodology</strong>.
+    <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>,<strong>Survey Methodology</strong>.
 </p>
 </div>
 
