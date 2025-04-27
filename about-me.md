@@ -111,12 +111,17 @@ author_profile: true
 </div>
 
 <div class="card">
-  <h3><i class="fas fa-briefcase icon"></i> Research Interests</h3>
+  <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
+    <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
     <li><i class="fas fa-brain icon"></i> Social Determinants of Health</li>
-    <li><i class="fas fa-user-md icon"></i> Access to Health Care</li>
-    <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
+    <li><i class="fas fa-user-nurse icon"></i> Access to Health Care</li>
+    <li><i class="fas fa-feather icon"></i> Indigenous Health</li>
+    <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
+    <li><i class="fas fa-calculator icon"></i> Quantitative Research Methods</li>
+    <li><i class="fas fa-microscope icon"></i> Critical Data Studies</li>
+    <li><i class="fas fa-book-open icon"></i> History of Statistics</li>
+    <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
   </ul>
 </div>
