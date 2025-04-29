@@ -88,38 +88,35 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-      My primary reseasrch interests are the 
-  <strong>social determinants of health</strong> and 
-  <strong>access to health care</strong> in Canada.
-</p>
+    My primary research interests are the 
+    <strong>social determinants of health</strong> and 
+    <strong>access to health care</strong> in Canada, with a particular emphasis on 
+    <strong>mental health</strong> and <strong>dental health</strong>.
+  </p>
 
   <p>
-    My doctoral research has been supported by funding from 
+    Broadly speaking, my research program is concerned with understanding how 
+    <strong>social, economic, and structural determinants</strong> shape access to 
+    <strong>mental and dental health care</strong> among diverse populations.My doctoral research examines the application of <strong>quantitative intersectional methods</strong> 
+    to the study of <strong>population mental health disparities</strong>. 
+  </p>
+
+  <p>
+    My research has been supported by funding from 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
-    <a href="https://www.frq.gouv.qc.ca" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
+    the <a href="https://www.frq.gouv.qc.ca" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
     the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Center for Social Statistics (QICSS)</a>, 
     and the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
   </p>
 
   <p>
-    Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
-    <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
+    Methodologically, I am interested in <strong>quantitative research methods</strong>, 
+    <strong>survey methodology</strong>, <strong>social statistics</strong>, and <strong>machine learning</strong>, 
+    with a focus on the analysis of official large-scale surveys with complex sampling designs.
   </p>
- <p>
-    I teach courses in <strong>Sociology of Health</strong>, <strong>Social Statistics</strong>, <strong>Quantitative Research Methods</strong>, and <strong>Survey Methodology</strong>.
-</p>
-</div>
 
-<div class="card">
-  <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
-  <ul>
-    <li><i class="fas fa-brain icon"></i> Social Determinants of Health</li>
-    <li><i class="fas fa-user-nurse icon"></i> Access to Health Care</li>
-    <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
-    <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-calculator icon"></i> Quantitative Research Methods</li>
-    <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
-    <li><i class="fas fa-book-open icon"></i> History of Statistics</li>
-    <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
-  </ul>
+  <p>
+    I teach courses in <strong>Sociology of Health</strong>, <strong>Social Statistics</strong>, 
+    <strong>Quantitative Research Methods</strong>, and <strong>Survey Methodology</strong>.
+  </p>
 </div>
