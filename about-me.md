@@ -95,9 +95,9 @@ author_profile: true
   </p>
 
   <p>
-    Broadly speaking, my research program is concerned with understanding how 
-    <strong>social, economic, and structural determinants</strong> shape access to 
-    <strong>mental and dental health care</strong> among diverse populations.My doctoral research examines the application of <strong>quantitative intersectional methods</strong> 
+    Broadly speaking, my research program is concerned with understanding the ways in which 
+    <strong>social, economic, and structural determinants</strong> influence health outcomes and access to 
+    <strong>health care</strong> at the population level.My doctoral research, in particular, examines the application of <strong>quantitative intersectional methods</strong> 
     to the study of <strong>population mental health disparities</strong>. 
   </p>
 
