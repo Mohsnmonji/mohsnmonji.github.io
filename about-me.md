@@ -95,7 +95,7 @@ author_profile: true
   </p>
 
   <p>
-    Broadly, my research program is concerned with elucidating how 
+    Broadly, my research program is concerned with the ways in which
     <strong>social, economic, and structural determinants</strong> influence health outcomes and access to 
     <strong>health care</strong> at the population level. 
     My doctoral dissertation specifically examines the application of 
