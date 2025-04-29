@@ -7,14 +7,14 @@ author_profile: true
 <style>
   .icon {
     margin-right: 10px;
-    color: #1B5E20; /* Accessible Dark Green */
+    color: #1B5E20;
   }
 
   .card {
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
-    color: #333333; /* Dark Gray Text */
+    color: #333333;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s, box-shadow 0.2s;
   }
@@ -25,21 +25,21 @@ author_profile: true
   }
 
   .card:first-of-type {
-    background-color: #F3F4F6; /* Light Gray Background */
+    background-color: #F3F4F6;
   }
 
   .card:nth-of-type(2) {
-    background-color: #E3F2FD; /* Light Blue Background for Expertise */
+    background-color: #E3F2FD;
   }
 
   .card:nth-of-type(3) {
-    background-color: #F1F8E9; /* Light Green Background for Contact */
+    background-color: #F1F8E9;
   }
 
   .card h3 {
     font-size: 1.2rem;
     font-weight: bold;
-    color: #1B5E20; /* Accessible Dark Green */
+    color: #1B5E20;
     margin-bottom: 15px;
   }
 
@@ -52,22 +52,22 @@ author_profile: true
   .card ul li {
     margin-bottom: 10px;
     font-size: 1rem;
-    color: #555; /* Medium Gray */
+    color: #555;
   }
 
   .card p {
     font-size: 1rem;
-    color: #333; /* Dark Gray */
-    line-height: 1.6; /* Improves readability */
+    color: #333;
+    line-height: 1.6;
   }
 
   .card:first-of-type p {
-    text-align: justify; /* Justify the text in the first card */
+    text-align: justify;
   }
 
   .email {
     font-weight: bold;
-    color: #1B5E20; /* Dark Green */
+    color: #1B5E20;
   }
 
   a {
@@ -101,12 +101,13 @@ author_profile: true
     My doctoral dissertation specifically examines the application of 
     <strong> intersectional quantitative methods</strong> to the analysis of 
     <strong>population mental health disparities</strong>.
+  </p>
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, 
     <strong>survey methodology</strong>, <strong>social statistics</strong>, and <strong>machine learning</strong>, 
     with a particular focus on large-scale surveys with complex sampling designs.
   </p>
-  
+
   <p>
     My research has been supported by funding from 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
@@ -114,9 +115,9 @@ author_profile: true
     the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Center for Social Statistics (QICSS)</a>, 
     and the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
   </p>
+</div>
 
 <div class="card">
-  
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
     <li><i class="fas fa-brain icon"></i> Social Determinants of Health</li>
