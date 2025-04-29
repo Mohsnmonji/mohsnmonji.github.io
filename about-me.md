@@ -88,18 +88,19 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My primary research interests are the 
+    My primary research interests are in the areas of the 
     <strong>social determinants of health</strong> and 
-    <strong>access to health care</strong> in Canada, with a particular emphasis on 
+    <strong>access to health care</strong> in Canada, with particular emphasis on 
     <strong>mental health</strong> and <strong>dental health</strong>.
   </p>
 
   <p>
-    Broadly speaking, my research program is concerned with understanding the ways in which 
+    Broadly, my research program is concerned with elucidating how 
     <strong>social, economic, and structural determinants</strong> influence health outcomes and access to 
-    <strong>health care</strong> at the population level.My doctoral research, in particular, examines the application of <strong>quantitative intersectional methods</strong> 
-    to the study of <strong>population mental health disparities</strong>. 
-  </p>
+    <strong>health care</strong> at the population level. 
+    My doctoral dissertation specifically examines the application of 
+    <strong> intersectional quantitative methods</strong> to the analysis of 
+    <strong>population mental health disparities</strong>.
 
   <p>
     My research has been supported by funding from 
@@ -112,11 +113,5 @@ author_profile: true
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, 
     <strong>survey methodology</strong>, <strong>social statistics</strong>, and <strong>machine learning</strong>, 
-    with a focus on the analysis of official large-scale surveys with complex sampling designs.
+    with a particular focus on large-scale surveys with complex sampling designs.
   </p>
-
-  <p>
-    I teach courses in <strong>Sociology of Health</strong>, <strong>Social Statistics</strong>, 
-    <strong>Quantitative Research Methods</strong>, and <strong>Survey Methodology</strong>.
-  </p>
-</div>
