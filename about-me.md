@@ -114,7 +114,9 @@ author_profile: true
     the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Center for Social Statistics (QICSS)</a>, 
     and the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
   </p>
+
 <div class="card">
+  
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
     <li><i class="fas fa-brain icon"></i> Social Determinants of Health</li>
