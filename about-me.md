@@ -101,7 +101,12 @@ author_profile: true
     My doctoral dissertation specifically examines the application of 
     <strong> intersectional quantitative methods</strong> to the analysis of 
     <strong>population mental health disparities</strong>.
-
+  <p>
+    Methodologically, I am interested in <strong>quantitative research methods</strong>, 
+    <strong>survey methodology</strong>, <strong>social statistics</strong>, and <strong>machine learning</strong>, 
+    with a particular focus on large-scale surveys with complex sampling designs.
+  </p>
+  
   <p>
     My research has been supported by funding from 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
@@ -110,8 +115,3 @@ author_profile: true
     and the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
   </p>
 
-  <p>
-    Methodologically, I am interested in <strong>quantitative research methods</strong>, 
-    <strong>survey methodology</strong>, <strong>social statistics</strong>, and <strong>machine learning</strong>, 
-    with a particular focus on large-scale surveys with complex sampling designs.
-  </p>
