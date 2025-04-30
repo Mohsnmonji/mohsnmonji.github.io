@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Studying/ Teaching"
 permalink: /teaching/
 seo_title: "Teaching | Mohsen Monji"
 canonical: "https://www.mohsenmonji.com/teaching/"
@@ -8,12 +8,11 @@ author_profile: true
 ---
 
 <style>
-  /* General Styling */
   body {
-    font-size: 1.05em; /* larger font */
+    font-size: 1.05em;
   }
   h2 {
-    border-bottom: 2px solid #1B5E20; 
+    border-bottom: 2px solid #1B5E20;
     font-weight: bold;
     padding-bottom: 10px;
     margin-top: 30px;
@@ -54,81 +53,44 @@ author_profile: true
   .teaching-list {
     padding-left: 15px;
   }
-
-  /* Divider Style */
   .section-divider {
     border: 0;
     height: 1px;
     background: #cccccc;
     margin: 40px 0;
   }
-
-  /* Testimonials Styling */
-  .testimonial-carousel {
-    position: relative;
-    overflow: hidden;
-    height: 220px;
-    margin-top: 20px;
-  }
-  .testimonial-slide {
-    display: none;
-    text-align: center;
-    padding: 20px;
-    background: #E3F2FD;
-    border-radius: 8px;
-    box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
-    color: #444;
-    font-style: italic;
-    position: relative;
-  }
-  .testimonial-slide i {
-    position: absolute;
-    top: 15px;
-    left: 20px;
-    font-size: 24px;
-    color: #1B5E20;
-  }
-  .testimonial-slide.active {
-    display: block;
-    animation: fadeSlide 0.8s ease forwards;
-  }
-  @keyframes fadeSlide {
-    0% {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  .testimonial-slide span {
-    display: block;
-    margin-top: 15px;
-    font-style: normal;
-    color: #666;
-  }
-  .testimonial-controls {
-    text-align: center;
-    margin-top: 10px;
-  }
-  .testimonial-controls button {
-    background-color: #1B5E20;
-    color: white;
-    border: none;
-    padding: 8px 15px;
-    margin: 0 5px;
-    font-size: 18px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  .testimonial-controls button:hover {
-    background-color: #145a14;
-  }
 </style>
 
 <div class="teaching-section">
-  <h2>TEACHING PHILOSOPHY</h2>
+  <h2>THE STUDENT</h2>
+  <div class="teaching-card">
+    <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
+      But the latest, most exemplary embodiment of study in our culture is not the great philosopher nor the sainted doctor. It is rather the student, such as he appears in certain novels of Kafka or Walser. His prototype occurs in Melville’s student who sits in a low-ceilinged room “in all things like a tomb,” his elbows on his knees and his head in his hands. And his most extreme exemplar is Bartleby, the scrivener who has ceased to write. Here the messianic tension is reversed or, rather, has gone beyond itself. His gesture is that of a potential that does not precede but follow its act, has left it behind forever; of a Talmud that has not only renounced the rebuilding of the Temple but has even forgotten it. At this point, study shakes off the sadness that disfigured it and returns to its truest nature: not work, but inspiration, the self-nourishment of the soul.
+    </blockquote>
+    <p style="text-align: right; margin-top: 10px; color: #666;">
+      — Giorgio Agamben, <em>Idea of Prose</em>, trans. Michael Sullivan and Sam Whitsitt (Albany: SUNY Press, 1995).
+    </p>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+<div class="teaching-section">
+  <h2>TEACHING</h2>
+  <div class="teaching-card">
+    <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
+      Organize. I had a student who’s now my colleague, Jenna Loyd, who taught for a while in women’s studies at California State Fullerton. She became really frustrated after a while because the students in her class, who were all working full-time, going to school full-time, and generally had at least a triple (housework) or a quadruple (caring for elderly parents) day ahead of and behind them, were not doing any reading at all. This is familiar to many people in this room. There are the students who are overprivileged who don’t read because they don’t care, because the instrument they wish to seize by getting a degree has nothing to do with learning anything, and then there are the people who are actually interested in learning who are scrappy and curious but tired. They’re extremely tired. And Jenna was trying to figure out how at least to transform her students’ interest into engagement with a course in radical, anti-racist feminism. The wise young professor concluded that what she should do was turn the question in the room from “Why don’t you want to study these things with me?” to “Why doesn’t the government of California want people like you to study in institutions designed and built by and for the state of California?” It worked.
+    </blockquote>
+    <p style="text-align: right; margin-top: 10px; color: #666;">
+      — Ruth Wilson Gilmore, “What Is to Be Done?” in <em>Abolition Geography: Essays Towards Liberation</em>, eds. Brenna Bhandar and Alberto Toscano (London: Verso, 2022).
+    </p>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+<div class="teaching-section">
+  <h2>THE TEACHER</h2>
   <div class="teaching-card">
     <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
       “All I do is teach the best class I know how to, and the way I do that is to teach a class that I wish I had taken when I was an undergrad.”
