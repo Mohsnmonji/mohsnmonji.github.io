@@ -17,24 +17,19 @@ url: "https://www.mohsenmonji.com"
 baseurl: "" # Leave empty for personal GitHub Pages site
 repository: "mohsenmonji/mohsenmonji.github.io"
 
-author: "Mohsen Monji" # Author name
+author: "Mohsen Monji"
 
-# Site Author - The following control what appears as part of the author content on the sidebar.
+# Site Author - Sidebar author details
 author:
-  # Biographic information
-  avatar: "images/mohsen-monji-profile.webp" # Replace with your profile picture file
+  avatar: "images/mohsen-monji-profile.webp"
   name: 
   bio:
   location: "Montreal, Canada"
   employer: "Concordia University"
   email: "mohsen.monji@concordia.ca"
 
-  # Academic websites
- 
   # Social media
-  
   github: "Mohsnmonji"
-  
   orcid: "https://orcid.org/0009-0003-8682-910X"
 
 # Publication Categories
@@ -47,41 +42,40 @@ publication_category:
     title: 'Conferences'
 
 # Site Settings
-teaser: "teaser-image.png" # Optional teaser image file
+teaser: "teaser-image.png"
 breadcrumbs: false
 words_per_minute: 160
 future: true
 read_more: "disabled"
 comments:
-  provider: false # No comments for now
+  provider: false
 
 # SEO Related
-google_site_verification: "GOOGLE_VERIFICATION_CODE" # Add your Google Search Console verification code
+google_site_verification: "GOOGLE_VERIFICATION_CODE"
 bing_site_verification: "BING_VERIFICATION_CODE"
 alexa_site_verification: ""
 yandex_site_verification: ""
 
 # Social Sharing
-og_image: "default-social-image.png" # Replace with a default social sharing image
+og_image: "default-social-image.png"
 social:
   type: "Person"
   links:
     - "https://twitter.com/mohsenmonji"
-    - "https://linkedin.com/in/mohsenmonji"
     - "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
 
 # Analytics
 analytics:
-  provider: "google" # Using Google Analytics
+  provider: "google"
   google:
-    tracking_id: "UA-XXXXXXXXX-X" # Replace with your Google Analytics tracking ID
+    tracking_id: "UA-XXXXXXXXX-X"
 
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
-  - _posts # Add this line to include the posts folder
+  - _posts
   
 exclude:
   - "*.sublime-project"
@@ -172,6 +166,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 # Sitemap settings
 sitemap:
   url: "https://www.mohsenmonji.com"
