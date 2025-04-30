@@ -96,12 +96,12 @@ author_profile: true
 
   <p>
     Broadly, my research program is concerned with
-    <strong>disparaties</strong> in health outcomes and access to 
-    <strong>health care</strong> at the population level. 
+    <strong>disparities</strong> in <strong>health outcomes</strong> and <strong>access to health care</strong> at the population level. 
     My doctoral dissertation specifically examines the application of what have been termed as
-    <strong> intersectional quantitative methods</strong> to the analysis of 
+    <strong>intersectional quantitative methods</strong> to the analysis of 
     <strong>population mental health disparities</strong>.
-  </p>
+</p>
+
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, 
     <strong>survey methodology</strong>, <strong>social statistics</strong>, and <strong>machine learning</strong>, 
