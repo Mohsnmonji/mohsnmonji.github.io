@@ -95,10 +95,10 @@ author_profile: true
   </p>
 
   <p>
-    Broadly, my research program is concerned with the ways in which
-    <strong>social, economic, and structural determinants</strong> influence health outcomes and access to 
+    Broadly, my research program is concerned with
+    <strong>disparaties</strong> in health outcomes and access to 
     <strong>health care</strong> at the population level. 
-    My doctoral dissertation specifically examines the application of 
+    My doctoral dissertation specifically examines the application of what have been termed as
     <strong> intersectional quantitative methods</strong> to the analysis of 
     <strong>population mental health disparities</strong>.
   </p>
