@@ -30,4 +30,7 @@ hide_avatar: true
   <strong>access to  health care</strong> in Canada.
 </p>
 
- 
+ <!-- Buttons -->
+  <div style="margin-bottom: 20px;">
+    <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">Learn More About Me</a>
+  </div>
