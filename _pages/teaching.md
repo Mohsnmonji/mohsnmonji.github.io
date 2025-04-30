@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Studying/ Teaching"
+title: ""
 permalink: /teaching/
 seo_title: "Teaching | Mohsen Monji"
 canonical: "https://www.mohsenmonji.com/teaching/"
