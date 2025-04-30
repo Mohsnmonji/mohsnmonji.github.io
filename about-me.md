@@ -1,132 +1,56 @@
 ---
-layout: archive
-title: "About"
-permalink: /about-me/
-author_profile: true
+permalink: /
+title: ""
+seo_title: "Mohsen Monji"
+description: "Mohsen Monji is a sociologist of health studying the social determinants of health and access to health care in Canada."
+canonical: "https://www.mohsenmonji.com/"
+author_profile: false
+hide_avatar: true
 ---
-<style>
-  .icon {
-    margin-right: 10px;
-    color: #1B5E20;
-  }
 
-  .card {
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 20px;
-    color: #333333;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s, box-shadow 0.2s;
-  }
+<div style="text-align: center; margin-top: 50px; max-width: 800px; margin: auto; padding: 20px;">
+  <!-- Profile Image -->
+  <div>
+   <img src="images/mohsen-monji-profile.webp" alt="Mohsen Monji, Sociologist and Population  Health Researcher" 
+     style="width: 350px; height: 400px; object-fit: cover; border-radius: 0; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+  </div>
 
-  .card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.2);
-  }
+  <!-- Name -->
+  <h1 style="color: #333; font-size: 32px; margin-bottom: 10px;">MOHSEN MONJI</h1>
 
-  .card:first-of-type {
-    background-color: #F3F4F6;
-  }
-
-  .card:nth-of-type(2) {
-    background-color: #E3F2FD;
-  }
-
-  .card:nth-of-type(3) {
-    background-color: #F1F8E9;
-  }
-
-  .card h3 {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #1B5E20;
-    margin-bottom: 15px;
-  }
-
-  .card ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .card ul li {
-    margin-bottom: 10px;
-    font-size: 1rem;
-    color: #555;
-  }
-
-  .card p {
-    font-size: 1rem;
-    color: #333;
-    line-height: 1.6;
-  }
-
-  .card:first-of-type p {
-    text-align: justify;
-  }
-
-  .email {
-    font-weight: bold;
-    color: #1B5E20;
-  }
-
-  a {
-    color: #1B5E20;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
-
-<div class="card">
-  <p>
-    I am a <strong>PhD Candidate in Sociology</strong> at 
-    <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
-    a <strong>CAnD3 Doctoral Fellow</strong> at 
-    <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
-    and a <strong>CRDCN Emerging Scholar</strong> at the 
-    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My primary research interests are in the areas of the 
-    <strong>social determinants of health</strong> and 
-    <strong>access to health care</strong> in Canada, with a focus on 
-    <strong>mental health</strong> and <strong>dental health</strong>.
+  <!-- Subtitle -->
+  <p style="font-size: 18px; margin-top: 5px; color: #555;">
+    PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
   </p>
 
-  <p>
-    Broadly, my research program is concerned with
-    <strong>disparities</strong> in <strong>health outcomes</strong> and <strong>access to health care</strong> at the population level. 
-    My doctoral dissertation specifically examines the application of what have been termed as
-    <strong>intersectional quantitative methods</strong> to the analysis of 
-    <strong>population mental health disparities</strong>.
+  <!-- Description -->
+<p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
+  I am a sociologist of health studying the
+  <strong>social determinants of health</strong> and
+  <strong>access to  health care</strong> in Canada.
 </p>
 
-  <p>
-    Methodologically, I am interested in <strong>quantitative research methods</strong>, 
-    <strong>survey methodology</strong>, <strong>social statistics</strong>, and <strong>machine learning</strong>, 
-    with a particular focus on large-scale surveys with complex sampling designs.
-  </p>
+  <!-- Buttons -->
+  <div style="margin-bottom: 20px;">
+    <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">Learn More About Me</a>
+    
+  </div>
 
-  <p>
-    My research has been supported by funding from 
-    <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
-    the <a href="https://www.frq.gouv.qc.ca" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
-    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Center for Social Statistics (QICSS)</a>, 
-    and the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
-  </p>
-</div>
+  <!-- Social Media Links -->
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+  <div style="text-align: center;">
+    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="text-decoration: none;">
+      <i class="fas fa-envelope" style="color: #D14836; font-size: 30px;"></i><br>
+      <span style="font-size: 14px; color: #555;">Email</span>
+    </a>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://github.com/Mohsnmonji" target="_blank" style="text-decoration: none;">
+      <i class="fab fa-github" style="color: #333; font-size: 30px;"></i><br>
+      <span style="font-size: 14px; color: #555;">GitHub</span>
+    </a>
+  </div>
+  
 
-<div class="card">
-  <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
-  <ul>
-    <li><i class="fas fa-brain icon"></i> Social Determinants of Health</li>
-    <li><i class="fas fa-user-nurse icon"></i> Access to Health Care</li>
-    <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
-    <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-calculator icon"></i> Quantitative Research Methods</li>
-    <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
-    <li><i class="fas fa-book-open icon"></i> History of Statistics</li>
-    <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
-  </ul>
-</div>
+
+
