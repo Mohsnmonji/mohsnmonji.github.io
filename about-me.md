@@ -117,9 +117,8 @@ author_profile: true
     <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
     <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</li>
-    <li><i class="fas fa-lightbulb icon"></i> Critical Theory</li>
+    <li><i class="fas fa-lightbulb icon"></i> Sociological Theory</li>
     <li><i class="fas fa-book icon"></i> History of Statistics</li>
-    <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
   </ul>
 </div>
 
