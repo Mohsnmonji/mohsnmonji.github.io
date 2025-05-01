@@ -62,48 +62,6 @@ author_profile: true
 </style>
 
 <div class="teaching-section">
-  <h2>THE STUDENT</h2>
-  <div class="teaching-card">
-    <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
-       ...The most exemplary embodiment of study in our culture is not the great philosopher nor the sainted doctor. It is rather the student, such as he appears in certain novels of Kafka or Walser. His prototype occurs in Melville’s student who sits in a low-ceilinged room “in all things like a tomb,” his elbows on his knees and his head in his hands. And his most extreme exemplar is Bartleby, the scrivener who has ceased to write. Here the messianic tension is reversed or, rather, has gone beyond itself. His gesture is that of a potential that does not precede but follow its act, has left it behind forever; of a Talmud that has not only renounced the rebuilding of the Temple but has even forgotten it. At this point, study shakes off the sadness that disfigured it and returns to its truest nature: not work, but inspiration, the self-nourishment of the soul.
-    </blockquote>
-    <p style="text-align: right; margin-top: 10px; color: #666;">
-      — Giorgio Agamben, <em>Idea of Prose</em>, trans. Michael Sullivan and Sam Whitsitt (Albany: SUNY Press, 1995).
-    </p>
-  </div>
-</div>
-
-<hr class="section-divider">
-
-<div class="teaching-section">
-  <h2> OF TEACHING AND LEARNING </h2>
-  <div class="teaching-card">
-    <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
-      Organize. I had a student who’s now my colleague, Jenna Loyd, who taught for a while in women’s studies at California State Fullerton. She became really frustrated after a while because the students in her class, who were all working full-time, going to school full-time, and generally had at least a triple (housework) or a quadruple (caring for elderly parents) day ahead of and behind them, were not doing any reading at all. This is familiar to many people in this room. There are the students who are overprivileged who don’t read because they don’t care, because the instrument they wish to seize by getting a degree has nothing to do with learning anything, and then there are the people who are actually interested in learning who are scrappy and curious but tired. They’re extremely tired. And Jenna was trying to figure out how at least to transform her students’ interest into engagement with a course in radical, anti-racist feminism. The wise young professor concluded that what she should do was turn the question in the room from “Why don’t you want to study these things with me?” to “Why doesn’t the government of California want people like you to study in institutions designed and built by and for the state of California?” It worked.
-    </blockquote>
-    <p style="text-align: right; margin-top: 10px; color: #666;">
-      — Ruth Wilson Gilmore, “What Is to Be Done?” in <em>Abolition Geography: Essays Towards Liberation</em>, eds. Brenna Bhandar and Alberto Toscano (London: Verso, 2022).
-    </p>
-  </div>
-</div>
-
-<hr class="section-divider">
-
-<div class="teaching-section">
-  <h2>THE TEACHER</h2>
-  <div class="teaching-card">
-    <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
-      “All I do is teach the best class I know how to, and the way I do that is to teach a class that I wish I had taken when I was an undergrad.”
-    </blockquote>
-    <p style="text-align: right; margin-top: 10px; color: #666;">
-      — Joseph K. Blitzstein, Professor of the Practice in Statistics, Harvard University.
-    </p>
-  </div>
-</div>
-
-<hr class="section-divider">
-
-<div class="teaching-section">
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <ul class="teaching-list">
@@ -112,7 +70,8 @@ author_profile: true
       <li><i class="fas fa-database icon"></i> Survey Methodology</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
       <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
-      <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
+      <li><i class="fas fa-book-medical icon"></i> Critical Public Health</li>
+      <li><i class="fas fa-lightbulb icon"></i> Critical Theory</li>
     </ul>
   </div>
 </div>
@@ -151,5 +110,34 @@ author_profile: true
     <ul>
       <li>AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022</li>
     </ul>
+  </div>
+
+  <hr class="section-divider">
+
+  <div class="teaching-card">
+    <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
+       ...The most exemplary embodiment of study in our culture is not the great philosopher nor the sainted doctor. It is rather the student, such as he appears in certain novels of Kafka or Walser. His prototype occurs in Melville’s student who sits in a low-ceilinged room “in all things like a tomb,” his elbows on his knees and his head in his hands. And his most extreme exemplar is Bartleby, the scrivener who has ceased to write. Here the messianic tension is reversed or, rather, has gone beyond itself. His gesture is that of a potential that does not precede but follow its act, has left it behind forever; of a Talmud that has not only renounced the rebuilding of the Temple but has even forgotten it. At this point, study shakes off the sadness that disfigured it and returns to its truest nature: not work, but inspiration, the self-nourishment of the soul.
+    </blockquote>
+    <p style="text-align: right; margin-top: 10px; color: #666;">
+      — Giorgio Agamben, <em>Idea of Prose</em>, trans. Michael Sullivan and Sam Whitsitt (Albany: SUNY Press, 1995).
+    </p>
+  </div>
+
+  <div class="teaching-card">
+    <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
+      Organize. I had a student who’s now my colleague, Jenna Loyd, who taught for a while in women’s studies at California State Fullerton. She became really frustrated after a while because the students in her class, who were all working full-time, going to school full-time, and generally had at least a triple (housework) or a quadruple (caring for elderly parents) day ahead of and behind them, were not doing any reading at all. This is familiar to many people in this room. There are the students who are overprivileged who don’t read because they don’t care, because the instrument they wish to seize by getting a degree has nothing to do with learning anything, and then there are the people who are actually interested in learning who are scrappy and curious but tired. They’re extremely tired. And Jenna was trying to figure out how at least to transform her students’ interest into engagement with a course in radical, anti-racist feminism. The wise young professor concluded that what she should do was turn the question in the room from “Why don’t you want to study these things with me?” to “Why doesn’t the government of California want people like you to study in institutions designed and built by and for the state of California?” It worked.
+    </blockquote>
+    <p style="text-align: right; margin-top: 10px; color: #666;">
+      — Ruth Wilson Gilmore, “What Is to Be Done?” in <em>Abolition Geography: Essays Towards Liberation</em>, eds. Brenna Bhandar and Alberto Toscano (London: Verso, 2022).
+    </p>
+  </div>
+
+  <div class="teaching-card">
+    <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
+      “All I do is teach the best class I know how to, and the way I do that is to teach a class that I wish I had taken when I was an undergrad.”
+    </blockquote>
+    <p style="text-align: right; margin-top: 10px; color: #666;">
+      — Joseph K. Blitzstein, Professor of the Practice in Statistics, Harvard University.
+    </p>
   </div>
 </div>
