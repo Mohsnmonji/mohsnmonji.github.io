@@ -9,3 +9,7 @@ main:
     url: /about-me/    
   - title: "Teaching"
     url: /teaching/
+  - title: "Talks & Presentations"
+    url: /talks/    
+  - title: "Media"
+    url: /media/
