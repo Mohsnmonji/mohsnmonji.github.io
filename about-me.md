@@ -120,8 +120,8 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
-    <li><i class="fas fa-book icon"></i> Sociological Theory</li>
-    <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
+    <li><i class="fas fa-brain icon"></i> Social Determinants of Health</li>
+    <li><i class="fas fa-user-nurse icon"></i> Access to Health Care</li>
     <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
     <li><i class="fas fa-calculator icon"></i> Quantitative Research Methods</li>
