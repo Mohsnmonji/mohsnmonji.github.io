@@ -65,7 +65,7 @@ author_profile: true
 
 <div class="teaching-card">
 
-  <h4 style="margin-top: 25px;">THE TEACHER</h4>
+  <h4 style="margin-top: 25px;"></h4>
   <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
     “All I do is teach the best class I know how to, and the way I do that is to teach a class that I wish I had taken when I was an undergrad.”
   </blockquote>
