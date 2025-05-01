@@ -76,7 +76,7 @@ author_profile: true
 <hr class="section-divider">
 
 <div class="teaching-section">
-  <h2>TEACHING</h2>
+  <h2> OF TEACHING?LEARNING </h2>
   <div class="teaching-card">
     <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
       Organize. I had a student who’s now my colleague, Jenna Loyd, who taught for a while in women’s studies at California State Fullerton. She became really frustrated after a while because the students in her class, who were all working full-time, going to school full-time, and generally had at least a triple (housework) or a quadruple (caring for elderly parents) day ahead of and behind them, were not doing any reading at all. This is familiar to many people in this room. There are the students who are overprivileged who don’t read because they don’t care, because the instrument they wish to seize by getting a degree has nothing to do with learning anything, and then there are the people who are actually interested in learning who are scrappy and curious but tired. They’re extremely tired. And Jenna was trying to figure out how at least to transform her students’ interest into engagement with a course in radical, anti-racist feminism. The wise young professor concluded that what she should do was turn the question in the room from “Why don’t you want to study these things with me?” to “Why doesn’t the government of California want people like you to study in institutions designed and built by and for the state of California?” It worked.
