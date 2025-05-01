@@ -97,15 +97,7 @@ author_profile: true
     <strong>access to health care</strong> in Canada, with a focus on 
     <strong>mental health</strong> and <strong>dental health</strong>.
   </p>
-
-  <p>
-    Broadly, my research program is concerned with
-    <strong>disparities</strong> in <strong>health outcomes</strong> and <strong>access to health care</strong> at the population level. 
-    My doctoral dissertation specifically examines the application of what have been termed as
-    <strong>intersectional quantitative methods</strong> to the analysis of 
-    <strong>population mental health disparities</strong>.
-  </p>
-
+  
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, 
     <strong>survey methodology</strong>, <strong>social statistics</strong>, and <strong>machine learning</strong>, 
