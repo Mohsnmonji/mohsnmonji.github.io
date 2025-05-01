@@ -122,7 +122,6 @@ author_profile: true
   <ul>
     <li><i class="fas fa-balance-scale icon"></i> Critical Theory</li>
     <li><i class="fas fa-heartbeat icon"></i> Critical Public Health</li>
-    <li><i class="fas fa-user-nurse icon"></i> Access to Health Care</li>
     <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
     <li><i class="fas fa-calculator icon"></i> Quantitative Research Methods</li>
