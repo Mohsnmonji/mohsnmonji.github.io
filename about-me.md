@@ -116,6 +116,5 @@ author_profile: true
     <li><i class="fas fa-calculator icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
     <li><i class="fas fa-book-open icon"></i> History of Statistics</li>
-    <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
   </ul>
 </div>
