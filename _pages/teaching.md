@@ -107,7 +107,7 @@ author_profile: true
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <ul class="teaching-list">
-      <li><i class="fas fa-balance-scale icon"></i> Critical Theory</li>
+      <li><i class="fas fa-book icon"></i> Critical Theory</li>
       <li><i class="fas fa-heartbeat icon"></i> Critical Public Health</li>
       <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
       <li><i class="fas fa-database icon"></i> Survey Methodology</li>
