@@ -61,6 +61,19 @@ author_profile: true
   }
 </style>
 
+<hr class="section-divider">
+
+<div class="teaching-card">
+
+  <h4 style="margin-top: 25px;">THE TEACHER</h4>
+  <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
+    “All I do is teach the best class I know how to, and the way I do that is to teach a class that I wish I had taken when I was an undergrad.”
+  </blockquote>
+  <p style="text-align: right; margin-top: 10px; color: #666;">
+    — Joseph K. Blitzstein, Professor of the Practice in Statistics, Harvard University.
+  </p>
+</div>
+
 <div class="teaching-section">
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
@@ -112,22 +125,4 @@ author_profile: true
     </ul>
   </div>
 
- <hr class="section-divider">
-
-<div class="teaching-card">
-  <h4>THE STUDENT</h4>
-  <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
-     ...The most exemplary embodiment of study in our culture is not the great philosopher nor the sainted doctor. It is rather the student, such as he appears in certain novels of Kafka or Walser. His prototype occurs in Melville’s student who sits in a low-ceilinged room “in all things like a tomb,” his elbows on his knees and his head in his hands. And his most extreme exemplar is Bartleby, the scrivener who has ceased to write. Here the messianic tension is reversed or, rather, has gone beyond itself. His gesture is that of a potential that does not precede but follow its act, has left it behind forever; of a Talmud that has not only renounced the rebuilding of the Temple but has even forgotten it. At this point, study shakes off the sadness that disfigured it and returns to its truest nature: not work, but inspiration, the self-nourishment of the soul.
-  </blockquote>
-  <p style="text-align: right; margin-top: 10px; color: #666;">
-    — Giorgio Agamben, <em>Idea of Prose</em>, trans. Michael Sullivan and Sam Whitsitt (Albany: SUNY Press, 1995).
-  </p>
-
-  <h4 style="margin-top: 25px;">THE TEACHER</h4>
-  <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
-    “All I do is teach the best class I know how to, and the way I do that is to teach a class that I wish I had taken when I was an undergrad.”
-  </blockquote>
-  <p style="text-align: right; margin-top: 10px; color: #666;">
-    — Joseph K. Blitzstein, Professor of the Practice in Statistics, Harvard University.
-  </p>
-</div>
+ 
