@@ -113,11 +113,12 @@ author_profile: true
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
     <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
-    <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
+    <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-calculator icon"></i> Quantitative Research Methods</li>
+    <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-lightbulb icon"></i> Critical Theory</li>
-    <li><i class="fas fa-book-open icon"></i> History of Statistics</li>
+    <li><i class="fas fa-book icon"></i> History of Statistics</li>
     <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
   </ul>
 </div>
+
