@@ -21,7 +21,7 @@ hide_avatar: true
 
   <!-- Description -->
   <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-    I am a sociologist of health studying the <strong>social determinants of health</strong> and <strong>access to health care</strong> in Canada.
+    I am a sociologist of health studying the <strong>social determinants of health</strong> and <strong>access to health care</strong> in Canada, with a focus on mental health and dental health.
   </p>
 
   <!-- Button -->
