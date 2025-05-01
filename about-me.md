@@ -124,7 +124,7 @@ author_profile: true
 </div>
 
 <div class="card">
-  <h3><i class="fas fa-quote-left icon"></i> Health Equity Tourism</h3>
+  <h3><i class="fas fa-quote-left icon"></i> On Health Equity Tourism</h3>
   <p style="font-style: italic;">
     Diversity. Equity. Inclusion. Anti-Racism. Intersectionality. These are words with rich meanings, theoretical traditions, and scholarly legacies that are meant to inform the practice of pursuing cross-disciplinary justice, grassroots organizing, political advocacy, and scientific inquiry. Recently, they have also become buzzwords that have been shuffled into seemingly meaningless acronyms at healthcare institutions and research organizations. These same words are surfacing in requests for applications at major funding agencies and calls for papers from top health journals. The nascent fervor of soliciting equity-influenced work is linked to a magnification of racial injustice that has given a fresh lens for individuals who had not previously engaged in the work. This ideological shift has influenced funding streams, leaving academic researchers clamoring to adapt to these current shifts in the priorities of funding agencies and journals, and creating a predatory co-opting of scholarship that has been rigorously studied by equity scholars and social scientists for decades.
     <br><br>
