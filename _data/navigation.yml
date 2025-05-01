@@ -7,5 +7,5 @@
 main:
   - title: "About"
     url: /about-me/    
-- title: "Teaching"
+  - title: "Teaching"
     url: /teaching/
