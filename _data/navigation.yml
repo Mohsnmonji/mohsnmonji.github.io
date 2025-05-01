@@ -7,7 +7,7 @@
 main:
   - title: "About"
     url: /about-me/
-  - title: "Teaching"
+  - title: "Studying/Teaching"
     url: /teaching/    
   - title: "Talks & Presentations"
     url: /talks/    
