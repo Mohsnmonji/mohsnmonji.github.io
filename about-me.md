@@ -120,6 +120,7 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
+    <li><i class="fas fa-balance-scale icon"></i> Critical Theory</li>
     <li><i class="fas fa-brain icon"></i> Social Determinants of Health</li>
     <li><i class="fas fa-user-nurse icon"></i> Access to Health Care</li>
     <li><i class="fas fa-chart-bar icon"></i> Social Statistics</li>
