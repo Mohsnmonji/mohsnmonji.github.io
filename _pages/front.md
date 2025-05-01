@@ -18,10 +18,16 @@ hide_avatar: true
 
   <!-- Name -->
   <h1 style="color: #333; font-size: 32px; margin-bottom: 10px;">MOHSEN MONJI</h1>
+ 
+  <!-- Subtitle -->
+  <p style="font-size: 18px; margin-top: 5px; color: #555;">
+    PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
+  </p>
+
 
   <!-- Description -->
   <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-    I am a sociologist of health studying the <strong>social determinants of health</strong> and <strong>access to health care</strong> in Canada, with a focus on mental health and dental health.
+    I am a sociologist of health studying the <strong>social determinants of health</strong> and <strong>access to health care</strong> in Canada.
   </p>
 
   <!-- Button -->
@@ -43,6 +49,12 @@ hide_avatar: true
       <a href="https://github.com/Mohsnmonji" target="_blank" style="text-decoration: none;">
         <i class="fab fa-github" style="color: #333; font-size: 30px;"></i><br>
         <span style="font-size: 14px; color: #555;">GitHub</span>
+      </a>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="text-decoration: none;">
+        <i class="fab fa-linkedin" style="color: #0077B5; font-size: 30px;"></i><br>
+        <span style="font-size: 14px; color: #555;">LinkedIn</span>
       </a>
     </div>
   </div>
