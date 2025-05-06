@@ -108,13 +108,11 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
-    <li><i class="fas fa-users icon"></i> Social Determinants of Health</li>
-    <li><i class="fas fa-notes-medical icon"></i> Access to Health Care</li>
-    <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
+    <li><i class="fas fa-users icon"></i> Social Determinants of Mental Health</li>
+    <li><i class="fas fa-notes-medical icon"></i> Access to Mental Health Care</li>
+    <li><i class="fas fa-chart-line icon"></i> Applied Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</li>
-    <li><i class="fas fa-lightbulb icon"></i> Sociological Theory</li>
-    <li><i class="fas fa-book icon"></i> History of Statistics</li>
+    <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</
   </ul>
 </div>
 
