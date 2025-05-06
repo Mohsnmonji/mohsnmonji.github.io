@@ -94,10 +94,10 @@ author_profile: true
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
     My doctoral research is focused on the <strong>social determinants of mental health</strong>, 
     <strong>access to mental health care</strong>, and population-level 
-    <strong>disparities in mental health outcomes</strong>, particularly perceived mental health, psychological distress, diagnosed anxiety, and depression in Canada.
+    <strong>disparities in mental health outcomes</strong>, particularly perceived mental health, psychological distress, diagnosed anxiety, and depression. 
+    My PhD specifically explores mental health disparities among youth and young adults in Canada.
   </p>
-</div>
-  
+
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, 
     <strong>survey methodology</strong>, <strong>applied statistics</strong>, and <strong>machine learning</strong>, 
@@ -109,11 +109,12 @@ author_profile: true
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
     <li><i class="fas fa-users icon"></i> Social Determinants of Mental Health</li>
+    <li><i class="fas fa-user-friends icon"></i> Youth Mental Health</li>
+    <li><i class="fas fa-leaf icon"></i> Indigenous Mental Health</li>
     <li><i class="fas fa-notes-medical icon"></i> Access to Mental Health Care</li>
     <li><i class="fas fa-chart-line icon"></i> Applied Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-    <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</
+    <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</li>
   </ul>
 </div>
-
 
