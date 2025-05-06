@@ -68,10 +68,9 @@ author_profile: true
   <div class="teaching-card">
     <ul class="teaching-list">
       <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
-      <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
+      <li><i class="fas fa-chart-line icon"></i> Applied Statistics</li>
       <li><i class="fas fa-database icon"></i> Survey Methodology</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
-      <li><i class="fas fa-lightbulb icon"></i> Sociological Theory</li>
     </ul>
   </div>
 </div>
