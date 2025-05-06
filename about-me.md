@@ -84,7 +84,7 @@ author_profile: true
   }
 </style>
 
-   <div class="card">
+ <div class="card">
   <p>
     I am a <strong>PhD Candidate in Sociology</strong> at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
@@ -92,14 +92,15 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My primary research interests are in the areas of the 
-    <strong>social determinants of mental health</strong> and 
-    <strong>access to mental health care</strong> in Canada.
+    My doctoral research is focused on the <strong>social determinants of mental health</strong>, 
+    <strong>access to mental health care</strong>, and population-level 
+    <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression in Canada.
   </p>
+</div>
   
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, 
-    <strong>survey methodology</strong>, <strong>social statistics</strong>, and <strong>machine learning</strong>, 
+    <strong>survey methodology</strong>, <strong>applied statistics</strong>, and <strong>machine learning</strong>, 
     with a particular focus on large-scale surveys with complex sampling designs.
   </p>
 </div>
