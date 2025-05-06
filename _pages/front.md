@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 seo_title: "Mohsen Monji"
-description: "Mohsen Monji is a sociologist of health studying the social determinants of health and access to health care in Canada."
+description: "Mohsen Monji is a sociologist of health studying the social determinants of mental health and access to mental health care in Canada."
 canonical: "https://www.mohsenmonji.com/"
 author_profile: false
 hide_avatar: true
@@ -27,7 +27,7 @@ hide_avatar: true
 
   <!-- Description -->
   <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-    I am a sociologist of health studying the <strong>social determinants of health</strong> and <strong>access to health care</strong> in Canada, with a focus on mental health and dental health.
+    I am a sociologist of health studying the <strong>social determinants of mental health</strong> and <strong>access to mntal health care</strong> in Canada.
   </p>
 
   <!-- Button -->
