@@ -93,9 +93,8 @@ author_profile: true
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
     My primary research interests are in the areas of the 
-    <strong>social determinants of health</strong> and 
-    <strong>access to health care</strong> in Canada, with a focus on 
-    <strong>mental health</strong> and <strong>dental health</strong>.
+    <strong>social determinants of mental health</strong> and 
+    <strong>access to mental health care</strong> in Canada.
   </p>
   
   <p>
