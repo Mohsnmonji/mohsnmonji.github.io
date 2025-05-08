@@ -94,7 +94,7 @@ author_profile: true
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
     My primary research interests are the <strong>social determinants of mental health</strong>, 
     <strong>access to mental health care</strong>, and population-level 
-    <strong>disparities in mental health outcomes</strong>, particularly perceived mental health, psychological distress, diagnosed anxiety, and depression. 
+    <strong>disparities in mental health outcomes</strong>, particularly perceived mental health and psychological distress. 
     My PhD specifically explores mental health disparities among youth and young adults in Canada.
   </p>
 
