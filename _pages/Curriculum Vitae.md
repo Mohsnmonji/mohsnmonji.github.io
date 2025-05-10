@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Experience"
+title: "Professional Experience"
 permalink: /curriculum/
 seo_title: "Curriculum Vitae | Mohsen Monji"
 canonical: "https://www.mohsenmonji.com/curriculum/"
