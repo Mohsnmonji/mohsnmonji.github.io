@@ -42,7 +42,7 @@ author_profile: true
 </div>
 
 <div class="cv-entry">
-  <i class="fas fa-university cv-icon"></i>
+  <i class="fas fa-chart-line cv-icon"></i>
   <strong>DOCTORAL RESEARCHER</strong>  
   <br><em>Quebec Inter-University Centre for Social Statistics (QICSS), Montréal, Canada</em> (2024–Present)  
   <br>Investigating mental health disparities among youth and young adults using Statistics Canada survey data.
@@ -56,21 +56,21 @@ author_profile: true
 </div>
 
 <div class="cv-entry">
-  <i class="fas fa-flask cv-icon"></i>
+  <i class="fas fa-search cv-icon"></i>
   <strong>RESEARCH ASSISTANT</strong>  
   <br><em>Department of Sociology and Anthropology, Concordia University</em> (2022–Present)  
   <br>Research assistant in SSHRC- and FRQSC-funded projects on law, criminalization, and Indigenous communities in Canada.
 </div>
 
 <div class="cv-entry">
-  <i class="fas fa-flask cv-icon"></i>
+  <i class="fas fa-search cv-icon"></i>
   <strong>RESEARCH ASSISTANT</strong>  
   <br><em>Department of Sociology and Anthropology, Concordia University</em> (Jan 2022–Jun 2023)  
   <br>Worked on employment, underemployment, and mental health among immigrants in Canada.
 </div>
 
 <div class="cv-entry">
-  <i class="fas fa-microscope cv-icon"></i>
+  <i class="fas fa-search cv-icon"></i>
   <strong>RESEARCH ASSISTANT</strong>  
   <br><em>Applied Artificial Intelligence Institute, Concordia University</em> (Jun–Sep 2023)  
   <br>Project on gender equity in artificial intelligence with Prof. Tristan Glatard.  
