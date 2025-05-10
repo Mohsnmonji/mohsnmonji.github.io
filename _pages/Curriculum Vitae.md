@@ -30,23 +30,23 @@ author_profile: true
 
 - **DOCTORAL RESEARCHER**  
   *Quebec Inter-University Centre for Social Statistics (QICSS), Montréal, Canada* (2024–Present)  
-  Investigating mental health disparities among youth and young adults using complex survey data from Statistics Canada.
+  Investigating mental health disparities among youth and young adults using data from Statistics Canada.
 
 - **DOCTORAL FELLOW**  
   *Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University* (2024–Present)  
-  One-year doctoral fellowship in population data analytics with training in demographic methods, data science, and knowledge mobilization.
+  One-year doctoral fellowship in population data analytics.
 
 - **RESEARCH ASSISTANT**  
   *Department of Sociology and Anthropology, Concordia University* (2022–Present)  
-  Assisting Professor Matthew Unger on SSHRC- and FRQSC-funded projects examining criminalization and Indigenous communities in Canada.
+  Research assistant in two SSHRC- and FRQSC-funded projects on law, criminalization, and Indigenous communities in Canada.
 
 - **RESEARCH ASSISTANT**  
   *Department of Sociology and Anthropology, Concordia University* (Jan 2022–Jun 2023)  
-  Supporting Professor Marie-Pier Joly in research on employment, underemployment, and the mental health of immigrants in Canada.
+  Research assistant in a project on employment, underemployment, and the mental health of immigrants in Canada.
 
 - **RESEARCH ASSISTANT**  
   *Applied Artificial Intelligence Institute, Concordia University* (Jun–Sep 2023)  
-  Collaborated with Professor Tristan Glatard, Canada Research Chair in Big Data for Neuroinformatics, on a project addressing gender equity in AI.  
+  Research assistant in a project on gender equity in AI.  
   *Publication: [Normative Principles for Gender Equity in AI](https://affectingmachines.net/)*
 
 - **CONTRIBUTING AUTHOR / EDITOR**  
