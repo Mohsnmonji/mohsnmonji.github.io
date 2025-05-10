@@ -29,10 +29,10 @@ author_profile: true
   Two SSHRC- and FRQSC-funded projects led by Prof. Matthew Unger on law, criminalization, and Indigenous communities in Canada.
 
 - **Research Assistant**, Department of Sociology and Anthropology, Concordia University (Jan 2022–Jun 2023)  
-  Worked with Prof. Marie-Pier Joly on a project on employment, underemployment, and immigrant mental health in Canada.
+  Worked with Prof. Marie-Pier Joly in a project on employment, underemployment, and immigrant mental health in Canada.
 
 - **Research Assistant**, Applied Artificial Intelligence Institute, Concordia University (Jun–Sep 2023)  
-  Worked with Prof. Tristan Glatard on a project on gender equity in AI.  
+  Worked with Prof. Tristan Glatard in a project on gender equity in AI.  
   *Publication:* [Normative Principles for Gender Equity in AI](https://affectingmachines.net/)
 
 - **Contributing Author / Editor**, Responsible AI Working Group, All Tech is Human (Jul–Oct 2023)  
