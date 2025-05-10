@@ -9,9 +9,9 @@ main:
     url: /about-me/    
   - title: "Teaching"
     url: /teaching/
-  - title: "Talks & Presentations"
   - title: "Research/Professional Experience"
     url: /curriculum/
+  - title: "Talks & Presentations"
     url: /talks/    
   - title: "Media"
     url: /media/
