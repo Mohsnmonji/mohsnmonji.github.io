@@ -45,22 +45,22 @@ author_profile: true
   <p>Analyzing national survey data from Statistics Canada to study mental health disparities among youth and young adults.</p>
 
   <p><strong>QICSS Doctoral Researcher</strong><br><em>Quebec Inter-University Centre for Social Statistics (QICSS), Montréal, Canada</em> (2024–Present)</p>
-  <p>Conducting research on population mental health disparities using complex surveys from Statistics Canada.</p>
+  <p>Conducting research on population mental health disparities using data from Statistics Canada.</p>
 
   <p><strong>CAnD3 Doctoral Fellow</strong><br><em>Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University</em> (2024–Present)</p>
-  <p>Engaged in interdisciplinary training in population analytics, demographic methods, and data science for policy impact.</p>
+  <p>one year training fellowship in population data analytics.</p>
 </div>
 
 <div class="teaching-card">
   <p><i class="fas fa-search cv-icon"></i> <strong>RESEARCH ASSISTANT</strong></p>
   <p><strong>Department of Sociology and Anthropology</strong><br><em>Concordia University</em> (2022–Present)</p>
-  <p>Collaborated on SSHRC- and FRQSC-funded projects with Prof. Matthew Unger on Indigenous communities and criminalization in Canada.</p>
+  <p>Research assistant in two SSHRC- and FRQSC-funded projects led by Prof. Matthew Unger on law,criminalization, and Indigenous communities in Canada.</p>
 
   <p><strong>Department of Sociology and Anthropology</strong><br><em>Concordia University</em> (Jan 2022–Jun 2023)</p>
-  <p>Worked with Prof. Marie-Pier Joly on research into employment, underemployment, and immigrant mental health in Canada.</p>
+  <p>Worked with Prof. Marie-Pier Joly on in a project on employment, underemployment, and immigrant mental health in Canada.</p>
 
   <p><strong>Applied Artificial Intelligence Institute</strong><br><em>Concordia University</em> (Jun–Sep 2023)</p>
-  <p>Assisted Prof. Tristan Glatard on a project addressing gender equity in AI.  
+  <p>Research assistant to Prof. Tristan Glatard in a project on gender equity in AI.  
   <br><em>Publication:</em> <a href="https://affectingmachines.net/" target="_blank">Normative Principles for Gender Equity in AI</a></p>
 </div>
 
