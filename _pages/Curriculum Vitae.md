@@ -40,14 +40,14 @@ author_profile: true
 </div>
 
 <div class="teaching-card">
-  <p><i class="fas fa-chart-line cv-icon"></i> <strong>DOCTORAL RESEARCHER & FELLOW</strong></p>
-  <p><strong>CRDCN Emerging Scholar</strong><br><em>Canadian Research Data Centre Network (CRDCN), Montréal, Canada</em> (2024–Present)</p>
+  <p><i class="fas fa-chart-line cv-icon"></i> <strong>DOCTORAL RESEARCHER</strong></p>
+  <p><strong>CRDCN Doctoral Researcher/Emerging Scholar</strong><br><em>Canadian Research Data Centre Network (CRDCN), Montréal, Canada</em> (2024–Present)</p>
   <p>Analyzing national survey data from Statistics Canada to study mental health disparities among youth and young adults.</p>
 
   <p><strong>QICSS Doctoral Researcher</strong><br><em>Quebec Inter-University Centre for Social Statistics (QICSS), Montréal, Canada</em> (2024–Present)</p>
   <p>Conducting research on population mental health disparities using complex surveys from Statistics Canada.</p>
 
-  <p><strong>Doctoral Fellow</strong><br><em>Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University</em> (2024–Present)</p>
+  <p><strong>CAnD3 Doctoral Fellow</strong><br><em>Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University</em> (2024–Present)</p>
   <p>Engaged in interdisciplinary training in population analytics, demographic methods, and data science for policy impact.</p>
 </div>
 
