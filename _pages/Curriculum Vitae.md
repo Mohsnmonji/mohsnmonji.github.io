@@ -24,15 +24,20 @@ author_profile: true
   .cv-card {
     border-radius: 8px;
     padding: 20px;
-    margin-bottom: 20px;
     color: #333333;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
     background-color: #E3F2FD;
     text-align: justify;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
   }
   .cv-card p {
     margin: 0 0 10px;
     color: #555;
+  }
+  .cv-divider {
+    border: 0;
+    height: 2px;
+    background-color: #1B5E20;
+    margin: 40px 0;
   }
 </style>
 
@@ -44,36 +49,50 @@ author_profile: true
     <p>Providing mentorship, academic guidance, and career advising to undergraduate students.</p>
   </div>
 
+  <hr class="cv-divider">
+
   <div class="cv-card">
-    <p><strong>Doctoral Researcher</strong>, CRDCN (Canadian Research Data Centre Network), Montréal, Canada (2024–Present)</p>
+    <p><strong>Doctoral Researcher</strong>, Canadian Research Data Centre Network (CRDCN), Montréal, Canada (2024–Present)</p>
     <p>Analyzing national survey data from Statistics Canada to study mental health disparities among youth and young adults.</p>
   </div>
 
+  <hr class="cv-divider">
+
   <div class="cv-card">
-    <p><strong>Doctoral Researcher</strong>, QICSS (Quebec Inter-University Centre for Social Statistics), Montréal, Canada (2024–Present)</p>
+    <p><strong>Doctoral Researcher</strong>, Quebec Inter-University Centre for Social Statistics (QICSS), Montréal, Canada (2024–Present)</p>
     <p>Conducting research on population mental health disparities using data from Statistics Canada.</p>
   </div>
 
+  <hr class="cv-divider">
+
   <div class="cv-card">
-    <p><strong>Doctoral Fellow</strong>, CAnD3 (Consortium on Analytics for Data-Driven Decision-Making), McGill University (2024–Present)</p>
+    <p><strong>Doctoral Fellow</strong>, Consortium on Analytics for Data-Driven Decision-Making (CAnD3), McGill University (2024–Present)</p>
     <p>One-year training fellowship in population data analytics.</p>
   </div>
+
+  <hr class="cv-divider">
 
   <div class="cv-card">
     <p><strong>Research Assistant</strong>, Department of Sociology and Anthropology, Concordia University (2022–Present)</p>
     <p>Two SSHRC- and FRQSC-funded projects led by Prof. Matthew Unger on law, criminalization, and Indigenous communities in Canada.</p>
   </div>
 
+  <hr class="cv-divider">
+
   <div class="cv-card">
     <p><strong>Research Assistant</strong>, Department of Sociology and Anthropology, Concordia University (Jan 2022–Jun 2023)</p>
     <p>Worked with Prof. Marie-Pier Joly on a project on employment, underemployment, and immigrant mental health in Canada.</p>
   </div>
 
+  <hr class="cv-divider">
+
   <div class="cv-card">
     <p><strong>Research Assistant</strong>, Applied Artificial Intelligence Institute, Concordia University (Jun–Sep 2023)</p>
-    <p>Worked with Prof. Tristan Glatard on a project on gender equity in AI.<br>
+    <p>Worked with Prof. Tristan Glatard on a project on gender equity in artificial intelligence.<br>
     <em>Publication:</em> <a href="https://affectingmachines.net/" target="_blank">Normative Principles for Gender Equity in AI</a></p>
   </div>
+
+  <hr class="cv-divider">
 
   <div class="cv-card">
     <p><strong>Contributing Author / Editor</strong>, Responsible AI Working Group, All Tech is Human (Jul–Oct 2023)</p>
