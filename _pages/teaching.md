@@ -101,7 +101,7 @@ author_profile: true
   </div>
 
   <div class="teaching-card">
-  <h4><i class="fas fa-chalkboard icon"></i> TEACHING ASSISTANT</h4>
+  <h4><i class="fas fa-chalkboard icon"></i> TUTORIAL LEADER/TEACHING ASSISTANT</h4>
 
   <p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
   <ul>
