@@ -92,7 +92,7 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My primary research interests are the <strong>social drivers of mental health</strong> and
+    My primary research interests are the <strong>social determinants of mental health</strong> and
     <strong>disparities in mental health outcomes</strong>. 
     My PhD specifically explores mental health disparities among youth and young adults in Canada.
   </p>
@@ -107,7 +107,7 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
-    <li><i class="fas fa-users icon"></i> Social Drivers of Mental Health</li>
+    <li><i class="fas fa-users icon"></i> Social Determinants of Mental Health</li>
     <li><i class="fas fa-leaf icon"></i> Indigenous Mental Health</li>
     <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
