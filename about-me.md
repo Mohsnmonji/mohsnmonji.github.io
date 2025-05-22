@@ -84,7 +84,7 @@ author_profile: true
   }
 </style>
 
- <div class="card">
+<div class="card">
   <p>
     I am a <strong>PhD Candidate in Sociology</strong> at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
@@ -92,10 +92,12 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My primary research interests are the <strong>social determinants of mental health</strong> and
+    My primary research interests include the <strong>social determinants of mental health</strong>, 
+    <strong>access to mental health care</strong>, and 
     <strong>disparities in mental health outcomes</strong>. 
-    My PhD specifically explores mental health disparities among youth and young adults in Canada.
+    My doctoral research focuses on mental health disparities among youth and young adults in Canada.
   </p>
+</div>
 
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, 
@@ -108,7 +110,7 @@ author_profile: true
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
     <li><i class="fas fa-users icon"></i> Social Determinants of Mental Health</li>
-    <li><i class="fas fa-leaf icon"></i> Indigenous Mental Health</li>
+    <li><i class="fas fa-clinic-medical icon"></i> Access to Mental Health Care</li>
     <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
     <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</li>
