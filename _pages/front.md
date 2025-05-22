@@ -27,7 +27,7 @@ hide_avatar: true
 
   <!-- Description -->
   <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-    I am a sociologist of health studying the <strong>social drivers of mental health</strong> in Canada, with a focus on youth and young adults.
+    I am a sociologist of health and population mental health scientist studying the <strong>social determinants of mental health</strong> and mental health disparaties in Canada, with a focus on youth and young adults.
   </p>
 
   <!-- Button -->
