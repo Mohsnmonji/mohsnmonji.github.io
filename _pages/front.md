@@ -37,7 +37,6 @@ hide_avatar: true
     </a>
   </div>
 
-  remove linkedin here:
 <!-- Social Media Links -->
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
     <div style="text-align: center;">
