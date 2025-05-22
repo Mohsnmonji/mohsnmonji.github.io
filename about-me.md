@@ -108,11 +108,10 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-lightbulb icon"></i> Research Interests</h3>
   <ul>
+    <li><i class="fas fa-brain icon"></i> Critical Mental Health Studies</li>
     <li><i class="fas fa-users icon"></i> Social Drivers of Mental Health</li>
-    <li><i class="fas fa-user-friends icon"></i> Youth Mental Health</li>
     <li><i class="fas fa-leaf icon"></i> Indigenous Mental Health</li>
-    <li><i class="fas fa-notes-medical icon"></i> Access to Mental Health Care</li>
-    <li><i class="fas fa-chart-line icon"></i> Applied Statistics</li>
+    <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
     <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</li>
   </ul>
