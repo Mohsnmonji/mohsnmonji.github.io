@@ -38,24 +38,17 @@ hide_avatar: true
   </div>
 
   <!-- Social Media Links -->
-  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
-    <div style="text-align: center;">
-      <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="text-decoration: none;">
-        <i class="fas fa-envelope" style="color: #D14836; font-size: 30px;"></i><br>
-        <span style="font-size: 14px; color: #555;">Email</span>
-      </a>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://github.com/Mohsnmonji" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-github" style="color: #333; font-size: 30px;"></i><br>
-        <span style="font-size: 14px; color: #555;">GitHub</span>
-      </a>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="text-decoration: none;">
-        <i class="fab fa-linkedin" style="color: #0077B5; font-size: 30px;"></i><br>
-        <span style="font-size: 14px; color: #555;">LinkedIn</span>
-      </a>
-    </div>
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+  <div style="text-align: center;">
+    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="text-decoration: none;">
+      <i class="fas fa-envelope" style="color: #D14836; font-size: 30px;"></i><br>
+      <span style="font-size: 14px; color: #555;">Email</span>
+    </a>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://github.com/Mohsnmonji" target="_blank" style="text-decoration: none;">
+      <i class="fab fa-github" style="color: #333; font-size: 30px;"></i><br>
+      <span style="font-size: 14px; color: #555;">GitHub</span>
+    </a>
   </div>
 </div>
