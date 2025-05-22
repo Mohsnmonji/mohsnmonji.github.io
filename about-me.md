@@ -99,6 +99,7 @@ author_profile: true
   </p>
 </div>
 
+<div class="card">
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, 
     <strong>survey methodology</strong>, <strong>applied statistics</strong>, and <strong>machine learning</strong>, 
@@ -116,4 +117,3 @@ author_profile: true
     <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</li>
   </ul>
 </div>
-
