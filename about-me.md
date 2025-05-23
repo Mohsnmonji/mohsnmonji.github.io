@@ -92,10 +92,9 @@ author_profile: true
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My primary research interests are the <strong>social determinants of mental health</strong>, 
-     and <strong>access to mental health care</strong> in Canada.
-  </p>
-  <p>
+    <p>
+  My research primarily focuses on <strong>quantitative methods for measuring mental health outcomes</strong> and <strong>analyzing mental health disparities at the population level</strong>.
+</p>
     Another strand of my research explores the <strong>social history of modern statistics</strong>, 
     focusing on the historical contexts in which statistical knowledge has emerged and how 
     <strong>statistical reasoning and quantification</strong> became central—epistemologically—to 
