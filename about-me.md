@@ -120,7 +120,7 @@ author_profile: true
   <p>
     I teach courses in <strong>Social Statistics</strong>, 
     <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Sociology of Health</strong>, 
-    <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Social Hisyory of Statistics</strong>.
+    <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Social History of Statistics</strong>.
 </p>
 
 </div>
