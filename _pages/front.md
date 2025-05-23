@@ -27,7 +27,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-  I am a sociologist of health and social statistician studying quantitative methods for population mental health.
+  I am a sociologist of health and social statistician studying mental health measurments and quantitative methods for analyzing mental health disparaties at the population level.
 
   <!-- Button -->
   <div style="margin-bottom: 20px;">
