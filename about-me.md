@@ -98,10 +98,31 @@ author_profile: true
     My doctoral research specifically focuses on mental health disparities among youth and young adults in Canada.
   </p>
   <p>
-    Methodologically, I am interested in <strong>quantitative research methods</strong>, 
-    <strong>survey methodology</strong>, <strong>applied statistics</strong>, and <strong>machine learning</strong>, 
-    with a particular interest in large-scale surveys with complex sampling designs.
+    Another strand of my research explores the <strong>social history of modern statistics</strong>, 
+    focusing on the historical contexts in which statistical knowledge has emerged and how 
+    <strong>statistical reasoning and quantification</strong> became central—epistemologically—to 
+    knowledge production and population governance.
+</p>
+
+  <p>
+    My doctoral research has been supported by funding from 
+    <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
+    <a href="https://www.frq.gouv.qc.ca" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
+    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Center for Social Statistics (QICSS)</a>, 
+    and the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
   </p>
+
+  <p>
+    Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
+    <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
+  </p>
+  
+  <p>
+    I teach courses in <strong>Social Statistics</strong>, 
+    <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Sociology of Health</strong>, 
+    <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Social Hisyory of Statistics</strong>.
+</p>
+
 </div>
 
 <li><i class="fas fa-users icon"></i> Social Determinants of Mental Health</li>
