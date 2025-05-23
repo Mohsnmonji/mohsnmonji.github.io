@@ -98,9 +98,9 @@ author_profile: true
     My doctoral research specifically focuses on mental health disparities among youth and young adults in Canada.
   </p>
   <p>
-    Methodologically, I employ <strong>quantitative research methods</strong>, 
+    Methodologically, I am interested in <strong>quantitative research methods</strong>, 
     <strong>survey methodology</strong>, <strong>applied statistics</strong>, and <strong>machine learning</strong>, 
-    with a particular emphasis on large-scale surveys featuring complex sampling designs.
+    with a particular interest in large-scale surveys with complex sampling designs.
   </p>
 </div>
 
