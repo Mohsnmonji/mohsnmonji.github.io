@@ -128,12 +128,14 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
   <ul>
-
-<li><i class="fas fa-users icon"></i> Social Determinants of Mental Health</li>
-<li><i class="fas fa-clinic-medical icon"></i> Access to Mental Health Care</li>
-<li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
-<li><i class="fas fa-poll icon"></i> Survey Methodology</li>
-<li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</li>
-<li><i class="fas fa-brain icon"></i> Computational Sociology</li>
-<li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
-<li><i class="fas fa-book-open icon"></i> Social History of Statistics and Quantification</li>
+    <li><i class="fas fa-users icon"></i> Social Determinants of Mental Health</li>
+    <li><i class="fas fa-clinic-medical icon"></i> Access to Mental Health Care</li>
+    <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
+    <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
+    <li><i class="fas fa-square-root-alt icon"></i> Quantitative Research Methods</li>
+    <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
+    <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
+    <li><i class="fas fa-book-open icon"></i> Social History of Statistics</li>
+    <li><i class="fas fa-balance-scale icon"></i> Quantification</li>
+  </ul>
+</div>
