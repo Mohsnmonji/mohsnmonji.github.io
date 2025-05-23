@@ -27,8 +27,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-  I am a sociologist of health and social statistician studying the <strong>social determinants of mental health</strong> and <strong>access to mental health care</strong> in Canada.
-</p>
+  I am a sociologist of health and social statistician studying quantitative methods for population mental health.
 
   <!-- Button -->
   <div style="margin-bottom: 20px;">
