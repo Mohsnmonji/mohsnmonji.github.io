@@ -86,20 +86,22 @@ author_profile: true
 
 <div class="card">
   <p>
-    I am a <strong>PhD Candidate in Sociology</strong> at 
+    I am a PhD Candidate in Sociology at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
-    a <strong>CAnD3 Doctoral Fellow</strong> at 
+    a CAnD3 Doctoral Fellow at 
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
-    and a <strong>CRDCN Emerging Scholar</strong> at the 
+    and a CRDCN Emerging Scholar at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    <p>
-  My research primarily focuses on <strong> mental health measurments </strong> and <strong>quantitative methods for analyzing mental health disparities at the population level</strong>.
-</p>
-    Another strand of my research explores the <strong>social history of modern statistics</strong>, 
+  </p>
+  <p>
+    My research primarily focuses on mental health measurments and quantitative methods for analyzing mental health disparities at the population level.
+  </p>
+  <p>
+    Another strand of my research explores the social history of modern statistics, 
     focusing on the historical contexts in which statistical knowledge has emerged and how 
-    <strong>statistical reasoning and quantification</strong> became central—epistemologically—to 
+    statistical reasoning and quantification became central—epistemologically—to 
     knowledge production and population governance.
-</p>
+  </p>
 
   <p>
     My doctoral research has been supported by funding from 
@@ -110,16 +112,15 @@ author_profile: true
   </p>
 
   <p>
-    Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
-    <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
+    Methodologically, I am interested in quantitative research methods, survey methodology, 
+    social statistics, and machine learning, with a focus on official large-scale surveys with complex sampling designs.
   </p>
   
   <p>
-    I teach courses in <strong>Social Statistics</strong>, 
-    <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Sociology of Health</strong>, 
-    <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Social History of Statistics</strong>.
-</p>
-
+    I teach courses in Social Statistics, 
+    Quantitative Research Methods, Critical Data Studies, Sociology of Health, 
+    Survey Methodology, Computational Sociology, and Social History of Statistics.
+  </p>
 </div>
 
 <div class="card">
