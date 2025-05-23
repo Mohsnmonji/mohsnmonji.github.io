@@ -95,7 +95,7 @@ author_profile: true
     My primary research interests include the <strong>social determinants of mental health</strong>, 
     <strong>access to mental health care</strong>, and 
     <strong>disparities in mental health outcomes</strong>. 
-    My doctoral research soecifically focuses on mental health disparities among youth and young adults in Canada.
+    My doctoral research specifically focuses on mental health disparities among youth and young adults in Canada.
   </p>
   <p>
     Methodologically, I employ <strong>quantitative research methods</strong>, 
