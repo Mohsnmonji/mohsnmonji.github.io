@@ -83,7 +83,6 @@ author_profile: true
       <li><i class="fas fa-cogs icon"></i> Computational Sociology</li>
       <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
       <li><i class="fas fa-book-open icon"></i> Social History of Statistics</li>
-      <li><i class="fas fa-balance-scale icon"></i> Quantification</li>
     </ul>
   </div>
 </div>
