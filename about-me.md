@@ -93,7 +93,7 @@ author_profile: true
     and a <strong>CRDCN Emerging Scholar</strong> at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
     <p>
-  My research primarily focuses on <strong>quantitative methods for measuring mental health outcomes</strong> and <strong>analyzing mental health disparities at the population level</strong>.
+  My research primarily focuses on <strong> mental health measurments </strong> and <strong>quantitative methods for analyzing mental health disparities at the population level</strong>.
 </p>
     Another strand of my research explores the <strong>social history of modern statistics</strong>, 
     focusing on the historical contexts in which statistical knowledge has emerged and how 
