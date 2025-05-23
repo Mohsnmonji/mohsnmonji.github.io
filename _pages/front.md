@@ -21,13 +21,13 @@ hide_avatar: true
  
   <!-- Subtitle -->
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
-    PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
+    PhD Candidate in Sociology |Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
   </p>
 
 
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-  I am a sociologist of health and population mental health scientist studying the <strong>social determinants of mental health</strong>, <strong>access to mental health care</strong>, and mental health disparities in Canada, with a focus on youth and young adults.
+  I am a sociologist of health studying the <strong>social determinants of mental health</strong>,and <strong>access to mental health care</strong> in Canada.
 </p>
 
   <!-- Button -->
