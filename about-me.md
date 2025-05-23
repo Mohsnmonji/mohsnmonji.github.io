@@ -125,6 +125,10 @@ author_profile: true
 
 </div>
 
+<div class="card">
+  <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
+  <ul>
+
 <li><i class="fas fa-users icon"></i> Social Determinants of Mental Health</li>
 <li><i class="fas fa-clinic-medical icon"></i> Access to Mental Health Care</li>
 <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
