@@ -94,7 +94,7 @@ author_profile: true
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
   </p>
   <p>
-    My research primarily focuses on mental health measurements and quantitative methods for analyzing mental health disparities at the population level.
+    My research primarily focuses on mental health measurement and quantitative methods for analyzing mental health disparities at the population level.
   </p>
   <p>
     Another strand of my research explores the social history of modern statistics, 
