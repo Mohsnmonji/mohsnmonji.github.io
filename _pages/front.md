@@ -23,7 +23,9 @@ hide_avatar: true
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
    
   </p>
-
+<!-- Subtitle -->
+  <p style="font-size: 18px; margin-top: 5px; color: #555;">
+    PhD Candidate in Sociology | Lecturer in Applied Social Statistics | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
 
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
