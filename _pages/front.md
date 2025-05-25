@@ -21,16 +21,14 @@ hide_avatar: true
  
   <!-- Subtitle -->
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
-   
-  </p>
-<!-- Subtitle -->
-  <p style="font-size: 18px; margin-top: 5px; color: #555;">
     PhD Candidate in Sociology | Lecturer in Applied Social Statistics | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
+  </p>
 
   <!-- Description -->
-<p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-  
-</p>
+  <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
+    I am a sociologist of health and social statistician interested in mental health measurement and quantitative methods for studying mental health outcomes at the population level.
+  </p>
+
   <!-- Button -->
   <div style="margin-bottom: 20px;">
     <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
@@ -38,7 +36,7 @@ hide_avatar: true
     </a>
   </div>
 
-<!-- Social Media Links -->
+  <!-- Social Media Links -->
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
     <div style="text-align: center;">
       <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="text-decoration: none;">
@@ -53,4 +51,5 @@ hide_avatar: true
       </a>
     </div>
   </div>
+
 </div>
