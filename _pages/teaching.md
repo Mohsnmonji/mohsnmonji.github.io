@@ -77,6 +77,7 @@ author_profile: true
   <div class="teaching-card">
     <ul class="teaching-list">
       <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
+      <li><i class="fas fa-university icon"></i> Classical and Contemporary Sociological Theory</li>
       <li><i class="fas fa-database icon"></i> Survey Methodology</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
       <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
