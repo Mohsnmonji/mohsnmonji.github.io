@@ -126,6 +126,7 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Research Interests</h3>
   <ul>
+    <li><i class="fas fa-users icon"></i> Social Determinants of Mental Health</li>
     <li><i class="fas fa-heart icon"></i> Mental Health Measurement</li>
     <li><i class="fas fa-chart-line icon"></i> Applied Social Statistics</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
