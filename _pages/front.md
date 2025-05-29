@@ -26,7 +26,7 @@ hide_avatar: true
 
   <!-- Description -->
   <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-    I am a sociologist of health and social statistician interested in mental health measurement and quantitative methods for studying mental health outcomes at the population level.
+    I am a sociologist of health interested in mental health measurement and quantitative methods for studying mental health outcomes at the population level.
   </p>
 
   <!-- Button -->
