@@ -102,12 +102,7 @@ author_profile: true
     statistical reasoning and quantification became central—epistemologically—to 
     knowledge production and population governance.
   </p>
-  
-  <p>
-    Methodologically, I am interested in quantitative research methods, survey methodology, 
-    social statistics, and machine learning, with a focus on official large-scale surveys with complex sampling designs.
-  </p>
-  
+
   <p>
     My doctoral research has been supported by funding from 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
@@ -119,7 +114,7 @@ author_profile: true
   <p>
     I teach courses in Social Statistics, 
     Quantitative Research Methods, Critical Data Studies, Sociology of Health, 
-    Survey Methodology, Computational Sociology, and Social History of Statistics.
+    Survey Methodology, and Social History of Statistics and Psychiatry.
   </p>
 </div>
 
