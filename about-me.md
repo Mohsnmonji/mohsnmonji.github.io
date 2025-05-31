@@ -127,7 +127,6 @@ author_profile: true
     <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
     <li><i class="fas fa-tree icon"></i> Indigenous Mental Health</li>
     <li><i class="fas fa-tree icon"></i> Indigenous Statistics</li>
-    <li><i class="fas fa-tools icon"></i> Decolonial Methodologies</li>
     <li><i class="fas fa-book icon"></i> Social History of Psychiatry</li>
     <li><i class="fas fa-book-open icon"></i> Social History of Statistics</li>
   </ul>
