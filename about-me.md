@@ -121,12 +121,10 @@ author_profile: true
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Research Interests</h3>
   <ul>
-    <li><i class="fas fa-users icon"></i> Critical Public Health</li>
+    <li><i class="fas fa-users icon"></i> Sociology of  Health</li>
     <li><i class="fas fa-heartbeat icon"></i> Mental Health Measurement</li>
     <li><i class="fas fa-database icon"></i> Quantification/Datafication of Mental Health</li>
     <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
-    <li><i class="fas fa-tree icon"></i> Indigenous Mental Health</li>
-    <li><i class="fas fa-tree icon"></i> Indigenous Statistics</li>
     <li><i class="fas fa-book icon"></i> Social History of Psychiatry</li>
     <li><i class="fas fa-book-open icon"></i> Social History of Statistics</li>
   </ul>
