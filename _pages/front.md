@@ -26,7 +26,7 @@ hide_avatar: true
 
   <!-- Description -->
   <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-    I am a sociologist of health studying how mental health is measured and governed at the population level.
+    I am a sociologist of health studying the ways in which mental health is measured and governed at the population level in Canada.
   </p>
 
   <!-- Button -->
