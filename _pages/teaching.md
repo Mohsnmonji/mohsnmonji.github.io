@@ -81,7 +81,6 @@ author_profile: true
       <li><i class="fas fa-database icon"></i> Survey Methodology</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
       <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
-      <li><i class="fas fa-fingerprint icon"></i> Critical Data Studies</li>
       <li><i class="fas fa-book-open icon"></i> Social History of Statistics</li>
     </ul>
   </div>
