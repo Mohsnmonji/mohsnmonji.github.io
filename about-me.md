@@ -112,8 +112,8 @@ author_profile: true
   </p>
 
   <p>
-    I teach courses in Social Statistics, 
-    Quantitative Research Methods, Critical Data Studies, Sociology of Health, 
+    I teach courses in Applied Social Statistics, 
+    Quantitative Research Methods, Sociology of Health, 
     Survey Methodology, and Social History of Statistics and Psychiatry.
   </p>
 </div>
