@@ -8,8 +8,6 @@ main:
   - title: "About"
     url: /about-me/    
   - title: "Teaching"
-    url: /teaching/
-  - title: "Talks & Presentations"
-    url: /talks/    
+    url: /teaching/   
   - title: "Media"
     url: /media/
