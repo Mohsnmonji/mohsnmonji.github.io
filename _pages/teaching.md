@@ -80,6 +80,7 @@ author_profile: true
       <li><i class="fas fa-university icon"></i> Sociological Theory</li>
       <li><i class="fas fa-database icon"></i> Survey Methodology</li>
       <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
+      <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
       <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
       <li><i class="fas fa-book-open icon"></i> Social History of Statistics</li>
     </ul>
