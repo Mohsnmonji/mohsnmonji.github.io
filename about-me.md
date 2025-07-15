@@ -117,8 +117,8 @@ author_profile: true
 
 <div class="card">
   <h3>Research Interests</h3>
-  <ul>
-    <li>Colonialism and Health</li>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li>Colonialism, Health, and Mental Health</li>
     <li>Colonial Trauma</li>
     <li>Epistemic Oppression</li>
     <li>Indigenous Health</li>
