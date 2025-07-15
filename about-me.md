@@ -93,7 +93,7 @@ author_profile: true
   </p>
 
   <p>
-    My research bridges contemporary critical theory and quantitative methods to interrogate how intersecting systems of oppression shape mental health disparities. I work across two strands:  
+    My research bridges contemporary critical theory and quantitative methods to interrogate how intersecting systems of oppression influence mental health. I work across two strands:  
   </p>
 
   <p>
