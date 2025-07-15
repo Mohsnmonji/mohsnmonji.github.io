@@ -104,9 +104,6 @@ author_profile: true
     <strong>Second</strong>, I critically examine the colonial foundations of population health surveillance and the governance of Indigenous mental health. Drawing on critical Indigenous studies, the social history of statistics and psychiatry, and theories of colonial trauma, I investigate how national data systems reproduce settler colonial logics—both in how they define mental health and in how they operationalize it through measurement and modeling.
   </p>
 
-  <p>
-    Methodologically, I am interested in <strong>quantitative intersectional methods</strong> (e.g., interaction models, MAIHDA, latent class analysis) and <strong>decolonial statistics</strong>—a field that challenges the normative assumptions of quantification and centers epistemic justice, relationality, and Indigenous data sovereignty.
-  </p>
 
   <p>
     My research has been supported by 
@@ -116,9 +113,6 @@ author_profile: true
     and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
   </p>
 
-  <p>
-    I teach courses in Applied Social Statistics, Quantitative Research Methods, Sociology of Health, Survey Methodology, and the Social History of Statistics and Psychiatry.
-  </p>
 </div>
 
 <div class="card">
