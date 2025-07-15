@@ -21,12 +21,13 @@ hide_avatar: true
  
   <!-- Subtitle -->
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
-    PhD Candidate in Sociology | Lecturer in Applied Social Statistics | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow | CRDCN Emerging Scholar
+    PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow 2024-2025 | CRDCN Emerging Scholar
   </p>
 
   <!-- Description -->
-  <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-    I am a sociologist of health studying the social determinants of mental health and population mental health disparaties in Canada.
+<p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
+  I am an undisciplinary researcher working at the intersection of Indigenous studies, Black feminist thought, and population health. My research critically examines how colonial expansionism, racial capitalism, and epistemic forms of oppression shape mental health outcomes and governance in settler colonial contexts.
+</p>
 
   <!-- Button -->
   <div style="margin-bottom: 20px;">
