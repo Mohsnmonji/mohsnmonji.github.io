@@ -4,6 +4,7 @@ title: "About"
 permalink: /about-me/
 author_profile: true
 ---
+
 <style>
   .icon {
     margin-right: 10px;
@@ -63,9 +64,6 @@ author_profile: true
     font-size: 1rem;
     color: #333;
     line-height: 1.6;
-  }
-
-  .card:first-of-type p {
     text-align: justify;
   }
 
@@ -90,31 +88,36 @@ author_profile: true
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
     a CAnD3 Doctoral Fellow at 
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
-    and a CRDCN Emerging Scholar at the 
-    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-  </p>
-  <p>
-    My research primarily focuses on mental health measurement and quantitative methods for analyzing mental health disparities at the population level.
-  </p>
-  <p>
-    Another strand of my research explores the social history of modern statistics, 
-    focusing on the historical contexts in which statistical knowledge has emerged and how 
-    statistical reasoning and quantification became central—epistemologically—to 
-    knowledge production and population governance.
+    and an Emerging Scholar with the 
+    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
   </p>
 
   <p>
-    My doctoral research has been supported by funding from 
-    <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
-    <a href="https://www.frq.gouv.qc.ca" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
-    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Center for Social Statistics (QICSS)</a>, 
-    and the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
+    My research bridges contemporary critical theory and quantitative methods to interrogate how intersecting systems of oppression shape mental health disparities. I work across two strands:  
   </p>
 
   <p>
-    I teach courses in Applied Social Statistics, 
-    Quantitative Research Methods, Sociology of Health, 
-    Survey Methodology, and Social History of Statistics and Psychiatry.
+    <strong>First</strong>, I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological and methodological implications of intersectionality for population health research, especially in relation to outcomes such as psychological distress among young adults.
+  </p>
+
+  <p>
+    <strong>Second</strong>, I critically examine the colonial foundations of population health surveillance and the governance of Indigenous mental health. Drawing on critical Indigenous studies, the social history of statistics and psychiatry, and theories of colonial trauma, I investigate how national data systems reproduce settler colonial logics—both in how they define mental health and in how they operationalize it through measurement and modeling.
+  </p>
+
+  <p>
+    Methodologically, I am interested in <strong>quantitative intersectional methods</strong> (e.g., interaction models, MAIHDA, latent class analysis) and <strong>decolonial statistics</strong>—a field that challenges the normative assumptions of quantification and centers epistemic justice, relationality, and Indigenous data sovereignty.
+  </p>
+
+  <p>
+    My research has been supported by 
+    <a href="https://www.concordia.ca" target="_blank">Concordia University</a>, 
+    the <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
+    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
+    and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
+  </p>
+
+  <p>
+    I teach courses in Applied Social Statistics, Quantitative Research Methods, Sociology of Health, Survey Methodology, and the Social History of Statistics and Psychiatry.
   </p>
 </div>
 
