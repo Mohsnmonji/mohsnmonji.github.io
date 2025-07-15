@@ -111,9 +111,10 @@ author_profile: true
     <strong>First</strong>, I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
   </p>
 
-<p>
-  <strong>Second</strong>, drawing on critical Indigenous studies and Black feminist thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am interested in exploring how population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how such data is mobilized to shape health policies related to Indigenous peoples. 
+<p>  
+  <strong>Second</strong>, drawing on critical Indigenous studies and Black feminist thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I explore how population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how such data is mobilized to shape health policies concerning Indigenous peoples.
 </p>
+
 
 
 </div>
