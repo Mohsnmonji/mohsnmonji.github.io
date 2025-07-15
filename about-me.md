@@ -85,7 +85,7 @@ author_profile: true
 <!-- BIOGRAPHY CARD -->
 <div class="card">
   <p>
-    Were I to provide a short chronological biography of myself, I would begin by telling you that I was born in Iran and come from two Indigenous nomadic tribes: the Bakhtiari and the Qashqa’i. I would also tell you that I have been a travelling scholar. Before beginning my doctoral studies, I completed a Bachelor of Science in Industrial Engineering, followed by a Master’s degree in Anthropology.
+    Were I to provide a short chronological biography of myself, I would begin by telling you that I was born in Iran and come from two Indigenous nomadic tribes: the Bakhtiari and the Qashqa’i. I would also tell you that I have been a travelling scholar. Before beginning my doctoral studies, I completed my Bachelor of Science in Industrial Engineering, followed by a Master’s degree in Anthropology.
   </p>
 
   <p>
