@@ -67,7 +67,7 @@ author_profile: true
       “The classroom remains the most radical space of possibility in the academy.”
     </blockquote>
     <p style="text-align: right; margin-top: 10px; color: #666;">
-      — bell hooks, <em>Teaching to Transgress</em>
+      — bell hooks, <em>Teaching to Transgress: Education as the Act of Freedom</em>
     </p>
   </div>
 </div>
