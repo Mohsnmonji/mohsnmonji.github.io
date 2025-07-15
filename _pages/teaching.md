@@ -75,14 +75,13 @@ author_profile: true
 <div class="teaching-section">
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
-    <ul class="teaching-list">
-      <li><i class="fas fa-university icon"></i> Critical Theory</li>
-       <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
-      <li><i class="fas fa-database icon"></i> Survey Methodology</li>
-      <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
-      <li><i class="fas fa-microchip icon"></i> Computational Sociology</li>
-      <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
-      <li><i class="fas fa-book-open icon"></i> Social History of Statistics</li>
+    <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
+      <li>Critical Theory</li>
+      <li>Colonialism, Health, and Mental Health</li>
+      <li>Indigenous Health</li>
+      <li>Decolonial Statistics</li>
+      <li>Survey Methodology</li>
+      <li>Social History of Statistics and Psychiatry</li>
     </ul>
   </div>
 </div>
