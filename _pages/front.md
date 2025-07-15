@@ -26,7 +26,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-  I am an undisciplinary researcher working at the intersection of Indigenous studies, Black feminist thought, and population health. My research critically examines how colonial expansionism, racial capitalism, and epistemic forms of oppression shape mental health outcomes and governance in settler colonial contexts.
+  I am a sociologist working at the intersection of critical Indigenous studies, Black feminist thought, and population health. My research critically examines how colonial expansionism, racial capitalism, and epistemic forms of oppression shape mental health outcomes and governance in settler colonial contexts.
 </p>
 
   <!-- Button -->
