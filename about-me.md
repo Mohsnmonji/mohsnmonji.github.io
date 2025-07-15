@@ -112,7 +112,7 @@ author_profile: true
   </p>
 
 <p>
-  <strong>Second</strong>, drawing on critical Indigenous studies and Black feminist thought, I examine settler colonialism as a fundamental cause of health and mental health disparities between Indigenous and non-Inidgenous peoples. In particular, I am interested in exploring how population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous mental health is collected and governed, but also in how such data is mobilized to shape health policies related to Indigenous peoples. 
+  <strong>Second</strong>, drawing on critical Indigenous studies and Black feminist thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am interested in exploring how population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how such data is mobilized to shape health policies related to Indigenous peoples. 
 </p>
 
 
