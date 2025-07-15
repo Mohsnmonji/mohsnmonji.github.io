@@ -84,13 +84,18 @@ author_profile: true
 
 <div class="card">
   <p>
-    I am a PhD Candidate in Sociology at 
+    Were I to provide a short chronological biography of myself, I would begin by telling you that I was born in Iran and come from two Indigenous nomadic tribes: the Bakhtiari and the Qashqa’i. I would also tell you that I have been a travelling scholar. Before beginning my doctoral studies, I completed a Bachelor of Science in Industrial Engineering, followed by a Master’s degree in Anthropology.
+  </p>
+
+  <p>
+    I am currently a PhD Candidate in Sociology at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
-    a CAnD3 Doctoral Fellow at 
-    <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>, 
-    and an Emerging Scholar with the 
+    a 2024–2025 Doctoral Fellow at the 
+    <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
+    <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>, and an Emerging Scholar with the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
   </p>
+</div>
 
   <p>
     My research blends contemporary critical theory and quantitative methods to explore the ways in which intersecting systems of oppression influence mental health. I work across two strands:  
