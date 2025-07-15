@@ -112,7 +112,7 @@ author_profile: true
   </p>
 
   <p>
-  <strong>Second</strong>, I critically examine the collection and governance of data on Indigenous mental health in settler colonial contexts. Drawing on critical Indigenous studies and Black feminist thought, I investigate how dominant data practices related epistemically oppress Indigenous ways of knowing and conceptions of mental wellness. My work advocates for decolonial approaches to population health research that prioritize Indigenous data sovereignty and understandings of well-being.
+  <strong>Second</strong>, I critically examine the collection and governance of data on Indigenous mental health in settler colonial contexts. Drawing on critical Indigenous studies and Black feminist thought, I investigate how dominant data practices epistemically oppress Indigenous ways of knowing and conceptions of mental wellness. My work advocates for decolonial approaches to population health research that prioritize Indigenous data sovereignty and understandings of well-being.
 </p>
 
 </div>
