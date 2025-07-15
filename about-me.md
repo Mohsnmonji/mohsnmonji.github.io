@@ -93,7 +93,7 @@ author_profile: true
 </p>
 
 <p>
-    My research has been supported by 
+    My doctoral research has been supported by 
     <a href="https://www.concordia.ca" target="_blank">Concordia University</a>, 
     the <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
     the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
@@ -105,7 +105,7 @@ author_profile: true
 <!-- RESEARCH OVERVIEW CARD -->
 <div class="card">
   <p>
-    My research blends contemporary critical theory and quantitative methods to explore the ways in which intersecting systems of oppression influence mental health. I work across two strands:
+    My research program blends contemporary critical theory and quantitative methods to explore the ways in which intersecting systems of oppression influence mental health. I work across two strands:
   </p>
 
   <p>
