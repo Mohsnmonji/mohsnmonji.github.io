@@ -82,6 +82,7 @@ author_profile: true
   }
 </style>
 
+<!-- BIOGRAPHY CARD -->
 <div class="card">
   <p>
     Were I to provide a short chronological biography of myself, I would begin by telling you that I was born in Iran and come from two Indigenous nomadic tribes: the Bakhtiari and the Qashqa’i. I would also tell you that I have been a travelling scholar. Before beginning my doctoral studies, I completed a Bachelor of Science in Industrial Engineering, followed by a Master’s degree in Anthropology.
@@ -97,18 +98,19 @@ author_profile: true
   </p>
 </div>
 
+<!-- RESEARCH OVERVIEW CARD -->
+<div class="card">
   <p>
-    My research blends contemporary critical theory and quantitative methods to explore the ways in which intersecting systems of oppression influence mental health. I work across two strands:  
+    My research blends contemporary critical theory and quantitative methods to explore the ways in which intersecting systems of oppression influence mental health. I work across two strands:
   </p>
 
   <p>
     <strong>First</strong>, I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
   </p>
 
-<p>
-  <strong>Second</strong>, I critically examine the colonial foundations of population health surveillance and the governance of Indigenous mental health. Drawing on critical Indigenous studies, Black feminist theory, the social history of statistics and psychiatry, and theories of colonial trauma and epistemic oppression, I investigate how national data systems reproduce settler colonial logics—both in how they define mental health and in how they collect data on it. I am interested in decolonial data practices that reject extractive and pathologizing forms of knowledge production and instead prioritize Indigenous data sovereignty and knowledge systems.
-</p>
-
+  <p>
+    <strong>Second</strong>, I critically examine the colonial foundations of population health surveillance and the governance of Indigenous mental health. Drawing on critical Indigenous studies, Black feminist theory, the social history of statistics and psychiatry, and theories of colonial trauma and epistemic oppression, I investigate how national data systems reproduce settler colonial logics—both in how they define mental health and in how they collect data on it. I am interested in decolonial data practices that reject extractive and pathologizing forms of knowledge production and instead prioritize Indigenous data sovereignty and knowledge systems.
+  </p>
 
   <p>
     My research has been supported by 
@@ -117,9 +119,9 @@ author_profile: true
     the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
     and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
   </p>
-
 </div>
 
+<!-- RESEARCH INTERESTS CARD -->
 <div class="card">
   <h3>Research Interests</h3>
   <ul style="list-style-type: disc; padding-left: 20px;">
