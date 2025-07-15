@@ -91,6 +91,15 @@ author_profile: true
 <p>
   I am currently a PhD Candidate in Sociology at <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>. During the 2024–2025 academic year, I held a Doctoral Fellowship at the <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>. I am also an Emerging Scholar with the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
 </p>
+
+<p>
+    My research has been supported by 
+    <a href="https://www.concordia.ca" target="_blank">Concordia University</a>, 
+    the <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
+    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
+    and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
+  </p>
+
 </div>
 
 <!-- RESEARCH OVERVIEW CARD -->
@@ -107,13 +116,7 @@ author_profile: true
     <strong>Second</strong>, I critically examine the colonial foundations of population health surveillance and the governance of Indigenous mental health. Drawing on critical Indigenous studies, Black feminist theory, the social history of statistics and psychiatry, and theories of colonial trauma and epistemic oppression, I investigate how national data systems reproduce settler colonial logics—both in how they define mental health and in how they collect data on it. I am interested in decolonial data practices that reject extractive and pathologizing forms of knowledge production and instead prioritize Indigenous data sovereignty and knowledge systems.
   </p>
 
-  <p>
-    My research has been supported by 
-    <a href="https://www.concordia.ca" target="_blank">Concordia University</a>, 
-    the <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
-    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
-    and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
-  </p>
+  
 </div>
 
 <!-- RESEARCH INTERESTS CARD -->
