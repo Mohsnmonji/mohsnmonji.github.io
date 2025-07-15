@@ -123,11 +123,12 @@ author_profile: true
 <div class="card">
   <h3>Research Interests</h3>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>Colonialism, Health, and Mental Health</li>
-    <li>Colonial Trauma</li>
+    <li>Settler Colonialism, Health, and Mental Health</li>
+    <li>Racial Capitalism and Health</li>
+    <li>Black Feminist Thought</li>
     <li>Epistemic Oppression</li>
     <li>Indigenous Health</li>
-    <li>Decolonial Statistics</li>
+    <li>Decolonial Public Health</li>
     <li>Social History of Statistics and Psychiatry</li>
   </ul>
 </div>
