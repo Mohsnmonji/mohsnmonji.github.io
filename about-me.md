@@ -97,7 +97,7 @@ author_profile: true
   </p>
 
   <p>
-    <strong>First</strong>, I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological and methodological implications of intersectionality for population health research, especially in relation to outcomes such as psychological distress among young adults.
+    <strong>First</strong>, I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological and methodological implications of intersectionality for population health research, especially in relation to mental health outcomes.
   </p>
 
 <p>
