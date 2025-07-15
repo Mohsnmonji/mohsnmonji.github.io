@@ -101,7 +101,7 @@ author_profile: true
   </p>
 
 <p>
-  <strong>Second</strong>, I critically examine the colonial foundations of population health surveillance and the governance of Indigenous mental health. Drawing on critical Indigenous studies, Black feminist theory, the social history of statistics and psychiatry, and theories of colonial trauma and epistemic oppression, I investigate how national data systems reproduce settler colonial logics—both in how they define mental health and in how they collect data on it. In particular, I am intersted in decolonial data practices that reject extractive and pathologizing forms of knowledge production and instead prioritize Indigenous data sovereignty and knowledge systems.
+  <strong>Second</strong>, I critically examine the colonial foundations of population health surveillance and the governance of Indigenous mental health. Drawing on critical Indigenous studies, Black feminist theory, the social history of statistics and psychiatry, and theories of colonial trauma and epistemic oppression, I investigate how national data systems reproduce settler colonial logics—both in how they define mental health and in how they collect data on it. I am interested in decolonial data practices that reject extractive and pathologizing forms of knowledge production and instead prioritize Indigenous data sovereignty and knowledge systems.
 </p>
 
 
