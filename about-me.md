@@ -93,15 +93,15 @@ author_profile: true
   </p>
 
   <p>
-    My research bridges contemporary critical theory and quantitative methods to interrogate how intersecting systems of oppression influence mental health. I work across two strands:  
+    My research blends contemporary critical theory and quantitative methods to explore the ways in which intersecting systems of oppression influence mental health. I work across two strands:  
   </p>
 
   <p>
-    <strong>First</strong>, I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological and methodological implications of intersectionality for population health research, especially in relation to mental health outcomes.
+    <strong>First</strong>, I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
   </p>
 
 <p>
-  <strong>Second</strong>, I critically examine the colonial foundations of population health surveillance and the governance of Indigenous mental health. Drawing on critical Indigenous studies, Black feminist theory, the social history of statistics and psychiatry, and theories of colonial trauma and epistemic oppression, I investigate how national data systems reproduce settler colonial logics—both in how they define mental health and in how they operationalize it. In doing so, I want to center decolonial data practices that reject extractive and pathologizing forms of knowledge production and instead prioritize Indigenous data sovereignty and knowledge systems.
+  <strong>Second</strong>, I critically examine the colonial foundations of population health surveillance and the governance of Indigenous mental health. Drawing on critical Indigenous studies, Black feminist theory, the social history of statistics and psychiatry, and theories of colonial trauma and epistemic oppression, I investigate how national data systems reproduce settler colonial logics—both in how they define mental health and in how they collect data on it. In particular, I am intersted in decolonial data practices that reject extractive and pathologizing forms of knowledge production and instead prioritize Indigenous data sovereignty and knowledge systems.
 </p>
 
 
