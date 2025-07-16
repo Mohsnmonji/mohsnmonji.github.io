@@ -127,7 +127,6 @@ author_profile: true
     <li>Settler Colonialism, Health, and Mental Health</li>
     <li>Racial Capitalism and Health</li>
     <li>Black Feminist Thought</li>
-    <li>Epistemic Oppression</li>
     <li>Indigenous Health</li>
     <li>Decolonial Public Health</li>
     <li>Social History of Statistics and Psychiatry</li>
