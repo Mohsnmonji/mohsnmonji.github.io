@@ -26,7 +26,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-  I study in the interstices of critical Indigenous studies, Black feminist thought, and population health. My research critically examines how colonialism and racial capitalism shape and govern health in settler colonial contexts.
+  I study and work at the intersections and in the interstices of critical Indigenous studies, Black feminist thought, and population health. My research critically examines how colonialism and racial capitalism shape and govern health in settler colonial contexts.
 </p>
 
   <!-- Button -->
