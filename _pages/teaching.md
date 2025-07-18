@@ -77,10 +77,11 @@ author_profile: true
   <div class="teaching-card">
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
       <li>Critical Theory</li>
-      <li>Colonialism, Health, and Mental Health</li>
-      <li>Indigenous Health</li>
-      <li>Decolonial Statistics</li>
+      <li>Classical and Contemporary Sociological Theory</li>
+      <li>Sociology of Health and Mental Health</li>
+      <li>Socil Statistics</li>
       <li>Survey Methodology</li>
+      <li>Quantitative Research Methos</li>
       <li>Social History of Statistics and Psychiatry</li>
     </ul>
   </div>
