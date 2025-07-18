@@ -128,7 +128,9 @@ author_profile: true
     <li>Racial Capitalism and Health</li>
     <li>Black Feminist Thought</li>
     <li>Indigenous Health</li>
-    <li>Decolonial Public Health</li>
+    <li>Critical Public Health</li>
+    <li>Social Statistics</li>
+    <li>Quantitative Research Methods</li>
     <li>Social History of Statistics and Psychiatry</li>
   </ul>
 </div>
