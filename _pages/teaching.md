@@ -79,7 +79,7 @@ author_profile: true
       <li>Critical Theory</li>
       <li>Classical and Contemporary Sociological Theory</li>
       <li>Sociology of Health and Mental Health</li>
-      <li>Socil Statistics</li>
+      <li>Social Statistics</li>
       <li>Survey Methodology</li>
       <li>Quantitative Research Methos</li>
       <li>Social History of Statistics and Psychiatry</li>
