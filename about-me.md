@@ -101,7 +101,7 @@ author_profile: true
 
     <h4>3. Social History of Statistics and Psychiatry</h4>
     <p>
-      My research examines the social history of modern statistics and psychiatry, focusing on the historical conditions under which statistical knowledge and psychiatric discourses emerged and became central—epistemologically—to knowledge production and population health governance.
+      Another strand of my research examines the social history of modern statistics and psychiatry, focusing on the historical conditions under which statistical knowledge and psychiatric discourses emerged and became central—epistemologically—to knowledge production and population health governance.
     </p>
   </div>
 </div>
