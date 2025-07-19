@@ -86,7 +86,7 @@ author_profile: true
   <h2>Research Program</h2>
   <div class="about-card">
     <p>
-      My research program builds on contemporary critical scholarship to explore the ways in which intersecting systems of oppression influence mental health. I primarily work across three interrelated strands:
+      My research program revolves around three areas:
     </p>
 
     <h4>1. Intersectionality and Mental Health</h4>
