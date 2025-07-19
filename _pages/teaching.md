@@ -81,7 +81,7 @@ author_profile: true
       <li>Sociology of Health and Mental Health</li>
       <li>Social Statistics</li>
       <li>Survey Methodology</li>
-      <li>Quantitative Research Methos</li>
+      <li>Quantitative Research Methods</li>
       <li>Social History of Statistics and Psychiatry</li>
     </ul>
   </div>
