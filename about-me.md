@@ -22,6 +22,7 @@ author_profile: true
   h4 {
     font-weight: bold;
     color: #1B5E20;
+    margin-top: 20px;
     margin-bottom: 10px;
     font-size: 1.1rem;
   }
@@ -34,16 +35,12 @@ author_profile: true
     margin-bottom: 8px;
     color: #555;
   }
-  .icon {
-    margin-right: 10px;
-    color: #1B5E20;
-  }
   .about-section {
     margin-bottom: 40px;
   }
   .about-card {
     border-radius: 8px;
-    padding: 20px;
+    padding: 30px;
     margin-bottom: 20px;
     color: #333333;
     background-color: #E3F2FD;
@@ -55,11 +52,10 @@ author_profile: true
   }
 </style>
 
-<!-- BIOGRAPHY SECTION -->
+<!-- ABOUT ME COMBINED CARD -->
 <div class="about-section">
   <h2>ABOUT ME</h2>
   <div class="about-card">
-   
     <p>
       I am currently a PhD Candidate in Sociology at 
       <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>. During the 2024–2025 academic year, I held a Doctoral Fellowship at the 
@@ -67,23 +63,9 @@ author_profile: true
       <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>. I am also an Emerging Scholar with the 
       <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
     </p>
-
+    
     <p>
-      My doctoral research has been supported by 
-      <a href="https://www.concordia.ca" target="_blank">Concordia University</a>, 
-      the <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
-      the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
-      and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
-    </p>
-  </div>
-</div>
-
-<!-- RESEARCH PROGRAM SECTION -->
-<div class="about-section">
-  <h2>Research Program</h2>
-  <div class="about-card">
-    <p>
-      I work at the intersections of critical Indigenous studies, Black feminist thought, and critical public health to explore how historical and ongoing systems of power and inequality—including colonialism and racial capitalism— shape health policies, systems, and outcomes in settler colonial contexts. My research program revolves around three areas:
+      I work at the intersections of critical Indigenous studies, Black feminist thought, and critical public health to explore how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health policies, systems, and outcomes in settler colonial contexts. My research program revolves around three areas:
     </p>
 
     <h4>1. Intersectionality and Mental Health</h4>
@@ -100,13 +82,8 @@ author_profile: true
     <p>
       Another strand of my research examines the social history of modern statistics and psychiatry, focusing on the historical conditions under which statistical knowledge and psychiatric discourses emerged and became central—epistemologically—to knowledge production about health and population health governance.
     </p>
-  </div>
-</div>
 
-<!-- RESEARCH INTERESTS SECTION -->
-<div class="about-section">
-  <h2>Research Interests</h2>
-  <div class="about-card">
+    <h4>Research Interests</h4>
     <ul>
       <li>Settler Colonialism, Health, and Mental Health</li>
       <li>Racial Capitalism and Health</li>
