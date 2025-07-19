@@ -27,7 +27,7 @@ hide_avatar: true
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
   
-I work at the intersections of critical Indigenous studies, Black feminist thought, and critical public health. My research explores how historical and ongoing systems of power and inequality—including colonialism and racial capitalism— continue to shape health policies, systems, and outcomes in settler colonial contexts.
+I work at the intersections of critical Indigenous studies, Black feminist thought, and critical public health. My research explores how historical and ongoing systems of power and inequality—including colonialism and racial capitalism— shape health policies, systems, and outcomes in settler colonial contexts.
 </p>
 
   <!-- Button -->
