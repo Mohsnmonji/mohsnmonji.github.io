@@ -78,7 +78,7 @@ author_profile: true
 <!-- CARD 3: RESEARCH PROGRAM -->
 <div class="about-card">
   <h2>RESEARCH PROGRAM</h2>
-  <p>My research program revolves around three interconnected areas:</p>
+  <p>My research program revolves around three areas:</p>
 
   <h4>1. Intersectionality and Mental Health</h4>
   <p>
