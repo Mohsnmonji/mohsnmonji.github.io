@@ -23,14 +23,15 @@ author_profile: true
     margin-right: auto;
   }
 
-  .card h3 {
-    font-size: 1.4rem;
-    font-weight: 600;
-    color: #1B5E20;
-    border-bottom: 2px solid #1B5E20;
-    padding-bottom: 5px;
-    margin-bottom: 20px;
-  }
+ .card h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #1B5E20;
+  border-bottom: 2px solid #1B5E20;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
 
   .card h4 {
     font-size: 1.1rem;
