@@ -73,9 +73,6 @@ author_profile: true
     and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
   </p>
 
-  <p>
-    Before beginning my doctoral studies, I completed a Master’s in Anthropology and a Bachelor’s in Industrial Engineering.
-  </p>
 </div>
 
 <!-- CARD 3: RESEARCH PROGRAM -->
