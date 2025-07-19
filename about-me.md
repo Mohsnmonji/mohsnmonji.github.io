@@ -51,7 +51,7 @@ author_profile: true
 
 <!-- CARD 2: BIOGRAPHY -->
 <div class="about-card">
-  <h2>BIOGRAPHY</h2>
+  <h2>ABOUT ME</h2>
   <p>
     I am a sociologist of health currently completing my PhD in Sociology at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>. 
