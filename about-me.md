@@ -115,7 +115,9 @@ author_profile: true
   <strong>Second</strong>, drawing on critical Indigenous studies and Black feminist thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I explore how population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
 </p>
 
-
+<p>
+  <strong>Third</strong>, my research examines the social history of modern statistics and psychiatry, focusing on the historical conditions under which statistical knowledge and psychiatric discourses emerged and became central—epistemologically—to knowledge production and population health governance.
+</p>
 
 
 </div>
