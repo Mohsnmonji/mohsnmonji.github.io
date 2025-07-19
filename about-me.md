@@ -30,15 +30,6 @@ author_profile: true
     margin-bottom: 10px;
     font-size: 1.1rem;
   }
-  ul {
-    list-style-type: disc;
-    padding-left: 20px;
-    margin-top: 10px;
-  }
-  ul li {
-    margin-bottom: 8px;
-    color: #555;
-  }
   .about-card {
     border-radius: 8px;
     padding: 30px;
@@ -50,23 +41,17 @@ author_profile: true
   }
 </style>
 
+<!-- CARD 1: RESEARCH AREAS -->
 <div class="about-card">
+  <h2>RESEARCH AREAS</h2>
+  <p>
+    Settler Colonialism, Health, and Mental Health; Racial Capitalism and Health; Black Feminist Thought; Indigenous Health; Critical Public Health; Social Statistics; Quantitative Research Methods; Social History of Statistics and Psychiatry.
+  </p>
+</div>
 
-  <h2>ABOUT ME</h2>
-
-  <h3>Research Areas</h3>
-  <ul>
-    <li>Settler Colonialism, Health, and Mental Health</li>
-    <li>Racial Capitalism and Health</li>
-    <li>Black Feminist Thought</li>
-    <li>Indigenous Health</li>
-    <li>Critical Public Health</li>
-    <li>Social Statistics</li>
-    <li>Quantitative Research Methods</li>
-    <li>Social History of Statistics and Psychiatry</li>
-  </ul>
-
-  <h3>Biography</h3>
+<!-- CARD 2: BIOGRAPHY -->
+<div class="about-card">
+  <h2>BIOGRAPHY</h2>
   <p>
     I am a sociologist of health currently completing my PhD in Sociology at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>. 
@@ -87,8 +72,11 @@ author_profile: true
   <p>
     Prior to my doctoral studies, I completed a Master’s degree in Anthropology and a Bachelor’s degree in Industrial Engineering.
   </p>
+</div>
 
-  <h3>Research Program</h3>
+<!-- CARD 3: RESEARCH PROGRAM -->
+<div class="about-card">
+  <h2>RESEARCH PROGRAM</h2>
   <p>My research program revolves around three interconnected areas:</p>
 
   <h4>1. Intersectionality and Mental Health</h4>
@@ -105,5 +93,4 @@ author_profile: true
   <p>
     Another strand of my research examines the social history of modern statistics and psychiatry, focusing on the historical conditions under which statistical knowledge and psychiatric discourses emerged and became central—epistemologically—to knowledge production about health and population health governance.
   </p>
-
 </div>
