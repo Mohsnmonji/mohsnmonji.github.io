@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About"
+title: ""
 permalink: /about-me/
 seo_title: "About | Mohsen Monji"
 canonical: "https://www.mohsenmonji.com/about-me/"
@@ -57,7 +57,7 @@ author_profile: true
 
 <!-- BIOGRAPHY SECTION -->
 <div class="about-section">
-  <h2>Biography</h2>
+  <h2>ABOUT ME</h2>
   <div class="about-card">
     <p>
       Were I to provide a short chronological biography of myself, I would begin by telling you that I was born in Iran and come from two Indigenous nomadic peoples: the Bakhtiari and the Qashqa’i. I would also tell you that I have been a travelling scholar. Before beginning my doctoral studies, I completed my Bachelor of Science in Industrial Engineering, followed by a Master’s degree in Anthropology.
