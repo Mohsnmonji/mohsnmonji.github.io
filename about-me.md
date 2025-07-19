@@ -86,7 +86,7 @@ author_profile: true
   <h2>Research Program</h2>
   <div class="about-card">
     <p>
-      My research program revolves around three areas:
+      I work at the intersections of critical Indigenous studies, Black feminist thought, and critical public health. My research explores how historical and ongoing systems of power and inequality—including colonialism and racial capitalism— continue to shape health policies, systems, and outcomes in settler colonial contexts. My research program revolves around three areas:
     </p>
 
     <h4>1. Intersectionality and Mental Health</h4>
