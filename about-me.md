@@ -104,7 +104,7 @@ author_profile: true
   </p>
 
   <p>
-    My research program builds on contemporary critical scholarship to explore the ways in which intersecting systems of oppression influence mental health. I primarily work across two research strands:
+    My research program builds on contemporary critical scholarship to explore the ways in which intersecting systems of oppression influence mental health. I primarily work across three research strands:
   </p>
 
   <p>
