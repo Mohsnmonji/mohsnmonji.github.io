@@ -62,15 +62,19 @@ author_profile: true
     I was a 2024–2025 Doctoral Fellow at the 
     <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
     <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and am an Emerging Scholar with the 
-    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    My doctoral research has been supported by the 
-    <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et culture (FRQSC)</a>, the 
-    <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, and 
-    <a href="https://www.concordia.ca/" target="_blank">Concordia University</a>.
+    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
   </p>
 
   <p>
-    Prior to my doctoral studies, I completed a Master’s degree in Anthropology and a Bachelor’s degree in Industrial Engineering.
+    My doctoral research has been supported by 
+    <a href="https://www.concordia.ca" target="_blank">Concordia University</a>, 
+    the <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
+    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
+    and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
+  </p>
+
+  <p>
+    Before beginning my doctoral studies, I completed a Master’s in Anthropology and a Bachelor’s in Industrial Engineering.
   </p>
 </div>
 
