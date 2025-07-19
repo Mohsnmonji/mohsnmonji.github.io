@@ -59,10 +59,7 @@ author_profile: true
 <div class="about-section">
   <h2>ABOUT ME</h2>
   <div class="about-card">
-    <p>
-      Were I to provide a short chronological biography of myself, I would begin by telling you that I was born in Iran and come from two Indigenous nomadic peoples: the Bakhtiari and the Qashqa’i. I would also tell you that I have been a travelling scholar. Before beginning my doctoral studies, I completed my Bachelor of Science in Industrial Engineering, followed by a Master’s degree in Anthropology.
-    </p>
-
+   
     <p>
       I am currently a PhD Candidate in Sociology at 
       <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>. During the 2024–2025 academic year, I held a Doctoral Fellowship at the 
