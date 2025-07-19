@@ -2,133 +2,123 @@
 layout: archive
 title: "About"
 permalink: /about-me/
+seo_title: "About | Mohsen Monji"
+canonical: "https://www.mohsenmonji.com/about-me/"
 author_profile: true
 ---
 
 <style>
-  .icon {
-    margin-right: 10px;
-    color: #1B5E20;
+  body {
+    font-size: 1.05em;
   }
-
-  .card {
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 30px;
-    color: #333333;
-    background-color: #F9FAFB;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.05);
-    max-width: 850px;
-    margin-left: auto;
-    margin-right: auto;
+  h2 {
+    border-bottom: 2px solid #1B5E20;
+    font-weight: bold;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    color: #333;
+    text-transform: uppercase;
   }
-
- .card h3 {
-  font-size: 1.4rem;
-  font-weight: 600;
-  color: #1B5E20;
-  border-bottom: 2px solid #1B5E20;
-  padding-bottom: 5px;
-  margin-bottom: 20px;
-  text-transform: uppercase;
-}
-
-  .card h4 {
-    font-size: 1.1rem;
+  h4 {
     font-weight: bold;
     color: #1B5E20;
-    margin-top: 20px;
     margin-bottom: 10px;
+    font-size: 1.1rem;
   }
-
-  .card p {
-    font-size: 1rem;
-    color: #333;
-    line-height: 1.6;
-    text-align: justify;
-  }
-
-  .card ul {
+  ul {
     list-style-type: disc;
     padding-left: 20px;
     margin-top: 10px;
   }
-
-  .card ul li {
-    font-size: 1rem;
-    color: #555;
+  ul li {
     margin-bottom: 8px;
+    color: #555;
   }
-
-  a {
+  .icon {
+    margin-right: 10px;
     color: #1B5E20;
-    text-decoration: none;
   }
-
-  a:hover {
-    text-decoration: underline;
+  .about-section {
+    margin-bottom: 40px;
+  }
+  .about-card {
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333333;
+    background-color: #E3F2FD;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: justify;
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
   }
 </style>
 
-<!-- BIOGRAPHY CARD -->
-<div class="card">
-  <h3>Biography</h3>
-  <p>
-    Were I to provide a short chronological biography of myself, I would begin by telling you that I was born in Iran and come from two Indigenous nomadic peoples: the Bakhtiari and the Qashqa’i. I would also tell you that I have been a travelling scholar. Before beginning my doctoral studies, I completed my Bachelor of Science in Industrial Engineering, followed by a Master’s degree in Anthropology.
-  </p>
+<!-- BIOGRAPHY SECTION -->
+<div class="about-section">
+  <h2>Biography</h2>
+  <div class="about-card">
+    <p>
+      Were I to provide a short chronological biography of myself, I would begin by telling you that I was born in Iran and come from two Indigenous nomadic peoples: the Bakhtiari and the Qashqa’i. I would also tell you that I have been a travelling scholar. Before beginning my doctoral studies, I completed my Bachelor of Science in Industrial Engineering, followed by a Master’s degree in Anthropology.
+    </p>
 
-  <p>
-    I am currently a PhD Candidate in Sociology at 
-    <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>. During the 2024–2025 academic year, I held a Doctoral Fellowship at the 
-    <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
-    <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>. I am also an Emerging Scholar with the 
-    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
-  </p>
+    <p>
+      I am currently a PhD Candidate in Sociology at 
+      <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>. During the 2024–2025 academic year, I held a Doctoral Fellowship at the 
+      <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
+      <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>. I am also an Emerging Scholar with the 
+      <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
+    </p>
 
-  <p>
-    My doctoral research has been supported by 
-    <a href="https://www.concordia.ca" target="_blank">Concordia University</a>, 
-    the <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
-    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
-    and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
-  </p>
+    <p>
+      My doctoral research has been supported by 
+      <a href="https://www.concordia.ca" target="_blank">Concordia University</a>, 
+      the <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
+      the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
+      and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
+    </p>
+  </div>
 </div>
 
-<!-- RESEARCH PROGRAM CARD -->
-<div class="card">
-  <h3>Research Program</h3>
+<!-- RESEARCH PROGRAM SECTION -->
+<div class="about-section">
+  <h2>Research Program</h2>
+  <div class="about-card">
+    <p>
+      My research program builds on contemporary critical scholarship to explore the ways in which intersecting systems of oppression influence mental health. I primarily work across three interrelated strands:
+    </p>
 
-  <p>
-    My research program builds on contemporary critical scholarship to explore the ways in which intersecting systems of oppression influence mental health. I primarily work across three interrelated strands:
-  </p>
+    <h4>1. Intersectionality and Mental Health</h4>
+    <p>
+      I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
+    </p>
 
-  <h4>1. Intersectionality and Mental Health</h4>
-  <p>
-    I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
-  </p>
+    <h4>2. Settler Colonialism and Health Governance</h4>
+    <p>
+      Drawing on critical Indigenous studies and Black feminist thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I explore how population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
+    </p>
 
-  <h4>2. Settler Colonialism and Health Governance</h4>
-  <p>
-    Drawing on critical Indigenous studies and Black feminist thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I explore how population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
-  </p>
-
-  <h4>3. Social History of Statistics and Psychiatry</h4>
-  <p>
-    My research examines the social history of modern statistics and psychiatry, focusing on the historical conditions under which statistical knowledge and psychiatric discourses emerged and became central—epistemologically—to knowledge production and population health governance.
-  </p>
+    <h4>3. Social History of Statistics and Psychiatry</h4>
+    <p>
+      My research examines the social history of modern statistics and psychiatry, focusing on the historical conditions under which statistical knowledge and psychiatric discourses emerged and became central—epistemologically—to knowledge production and population health governance.
+    </p>
+  </div>
 </div>
 
-<!-- RESEARCH INTERESTS CARD -->
-<div class="card">
-  <h3>Research Interests</h3>
-  <ul>
-    <li>Settler Colonialism, Health, and Mental Health</li>
-    <li>Racial Capitalism and Health</li>
-    <li>Black Feminist Thought</li>
-    <li>Indigenous Health</li>
-    <li>Critical Public Health</li>
-    <li>Social Statistics</li>
-    <li>Quantitative Research Methods</li>
-    <li>Social History of Statistics and Psychiatry</li>
-  </ul>
+<!-- RESEARCH INTERESTS SECTION -->
+<div class="about-section">
+  <h2>Research Interests</h2>
+  <div class="about-card">
+    <ul>
+      <li>Settler Colonialism, Health, and Mental Health</li>
+      <li>Racial Capitalism and Health</li>
+      <li>Black Feminist Thought</li>
+      <li>Indigenous Health</li>
+      <li>Critical Public Health</li>
+      <li>Social Statistics</li>
+      <li>Quantitative Research Methods</li>
+      <li>Social History of Statistics and Psychiatry</li>
+    </ul>
+  </div>
 </div>
