@@ -55,7 +55,7 @@ author_profile: true
   <p>
     I am a sociologist of health currently completing my PhD in Sociology at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>. 
-    My research lies at the intersections of critical Indigenous studies, Black feminist thought, and critical public health, and examines how historical and ongoing structures of power—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.
+    My research lies at the intersections of critical Indigenous studies, Black feminist thought, and critical public health, and examines how historical and ongoing syatems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.
   </p>
 
  <p>
