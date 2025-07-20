@@ -64,11 +64,11 @@ author_profile: true
  <p>
   I am a sociologist of health currently completing my PhD in Sociology at 
   <a href="https://www.concordia.ca/" target="_blank">Concordia University</a>. 
-  My research lies at the intersections of critical Indigenous studies, Black feminist thought, and critical public health, and examines how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts. 
   I am also a CRDCN Emerging Scholar at the 
   <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a> and was a 2024–2025 Doctoral Fellow at the 
   <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
-  <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>.
+  <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>.My research lies at the intersections of critical Indigenous studies, Black feminist thought, and critical public health, and examines how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts. 
+  
 </p>
 
   <p>My research program revolves around three areas:</p>
