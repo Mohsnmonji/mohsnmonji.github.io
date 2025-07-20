@@ -67,11 +67,11 @@ author_profile: true
   I am also a CRDCN Emerging Scholar at the 
   <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a> and was a 2024–2025 Doctoral Fellow at the 
   <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
-  <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>.My research lies at the intersections of critical Indigenous studies, Black feminist thought, and critical public health, and examines how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts. 
-  
+  <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>. 
 </p>
 
-  <p>My research program revolves around three areas:</p>
+  <p>I work at the intersections of critical Indigenous studies, Black feminist thought, and critical public health, and examines how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts. 
+  My research program revolves around three areas:</p>
 
   <h4>1. Intersectionality and Mental Health</h4>
   <p>
