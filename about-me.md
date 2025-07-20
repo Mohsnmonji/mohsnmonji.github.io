@@ -53,14 +53,11 @@ author_profile: true
 <!-- CARD 1: ABOUT ME -->
 <div class="about-card">
   <h2>ABOUT ME</h2>
-  <p>
-    I am a PhD candidate in Sociology at 
-    <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and an Emerging Scholar with the 
-    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    During the 2024–2025 academic year, I was a Doctoral Fellow at the 
-    <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
-    <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>.
-  </p>
+  <ul>
+    <li>PhD Candidate in Sociology, <a href="https://www.concordia.ca/" target="_blank">Concordia University</a></li>
+    <li>CRDCN Emerging Scholar, <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network</a></li>
+    <li>CAnD3 Doctoral Fellow (2024–2025), <a href="https://www.mcgill.ca/cand3/" target="_blank">CAnD3</a>, <a href="https://www.mcgill.ca/" target="_blank">McGill University</a></li>
+  </ul>
 </div>
 
 <!-- CARD 2: RESEARCH AREAS -->
