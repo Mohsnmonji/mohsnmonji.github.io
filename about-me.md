@@ -63,11 +63,11 @@ author_profile: true
   <h2>AFFILIATIONS</h2>
   <h4>Current Roles and Affiliations</h4>
   <ul>
-    <li>PhD Candidate, Sociology, <a href="https://www.concordia.ca/" target="_blank">Concordia University</a></li>
-    <li>Doctoral Scholar, <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a></li>
+    <li>PhD Candidate in Sociology, <a href="https://www.concordia.ca/" target="_blank">Concordia University</a></li>
+    <li>FRQSC Doctoral Scholar, <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a></li>
     <li>Doctoral Scholar, <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a></li>
-    <li>Emerging Scholar, <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a></li>
-    <li>Doctoral Fellow (2024–2025), <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a>, McGill University</li>
+    <li>CRDCN Emerging Scholar, <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a></li>
+    <li>CAnD3 Doctoral Fellow (2024–2025), <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a>, McGill University</li>
   </ul>
 </div>
 
