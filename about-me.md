@@ -61,7 +61,6 @@ author_profile: true
 <!-- CARD 2: AFFILIATIONS -->
 <div class="about-card">
   <h2>AFFILIATIONS</h2>
-  <h4>Current Roles and Affiliations</h4>
   <ul>
     <li>PhD Candidate in Sociology, <a href="https://www.concordia.ca/" target="_blank">Concordia University</a></li>
     <li>FRQSC Doctoral Scholar, <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a></li>
