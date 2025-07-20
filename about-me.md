@@ -54,7 +54,7 @@ author_profile: true
 <div class="about-card">
   <h2>ABOUT ME</h2>
   <p>
-    I am a PhD candidate in Sociology at 
+    I am a sociologist of health working at the intersections of critical Indigenous studies, Black feminist thought, and critical public health to examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.I am currently a PhD candidate in Sociology at 
     <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and an Emerging Scholar with the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
     During the 2024–2025 academic year, I was a Doctoral Fellow at the 
@@ -74,10 +74,7 @@ author_profile: true
 <!-- CARD 3: RESEARCH PROGRAM -->
 <div class="about-card">
   <h2>RESEARCH PROGRAM</h2>
-  <p>
-    I am a sociologist of health working at the intersections of critical Indigenous studies, Black feminist thought, and critical public health to examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.
-  </p>
-
+  
   <p>My research program revolves around three areas:</p>
 
   <h4>1. Intersectionality and Mental Health</h4>
