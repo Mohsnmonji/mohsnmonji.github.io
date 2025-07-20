@@ -74,7 +74,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH PROGRAM</h2>
   <p>
-    I am a sociologist of health whose research lies at the intersections of critical Indigenous studies, Black feminist thought, and critical public health. I examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.
+    I am a sociologist of health working at the intersections of critical Indigenous studies, Black feminist thought, and critical public health to examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.
   </p>
 
   <p>My research program revolves around three areas:</p>
