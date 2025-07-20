@@ -30,6 +30,15 @@ author_profile: true
     margin-bottom: 10px;
     font-size: 1.1rem;
   }
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  ul li {
+    margin-bottom: 8px;
+    color: #555;
+  }
   .about-card {
     border-radius: 8px;
     padding: 30px;
@@ -49,35 +58,26 @@ author_profile: true
   </p>
 </div>
 
-<!-- CARD 2: BIOGRAPHY -->
+<!-- CARD 2: AFFILIATIONS -->
 <div class="about-card">
-  <h2>ABOUT ME</h2>
-  <p>
-    I am a sociologist of health currently completing my PhD in Sociology at 
-    <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>. 
-    My research lies at the intersections of critical Indigenous studies, Black feminist thought, and critical public health, and examines how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.
-  </p>
-
- <p>
-  I am a CRDCN Emerging Scholar at the 
-  <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a> and was a 2024–2025 Doctoral Fellow at the 
-  <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
-  <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>.
-</p>
-
-  <p>
-    My doctoral research has been supported by 
-    <a href="https://www.concordia.ca" target="_blank">Concordia University</a>, 
-    the <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
-    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a>, 
-    and the <a href="https://crdcn.ca" target="_blank">CRDCN</a>.
-  </p>
-
+  <h2>AFFILIATIONS</h2>
+  <h4>Current Roles and Affiliations</h4>
+  <ul>
+    <li>PhD Candidate, Sociology, <a href="https://www.concordia.ca/" target="_blank">Concordia University</a></li>
+    <li>Doctoral Scholar, <a href="https://frq.gouv.qc.ca/" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a></li>
+    <li>Doctoral Scholar, <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Centre for Social Statistics (QICSS)</a></li>
+    <li>Emerging Scholar, <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a></li>
+    <li>Doctoral Fellow (2024–2025), <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a>, McGill University</li>
+  </ul>
 </div>
 
 <!-- CARD 3: RESEARCH PROGRAM -->
 <div class="about-card">
   <h2>RESEARCH PROGRAM</h2>
+  <p>
+    I am a sociologist of health whose research lies at the intersections of critical Indigenous studies, Black feminist thought, and critical public health. I examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.
+  </p>
+
   <p>My research program revolves around three areas:</p>
 
   <h4>1. Intersectionality and Mental Health</h4>
