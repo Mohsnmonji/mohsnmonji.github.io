@@ -45,18 +45,16 @@ I work at the intersections of critical Indigenous studies, Black feminist thoug
         <span style="font-size: 14px; color: #555;">Email</span>
       </a>
     </div>
-
     <div style="text-align: center;">
       <a href="https://github.com/Mohsnmonji" target="_blank" style="text-decoration: none;">
         <i class="fab fa-github" style="color: #333; font-size: 30px;"></i><br>
         <span style="font-size: 14px; color: #555;">GitHub</span>
       </a>
-    </div>
-
-    <div style="text-align: center;">
+         <div style="text-align: center;">
       <a href="https://www.linkedin.com/in/mohsen-monji-0a3a37269" target="_blank" style="text-decoration: none;">
         <i class="fab fa-linkedin" style="color: #0077B5; font-size: 30px;"></i><br>
         <span style="font-size: 14px; color: #555;">LinkedIn</span>
       </a>
     </div>
   </div>
+
