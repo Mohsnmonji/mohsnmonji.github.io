@@ -30,7 +30,7 @@ hide_avatar: true
   <!-- Buttons -->
   <div style="margin-bottom: 20px;">
     <a href="/about-me/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">Learn More About Me</a>
-    <a href="/curriculum/" style="display: inline-block; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">View My CV</a>
+
   </div>
 
   <!-- Social Media Links -->
