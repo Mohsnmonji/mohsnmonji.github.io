@@ -76,9 +76,10 @@ author_profile: true
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
-      <li>Critical Theory</li>
       <li>Classical and Contemporary Sociological Theory</li>
-      <li>Sociology of Health and Mental Health</li>
+      <li>Sociology of Health</li>
+      <li>Sociology of Knowledge</li>
+      <li>Critical Theory</li>
       <li>Social Statistics</li>
       <li>Survey Methodology</li>
       <li>Quantitative Research Methods</li>
