@@ -68,7 +68,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH AREAS</h2>
   <p>
-    Settler Colonialism, Health, and Mental Health | Racial Capitalism and Health | Black Feminist Thought | Indigenous Health | Critical Public Health | Social Statistics | Quantitative Research Methods | Social History of Statistics and Psychiatry
+    Colonialism and Health | Racial Capitalism and Health | Black Feminist Thought | Indigenous Health | Critical Public Health | Social Statistics | Quantitative Research Methods | Social History of Statistics and Psychiatry
   </p>
 </div>
 
