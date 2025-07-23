@@ -80,7 +80,7 @@ author_profile: true
 
   <h4>1. Intersectionality and Mental Health</h4>
   <p>
-    I draw on BIPOC feminist thought - particularly intersectionality- to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
+    I draw on BIPOC feminist and queer thought - particularly intersectionality- to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
   </p>
 
   <h4>2. Settler Colonialism and Health Governance</h4>
