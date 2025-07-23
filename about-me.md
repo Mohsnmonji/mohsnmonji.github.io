@@ -85,7 +85,7 @@ author_profile: true
 
   <h4>2. Settler Colonialism and Health Governance</h4>
   <p>
-    Drawing on critical Indigenous studies and BIPOC feminist thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am concerned with the ways in which population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
+    Drawing on critical Indigenous studies and BIPOC decolonial thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am concerned with the ways in which population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
   </p>
 
   <h4>3. Social History of Statistics and Psychiatry</h4>
