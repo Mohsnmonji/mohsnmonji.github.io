@@ -54,7 +54,7 @@ author_profile: true
 <div class="about-card">
   <h2>ABOUT ME</h2>
   <p>
-    I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, Black feminist thought, and critical public health to examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.
+    I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, BIPOC feminist thought, and critical public health to examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—shape health systems, policies, and outcomes in settler colonial contexts.
     I am currently a PhD candidate in Sociology at 
     <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and a CRDCN Emerging Scholar with the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
@@ -68,7 +68,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH AREAS</h2>
   <p>
-    Colonialism and Health | Racial Capitalism and Health | Black Feminist Thought | Indigenous Health | Critical Public Health | Social Statistics | Quantitative Research Methods | Social History of Statistics and Psychiatry
+    Colonialism and Health | Racial Capitalism and Health | BIPOC Feminist Thought | Indigenous Health | Critical Public Health | Social Statistics | Quantitative Research Methods | Social History of Statistics and Psychiatry
   </p>
 </div>
 
@@ -80,12 +80,12 @@ author_profile: true
 
   <h4>1. Intersectionality and Mental Health</h4>
   <p>
-    I draw on Black feminist theory and intersectionality to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
+    I draw on BIPOC feminist thought - particularly intersectionality- to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
   </p>
 
   <h4>2. Settler Colonialism and Health Governance</h4>
   <p>
-    Drawing on critical Indigenous studies and Black feminist thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am concerned with the ways in which population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
+    Drawing on critical Indigenous studies and BIPOC feminist thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am concerned with the ways in which population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
   </p>
 
   <h4>3. Social History of Statistics and Psychiatry</h4>
