@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-seo_title: "Mohsen Monji"
+seo_title: "Mohsen Monji | Sociologist & Population Health Researcher"
 description: "Mohsen Monji is a sociologist of health and knowledge working at the intersections of critical Indigenous studies, Black feminist thought, and critical public health."
 canonical: "https://www.mohsenmonji.com/"
 author_profile: false
