@@ -68,7 +68,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH AREAS</h2>
   <p>
-    Colonialism and Health | Racial Capitalism and Health | BIPOC Feminist & Queer Thought | Indigenous Health | Critical Public Health | Social Statistics | Quantitative Research Methods | Social History of Statistics and Psychiatry
+    Colonialism and Health | Racial Capitalism and Health | BIPOC Feminist & Queer Thought | Indigenous Health | Critical Public Health | Social Statistics | Quantitative Research Methods | Data Justice | Social History of Statistics and Psychiatry
   </p>
 </div>
 
