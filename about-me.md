@@ -68,7 +68,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH AREAS</h2>
   <p>
-    Colonialism and Health | Racial Capitalism and Health | BIPOC Feminist & Queer Thought | Indigenous Health | Critical Public Health | Social Statistics | Quantitative Research Methods | Data Justice | Social History of Statistics and Psychiatry
+    Colonialism and Health | Indigenous Health | Social Statistics | Quantitative Research Methods | Data Justice 
   </p>
 </div>
 
@@ -76,7 +76,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH PROGRAM</h2>
   
-  <p>My research program revolves around three areas:</p>
+  <p>My research program revolves around two areas:</p>
 
   <h4>1. Intersectionality and Mental Health</h4>
   <p>
@@ -88,8 +88,4 @@ author_profile: true
     Drawing on critical Indigenous studies and BIPOC decolonial thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am concerned with the ways in which population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
   </p>
 
-  <h4>3. Social History of Statistics and Psychiatry</h4>
-  <p>
-    Another strand of my research examines the social history of modern statistics and psychiatry, focusing on the historical conditions under which statistical knowledge and psychiatric discourses emerged and became central—epistemologically—to knowledge production about health and population health governance.
-  </p>
 </div>
