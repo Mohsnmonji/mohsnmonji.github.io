@@ -54,7 +54,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH AREAS</h2>
   <p>
-    Social Determinants of Healyh | Indigenous Health | Access to Health Care | Social Statistics | Quantitative Research Methods | Data Justice 
+    Social Determinants of Health | Indigenous Health | Access to Health Care | Social Statistics | Quantitative Research Methods | Data Justice 
   </p>
 </div>
 
