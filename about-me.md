@@ -62,7 +62,6 @@ author_profile: true
 <div class="about-card">
   <h2>ABOUT ME</h2>
   <p>
-    I am a sociologist of health and knowledge studying the social determinants of health and access to healthcare in Canada.
     I am currently a PhD candidate in Sociology at 
     <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and a CRDCN Emerging Scholar with the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
