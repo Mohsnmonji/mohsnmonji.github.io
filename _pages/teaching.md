@@ -62,29 +62,16 @@ author_profile: true
 </style>
 
 <div class="teaching-section">
-  <div class="teaching-card">
-    <blockquote style="font-style: italic; border-left: 4px solid #1B5E20; padding-left: 15px; color: #444;">
-      “The classroom remains the most radical space of possibility in the academy.”
-    </blockquote>
-    <p style="text-align: right; margin-top: 10px; color: #666;">
-      — bell hooks, <em>Teaching to Transgress: Education as the Act of Freedom</em>
-    </p>
-  </div>
-</div>
-
-<div class="teaching-section">
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
-      <li>Classical and Contemporary Sociological Theory</li>
       <li>Sociology of Health</li>
       <li>Sociology of Knowledge</li>
-      <li>Critical Theory</li>
+      <li>Classical and Contemporary Sociological Theory</li>
       <li>Social Statistics</li>
       <li>Survey Methodology</li>
       <li>Quantitative Research Methods</li>
-       <li>Society and Technology</li>
-      <li>Social History of Statistics and Psychiatry</li>
+      <li>Society and Technology</li>
     </ul>
   </div>
 </div>
