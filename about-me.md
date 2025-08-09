@@ -50,6 +50,14 @@ author_profile: true
   }
 </style>
 
+<!-- CARD 2: RESEARCH AREAS -->
+<div class="about-card">
+  <h2>RESEARCH AREAS</h2>
+  <p>
+    Colonialism and Health | Indigenous Health | Access to Healthcare| Social Statistics | Quantitative Research Methods | Data Justice 
+  </p>
+</div>
+
 <!-- CARD 1: ABOUT ME -->
 <div class="about-card">
   <h2>ABOUT ME</h2>
@@ -64,10 +72,4 @@ author_profile: true
   </p>
 </div>
 
-<!-- CARD 2: RESEARCH AREAS -->
-<div class="about-card">
-  <h2>RESEARCH AREAS</h2>
-  <p>
-    Colonialism and Health | Indigenous Health | Access to Healthcare| Social Statistics | Quantitative Research Methods | Data Justice 
-  </p>
-</div>
+
