@@ -69,7 +69,10 @@ author_profile: true
     During the 2024–2025 academic year, I was a Doctoral Fellow at the 
     <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
     <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>.
-  </p>
+ 
+  My doctoral research is focused on the <strong>social determinants of mental health</strong> and 
+    population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression in Canada.
+ </p>
 </div>
 
 
