@@ -109,26 +109,19 @@ author_profile: true
     <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
   </p>
   
-  <p>
-    I teach courses in both <strong>Sociological Theory and Method</strong>, including <strong>Social Statistics</strong>, 
-    <strong>Quantitative Research Methods</strong>, <strong>Critical Data Studies</strong>, <strong>Sociology of Health</strong>, 
-    <strong>Survey Methodology</strong>, <strong>Computational Sociology</strong>, and <strong>Society and Technology</strong>.
-</p>
-  
 </div>
 
 <div class="card">
-  <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise</h3>
+  <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise </h3>
   <ul>
+    <li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
     <li><i class="fas fa-chart-line icon"></i> Social Statistics</li>
-    <li><i class="fas fa-history icon"></i> Social History of Statistics</li>
     <li><i class="fas fa-table icon"></i> Quantitative Research Methods</li>
     <li><i class="fas fa-poll icon"></i> Survey Methodology</li>
     <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
     <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
     <li><i class="fas fa-microchip icon"></i> Society and Technology</li>
-<li><i class="fas fa-heartbeat icon"></i> Sociology of Health</li>
-    
+
   </ul>
 </div>
 
