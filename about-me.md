@@ -89,10 +89,11 @@ author_profile: true
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a> 
     and a CRDCN Emerging Scholar at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.  
-    In 2024–2025, I was a CAnD3 Doctoral Fellow at 
-    <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>.  
+    In 2024–2025, I was a Doctoral Fellow at the 
+    <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> 
+    at McGill University.  
     My research broadly examines the social determinants of health and 
-    access to healthcare, with a particular focus on
+    inequities in access to healthcare, with a particular focus on
     mental health outcomes such as psychological distress, anxiety, and depression in Canada.
   </p>
   <p>
