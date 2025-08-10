@@ -191,5 +191,13 @@ author_profile: true
       <li>AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022</li>
     </ul>
   </div>
+
+<div class="teaching-card">
+  <h4><i class="fas fa-user-graduate icon"></i> TUTOR</h4>
+  <p><strong>Applied Statistics and Survey Methodology, Tehran, Iran</strong><br>2016–2020</p>
+  <ul>
+    <li>Quantitative Research Methods, Survey Methodology, and Applied Statistics.</li>
+  </ul>
+</div>
 </div>
 
