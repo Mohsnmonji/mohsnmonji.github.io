@@ -3,7 +3,7 @@ layout: archive
 title: "About"
 permalink: /about-me/
 seo_title: "About | Mohsen Monji"
-description: " Learn more anout Mohsen Monji."
+description: " Learn more about Mohsen Monji."
 canonical: "https://www.mohsenmonji.com/about-me/"
 author_profile: true
 ---
@@ -85,24 +85,22 @@ author_profile: true
 
 <div class="card">
   <p>
-    I am a <strong>PhD Candidate in Sociology</strong> at 
+    I am a PhD Candidate in Sociology at 
     <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a> 
-    and a <strong>CRDCN Emerging Scholar</strong> at the 
+    and a CRDCN Emerging Scholar at the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.  
-    In 2024–2025, I was a <strong>CAnD3 Doctoral Fellow</strong> at 
+    In 2024–2025, I was a CAnD3 Doctoral Fellow at 
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">McGill University</a>.  
-    My research broadly examines the <strong>social determinants of health</strong> and 
-    <strong>access to healthcare</strong>, with a particular focus on
-    <strong>mental health outcomes</strong> such as psychological distress, anxiety, and depression in Canada.
+    My research broadly examines the social determinants of health and 
+    access to healthcare, with a particular focus on
+    mental health outcomes such as psychological distress, anxiety, and depression in Canada.
   </p>
   <p>
-    Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
-    <strong>social statistics</strong>, and <strong>machine learning</strong>, with an emphasis on official large-scale surveys with complex sampling designs.
+    Methodologically, I am interested in quantitative research methods, survey methodology, 
+    social statistics, and machine learning, with an emphasis on official large-scale surveys with complex sampling designs.
   </p>
 </div>
   
-</div>
-
 <div class="card">
   <h3><i class="fas fa-briefcase icon"></i> Areas of Expertise </h3>
   <ul>
@@ -113,7 +111,5 @@ author_profile: true
     <li><i class="fas fa-database icon"></i> Critical Data Studies</li>
     <li><i class="fas fa-brain icon"></i> Computational Sociology</li>
     <li><i class="fas fa-microchip icon"></i> Society and Technology</li>
-
   </ul>
 </div>
-
