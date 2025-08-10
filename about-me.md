@@ -18,6 +18,7 @@ author_profile: true
     padding: 20px;
     margin-bottom: 20px;
     color: #333333; /* Dark Gray Text */
+    background-color: #E3F2FD; /* Light Blue Background for all cards */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s, box-shadow 0.2s;
   }
@@ -25,18 +26,6 @@ author_profile: true
   .card:hover {
     transform: translateY(-5px);
     box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.2);
-  }
-
-  .card:first-of-type {
-    background-color: #F3F4F6; /* Light Gray Background */
-  }
-
-  .card:nth-of-type(2) {
-    background-color: #E3F2FD; /* Light Blue Background for Expertise */
-  }
-
-  .card:nth-of-type(3) {
-    background-color: #F1F8E9; /* Light Green Background for Contact */
   }
 
   .card h3 {
@@ -91,7 +80,7 @@ author_profile: true
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.  
     In 2024–2025, I was a Doctoral Fellow at the 
     <a href="https://www.mcgill.ca/cand3/our-people/fellows-2024-25" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> 
-    at McGill University.  
+    at <a href="https://www.mcgill.ca" target="_blank">McGill University</a>.  
     My research broadly examines the social determinants of health and 
     inequities in access to healthcare, with a particular focus on
     mental health outcomes such as psychological distress, anxiety, and depression in Canada.
