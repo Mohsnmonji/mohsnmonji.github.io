@@ -94,16 +94,6 @@ author_profile: true
     My doctoral research is focused on the <strong>social determinants of mental health</strong> and 
     population-level <strong>disparities in mental health outcomes</strong>, particularly psychological distress, anxiety, and depression in Canada.
 </p>
-
-
-  <p>
-    My doctoral research has been supported by funding from 
-    <a href="https://www.concordia.ca/artsci/sociology-anthropology.html" target="_blank">Concordia University</a>, 
-    <a href="https://www.frq.gouv.qc.ca" target="_blank">Fonds de recherche du Québec – Société et Culture (FRQSC)</a>, 
-    the <a href="https://www.ciqss.org" target="_blank">Quebec Interuniversity Center for Social Statistics (QICSS)</a>, 
-    and the <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>.
-  </p>
-
   <p>
     Methodologically, I am interested in <strong>quantitative research methods</strong>, <strong>survey methodology</strong>, 
     <strong>social statistics</strong>, and <strong>machine learning</strong>, with a focus on official large-scale surveys with complex sampling designs.
