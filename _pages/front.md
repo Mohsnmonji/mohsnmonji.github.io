@@ -26,9 +26,8 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-  I am a sociologist of health and population health researcher studying the
-  <strong>social determinants of health</strong> and
-  <strong>access to  health care</strong> in Canada.
+  
+I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, BIPOC feminist thought, and critical public health. My research explores how historical and ongoing systems of power and inequality—including colonialism and racial capitalism— shape health policies, systems, and outcomes in settler colonial contexts.
 </p>
 
   <!-- Button -->
@@ -63,4 +62,3 @@ hide_avatar: true
   </div>
 
 </div>
-
