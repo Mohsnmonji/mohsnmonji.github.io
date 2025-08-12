@@ -78,11 +78,10 @@ author_profile: true
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
       <li>Sociology of Health</li>
       <li>Sociology of Knowledge</li>
-      <li>Critical Theory</li>
+      <li>Decolonial Theory</li>
       <li>Social Statistics</li>
       <li>Survey Methodology</li>
       <li>Quantitative Research Methods</li>
-      <li>Society and Technology</li>
     </ul>
   </div>
 </div>
