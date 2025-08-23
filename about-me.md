@@ -85,7 +85,7 @@ author_profile: true
 
   <h4>2. Settler Colonialism and Indigenous Health</h4>
   <p>
-    Drawing on critical Indigenous and settler studies to examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am concerned with the ways in which ongoing colonial systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
+    Drawing on critical Indigenous and settler studies to examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am concerned with the ways in which colonial laws, policies, and institutions—such as the Indian Act, residential schools, the pass system, and land dispossession—have cumulatively undermined Indigenous well-being in Canada over time.
   </p>
 
 
