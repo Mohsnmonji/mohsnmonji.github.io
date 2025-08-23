@@ -1,47 +1,10 @@
-{% include base_path %}
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W5ED9M8GYL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-W5ED9M8GYL');
-</script>
-
-<meta charset="utf-8">
-<title>{{ page.seo_title | default: "Mohsen Monji" }}</title>
-<meta name="description" content="I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, BIPOC feminist and queer thought, and critical public health.">
-<meta name="author" content="Mohsen Monji">
-<meta name="keywords" content="Mohsen Monji, sociologist of health, sociologist of knowledge, population health, mental health disparities, social determinants of health, social statistician, survey data, Canada, quantitative methods, statistical modeling, social statistics, sociology of health, mental health research">
-
-<link rel="canonical" href="{{ site.url | append: page.url | replace: 'index.html', '' }}" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-{% if page.robots == "noindex" %}
-  <meta name="robots" content="noindex, follow">
-{% else %}
-  <meta name="robots" content="index, follow">
-{% endif %}
+<meta name="description" content="I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, Black feminist thought, and decolonial public health.">
 
 <!-- Open Graph -->
-<meta property="og:title" content="{% if page.og_title %}{{ page.og_title }}{% else %}Mohsen Monji{% endif %}">
-<meta property="og:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, BIPOC feminist and queer thought, and critical public health.{% endif %}">
-<meta property="og:url" content="{{ site.url | append: page.url | replace: 'index.html', '' }}">
-<meta property="og:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.url }}/images/mohsen-monji-profile.webp{% endif %}">
-<meta property="og:image:secure_url" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.url }}/images/mohsen-monji-profile.webp{% endif %}">
-<meta property="og:image:type" content="image/webp">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="627">
-<meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Mohsen Monji">
+<meta property="og:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, Black feminist thought, and decolonial public health.{% endif %}">
 
 <!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{% if page.og_title %}{{ page.og_title }}{% else %}Mohsen Monji{% endif %}">
-<meta name="twitter:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, BIPOC feminist and queer thought, and critical public health.{% endif %}">
-<meta name="twitter:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.url }}/images/mohsen-monji-profile.webp{% endif %}">
-<meta name="twitter:image:alt" content="Headshot of Mohsen Monji, Sociologist of Health and Population Health Researcher">
+<meta name="twitter:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, Black feminist thought, and decolonial public health.{% endif %}">
 
 <!-- Person Structured Data -->
 <script type="application/ld+json">
@@ -49,7 +12,7 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Mohsen Monji",
-  "description": "I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, BIPOC feminist and queer thought, and critical public health.",
+  "description": "I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, Black feminist thought, and decolonial public health.",
   "image": "https://www.mohsenmonji.com/images/mohsen-monji-profile.webp",
   "url": "https://www.mohsenmonji.com",
   "jobTitle": [
@@ -105,7 +68,7 @@
       "name": "Who is Mohsen Monji?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Mohsen Monji is a sociologist of health and knowledge working at the intersections of critical Indigenous studies, BIPOC feminist and queer thought, and critical public health."
+        "text": "Mohsen Monji is a sociologist of health and knowledge working at the intersections of critical Indigenous studies, Black feminist thought, and decolonial public health."
       }
     },
     {
@@ -135,11 +98,3 @@
   ]
 }
 </script>
-
-<link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/assets/css/main.css">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-<meta http-equiv="cleartype" content="on">
