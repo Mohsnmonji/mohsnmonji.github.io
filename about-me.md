@@ -76,20 +76,17 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH PROGRAM</h2>
   
-  <p>My research program revolves around three areas:</p>
+  <p>My research program revolves around two areas:</p>
 
-  <h4>1. Intersectionality and Mental Health</h4>
+  <h4>1. Intersectionality and Health Disparaties</h4>
   <p>
-    I draw on BIPOC feminist and queer thought - particularly intersectionality- to examine how racism, sexism, and other forms of social inequality intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
+    I draw on Black feminist thought - particularly through the lens of intersectionality- to examine how racism, sexism, and other systems of oppression intersect and shape mental health outcomes. I am particularly interested in the epistemological implications of intersectionality for population health research, especially in relation to mental health outcomes.
   </p>
 
-  <h4>2. Settler Colonialism and Health Governance</h4>
+  <h4>2. Settler Colonialism and Indigenous Health</h4>
   <p>
-    Drawing on critical Indigenous studies and BIPOC decolonial thought, I examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am concerned with the ways in which population health surveillance and healthcare systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
+    Drawing on critical Indigenous and settler studies to examine settler colonialism as a fundamental cause of health disparities between Indigenous and non-Indigenous peoples. In particular, I am concerned with the ways in which ongoing colonial systems reproduce colonial logics—not only in how data on Indigenous health is collected and governed, but also in how it informs policy in ways that marginalize Indigenous knowledge systems.
   </p>
 
-  <h4>3. Social History of Statistics and Psychiatry</h4>
-  <p>
-    Another strand of my research examines the social history of modern statistics and psychiatry, focusing on the historical conditions under which statistical knowledge and psychiatric discourses emerged and became central—epistemologically—to knowledge production about health and population health governance.
-  </p>
+
 </div>
