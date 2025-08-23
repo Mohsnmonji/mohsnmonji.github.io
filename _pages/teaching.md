@@ -66,11 +66,11 @@ author_profile: true
   <div class="teaching-card">
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
       <li>Sociology of Health</li>
-      <li>Sociology of Knowledge</li>
+      <li>Settler Colonial Studies</li>
       <li>Decolonial Theory</li>
+      <li>Decolonial Public Health</li>
       <li>Social Statistics</li>
       <li>Decolonized Quantitative Research Methods</li>
-      <li>Society and Technology</li>
     </ul>
   </div>
 </div>
