@@ -80,8 +80,7 @@ author_profile: true
       <li>Sociology of Knowledge</li>
       <li>Decolonial Theory</li>
       <li>Social Statistics</li>
-      <li>Survey Methodology</li>
-      <li>Quantitative Research Methods</li>
+      <li>Decolonized Quantitative Research Methods</li>
       <li>Society and Technology</li>
     </ul>
   </div>
