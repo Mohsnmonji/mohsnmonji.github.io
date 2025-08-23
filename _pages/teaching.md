@@ -65,7 +65,8 @@ author_profile: true
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
-      <li>Sociology of Health</li>
+      <li>Settler Colonialism and Health</li>
+      <li>Critical Indigenous Studies</li>
       <li>Settler Colonial Studies</li>
       <li>Decolonial Theory</li>
       <li>Decolonial Public Health</li>
