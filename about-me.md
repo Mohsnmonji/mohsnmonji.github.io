@@ -76,7 +76,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH PROGRAM</h2>
   
-  <p>My research program revolves around two areas:</p>
+  <p>My research program revolves around two broad areas:</p>
 
   <h4>1. Intersectionality and Health Disparaties</h4>
   <p>
