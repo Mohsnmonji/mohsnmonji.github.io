@@ -29,7 +29,7 @@ minimal_mistakes_skin: "default"
 # ---------------------------------------------------------
 author:
   name: "Mohsen Monji"
-  avatar: "/images/mohsen-monji-profile.webp"   # ensure file exists
+  avatar: "images/mohsen-monji-profile.webp" # Replace with your profile picture file   # ensure file exists
   bio: ""
   location: "Montreal, Canada"
   employer: "Concordia University"
