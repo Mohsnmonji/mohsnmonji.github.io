@@ -65,10 +65,10 @@ author_profile: true
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
-      <li>Settler Colonialism and Health</li>
       <li>Critical Indigenous Studies</li>
       <li>Settler Colonial Studies</li>
       <li>Decolonial Theory</li>
+      <li>Settler Colonialism and Health</li>
       <li>Decolonial Public Health</li>
       <li>Social Statistics</li>
       <li>Decolonized Quantitative Research Methods</li>
