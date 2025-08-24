@@ -7,113 +7,38 @@
 # server process.
 # Welcome to Jekyll!
 
+# ---------------------------------------------------------
 # Basic Site Settings
+# ---------------------------------------------------------
 locale: "en-US"
-title: "Home "
-title_separator: "-"
+title: "Mohsen Monji"
+title_separator: "—"
 name: "Mohsen Monji"
 description: "Sociologist & Population Mental Health Researcher"
 url: "https://www.mohsenmonji.com"
-baseurl: "" # Leave empty for personal GitHub Pages site
+baseurl: ""                 # empty for custom domain
 repository: "mohsenmonji/mohsenmonji.github.io"
+permalink: /:categories/:title/
 
-author: "Mohsen Monji" # Author name
+# Minimal Mistakes theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
 
-# Site Author - The following control what appears as part of the author content on the sidebar.
+# ---------------------------------------------------------
+# Author (used by theme)
+# ---------------------------------------------------------
 author:
-  # Biographic information
-  avatar: "images/mohsen-monji-profile.webp" # Replace with your profile picture file
-  name: 
-  bio:
+  name: "Mohsen Monji"
+  avatar: "/images/mohsen-monji-profile.webp"   # ensure file exists
+  bio: ""
   location: "Montreal, Canada"
   employer: "Concordia University"
   email: "mohsen.monji@concordia.ca"
+  # optional: links shown in the sidebar/footer if configured in includes
 
-  # Academic websites
- 
-  # Social media
-  #linkedin: "mohsen-monji-0a3a37269"
-  github: "Mohsnmonji"
-  #bluesky: "mohsenmonji.bsky.social"
- #orcid: "https://orcid.org/0009-0003-8682-910X"
-
-# Publication Categories
-publication_category:
-  books:
-    title: 'Book Reviews'
-  manuscripts:
-    title: 'Papers'
-  conferences:
-    title: 'Conferences'
-
-# Site Settings
-teaser: "teaser-image.png" # Optional teaser image file
-breadcrumbs: false
-words_per_minute: 160
-future: true
-read_more: "disabled"
-comments:
-  provider: false # No comments for now
-
-# SEO Related
-google_site_verification: "GOOGLE_VERIFICATION_CODE" # Add your Google Search Console verification code
-bing_site_verification: "BING_VERIFICATION_CODE"
-alexa_site_verification: ""
-yandex_site_verification: ""
-
-# Social Sharing
-og_image: "default-social-image.png" # Replace with a default social sharing image
-social:
-  type: "Person"
-  links:
-    - "https://twitter.com/mohsenmonji"
-    - "https://linkedin.com/in/mohsenmonji"
-    - "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-
-# Analytics
-analytics:
-  provider: "google" # Using Google Analytics
-  google:
-    tracking_id: "UA-XXXXXXXXX-X" # Replace with your Google Analytics tracking ID
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-  - _posts # Add this line to include the posts folder
-  
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - node_modules
-  - tmp
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Collections
+# ---------------------------------------------------------
+# Content Types / Collections
+# ---------------------------------------------------------
 collections:
   teaching:
     output: true
@@ -128,7 +53,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults for pages
+# ---------------------------------------------------------
+# Defaults
+# ---------------------------------------------------------
 defaults:
   - scope:
       path: ""
@@ -142,24 +69,107 @@ defaults:
     values:
       layout: single
       author_profile: true
-      comments: true
+      comments: false        # keep in sync with top-level comments setting
       share: true
-      paginate: 4
-      paginate_path: "/projects/page:num/"
 
-# Sass/SCSS
+# ---------------------------------------------------------
+# Reading & Build
+# ---------------------------------------------------------
+include:
+  - .htaccess
+  - _pages
+  - files
+  - _posts
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .github
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - node_modules
+  - tmp
+
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# ---------------------------------------------------------
+# Appearance / Assets
+# ---------------------------------------------------------
+teaser: "/images/teaser-image.png"             # ensure exists or remove
+og_image: "/images/default-social-image.png"   # ensure exists or remove
+
 sass:
   sass_dir: _sass
   style: compressed
 
+# ---------------------------------------------------------
 # Plugins
+# ---------------------------------------------------------
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-sitemap
   - jemoji
+  - jekyll-include-cache
+  # Pagination (optional). If you want pagination, uncomment one of these and configure:
+  # - jekyll-paginate
+  # or
+  # - jekyll-paginate-v2
 
+# Pagination (only if a paginate plugin is enabled)
+# paginate: 4
+# paginate_path: "/page:num/"
+
+# ---------------------------------------------------------
+# Comments (choose a provider or keep disabled)
+# ---------------------------------------------------------
+comments:
+  provider: false
+  # For example, to use utterances or giscus, configure here.
+
+# ---------------------------------------------------------
+# Social / SEO
+# ---------------------------------------------------------
+social:
+  type: "Person"
+  links:
+    - "https://twitter.com/mohsenmonji"
+    - "https://www.linkedin.com/in/mohsen-monji-0a3a37269"
+    - "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+
+google_site_verification: ""   # add real code when ready
+bing_site_verification: ""
+alexa_site_verification: ""
+yandex_site_verification: ""
+
+# ---------------------------------------------------------
+# Analytics
+# ---------------------------------------------------------
+analytics:
+  provider: "google"
+  google:
+    # GA4 format (G-XXXXXXXXXX). Leave blank if not using yet.
+    measurement_id: "G-XXXXXXXXXX"
+
+# ---------------------------------------------------------
 # Archives
+# ---------------------------------------------------------
 category_archive:
   type: liquid
   path: /categories/
@@ -167,11 +177,16 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# ---------------------------------------------------------
 # HTML Compression
+# ---------------------------------------------------------
 compress_html:
   clippings: all
   ignore:
     envs: development
-# Sitemap settings
+
+# ---------------------------------------------------------
+# Sitemap
+# ---------------------------------------------------------
 sitemap:
   url: "https://www.mohsenmonji.com"
