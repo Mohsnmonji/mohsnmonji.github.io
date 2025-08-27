@@ -109,13 +109,6 @@ author_profile: true
   <ul>
     <li>AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022</li>
   </ul>
-  
-  <p><strong>Gina Cody School of Engineering and Computer Science, Concordia University</strong></p>
-  <ul>
-    <li>ENCS 393, Social and Ethical Dimensions of Information and Communication Technologies, Fall 2025</li>
-    <li>ENGR 201, Professional Practice and Responsibility, Fall 2025</li>
-  </ul>
-
 </div>
 
 <div class="teaching-card">
