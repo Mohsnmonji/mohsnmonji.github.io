@@ -94,14 +94,14 @@ author_profile: true
 <ul>
   <li>SOCI 212–A, Statistics I, Fall 2025</li>
   <li>SOCI 212–B, Statistics I, Fall 2025</li>
-  <li>SOCI 300, Classical Social Theory, Winter 2026, Fall 2025</li>
-  <li>SOCI 300, Classical Social Theory, Winter 2025, Fall 2024</li>
   <li>SOCI 212–B, Statistics I, Fall 2024</li>
   <li>SOCI 213–B, Statistics II, Winter 2024</li>
   <li>SOCI 213–CC, Statistics II, Winter 2024</li>
   <li>SOCI 213–AA, Statistics II, Fall 2023</li>
+    <li>SOCI 310, Research Methods, Winter 2022</li>
+   <li>SOCI 300, Classical Social Theory, Winter 2026, Fall 2025</li>
+  <li>SOCI 300, Classical Social Theory, Winter 2025, Fall 2024</li>
   <li>SOCI 300, Classical Social Theory, Winter 2023, Fall 2022</li>
-  <li>SOCI 310, Research Methods, Winter 2022</li>
   <li>SOCI 300, Classical Social Theory, Winter 2022, Fall 2021</li>
 </ul>
 
