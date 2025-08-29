@@ -68,7 +68,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH AREAS</h2>
   <p>
-    Settler Colonialism and Health | Racial Capitalism and Health | Indigenous Health | Critical Indigenous Studies | Decolonial Theory | Decolonial Public Health | Social Statistics | Decolonized Quantitative Research Methods | Data Justice
+    Settler Colonialism and Health | Racism and Health | Indigenous Health | Decolonial Public Health | Social Statistics | Quantitative Research Methods | Data Justice
   </p>
 </div>
 
