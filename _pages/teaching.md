@@ -92,6 +92,8 @@ author_profile: true
 
 <p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
 <ul>
+  <li>SOCI 212–A, Statistics I, Fall 2025</li>
+  <li>SOCI 212–B, Statistics I, Fall 2025</li>
   <li>SOCI 300, Classical Social Theory, Winter 2026, Fall 2025</li>
   <li>SOCI 300, Classical Social Theory, Winter 2025, Fall 2024</li>
   <li>SOCI 212–B, Statistics I, Fall 2024</li>
