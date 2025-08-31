@@ -24,7 +24,7 @@ hide_avatar: true
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
   
-I am a Bakhtiari-Qashqai from the Zagros Mountains working at the intersections of critical Indigenous studies, Balck feminist thought, and decolonial public health. My research explores how historical and ongoing systems of power and inequality—including colonialism and racial capitalism— shape health policies, systems, and outcomes in settler colonial contexts.
+I am a Bakhtiari and Qashqai scholar, Indigenous to the Zagros Mountains,working at the intersections of critical Indigenous studies, Balck feminist thought, and decolonial public health. My research explores how historical and ongoing systems of power and inequality—including colonialism and racial capitalism— shape health policies, systems, and outcomes in settler colonial contexts.
 </p>
 
   <!-- Button -->
