@@ -71,7 +71,6 @@ author_profile: true
       <li>Sociological Theory</li>
       <li>Applied Social Statistics</li>
       <li>Quantitatvie Reserach Methods</li>
-
     </ul>
   </div>
 </div>
