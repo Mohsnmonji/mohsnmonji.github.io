@@ -21,13 +21,13 @@ hide_avatar: true
  
   <!-- Subtitle -->
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
-    PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow 2024-2025 | CRDCN Emerging Scholar
+    Bakhtiari, Indigenous to the Zagros Mountains | PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow 2024-2025 | CRDCN Emerging Scholar
   </p>
 
   <!-- Description -->
 <p style="font-size: 18px; color: #333; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
   
-I am a sociologist of health and knowledge working at the intersections of critical Indigenous studies, Balck feminist thought, and decolonial public health. My research explores how historical and ongoing systems of power and inequality—including colonialism and racial capitalism— shape health policies, systems, and outcomes in settler colonial contexts.
+I am a Bakhtiari from the Zagros Mountains working at the intersections of critical Indigenous studies, Balck feminist thought, and decolonial public health. My research explores how historical and ongoing systems of power and inequality—including colonialism and racial capitalism— shape health policies, systems, and outcomes in settler colonial contexts.
 </p>
 
   <!-- Button -->
