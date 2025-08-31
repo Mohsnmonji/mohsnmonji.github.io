@@ -69,7 +69,7 @@ author_profile: true
     <li>Settler Colonial Studies</li>
     <li>Sociology of Health</li>
       <li>Sociological Theory</li>
-      <li>Applied Social Statistics</li>
+      <li>Social Statistics</li>
       <li>Quantitatvie Reserach Methods</li>
     </ul>
   </div>
