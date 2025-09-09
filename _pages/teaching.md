@@ -65,12 +65,12 @@ author_profile: true
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
-   <li>Critical Indigenous Studies</li>
-    <li>Settler Colonial Studies</li>
-    <li>Sociology of Health</li>
+      <li>Sociology of Health</li>
       <li>Sociological Theory</li>
       <li>Social Statistics</li>
       <li>Quantitatvie Reserach Methods</li>
+      <li>Critical Indigenous Studies</li>
+      <li>Settler Colonial Studies</li>
     </ul>
   </div>
 </div>
@@ -93,6 +93,7 @@ author_profile: true
 
 <p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
 <ul>
+  <li>SOCI 212–A, Social Statistics I, Fall 2025</li>
   <li>SOCI 212–B, Social Statistics I, Fall 2024</li>
   <li>SOCI 213–B, Social Statistics II, Winter 2024</li>
   <li>SOCI 213–CC, Social Statistics II, Winter 2024</li>
