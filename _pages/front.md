@@ -29,7 +29,13 @@ hide_avatar: true
     health. My research explores how historical and ongoing systems of power and inequality—including
     colonialism and racial capitalism—shape health policies, systems, and outcomes in settler-colonial
     contexts.
-    I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known as a gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the lands and waters on which I live today.
+    
+  I was born and raised on the Indigenous lands of the Bakhtiari people in southwest Iran,
+    where the first oil well in West Asia was drilled in 1908;a colonial encounter that
+    profoundly changed the landscape and destroyed many generations of Indigenous Bakhtiari families.
+    Today, I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known
+    as a gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the
+    lands and waters on which I live today.
   </p>
 
   
