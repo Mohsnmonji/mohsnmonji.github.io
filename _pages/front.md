@@ -23,21 +23,22 @@ hide_avatar: true
 
 
   <!-- Description -->
-  <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-    I am a Bakhtiari and Qashqai scholar, Indigenous to the Zagros Mountains, working at the
-    intersections of critical Indigenous studies, Black feminist thought, and decolonial public
-    health. My research explores how historical and ongoing systems of power and inequality—including
-    colonialism and racial capitalism—shape health policies, systems, and outcomes in settler-colonial
-    contexts.
-    
-  I was born and raised on the Indigenous lands of the Bakhtiari people in southwest Iran,
-    where the first oil well in West Asia was drilled in 1908;a colonial encounter that
-    profoundly changed the landscape and destroyed many generations of Indigenous Bakhtiari families.
-    Today, I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known
-    as a gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the
-    lands and waters on which I live today.
-  </p>
+<p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
+  I am a Bakhtiari and Qashqai scholar, Indigenous to the Zagros Mountains, working at the
+  intersections of critical Indigenous studies, Black feminist thought, and decolonial public
+  health. My research explores how historical and ongoing systems of power and inequality—including
+  colonialism and racial capitalism—shape health policies, systems, and outcomes in settler-colonial
+  contexts.
+</p>
 
+<p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
+  I was born and raised on the Indigenous lands of the Bakhtiari people in southwest Iran,
+  where the first oil well in West Asia was drilled in 1908&mdash;a colonial encounter that
+  profoundly changed the landscape and destroyed many generations of Indigenous Bakhtiari families.
+  Today, I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known
+  as a gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the
+  lands and waters on which I live today.
+</p>
   
 
    
