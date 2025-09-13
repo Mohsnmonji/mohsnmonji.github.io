@@ -44,20 +44,6 @@ hide_avatar: true
     </a>
   </div>
 
-  <!-- Land Acknowledgment -->
-<div style="margin-top:50px; max-width:700px; margin-left:auto; margin-right:auto;
-            padding:0 20px; font-size:17px; color:#2e2e2e; line-height:1.8;">
-
-  <h2 style="font-size:20px; margin-top:0; margin-bottom:15px; color:#1f4d59; text-align:center;">
-    Where I live and work
-  </h2>
-
-  <p style="text-align:left; margin:0;">
-    I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known as a
-    gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the
-    lands and waters on which I live today.
-  </p>
-
-</div>
+  
 
 </div>
