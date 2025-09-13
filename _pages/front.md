@@ -21,10 +21,6 @@ hide_avatar: true
   <!-- Name -->
   <h1 style="color:#333; font-size:32px; margin-bottom:10px;">MOHSEN MONJI</h1>
 
-  <!-- Subtitle -->
-  <p style="font-size: 18px; margin-top: 5px; color: #555;">
-    Bakhtiari and Qashqai Scholar | PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow 2024-2025 | CRDCN Emerging Scholar
-  </p>
 
   <!-- Description -->
   <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
