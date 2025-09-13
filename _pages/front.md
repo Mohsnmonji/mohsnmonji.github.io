@@ -45,14 +45,19 @@ hide_avatar: true
   </div>
 
   <!-- Land Acknowledgment -->
-  <div style="font-size:16px; color:#444; text-align:left; line-height:1.7;
-              margin-top:40px; border-top:1px solid #ccc; padding-top:20px;">
-    <strong>Land Acknowledgment</strong><br>
-    Concordia University is located on unceded Indigenous lands.
-    The Kanien’kehá:ka Nation is recognized as the custodian of the lands and waters on which
-    we gather. Tiohtià:ke/Montréal has long served as a place of meeting and exchange among many
-    First Nations. I honour their continued connections to these lands and waters and commit to
-    ongoing relationships of respect and reciprocity.
-  </div>
+  <section style="margin-top:50px; padding:25px; background-color:#f8f8f8;
+                  border-radius:8px; border:1px solid #ddd;
+                  font-size:16px; color:#333; text-align:left; line-height:1.8;">
+    <h2 style="font-size:20px; margin-top:0; color:#222; text-align:center;">
+      Land Acknowledgment
+    </h2>
+    <p style="margin-top:15px;">
+      Concordia University stands on unceded Indigenous lands.  
+      The Kanien’kehá:ka Nation is recognized as the traditional custodian of these lands and waters.  
+      Tiohtià:ke/Montréal has long been a place of meeting and exchange among many First Nations.  
+      I honour their enduring connections to this territory—past, present, and future—and commit to
+      relationships of respect and reciprocity.
+    </p>
+  </section>
 
 </div>
