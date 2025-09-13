@@ -29,19 +29,12 @@ hide_avatar: true
     health. My research explores how historical and ongoing systems of power and inequality—including
     colonialism and racial capitalism—shape health policies, systems, and outcomes in settler-colonial
     contexts.
+    I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known as a gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the lands and waters on which I live today.
   </p>
 
   
 
-   <!-- CARD : LAND ACKNOWLEDGMENT -->
-<div class="about-card">
-  <h2>WHERE I LIVE AND WORK</h2>
-  <p>
-    I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known as a
-    gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the
-    lands and waters on which I live today.
-  </p>
-</div>
+   
 
 <!-- Button -->
   <div style="margin-bottom:20px;">
