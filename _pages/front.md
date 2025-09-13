@@ -51,15 +51,13 @@ hide_avatar: true
                 font-size:17px; color:#2e2e2e;
                 text-align:center; line-height:1.8;">
   <h2 style="font-size:20px; margin-top:0; margin-bottom:15px; color:#1f4d59;">
-    Land Acknowledgment
+    Where I live and work
   </h2>
   <p style="margin:0 auto; max-width:600px; text-align:justify;">
-    Concordia University is located on unceded Indigenous lands. The Kanien’kehá:ka Nation is
-    recognized as the custodians of the lands and waters on which we gather today. Tiohtià:ke/Montréal
-    is historically known as a gathering place for many First Nations. Today, it is home to a diverse
-    population of Indigenous and other peoples. We respect the continued connections with the past,
-    present and future in our ongoing relationships with Indigenous and other peoples within the
-    Montreal community.
+    I live and work on unceded Indigenous lands. The Kanien’kehá:ka Nation is
+    the custodian of the lands and waters on which I live today.
+    Tiohtià:ke/Montréal is historically known as a gathering place for many First Nations.
+  
   </p>
 </section>
 
