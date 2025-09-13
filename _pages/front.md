@@ -33,21 +33,15 @@ hide_avatar: true
 
   
 
-   <!-- Land Acknowledgment – subtle footer note -->
-  <div style="max-width:640px; margin:60px auto 30px auto;
-              padding:15px 25px;
-              background-color:#f2f4f5;  /* soft warm-grey */
-              border-left:4px solid #1f4d59;
-              border-radius:4px;
-              font-size:18px; color:#333;  /* match main text */
-              line-height:1.8;
-              text-align:left;">
-    <p style="margin:0;">
-      I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known as a
-      gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the
-      lands and waters on which I live today.
-    </p>
-  </div>
+   <!-- CARD : LAND ACKNOWLEDGMENT -->
+<div class="about-card">
+  <h2>WHERE I LIVE AND WORK</h2>
+  <p>
+    I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known as a
+    gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the
+    lands and waters on which I live today.
+  </p>
+</div>
 
 <!-- Button -->
   <div style="margin-bottom:20px;">
