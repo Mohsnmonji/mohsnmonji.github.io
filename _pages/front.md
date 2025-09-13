@@ -52,7 +52,7 @@ hide_avatar: true
   <div style="font-size:16px; color:#444; text-align:left; line-height:1.7;
               margin-top:40px; border-top:1px solid #ccc; padding-top:20px;">
     <strong>Land Acknowledgment</strong><br>
-    I acknowledge that Concordia University is located on unceded Indigenous lands.
+    Concordia University is located on unceded Indigenous lands.
     The Kanien’kehá:ka Nation is recognized as the custodian of the lands and waters on which
     we gather. Tiohtià:ke/Montréal has long served as a place of meeting and exchange among many
     First Nations. I honour their continued connections to these lands and waters and commit to
