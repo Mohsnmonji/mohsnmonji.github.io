@@ -33,7 +33,7 @@ hide_avatar: true
 
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
   I was born and raised on the Indigenous lands of the Bakhtiari people in southwest Iran,
-  where the first oil well in West Asia was drilled in 1908 ; a colonial encounter that
+  where the first oil field in West Asia was "discovered" in 1908 ; a colonial encounter that
   profoundly changed and degraded the lands and waters, dispossessing many Indigenous Bakhtiari
   families and communities of their ancestral territories and resources.
   Today, I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known
