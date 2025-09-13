@@ -31,14 +31,7 @@ hide_avatar: true
     contexts.
   </p>
 
-  <!-- Button -->
-  <div style="margin-bottom:20px;">
-    <a href="/about-me/"
-       style="display:inline-block; padding:10px 20px; background-color:#007BFF;
-              color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
-      Learn More About Me
-    </a>
-  </div>
+  
 
   <!-- Land Acknowledgment – subtle footer note -->
 <div style="max-width:640px; margin:60px auto 30px auto;
@@ -57,5 +50,15 @@ hide_avatar: true
   </p>
 
 </div>
+
+<!-- Button -->
+  <div style="margin-bottom:20px;">
+    <a href="/about-me/"
+       style="display:inline-block; padding:10px 20px; background-color:#007BFF;
+              color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
+      Learn More About Me
+    </a>
+  </div>
+
 
 </div>
