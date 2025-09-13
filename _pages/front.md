@@ -54,9 +54,9 @@ hide_avatar: true
     Where I live and work
   </h2>
   <p style="margin:0 auto; max-width:600px; text-align:justify;">
-    I live and work on unceded Indigenous lands. The Kanien’kehá:ka Nation is
+    I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known as a gathering place for many First Nations. The Kanien’kehá:ka Nation is
     the custodian of the lands and waters on which I live today.
-    Tiohtià:ke/Montréal is historically known as a gathering place for many First Nations.
+    
   
   </p>
 </section>
