@@ -23,7 +23,7 @@ hide_avatar: true
 
   <!-- Subtitle -->
   <p style="font-size: 18px; margin-top: 5px; color: #555;">
-    Bakhtiari and Qashqai scholar |PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow 2024-2025 | CRDCN Emerging Scholar
+    Bakhtiari and Qashqai Scholar | PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow 2024-2025 | CRDCN Emerging Scholar
   </p>
 
   <!-- Description -->
@@ -45,18 +45,16 @@ hide_avatar: true
   </div>
 
   <!-- Land Acknowledgment -->
-  <section style="margin-top:50px; padding:25px; background-color:#f8f8f8;
-                  border-radius:8px; border:1px solid #ddd;
-                  font-size:16px; color:#333; text-align:left; line-height:1.8;">
-    <h2 style="font-size:20px; margin-top:0; color:#222; text-align:center;">
+  <section style="margin-top:50px; padding:30px;
+                  background-color:#eef2f3; /* soft blue-grey */
+                  border-radius:8px; border:1px solid #ccd4d8;
+                  font-size:17px; color:#2e2e2e;
+                  text-align:center; line-height:1.8;">
+    <h2 style="font-size:20px; margin-top:0; margin-bottom:15px; color:#1f4d59;">
       Land Acknowledgment
     </h2>
-    <p style="margin-top:15px;">
-      Concordia University stands on unceded Indigenous lands.  
-      The Kanien’kehá:ka Nation is recognized as the traditional custodian of these lands and waters.  
-      Tiohtià:ke/Montréal has long been a place of meeting and exchange among many First Nations.  
-      I honour their enduring connections to this territory—past, present, and future—and commit to
-      relationships of respect and reciprocity.
+    <p style="margin:0 auto; max-width:600px;">
+      Concordia University is located on unceded Indigenous lands. The Kanien’kehá:ka Nation is recognized as the custodians of the lands and waters on which we gather today. Tiohtià:ke/Montréal is historically known as a gathering place for many First Nations. Today, it is home to a diverse population of Indigenous and other peoples. We respect the continued connections with the past, present and future in our ongoing relationships with Indigenous and other peoples within the Montreal community..
     </p>
   </section>
 
