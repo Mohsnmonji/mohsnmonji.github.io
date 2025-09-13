@@ -45,17 +45,22 @@ hide_avatar: true
   </div>
 
   <!-- Land Acknowledgment -->
-  <section style="margin-top:50px; padding:30px;
-                  background-color:#eef2f3; /* soft blue-grey */
-                  border-radius:8px; border:1px solid #ccd4d8;
-                  font-size:17px; color:#2e2e2e;
-                  text-align:center; line-height:1.8;">
-    <h2 style="font-size:20px; margin-top:0; margin-bottom:15px; color:#1f4d59;">
-      Land Acknowledgment
-    </h2>
-    <p style="margin:0 auto; max-width:600px;">
-      Concordia University is located on unceded Indigenous lands. The Kanien’kehá:ka Nation is recognized as the custodians of the lands and waters on which we gather today. Tiohtià:ke/Montréal is historically known as a gathering place for many First Nations. Today, it is home to a diverse population of Indigenous and other peoples. We respect the continued connections with the past, present and future in our ongoing relationships with Indigenous and other peoples within the Montreal community.
-    </p>
-  </section>
+<section style="margin-top:50px; padding:30px;
+                background-color:#eef2f3; /* soft blue-grey */
+                border-radius:8px; border:1px solid #ccd4d8;
+                font-size:17px; color:#2e2e2e;
+                text-align:center; line-height:1.8;">
+  <h2 style="font-size:20px; margin-top:0; margin-bottom:15px; color:#1f4d59;">
+    Land Acknowledgment
+  </h2>
+  <p style="margin:0 auto; max-width:600px; text-align:justify;">
+    Concordia University is located on unceded Indigenous lands. The Kanien’kehá:ka Nation is
+    recognized as the custodians of the lands and waters on which we gather today. Tiohtià:ke/Montréal
+    is historically known as a gathering place for many First Nations. Today, it is home to a diverse
+    population of Indigenous and other peoples. We respect the continued connections with the past,
+    present and future in our ongoing relationships with Indigenous and other peoples within the
+    Montreal community.
+  </p>
+</section>
 
 </div>
