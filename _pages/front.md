@@ -45,18 +45,19 @@ hide_avatar: true
   </div>
 
   <!-- Land Acknowledgment -->
-<section style="margin-top:50px; padding:30px;
-                background-color:#eef2f3; /* soft blue-grey */
-                border-radius:8px; border:1px solid #ccd4d8;
-                font-size:17px; color:#2e2e2e;
-                text-align:center; line-height:1.8;">
-  <h2 style="font-size:20px; margin-top:0; margin-bottom:15px; color:#1f4d59;">
-    
+<div style="margin-top:50px; max-width:700px; margin-left:auto; margin-right:auto;
+            padding:0 20px; font-size:17px; color:#2e2e2e; line-height:1.8;">
+
+  <h2 style="font-size:20px; margin-top:0; margin-bottom:15px; color:#1f4d59; text-align:center;">
+    Where I live and work
   </h2>
-  <p style="margin:0 auto; max-width:600px; text-align:left;">
-    I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known as a gathering place for many First Nations.
-    The Kanien’kehá:ka Nation is the custodian of the lands and waters on which I live today.
+
+  <p style="text-align:left; margin:0;">
+    I live and work on unceded Indigenous lands. Tiohtià:ke/Montréal is historically known as a
+    gathering place for many First Nations. The Kanien’kehá:ka Nation is the custodian of the
+    lands and waters on which I live today.
   </p>
-</section>
+
+</div>
 
 </div>
