@@ -24,7 +24,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-  I am a Bakhtiari and Qashqai scholar, Indigenous to the Zagros Mountains, working at the
+  I am a Bakhtiari scholar, Indigenous to the Zagros Mountains, working at the
   intersections of critical Indigenous studies, Black feminist thought, and decolonial public
   health. My research explores how historical and ongoing systems of power and inequality—including
   colonialism and racial capitalism—shape health policies, systems, and outcomes in settler-colonial
