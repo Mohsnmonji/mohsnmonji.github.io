@@ -68,7 +68,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH AREAS</h2>
   <p>
-    Settler Colonialism and Health | Racism and Health | Indigenous Health | Decolonial Public Health | Social Statistics | Quantitative Research Methods
+    Settler Colonialism and Well-being | Racism and Well-being | Indigenous Well-being | Decolonial Public Health | Social Statistics | Mixed-Methods Research
   </p>
 </div>
 
