@@ -84,7 +84,7 @@ author_profile: true
 
   <h4>2. Settler Colonialism and Indigenous Well-being</h4>
   <p>
-    Drawing on critical Indigenous studies and settler colonial studies, I examine settler colonialism as a fundamental cause of Indigenous Well-being inequities. In particular, I am concerned with the ways in which colonial laws, policies, and institutions have undermined—and continue to undermine—Indigenous well-being in Canada.
+    Drawing on critical Indigenous studies and settler colonial studies, I examine settler colonialism as a structural determinant of Indigenous Well-being inequities. In particular, I am concerned with the ways in which colonial laws, policies, and institutions have undermined—and continue to undermine—Indigenous well-being in Canada.
   </p>
 
 
