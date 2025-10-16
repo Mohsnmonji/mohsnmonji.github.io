@@ -68,7 +68,6 @@ author_profile: true
       <li>Sociology of Well-being</li>
       <li>Sociological Theory</li>
       <li>Social Statistics</li>
-      <li>Quantitatvie Reserach Methods</li>
       <li>Critical Indigenous Studies</li>
       <li>Settler Colonial Studies</li>
     </ul>
