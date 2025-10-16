@@ -65,7 +65,7 @@ author_profile: true
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
-      <li>Sociology of Health</li>
+      <li>Sociology of Well-being</li>
       <li>Sociological Theory</li>
       <li>Social Statistics</li>
       <li>Quantitatvie Reserach Methods</li>
