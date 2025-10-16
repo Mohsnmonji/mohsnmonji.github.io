@@ -54,7 +54,7 @@ author_profile: true
 <div class="about-card">
   <h2>ABOUT ME</h2>
   <p>
-    I am a Bakhtiari scholar, Indigenous to the Zagros Mountains, working at the intersections of critical Indigenous studies, Black feminist thought, and sociology of well-being to examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—create inequities in mental well-being in Canada.
+    I am a Bakhtiari scholar, Indigenous to the Zagros Mountains, working at the intersections of critical Indigenous studies, Black feminist thought, and sociology of well-being to examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—create inequities in mental well-being in Canada. I am currently a PhD Candidate in Sociology at
     <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and a CRDCN Emerging Scholar with the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
     During the 2024–2025 academic year, I was a Doctoral Fellow at the 
