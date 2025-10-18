@@ -67,7 +67,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH AREAS</h2>
   <p>
-    Settler Colonialism and Indigenous Well-being | Structural Racism and Indigenous Well-being | Indigenous Well-being | Black Feminism | Critical Indigenous Studies | Settler Colonial Studies | Sociology of Well-being | Decolonial Thought | Mixed-Methods Research 
+    Sociology of Well-being | Critical Indigenous Studies | Settler Colonial Studies | Decolonial Thought | Black Feminism | Structural Racism and Indigenous Well-being | Settler Colonialism and Indigenous Well-being | Indigenous Well-being | Mixed-Methods Research
   </p>
 </div>
 
