@@ -54,7 +54,7 @@ author_profile: true
 <div class="about-card">
   <h2>ABOUT ME</h2>
   <p>
-   I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs” – Dinaroun bāb, Boveyri Monji ṭāyefeh [clan]), Indigenous to the Zagros Mountains. I work at the intersections of critical Indigenous studies, Black feminist thought, and sociology of well-being to examine how historical and ongoing systems of power and inequality—including colonialism and racial capitalism—create inequities in mental well-being among Indigenous peoples in settler colonial contexts. I am currently a PhD Candidate in Sociology at
+   I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs” – Dinaroun bāb, Boveyri Monji ṭāyefeh [clan]), Indigenous to the Zagros Mountains. I work at the intersections of critical Indigenous studies, Black feminist thought, and sociology of well-being to examine how historical and ongoing systems of power and inequality create inequities in mental well-being among Indigenous peoples. I am currently a PhD Candidate in Sociology at
     <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and a CRDCN Emerging Scholar with the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
     During the 2024–2025 academic year, I was a Doctoral Fellow at the 
