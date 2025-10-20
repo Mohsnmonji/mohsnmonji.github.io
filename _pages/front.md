@@ -46,4 +46,3 @@ hide_avatar: true
   </div>
 
 
-</div>
