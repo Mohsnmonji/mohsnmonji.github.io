@@ -26,9 +26,8 @@ hide_avatar: true
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
   I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs” – Dinaroun bāb, Boveyri Monji ṭāyefeh [clan]), Indigenous to the Zagros Mountains. I work at the
   intersections of critical Indigenous studies, Black feminist thought, and sociology
-  of well-being. My research explores how historical and ongoing systems of power and inequality—including
-  colonialism and racial capitalism—create inequities in mental well-being among Indigenous peoples in settler colonial contexts.
-</p>
+  of well-being. My research explores how historical and ongoing systems of power and inequality
+  create inequities in mental well-being among Indigenous peoples.
 
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
   
