@@ -84,37 +84,31 @@ author_profile: true
     <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER</h4>
     <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
-      <li>SOCI 212, Social Statistics, Winter 2025</li>
+      <li>SOCI 212 – Social Statistics</li>
     </ul>
   </div>
 
   <div class="teaching-card">
-  <h4><i class="fas fa-chalkboard icon"></i> TUTORIAL LEADER/TEACHING ASSISTANT</h4>
+    <h4><i class="fas fa-chalkboard icon"></i> TUTORIAL LEADER / TEACHING ASSISTANT</h4>
+    <p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
+    <ul>
+      <li>SOCI 212 – Social Statistics I</li>
+      <li>SOCI 213 – Social Statistics II</li>
+      <li>SOCI 300 – Classical Social Theory</li>
+      <li>SOCI 310 – Research Methods</li>
+    </ul>
 
-<p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
-<ul>
-  <li>SOCI 212–A, Social Statistics I, Fall 2025</li>
-  <li>SOCI 212–B, Social Statistics I, Fall 2024</li>
-  <li>SOCI 213–B, Social Statistics II, Winter 2024</li>
-  <li>SOCI 213–CC, Social Statistics II, Winter 2024</li>
-  <li>SOCI 213–AA, Social Statistics II, Fall 2023</li>
-    <li>SOCI 310, Research Methods, Winter 2022</li>
-   <li>SOCI 300, Classical Social Theory, Winter 2026, Fall 2025</li>
-  <li>SOCI 300, Classical Social Theory, Winter 2025, Fall 2024</li>
-  <li>SOCI 300, Classical Social Theory, Winter 2023, Fall 2022</li>
-  <li>SOCI 300, Classical Social Theory, Winter 2022, Fall 2021</li>
-</ul>
+    <p><strong>Department of Applied Human Sciences, Concordia University</strong></p>
+    <ul>
+      <li>AHSC 380 – Quantitative Research Methods for Practitioners</li>
+    </ul>
+  </div>
 
-  <p><strong>Department of Applied Human Sciences, Concordia University</strong></p>
-  <ul>
-    <li>AHSC 380: Quantitative Research Methods for Practitioners, Winter 2022</li>
-  </ul>
-</div>
-
-<div class="teaching-card">
-  <h4><i class="fas fa-user-graduate icon"></i> TUTOR</h4>
-  <p><strong>Applied Statistics and Survey Methodology, Tehran, Iran</strong><br>2016–2020</p>
-  <ul>
-    <li>Quantitative Research Methods and Applied Social Statistics.</li>
-  </ul>
+  <div class="teaching-card">
+    <h4><i class="fas fa-user-graduate icon"></i> TUTOR</h4>
+    <p><strong>Applied Statistics and Survey Methodology, Tehran, Iran</strong></p>
+    <ul>
+      <li>Quantitative Research Methods and Applied Social Statistics</li>
+    </ul>
+  </div>
 </div>
