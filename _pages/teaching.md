@@ -81,7 +81,7 @@ author_profile: true
   <h2>TEACHING EXPERIENCE</h2>
 
   <div class="teaching-card">
-    <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER</h4>
+    <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER [2025–Present]</h4>
     <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
       <li>SOCI 212 – Social Statistics</li>
@@ -89,7 +89,7 @@ author_profile: true
   </div>
 
   <div class="teaching-card">
-    <h4><i class="fas fa-chalkboard icon"></i> TUTORIAL LEADER / TEACHING ASSISTANT</h4>
+    <h4><i class="fas fa-chalkboard icon"></i> TUTORIAL LEADER / TEACHING ASSISTANT [2021–Present]</h4>
     <p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
     <ul>
       <li>SOCI 212 – Social Statistics I</li>
@@ -97,14 +97,15 @@ author_profile: true
       <li>SOCI 300 – Classical Social Theory</li>
       <li>SOCI 310 – Research Methods</li>
     </ul>
-    <p><strong>Department of Applied Human Sciences, Concordia University</strong></p>
+
+   <p><strong>Department of Applied Human Sciences, Concordia University</strong></p>
     <ul>
       <li>AHSC 380 – Quantitative Research Methods for Practitioners</li>
     </ul>
   </div>
 
   <div class="teaching-card">
-    <h4><i class="fas fa-user-graduate icon"></i> TUTOR</h4>
+    <h4><i class="fas fa-user-graduate icon"></i> TUTOR [2016–2020]</h4>
     <p><strong>Applied Statistics and Survey Methodology, Tehran, Iran</strong></p>
     <ul>
       <li>Quantitative Research Methods and Applied Social Statistics</li>
