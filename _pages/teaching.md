@@ -70,7 +70,8 @@ author_profile: true
       <li>Decolonial Theory</li>
       <li>Critical Indigenous Studies</li>
       <li>Settler Colonial Studies</li>
-      <li>Mixed-Methods Research</li>
+      <li>Social Statistics</li>
+      <li>Quantitative Research Methods</li>
     </ul>
   </div>
 </div>
