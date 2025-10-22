@@ -65,11 +65,6 @@ hide_avatar: true
       <span style="font-size: 14px; color: #555;">LinkedIn</span>
     </a>
   </div>
-  <div style="text-align: center;">
-    <a href="https://bsky.app/profile/mohsenmonji.bsky.social" target="_blank" style="text-decoration: none;">
-      <i class="fab fa-bluesky" style="color: #1DA1F2; font-size: 30px;"></i><br>
-      <span style="font-size: 14px; color: #555;">Bluesky</span>
-    </a>
-  </div>
+  
 
 
