@@ -68,7 +68,7 @@ author_profile: true
       <li>Sociology of Well-being</li>
       <li>Sociological Theory</li>
       <li>Social Statistics</li>
-      <li>Quantitative Research Methods</li>
+      <li>Mixed-Methods Research</li>
     </ul>
   </div>
 </div>
