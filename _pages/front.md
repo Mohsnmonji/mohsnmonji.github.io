@@ -27,7 +27,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-  I am a sociologist of health working at the intersections of critical Indigenous studies, Black feminist thought, and sociology of well-being. My research is concerned with the ways in which historical and ongoing systems of power and inequality create inequities in mental well-being among Indigenous peoples.
+ I am a Bakhtiari scholar, Indigenous to the Zagros Mountains, working at the intersections of critical Indigenous studies, Black feminist thought, and sociology of well-being. My research is concerned with the ways in which historical and ongoing systems of power and inequality create inequities in mental well-being among Indigenous peoples.
 
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
   
