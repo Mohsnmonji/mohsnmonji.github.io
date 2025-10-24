@@ -67,6 +67,8 @@ author_profile: true
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
       <li>Sociology of Well-being</li>
       <li>Sociological Theory</li>
+      <li>Decolonial Theory </li>
+      <li>Settler Colonial Studies </li>
       <li>Social Statistics</li>
       <li>Mixed-Methods Research</li>
     </ul>
