@@ -60,7 +60,6 @@ author_profile: true
     During the 2024–2025 academic year, I was a Doctoral Fellow at the 
     <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
     <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>. 
-    Drawing on critical Indigenous studies, Black feminist thought, and the sociology of well-being, my research examines how historical and ongoing systems of power and inequality shape inequities in mental well-being among Indigenous peoples.
   </p>
 </div>
 
