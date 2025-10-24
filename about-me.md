@@ -71,6 +71,25 @@ author_profile: true
   </p>
 </div>
 
+<!-- CARD 3: RESEARCH PROGRAM -->
+<div class="about-card">
+  <h2>RESEARCH PROGRAM</h2>
+  
+  <p>My research program revolves around two broad areas:</p>
+
+  <h4>1. Black Feminism and Well-being</h4>
+  <p>
+    I draw on Black feminist thought - particularly through the lens of intersectionality- to examine how racism, sexism, and other systems of oppression intersect to create inequities in well-being. I am particularly interested in the epistemological implications of intersectionality for the sociology of well-being.
+  </p>
+
+  <h4>2. Settler Colonialism and Indigenous Well-being</h4>
+  <p>
+    Drawing on critical Indigenous studies and settler colonial studies, I examine settler colonialism as a structural determinant of Indigenous well-being inequities. In particular, I am concerned with the ways in which colonial laws, policies, and institutions have historically undermined—and continue to undermine—Indigenous well-being in Canada.
+  </p>
+
+
+</div>
+
 
 
 
