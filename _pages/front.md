@@ -34,8 +34,6 @@ hide_avatar: true
 </p>
   
 
-
-
 <!-- Button -->
   <div style="margin-bottom:20px;">
     <a href="/about-me/"
@@ -44,7 +42,6 @@ hide_avatar: true
       Learn More About Me
     </a>
   </div>
-
 <!-- Social Media Links -->
 <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
   <div style="text-align: center;">
@@ -68,6 +65,7 @@ hide_avatar: true
   <div style="text-align: center;">
     <a href="https://substack.com/@mohsenmonji?r=2g4qgz&utm_medium=ios&utm_source=profile" 
        target="_blank" style="text-decoration: none;">
+
       <!-- Inline Substack-style icon -->
       <svg width="30" height="30" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="display:block;">
         <!-- Orange square background -->
