@@ -65,6 +65,11 @@ hide_avatar: true
       <span style="font-size: 14px; color: #555;">LinkedIn</span>
     </a>
   </div>
-  
-
+  <div style="text-align: center;">
+    <a href="https://substack.com/@mohsenmonji?r=2g4qgz&utm_medium=ios&utm_source=profile" target="_blank" style="text-decoration: none;">
+      <i class="fas fa-pen-nib" style="color: #FF6719; font-size: 30px;"></i><br>
+      <span style="font-size: 14px; color: #555;">Substack</span>
+    </a>
+  </div>
+</div>
 
