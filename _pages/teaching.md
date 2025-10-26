@@ -107,7 +107,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-user-graduate icon"></i> TUTOR [2016–2020]</h4>
-    <p><strong>Applied Statistics and Survey Methodology, Tehran, Iran</strong></p>
+    <p><strong>Tehran,Iran</strong></p>
     <ul>
       <li>Quantitative Research Methods and Applied Social Statistics</li>
     </ul>
