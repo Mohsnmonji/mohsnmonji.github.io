@@ -67,7 +67,7 @@ author_profile: true
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
       <li>Sociological Theory</li>
       <li>Decolonial Theory </li>
-       <li>Crirical Indogenous Studies </li>
+       <li>Critical Indigenous Studies </li>
       <li>Settler Colonial Studies </li>
       <li>Sociology of Well-being</li>
       <li>Social Statistics</li>
