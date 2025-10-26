@@ -65,10 +65,11 @@ author_profile: true
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <ul class="teaching-list" style="list-style-type: disc; padding-left: 20px;">
-      <li>Sociology of Well-being</li>
       <li>Sociological Theory</li>
       <li>Decolonial Theory </li>
+       <li>Crirical Indogenous Studies </li>
       <li>Settler Colonial Studies </li>
+      <li>Sociology of Well-being</li>
       <li>Social Statistics</li>
       <li>Mixed-Methods Research</li>
     </ul>
