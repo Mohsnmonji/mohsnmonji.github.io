@@ -93,9 +93,9 @@ author_profile: true
     <h4><i class="fas fa-chalkboard icon"></i> TUTORIAL LEADER / TEACHING ASSISTANT [2021–Present]</h4>
     <p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
     <ul>
+     <li>SOCI 300 – Classical Social Theory</li>
       <li>SOCI 212 – Social Statistics I</li>
       <li>SOCI 213 – Social Statistics II</li>
-      <li>SOCI 300 – Classical Social Theory</li>
       <li>SOCI 310 – Research Methods</li>
     </ul>
 
