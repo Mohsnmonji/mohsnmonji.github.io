@@ -54,7 +54,7 @@ author_profile: true
 <div class="about-card">
   <h2>ABOUT ME</h2>
   <p>
-      My research lies at the intersections of critical Indigenous studies, the Black radical tradition, political economy, and the sociology of well-being. In particular, I am interested in the ways in which historical and ongoing systems of inequality — such as racial capitalism and settler colonialism — shape life chances and well-being. I am currently a PhD Candidate in Sociology at 
+      I am a Bakhtiari scholar, Indigenous to the Zagros Mountains. My research lies at the intersections of critical Indigenous studies, Black femimist thought, and the sociology of well-being. In particular, I am interested in the ways in which historical and ongoing systems of inequality — such as racial capitalism and settler colonialism — shape life chances and well-being in settler colonial contexts. I am currently a PhD Candidate in Sociology at 
     <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and a CRDCN Emerging Scholar with the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
     During the 2024–2025 academic year, I was a Doctoral Fellow at the 
