@@ -27,9 +27,9 @@ hide_avatar: true
   </p>
 
   <!-- Description -->
-  <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-    I am sociologist of well-being working at the intersections of critical Indigenous studie and Black feminist thought. My research is concerned with the ways in which historical and ongoing systems of power and inequality — including settler colonialism and racial capitalism — create inequities in mental well-being among Indigenous peoples in settler colonial contexts.
-  </p>
+<p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
+  My research lies at the intersections of critical Indigenous studies, radical Black tradition, political economy, and the sociology of well-being. In particular, I am interested in the ways in which historical and ongoing systems of inequality — such as racial capitalism and settler colonialism — shape life chances and well-being.
+</p>
 
   <!-- Button -->
   <div style="margin-bottom:20px;">
