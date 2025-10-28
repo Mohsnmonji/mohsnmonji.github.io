@@ -28,7 +28,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-  I am a Bakhtiari scholar, Indigenous to the zagros Mountains. My research lies at the intersections of critical Indigenous studies, Black femimist thought, and the sociology of well-being. In particular, I am interested in the ways in which historical and ongoing systems of inequality — such as racial capitalism and settler colonialism — shape life chances and well-being in settler colonial contexts.
+  I am a Bakhtiari scholar, Indigenous to the Zagros Mountains. My research lies at the intersections of critical Indigenous studies, Black femimist thought, and the sociology of well-being. In particular, I am interested in the ways in which historical and ongoing systems of inequality — such as racial capitalism and settler colonialism — shape life chances and well-being in settler colonial contexts.
 </p>
 
   <!-- Button -->
