@@ -33,14 +33,16 @@ author_profile: true
     max-width: 850px;
   }
   .teaching-card h4 {
-    font-weight: bold;
+    font-weight: 700;
+    font-size: 20px;
     margin-bottom: 10px;
-    color: #333;
+    color: #1B5E20;
   }
   .teaching-card p {
     font-size: 18px;
     line-height: 1.8;
     color: #333;
+    margin: 5px 0 15px 0;
   }
   .icon {
     margin-right: 10px;
@@ -51,6 +53,15 @@ author_profile: true
     height: 1px;
     background: #cccccc;
     margin: 40px 0;
+  }
+  ul {
+    font-size: 17px;
+    color: #333;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  ul li {
+    margin-bottom: 6px;
   }
 </style>
 
@@ -72,7 +83,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER [2025–Present]</h4>
-    <p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
+    <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
       <li>SOCI 212 – Social Statistics</li>
     </ul>
@@ -80,14 +91,14 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard icon"></i> TUTORIAL LEADER / TEACHING ASSISTANT [2021–Present]</h4>
-    <p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
+    <p>Department of Sociology and Anthropology, Concordia University</p>
     <ul>
       <li>SOCI 300 – Classical Social Theory</li>
       <li>SOCI 212 – Social Statistics I</li>
       <li>SOCI 213 – Social Statistics II</li>
       <li>SOCI 310 – Research Methods</li>
     </ul>
-    <p><strong>Department of Applied Human Sciences, Concordia University</strong></p>
+    <p>Department of Applied Human Sciences, Concordia University</p>
     <ul>
       <li>AHSC 380 – Quantitative Research Methods for Practitioners</li>
     </ul>
@@ -95,7 +106,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-user-graduate icon"></i> TUTOR [2016–2020]</h4>
-    <p><strong>Private Tutoring, Tehran, Iran</strong></p>
+    <p>Private Tutoring, Tehran, Iran</p>
     <ul>
       <li>Quantitative Research Methods and Applied Social Statistics</li>
     </ul>
