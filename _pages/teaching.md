@@ -72,7 +72,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER [2025–Present]</h4>
-    <p>Department of Sociology and Anthropology, Concordia University</p>
+    <p><strong>Department of Sociology and Anthropology, Concordia University</strong></p>
     <ul>
       <li>SOCI 212 – Social Statistics</li>
     </ul>
@@ -88,7 +88,7 @@ author_profile: true
       <li>SOCI 310 – Research Methods</li>
     </ul>
 
-  <p><strong>Department of Applied Human Sciences, Concordia University</strong></p>
+    <p><strong>Department of Applied Human Sciences, Concordia University</strong></p>
     <ul>
       <li>AHSC 380 – Quantitative Research Methods for Practitioners</li>
     </ul>
@@ -96,7 +96,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-user-graduate icon"></i> TUTOR [2016–2020]</h4>
-    <p><strong>Tehran, Iran</strong></p>
+    <p><strong>Private Tutoring, Tehran, Iran</strong></p>
     <ul>
       <li>Quantitative Research Methods and Applied Social Statistics</li>
     </ul>
