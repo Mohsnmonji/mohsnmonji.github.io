@@ -28,7 +28,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-  I am a sociologist of well-being studying the ways in which historical and ongoing systems of inequality — such as racial capitalism and settler colonialism — shape life chances and well-being in settler colonial contexts.
+  I am a sociologist of well-being studying the ways in which historical and ongoing systems of inequality — such as racial capitalism and settler colonialism — shape the life chances and well-being of Indigenous peoples in settler colonial contexts.
 </p>
 
 <!-- Button -->
