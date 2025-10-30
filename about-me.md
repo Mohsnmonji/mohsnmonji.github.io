@@ -54,12 +54,14 @@ author_profile: true
 <div class="about-card">
   <h2>ABOUT ME</h2>
   <p>
-    I am a sociologist of well-being studying the ways in which historical and ongoing systems of inequality — such as racial capitalism and settler colonialism — shape the life chances and well-being of Indigenous peoples in settler colonial contexts. I am currently a PhD Candidate in Sociology at 
-    <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and a CRDCN Emerging Scholar with the 
+    I am a PhD Candidate in Sociology at 
+    <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> 
+    and a CRDCN Emerging Scholar with the 
     <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
+    My research is broadly concerned with the ways in which historical and ongoing systems of inequality — such as racial capitalism, settler colonialism, and imperialism — shape health, well-being, and life chances in settler colonial contexts. 
     During the 2024–2025 academic year, I was a Doctoral Fellow at the 
-    <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> at 
-    <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>. 
+    <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> 
+    at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>.
   </p>
 </div>
 
