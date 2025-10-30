@@ -88,7 +88,7 @@ author_profile: true
       <li>SOCI 310 – Research Methods</li>
     </ul>
 
-    <p><strong>Department of Applied Human Sciences, Concordia University</strong></p>
+  <p><strong>Department of Applied Human Sciences, Concordia University</strong></p>
     <ul>
       <li>AHSC 380 – Quantitative Research Methods for Practitioners</li>
     </ul>
