@@ -34,7 +34,7 @@ author_profile: true
   }
   .teaching-card h4 {
     font-weight: 700;
-    font-size: 20px;
+    font-size: 18px; /* slightly smaller than before */
     margin-bottom: 10px;
     color: #1B5E20;
   }
@@ -43,6 +43,10 @@ author_profile: true
     line-height: 1.8;
     color: #333;
     margin: 5px 0 15px 0;
+  }
+  .teaching-card p strong em {
+    font-style: italic;
+    font-weight: 700; /* ensures bold+italic together */
   }
   .icon {
     margin-right: 10px;
@@ -83,7 +87,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard-teacher icon"></i> LECTURER [2025–Present]</h4>
-    <p>Department of Sociology and Anthropology, Concordia University</p>
+    <p><strong><em>Department of Sociology and Anthropology, Concordia University</em></strong></p>
     <ul>
       <li>SOCI 212 – Social Statistics</li>
     </ul>
@@ -91,14 +95,15 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-chalkboard icon"></i> TUTORIAL LEADER / TEACHING ASSISTANT [2021–Present]</h4>
-    <p>Department of Sociology and Anthropology, Concordia University</p>
+    <p><strong><em>Department of Sociology and Anthropology, Concordia University</em></strong></p>
     <ul>
       <li>SOCI 300 – Classical Social Theory</li>
       <li>SOCI 212 – Social Statistics I</li>
       <li>SOCI 213 – Social Statistics II</li>
       <li>SOCI 310 – Research Methods</li>
     </ul>
-    <p>Department of Applied Human Sciences, Concordia University</p>
+
+    <p><strong><em>Department of Applied Human Sciences, Concordia University</em></strong></p>
     <ul>
       <li>AHSC 380 – Quantitative Research Methods for Practitioners</li>
     </ul>
@@ -106,7 +111,7 @@ author_profile: true
 
   <div class="teaching-card">
     <h4><i class="fas fa-user-graduate icon"></i> TUTOR [2016–2020]</h4>
-    <p>Private Tutoring, Tehran, Iran</p>
+    <p><strong><em>Private Tutoring, Tehran, Iran</em></strong></p>
     <ul>
       <li>Quantitative Research Methods and Applied Social Statistics</li>
     </ul>
