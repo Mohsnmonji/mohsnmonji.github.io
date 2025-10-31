@@ -23,7 +23,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-    I am a member of the Bakhtiari tribe from the Zagros Mountains and a sociologist of well-being. My research is broadly concerned with political economy of health, Indigenous resurgence, decolonization, and Indigenous well-being.
+    I am a member of the Bakhtiari tribe from the Zagros Mountains and a sociologist of well-being. My research is broadly concerned with political economy of health, settler colonialism, Indigenous resurgence,and Indigenous well-being.
 </p>
 <!-- Button -->
   <div style="margin-bottom:20px;">
