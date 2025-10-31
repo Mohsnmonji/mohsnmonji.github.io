@@ -1,54 +1,73 @@
 ---
-permalink: /
+layout: archive
 title: ""
-seo_title: "Mohsen Monji"
-description: "Mohsen Monji is a sociologist of well-being working at the intersections of critical Indigenous studies, Black feminist thought."
-canonical: "https://www.mohsenmonji.com/"
-author_profile: false
-hide_avatar: true
+permalink: /about-me/
+seo_title: "About | Mohsen Monji"
+canonical: "https://www.mohsenmonji.com/about-me/"
+author_profile: true
 ---
 
-<div style="text-align:center; margin-top:50px; max-width:800px; margin:auto; padding:20px;">
+<style>
+  body {
+    font-size: 1.05em;
+  }
+  h2 {
+    border-bottom: 2px solid #1B5E20;
+    font-weight: bold;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    color: #333;
+    text-transform: uppercase;
+  }
+  h3 {
+    margin-top: 30px;
+    color: #1B5E20;
+  }
+  h4 {
+    font-weight: bold;
+    color: #1B5E20;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+  }
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  ul li {
+    margin-bottom: 8px;
+    color: #555;
+  }
+  .about-card {
+    border-radius: 8px;
+    padding: 30px;
+    margin: 40px auto;
+    background-color: #E3F2FD;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    max-width: 850px;
+    text-align: justify;
+  }
+</style>
 
-  <!-- Profile Image -->
-  <div>
-    <img src="images/mohsen-monji-profile.webp"
-         alt="Portrait of Mohsen Monji, Sociologist and Population Health Researcher"
-         style="width:350px; height:400px; object-fit:cover;
-                box-shadow:0 4px 10px rgba(0,0,0,0.1); margin-bottom:20px;">
-  </div>
+<!-- CARD 1: RESEARCH AREAS -->
+<div class="about-card">
+  <h2>RESEARCH AREAS</h2>
+  <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
+    Sociology of Well-being | Political Economy of Health | Racial Capitalism and Health | Settler Colonialism and Health | Indigenous Well-being | Critical Indigenous Studies | Decolonial Thought | Black Feminist Thought | Mixed-Methods Research
+  </p>
+</div>
 
-  <!-- Name -->
-  <h1 style="color:#333; font-size:32px; margin-bottom:10px;">MOHSEN MONJI</h1>
-
-  <!-- Description -->
-<p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-  I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs” ), Indigenous to the Zagros Mountains. My research lies at the intersections of critical Indigenous studies, Black feminist thought, and the sociology of well-being. In particular, I am interested in exploring the ways in which historical and ongoing systems of inequality — including settler colonialism and racial capitalism — shape the life chances and well-being of Indigenous peoples in settler colonial contexts.
-</p>
-<!-- Button -->
-  <div style="margin-bottom:20px;">
-    <a href="/about-me/"
-       style="display:inline-block; padding:10px 20px; background-color:#007BFF;
-              color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
-      Learn More About Me
-    </a>
-  </div>
-
-  <!-- Social Media Links -->
-<div style="display:flex; justify-content:center; gap:15px; margin-bottom:20px; flex-wrap:wrap;">
-
-  <div style="text-align:center;">
-    <a href="mailto:mohsen.monji@concordia.ca" target="_blank" style="text-decoration:none;">
-      <i class="fas fa-envelope" style="color:#D14836; font-size:30px;"></i><br>
-      <span style="font-size:14px; color:#555;">Email</span>
-    </a>
-  </div>
-
-  <div style="text-align:center;">
-    <a href="https://github.com/Mohsnmonji" target="_blank" style="text-decoration:none;">
-      <i class="fab fa-github" style="color:#333; font-size:30px;"></i><br>
-      <span style="font-size:14px; color:#555;">GitHub</span>
-    </a>
-  </div>
-
+<!-- CARD 2: ABOUT ME -->
+<div class="about-card">
+  <h2>ABOUT ME</h2>
+  <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
+    I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs” ), Indigenous to the Zagros Mountains. My research lies at the intersections of critical Indigenous studies, Black feminist thought, and the sociology of well-being. In particular, I am interested in exploring the ways in which historical and ongoing systems of inequality — including settler colonialism and racial capitalism — shape the life chances and well-being of Indigenous peoples in settler colonial contexts. I am currently a PhD Candidate in Sociology at 
+    <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and
+    a CRDCN Emerging Scholar at the 
+    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
+    During the 2024–2025 academic year, I was a Doctoral Fellow at the 
+    <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> 
+    at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>.
+  </p>
 </div>
