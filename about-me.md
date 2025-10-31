@@ -62,11 +62,10 @@ author_profile: true
 <div class="about-card">
   <h2>ABOUT ME</h2>
   <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-    I am a Bakhtiari scholar (Haft Lang – “Seven Legs” ), Indigenous to the Zagros Mountains. My research lies at the intersections of critical Indigenous studies, Black feminist thought, and the sociology of well-being. In particular, I am interested in exploring the ways in which historical and ongoing systems of inequality — including settler colonialism and racial capitalism — shape the life chances and well-being of Indigenous peoples in settler colonial contexts. I am currently a PhD Candidate in Sociology at 
-    <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and
-    a CRDCN Emerging Scholar at the 
-    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. 
-    During the 2024–2025 academic year, I was a Doctoral Fellow at the 
+    I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs”) from the Zagros Mountains and a sociologist of well-being. My research is broadly concerned with the political economy of health, settler colonialism, Indigenous resurgence, and Indigenous well-being. In particular, I study the ways in which historical and ongoing systems of inequality — including settler colonialism and racial capitalism — shape the life chances and well-being of Indigenous peoples. I am currently a PhD Candidate in Sociology at 
+    <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and 
+    a CRDCN Emerging Scholar with the 
+    <a href="https://crdcn.ca" target="_blank">Canadian Research Data Centre Network (CRDCN)</a>. During the 2024–2025 academic year, I was a Doctoral Fellow at the 
     <a href="https://www.mcgill.ca/cand3/" target="_blank">Consortium on Analytics for Data-Driven Decision-Making (CAnD3)</a> 
     at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a>.
   </p>
