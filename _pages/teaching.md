@@ -73,7 +73,7 @@ author_profile: true
   <h2>TEACHING AREAS</h2>
   <div class="teaching-card">
     <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-      Sociological Theory | Sociology of Well-being | Decolonial Theory | Critical Indigenous Studies | Settler Colonial Studies | Social Statistics | Mixed-Methods Research
+      Sociological Theory | Sociology of Well-being | Decolonial Theory | Indigenous Resurgence | Critical Indigenous Studies | Settler Colonial Studies | Social Statistics | Mixed-Methods Research
     </p>
   </div>
 </div>
