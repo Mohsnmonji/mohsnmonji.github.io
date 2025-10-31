@@ -54,7 +54,7 @@ author_profile: true
 <div class="about-card">
   <h2>RESEARCH AREAS</h2>
   <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-    Sociology of Well-being | Indigenous Well-being | Indigenous Resurgence | Critical Indigenous Studies | Decolonial Thought | Black Feminist Thought | Mixed-Methods Research
+    Sociology of Well-being | Indigenous Well-being | Indigenous Resurgence | Critical Indigenous Studies | Political Economy of Health | Decolonial Thought | Black Feminist Thought | Mixed-Methods Research
   </p>
 </div>
 
