@@ -23,7 +23,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-    I am a member of the Bakhtiari tribe from the Zagros Mountains and a sociologist of well-being. I am currently a PhD Candidate in Sociology at Concordia University and a CRDCN Emerging Scholar. My research is broadly concerned with the political economy of health, settler colonialism, Indigenous resurgence, and Indigenous well-being.
+  I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs”) from the Zagros Mountains and a sociologist of well-being. My research is broadly concerned with the political economy of health, settler colonialism, Indigenous resurgence, and Indigenous well-being.
 </p>
 <!-- Button -->
   <div style="margin-bottom:20px;">
