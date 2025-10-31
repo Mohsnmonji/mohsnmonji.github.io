@@ -23,7 +23,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-  I am a Bakhtiari scholar (Haft Lang – “Seven Legs” ), Indigenous to the Zagros Mountains. My research lies at the intersections of critical Indigenous studies, Black feminist thought, and the sociology of well-being. In particular, I am interested in exploring the ways in which historical and ongoing systems of inequality — including settler colonialism and racial capitalism — shape the life chances and well-being of Indigenous peoples in settler colonial contexts.
+   My research lies at the intersections of critical Indigenous studies, Black feminist thought, and the sociology of well-being. In particular, I am interested in exploring the ways in which historical and ongoing systems of inequality — including settler colonialism and racial capitalism — shape the life chances and well-being of Indigenous peoples in settler colonial contexts.
 </p>
 <!-- Button -->
   <div style="margin-bottom:20px;">
