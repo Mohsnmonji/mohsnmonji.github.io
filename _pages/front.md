@@ -20,7 +20,12 @@ hide_avatar: true
 
   <!-- Name -->
   <h1 style="color:#333; font-size:32px; margin-bottom:10px;">MOHSEN MONJI</h1>
-
+  
+  <!-- Subtitle -->
+  <p style="font-size: 18px; margin-top: 5px; color: #555;">
+    PhD Candidate in Sociology | Lecturer | FRQSC Doctoral Scholar | CAnD3 Doctoral Fellow 2024-25 | CRDCN Emerging Scholar
+  </p>
+  
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
   I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs”), Indigenous to the Zagros Mountains. My research lies at the intersections of critical Indigenous studies, Black feminist thought, and the sociology of well-being. In particular, I am interested in exploring the ways in which historical and ongoing systems of inequality — including settler colonialism and racial capitalism — shape the life chances and well-being of Indigenous peoples in settler colonial contexts.
