@@ -23,7 +23,7 @@ hide_avatar: true
 
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-    I am a member of the Bakhtiari tribe from the Zagros Mountains and a sociologist of well-being. I study the ways in which historical and ongoing systems of inequality shape the life chances and well-being of Indigenous peoples in settler colonial contexts.
+    I am a member of the Bakhtiari tribe from the Zagros Mountains and a sociologist of well-being. My research is broadly concerned with political economy of health, Indigenous resurgence, decolonization, and Indigenous well-being.
 </p>
 <!-- Button -->
   <div style="margin-bottom:20px;">
