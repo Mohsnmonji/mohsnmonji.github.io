@@ -26,7 +26,7 @@ hide_avatar: true
   </p>
   <!-- Description -->
 <p style="font-size:18px; color:#333; text-align:justify; line-height:1.8; margin:20px 0;">
-  I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs”) from the Zagros Mountains and a sociologist of well-being. My research is broadly concerned with the political economy of health, black feminist thought, settler colonialism, Indigenous resurgence, and Indigenous well-being.
+  I am a member of the Bakhtiari tribe (Haft Lang – “Seven Legs”) from the Zagros Mountains and a sociologist of well-being. My research is broadly concerned with the political economy of health, Black feminist thought, settler colonialism, Indigenous resurgence, and Indigenous well-being.
 </p>
 <!-- Button -->
   <div style="margin-bottom:20px;">
